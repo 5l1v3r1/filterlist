@@ -1,7 +1,7 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-09 19:41:34
-! Version: 20191209194134
+! Last modified: 2019-12-09 19:58:51
+! Version: 20191209195851
 ! Expires: 3 hours
 ! Number of filters: 13309
 ! Homepage: https://github.com/bogachenko/filterlist/
