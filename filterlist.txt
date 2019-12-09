@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-09 22:20:01
-! Version: 20191209222001
+! Last modified: 2019-12-10 01:00:17
+! Version: 20191210010017
 ! Expires: 3 hours
-! Number of filters: 13310
+! Number of filters: 13314
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
 
@@ -3833,6 +3833,7 @@ http*:*/vinos.js$important,script
 ||geesopso.net^$important
 ||gefaqjwdgzbo.com^$important
 ||gekywqwky.com^$important
+||geniusonclick.com^$important
 ||genqrabot.com^$important
 ||geo.yahoo.com^$important
 ||georganish.info^$important
@@ -5564,6 +5565,7 @@ http*:*/vinos.js$important,script
 ||jyccdcavzpqt.com^$important
 ||jydbctzvbqrh.com^$important
 ||jyezgitcx.com^$important
+||jykqpeumdrjopy.com^$important
 ||jynbcpfwvazazd.com^$important
 ||jypmcknqvnfd.com^$important
 ||jyrjjhdas.bid^$important
@@ -7848,6 +7850,7 @@ http*:*/vinos.js$important,script
 ||paotmlonx.com^$important
 ||paradoxfactor.com^$important
 ||parandaya.com^$important
+||parandeya.com^$important
 ||parcelcreature.com^$important
 ||parchedangle.com^$important
 ||parentelement.ml^$important
@@ -8576,6 +8579,7 @@ http*:*/vinos.js$important,script
 ||qjmrqglqxlodj.bid^$important
 ||qjobvxqp.com^$important
 ||qjoqfapllsbtw.bid^$important
+||qjotiimmb.com^$important
 ||qjpxalhvenbt.com^$important
 ||qjrlcrkhnj.com^$important
 ||qjskosdsxanp.com^$important
