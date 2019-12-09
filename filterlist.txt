@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-09 19:58:51
-! Version: 20191209195851
+! Last modified: 2019-12-09 22:20:01
+! Version: 20191209222001
 ! Expires: 3 hours
-! Number of filters: 13309
+! Number of filters: 13310
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
 
@@ -1339,6 +1339,7 @@ http*:*/vinos.js$important,script
 ||bit-admin.xyz^$important
 ||bit-url.com/special*/*.html$important,subdocument
 ||bita-bit.xyz^$important
+||bitmedianetwork.com^$important
 ||bitrix.info^$important
 ||biupcyhpmjazv.com^$important
 ||biwjfwhxoy.bid^$important
