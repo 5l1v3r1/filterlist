@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-10 16:09:20
-! Version: 20191210160920
+! Last modified: 2019-12-10 21:25:59
+! Version: 20191210212559
 ! Expires: 3 hours
-! Number of filters: 13316
+! Number of filters: 13323
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
 
@@ -507,6 +507,7 @@ http*:*/vinos.js$important,script
 ||abfcfxfkzmiqht.com^$important
 ||abgclk.club$important
 ||ablehed.pro^$important
+||ablenctionalle.info^$important
 ||aboardamusement.com^$important
 ||aboardlevel.com^$important
 ||abodealley.com^$important
@@ -592,6 +593,7 @@ http*:*/vinos.js$important,script
 ||admantx.com^$important
 ||admarket.network^$important
 ||admatic.com.tr^$important
+||admedia.com^$important
 ||admessage.support^$important
 ||admetric.io^$important
 ||admetrica.ru^$important
@@ -1143,6 +1145,7 @@ http*:*/vinos.js$important,script
 ||balancebreath.com^$important
 ||balloonbit.com^$important
 ||balloontexture.com^$important
+||bannersnack.com^$important
 ||banuhqxbc.com^$important
 ||baommitouduxo.bid^$important
 ||baphruesqm.com^$important
@@ -7217,6 +7220,7 @@ http*:*/vinos.js$important,script
 ||nmnzukxervpdnx.com^$important
 ||nmouzlbragpyp.com^$important
 ||nmpmgmldzvrmra.com^$important
+||nmrlcnuok.com^$important
 ||nmtikqygo.com^$important
 ||nmuwmfgdwpwb.com^$important
 ||nmvqhlengcrur.com^$important
@@ -9548,6 +9552,7 @@ http*:*/vinos.js$important,script
 ||shoochie.net^$important
 ||shoomsie.uk^$important
 ||shopbreakfast.com^$important
+||shorteh.com^$important
 ||shthbopqoz.bid^$important
 ||shuhahom.net^$important
 ||shunlige.com^$important
@@ -12061,6 +12066,7 @@ http*:*/vinos.js$important,script
 ||xfxjdoot.com^$important
 ||xgaethsnmbzi.com^$important
 ||xghretunapafes.com^$important
+||xgipqvffxrgs.com^$important
 ||xgmlmmulciz.com^$important
 ||xgpijbqair.com^$important
 ||xgpiuhyxbevjgs.com^$important
@@ -12641,6 +12647,7 @@ http*:*/vinos.js$important,script
 ||yondental.co.kr^$important
 ||yoorjlleqtquez.bid^$important
 ||yoqvnnkdmqfk.com^$important
+||yottos.com^$important
 ||yotube.com^$important
 ||youaskedthedomain.cn^$important
 ||youknownow.ru^$important
