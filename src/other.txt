@@ -47,3 +47,4 @@
 ||google.*/adsense/$important
 ||google.*/uds/$important
 ||yandex.*/clck/$important
+|http*:*/wppas/*$important
