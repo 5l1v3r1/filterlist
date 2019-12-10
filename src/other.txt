@@ -38,6 +38,7 @@
 |http*:*/pview?event$important
 |http*:*/s/su.php?t=$important
 |http*:*/sbbi/?sbbpg=sbbshell&$important
+|http*:*/wppas/$important
 |http*:*/www/delivery/$important
 |http*:*?_siteid=$important
 |http*:*?rand=*&blk=$important
@@ -47,4 +48,3 @@
 ||google.*/adsense/$important
 ||google.*/uds/$important
 ||yandex.*/clck/$important
-|http*:*/wppas/*$important

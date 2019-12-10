@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-10 01:00:17
-! Version: 20191210010017
+! Last modified: 2019-12-10 14:17:30
+! Version: 20191210141730
 ! Expires: 3 hours
-! Number of filters: 13314
+! Number of filters: 13316
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
 
@@ -126,6 +126,7 @@ http*:*/vinos.js$important,script
 |http*:*/sbbi/?sbbpg=sbbshell&$important
 |http*:*/setbucket?signature=$important,subdocument
 |http*:*/uutils.fcg?$important,script
+|http*:*/wppas/$important
 |http*:*/www/*&zoneid=$image,important,script,xmlhttprequest
 |http*:*/www/delivery/$important
 |http*:*/xti.php^$important,script,xmlhttprequest,domain=facebook.com|facebookcorewwwi.onion
@@ -3267,6 +3268,7 @@ http*:*/vinos.js$important,script
 ||farshake.com^$important
 ||fascinatedfeather.com^$important
 ||fastclick.net^$important
+||fastcounter.de^$important
 ||fastly-insights.com^$important
 ||fatayvywbebgdn.com^$important
 ||fate-xy.com^$important
