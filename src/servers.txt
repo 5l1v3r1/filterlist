@@ -23,10 +23,6 @@
 ||06f24f3d0b.com^$important
 ||080jxrab.top^$important
 ||0879dbbeb31e0c83d.com^$important
-||smazvhjn.com^$important
-||qsksdpoi.com^$important
-||newmayads.com^$important
-||u21drwj6mp.com^$important
 ||09cd.co.kr^$important
 ||09fee6914d1b6450885.com^$important
 ||0azx1.com^$important
@@ -6969,6 +6965,7 @@
 ||newgadgetpresents.icu^$important
 ||newinfo.support^$important
 ||newmail.support^$important
+||newmayads.com^$important
 ||newmessage.support^$important
 ||newmonads.com^$important
 ||newnovads.com^$important
@@ -8585,6 +8582,7 @@
 ||qsgsfnixw.com^$important
 ||qshsaocjet.com^$important
 ||qsknevegg.bid^$important
+||qsksdpoi.com^$important
 ||qsnzncerqgack.com^$important
 ||qsoetgedlgyhyz.com^$important
 ||qsrekvpnu.bid^$important
@@ -9508,6 +9506,7 @@
 ||smartphonesbonusoffers.icu^$important
 ||smashseek.com^$important
 ||smashsurprise.com^$important
+||smazvhjn.com^$important
 ||smhqmrxplvnx.com^$important
 ||smhyvyvnpzigir.com^$important
 ||smilingwaves.com ^$important

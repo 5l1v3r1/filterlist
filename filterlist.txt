@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-11 23:55:48
-! Version: 20191211235548
+! Last modified: 2019-12-12 15:19:30
+! Version: 20191212151930
 ! Expires: 3 hours
-! Number of filters: 13326
+! Number of filters: 13329
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
 
@@ -7103,6 +7103,7 @@ http*:*/vinos.js$important,script
 ||newgadgetpresents.icu^$important
 ||newinfo.support^$important
 ||newmail.support^$important
+||newmayads.com^$important
 ||newmessage.support^$important
 ||newmonads.com^$important
 ||newnovads.com^$important
@@ -8723,6 +8724,7 @@ http*:*/vinos.js$important,script
 ||qsgsfnixw.com^$important
 ||qshsaocjet.com^$important
 ||qsknevegg.bid^$important
+||qsksdpoi.com^$important
 ||qsnzncerqgack.com^$important
 ||qsoetgedlgyhyz.com^$important
 ||qsrekvpnu.bid^$important
@@ -9648,6 +9650,7 @@ http*:*/vinos.js$important,script
 ||smartphonesbonusoffers.icu^$important
 ||smashseek.com^$important
 ||smashsurprise.com^$important
+||smazvhjn.com^$important
 ||smhqmrxplvnx.com^$important
 ||smhyvyvnpzigir.com^$important
 ||smilingwaves.com ^$important
