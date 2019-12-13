@@ -12,17 +12,6 @@
 ||0--e.info^$important
 ||00e46b7f53.com^$important
 ||00f31156f051fdf.com^$important
-||fkref.com^$important
-||luxup.ru^$important
-||moe.video^$important
-||cookiebot.com^$important
-||octclck.xyz^$important
-||tswxyvxm.com^$important
-||vmtjybwfb.com^$important
-||dtgwjxeymdlri.com^$important
-||igbznxar.com^$important
-||diplomahawaii.com^$important
-||coinzillatag.com^$important
 ||01ced816b84.com^$important
 ||01counter.com^$important
 ||024xuyisheng.com^$important
@@ -1859,6 +1848,7 @@
 ||coinhive.com^$important
 ||coinmedia.co^$important
 ||cointraffic.io^$important
+||coinzillatag.com^$important
 ||coiphezlzpl.bid^$important
 ||cokfwpfycgzjvn.bid^$important
 ||cokrrmzagaxn.com^$important
@@ -1900,6 +1890,7 @@
 ||conviva.com^$important
 ||coograma.net^$important
 ||cookie-script.com^$important
+||cookiebot.com^$important
 ||cookielaw.org^$important
 ||coordinatedcub.com^$important
 ||copicvarianuty.info^$important
@@ -2327,6 +2318,7 @@
 ||dillweqbducwi.com^$important
 ||dinmbegj.bid^$important
 ||dipladoks.org^$important
+||diplomahawaii.com^$important
 ||dipsbbygv.com^$important
 ||diqstzzbqin.bid^$important
 ||dirto.life^$important
@@ -3322,6 +3314,7 @@
 ||fkkjsdpppv.bid^$important
 ||fkpbbmgqa.bid^$important
 ||fkphqtgqrfixl.com^$important
+||fkref.com^$important
 ||fkrgfktdvta.com^$important
 ||fkrisjefbx.com^$important
 ||fkrrvhoierty.com^$important
@@ -6282,6 +6275,7 @@
 ||lusfrsxgxopm.com^$important
 ||luvkkodlpxou.bid^$important
 ||luvstnqpw.com^$important
+||luxup.ru^$important
 ||luxwinner.site^$important
 ||luysvlnrb.com^$important
 ||luztinhsbzggvr.com^$important
@@ -6669,6 +6663,7 @@
 ||mobsoftffree.xyz^$important
 ||modifyeyes.com^$important
 ||modkehkcihvzi.bid^$important
+||moe.video^$important
 ||moevideo.biz^$important
 ||mofrupteeuqnvc.bid^$important
 ||mofvrnbngcern.bid^$important
@@ -7360,6 +7355,7 @@
 ||ocofiyymgfyxx.bid^$important
 ||ocrwyhamhfpfc.com^$important
 ||ocssqhhlku.bid^$important
+||octclck.xyz^$important
 ||octobird.com^$important
 ||ocydwjnqasrn.com^$important
 ||ocyhpouojiss.com^$important
