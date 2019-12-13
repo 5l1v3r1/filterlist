@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-13 21:22:32
-! Version: 20191213212232
+! Last modified: 2019-12-13 22:13:10
+! Version: 20191213221310
 ! Expires: 3 hours
-! Number of filters: 13336
+! Number of filters: 13341
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
 
@@ -573,6 +573,7 @@ http*:*/vinos.js$important,script
 ||addgfxnb.com^$important
 ||addtogether.club^$important
 ||adexchangegate.com^$important
+||adexchangeguru.com^$important
 ||adeyujimmmh.com^$important
 ||adflazz.com^$important
 ||adfoitjumerzge.com^$important
@@ -3202,6 +3203,7 @@ http*:*/vinos.js$important,script
 ||eyjuwcrnu.bid^$important
 ||eylefeyrwl.com^$important
 ||eylyitpslpqu.com^$important
+||eynusizl.com^$important
 ||eyqletzkhybsef.com^$important
 ||eytqtjpjnmeas.com^$important
 ||ezbbxqocxnto.com^$important
@@ -5323,6 +5325,7 @@ http*:*/vinos.js$important,script
 ||jimxaqrpqbxldt.com^$important
 ||jirmbsgr.com^$important
 ||jiruygrsl.com^$important
+||jivosite.com^$important
 ||jixvywxefnwm.com^$important
 ||jiyairvjgfqk.com^$important
 ||jiycfyytg.com^$important
@@ -10842,6 +10845,7 @@ http*:*/vinos.js$important,script
 ||uriqirelle.xyz^$important
 ||urjbglpktn.com^$important
 ||urldelivery.com^$important
+||uroidgcc.com^$important
 ||urpscavikbyv.com^$important
 ||urptvbryjgs.bid^$important
 ||urqctaruhm.bid^$important
@@ -11500,6 +11504,7 @@ http*:*/vinos.js$important,script
 ||watunxckibtvfm.bid^$important
 ||watxeoifxbjo.com^$important
 ||waubasou.com^$important
+||waust.at^$important
 ||wawinamilmay.com^$important
 ||wawlfosfkdy.com^$important
 ||wawyxzfkab.com^$important

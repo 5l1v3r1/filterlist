@@ -16,11 +16,6 @@
 ||01counter.com^$important
 ||024xuyisheng.com^$important
 ||0377shujuhuifu.top^$important
-||jivosite.com^$important
-||uroidgcc.com^$important
-||eynusizl.com^$important
-||waust.at^$important
-||adexchangeguru.com^$important
 ||0452jhw.com^$important
 ||05a7946eef5d.com^$important
 ||05y2dxmr.top^$important
@@ -452,6 +447,7 @@
 ||addgfxnb.com^$important
 ||addtogether.club^$important
 ||adexchangegate.com^$important
+||adexchangeguru.com^$important
 ||adeyujimmmh.com^$important
 ||adflazz.com^$important
 ||adfoitjumerzge.com^$important
@@ -3075,6 +3071,7 @@
 ||eyjuwcrnu.bid^$important
 ||eylefeyrwl.com^$important
 ||eylyitpslpqu.com^$important
+||eynusizl.com^$important
 ||eyqletzkhybsef.com^$important
 ||eytqtjpjnmeas.com^$important
 ||ezbbxqocxnto.com^$important
@@ -5191,6 +5188,7 @@
 ||jimxaqrpqbxldt.com^$important
 ||jirmbsgr.com^$important
 ||jiruygrsl.com^$important
+||jivosite.com^$important
 ||jixvywxefnwm.com^$important
 ||jiyairvjgfqk.com^$important
 ||jiycfyytg.com^$important
@@ -10699,6 +10697,7 @@
 ||uriqirelle.xyz^$important
 ||urjbglpktn.com^$important
 ||urldelivery.com^$important
+||uroidgcc.com^$important
 ||urpscavikbyv.com^$important
 ||urptvbryjgs.bid^$important
 ||urqctaruhm.bid^$important
@@ -11357,6 +11356,7 @@
 ||watunxckibtvfm.bid^$important
 ||watxeoifxbjo.com^$important
 ||waubasou.com^$important
+||waust.at^$important
 ||wawinamilmay.com^$important
 ||wawlfosfkdy.com^$important
 ||wawyxzfkab.com^$important
