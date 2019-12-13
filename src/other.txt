@@ -37,7 +37,6 @@
 |http*:*/pagead/$important
 |http*:*/pview?event$important
 |http*:*/s/su.php?t=$important
-|http*:*/sbbi/?sbbpg=sbbshell&$important
 |http*:*/wppas/$important
 |http*:*/www/delivery/$important
 |http*:*?_siteid=$important
