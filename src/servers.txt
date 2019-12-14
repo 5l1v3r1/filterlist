@@ -11,9 +11,6 @@
 /^https?:\/\/zmctrack\.(com|net)/$important
 ||0--e.info^$important
 ||00e46b7f53.com^$important
-||digiadzone.com^$important
-||wpnjs.com^$important
-||petulance.co^$important
 ||00f31156f051fdf.com^$important
 ||01ced816b84.com^$important
 ||01counter.com^$important
@@ -2317,6 +2314,7 @@
 ||dieohupl.com^$important
 ||differentdesk.com^$important
 ||differenth.com^$important
+||digiadzone.com^$important
 ||digitaltarget.ru^$important
 ||digwzeutydo.com^$important
 ||dijutbdzbv.com^$important
@@ -7832,6 +7830,7 @@
 ||peterboroughapalachicola.com^$important
 ||petiteumbrella.com^$important
 ||petsarlaaafru.com^$important
+||petulance.co^$important
 ||pewdewgeehc.com^$important
 ||pewgnvqixnhvij.com^$important
 ||peypcjxllo.bid^$important
@@ -11659,6 +11658,7 @@
 ||wpktjtwsidcz.com^$important
 ||wplqgfpj.com^$important
 ||wpncdn.com^$important
+||wpnjs.com^$important
 ||wpognfds.xyz^$important
 ||wpswyoyev.com^$important
 ||wpsyjttctdnt.com^$important
