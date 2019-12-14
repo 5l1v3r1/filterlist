@@ -1,8 +1,0 @@
-/^https?:\/\/[^\s]+tags?\?id\=/$important,subdocument
-|http*:*/google-conversion.html|$important,subdocument
-|http*:*/iframe.php?spotid=$important,subdocument
-|http*:*/pi.aspx$important,subdocument
-|http*:*/setbucket?signature=$important,subdocument
-||bit-url.com/special*/*.html$important,subdocument
-||phncdn.com/iframe$important,subdocument
-||redditmedia.com/gtm/jail?$important,subdocument
