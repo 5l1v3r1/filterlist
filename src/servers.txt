@@ -11,6 +11,9 @@
 /^https?:\/\/zmctrack\.(com|net)/$important
 ||0--e.info^$important
 ||00e46b7f53.com^$important
+||digiadzone.com^$important
+||wpnjs.com^$important
+||petulance.co^$important
 ||00f31156f051fdf.com^$important
 ||01ced816b84.com^$important
 ||01counter.com^$important
