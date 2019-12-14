@@ -1,8 +1,8 @@
 /^https?:\/\/((www|wap)\.)?(analysis|analytic?[asx]?)([0-9]{1,3})?\./$important,domain=~analytics.google.com
 /^https?:\/\/((www|wap)\.)?(fingerprint|fp)([0-9]{1,3})?\./$important
-/^https?:\/\/((www|wap)\.)?ad[bsxv]?([0-9]{1,3})?\./$important,domain=~ad.nl|~ads.google.com
-/^https?:\/\/((www|wap)\.)?ad[vs](er(ve)?t?(ise|ising|isement)?)?\./$important
-/^https?:\/\/((www|wap)\.)?ads(bb|by)([0-9]{1,3})?\./$important
+/^https?:\/\/((www|wap)\.)?ad[svbxo]?([0-9]{1,3})?\./$important,domain=~ad.nl|~ads.google.com
+/^https?:\/\/((www|wap)\.)?ad[svbxo](er(ver?)?t?(ise|ising|isement)?)?\./$important
+/^https?:\/\/((www|wap)\.)?ads?(bb|by|logs?)([0-9]{1,3})?\./$important
 /^https?:\/\/((www|wap)\.)?aff(iliat(es?|ion))([0-9]{1,3})?\./$important
 /^https?:\/\/((www|wap)\.)?bann?ers?([0-9]{1,3})?\./$important
 /^https?:\/\/((www|wap)\.)?beacons?([0-9]{1,3})?\./$important
@@ -10,10 +10,11 @@
 /^https?:\/\/((www|wap)\.)?count(ers?)?([0-9]{1,3})?\./$important
 /^https?:\/\/((www|wap)\.)?delivery([0-9]{1,3})?\./$important,third-party
 /^https?:\/\/((www|wap)\.)?events?([0-9]{1,3})?\./$important,domain=~webmoney.ru
-/^https?:\/\/((www|wap)\.)?geoservice([0-9]{1,3})?\./$important
+/^https?:\/\/((www|wap)\.)?geo(service)?([0-9]{1,3})?\./$important
 /^https?:\/\/((www|wap)\.)?informers?([0-9]{1,3})?\./$important
+/^https?:\/\/((www|wap)\.)?cli?ck?([0-9]{1,3})?\./$important
 /^https?:\/\/((www|wap)\.)?logs?(ging|impressions?|g?ers?)?([0-9]{1,3})?\./$important
-/^https?:\/\/((www|wap)\.)?metric?[asx]?([0-9]{1,3})?\./$important,domain=~metrica.yandex.com|~metrica.yandex.ru|~metrika.yandex.com|~metrika.yandex.ru
+/^https?:\/\/((www|wap)\.)?([a-z]{1})?metric?[asx]?([0-9]{1,3})?\./$important,domain=~metrica.yandex.com|~metrica.yandex.ru|~metrika.yandex.com|~metrika.yandex.ru
 /^https?:\/\/((www|wap)\.)?monitor([0-9]{1,3})?\./$important
 /^https?:\/\/((www|wap)\.)?partners?([0-9]{1,3})?\./$important
 /^https?:\/\/((www|wap)\.)?pi?xe?l?([0-9]{1,3})?\./$important
@@ -21,8 +22,8 @@
 /^https?:\/\/((www|wap)\.)?re[ck]lam(a|s|er)?([0-9]{1,3})?\./$important
 /^https?:\/\/((www|wap)\.)?stat(s|istics?)?([0-9]{1,3})?\./$important
 /^https?:\/\/((www|wap)\.)?tags?([0-9]{1,3})?\./$important
-/^https?:\/\/((www|wap)\.)?track(ers?|ing)?([0-9]{1,3})?\./$important
-/^https?:\/\/((www|wap)\.)?vast([0-9]{1,3})?\./$important
+/^https?:\/\/((www|wap)\.)?track(ers?|ing|cli?ck?)?([0-9]{1,3})?\./$important
+/^https?:\/\/((www|wap)\.)?vast([a-z]{1})?([0-9]{1,3})?\./$important
 /^https?:\/\/(apps?|best|mobile|prize|reward|sweeps).*\.[a-z]{5,15}.*\.(agency|icu|live)\//$document,important
 /^https?:\/\/[^\s]+\/(ntfc|afu|apu)\.(hh|php)\?/$important
 /^https?:\/\/[^\s]+\/log(ging|impressions?|ers?)?[?/]/$important
