@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-15 22:47:13
-! Version: 20191215224713
+! Last modified: 2019-12-15 22:56:08
+! Version: 20191215225609
 ! Expires: 3 hours
-! Number of filters: 13328
+! Number of filters: 13327
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -12,8 +12,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?([a-z]+[!"#$%&'()*+,:;<=>?@/\^_`{|}~-]?)?metric?[asx]?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?(analysis|analytic?[asx]?)([0-9]{1,3})?\./$important,domain=~analytics.google.com
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?(fingerprint|fp)([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?ad[svbxo](er(ver?)?t?(ise|ising|isement)?)?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?ad[svbxo]?([0-9]{1,3})?\./$important,domain=~ad.nl|~ads.google.com
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?ad[svbxo]?(er(ver?)?t?(ise|ising|isement)?)?\./$important,domain=~ad.nl|~ads.google.com
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?ads?(bb|by|logs?)([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?aff(iliat(es?|ion))([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?bann?ers?([0-9]{1,3})?\./$important
@@ -31,7 +30,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?pi?xe?l?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?ping([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?piwik([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?re[ck]lam(a|s|er)?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?re[ck](lam(?:a|s|er)?)?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?stat(s|istics?)?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?tags?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?track(ers?|ing|cli?ck?)?([0-9]{1,3})?\./$important
