@@ -14,10 +14,6 @@
 ||00f31156f051fdf.com^$important
 ||01ced816b84.com^$important
 ||01counter.com^$important
-||choogeet.net^$important
-||newhelp03.xyz^$important
-||newjulads.com^$important
-||themoneytizer.com^$important
 ||024xuyisheng.com^$important
 ||0377shujuhuifu.top^$important
 ||0452jhw.com^$important
@@ -1710,6 +1706,7 @@
 ||chlpyktpzcciyh.com^$important
 ||chnktglh.com^$important
 ||chnvilhrmeaw.bid^$important
+||choogeet.net^$important
 ||choolslot.info^$important
 ||choov4fa.com^$important
 ||chosenlove.com^$important
@@ -6979,7 +6976,9 @@
 ||newaprads.com^$important
 ||newdonate.com^$important
 ||newgadgetpresents.icu^$important
+||newhelp03.xyz^$important
 ||newinfo.support^$important
+||newjulads.com^$important
 ||newmail.support^$important
 ||newmayads.com^$important
 ||newmessage.support^$important
@@ -10013,6 +10012,7 @@
 ||theforcontentingvideosystems.icu^$important
 ||thegoodcaster.com^$important
 ||theirsvendor.com^$important
+||themoneytizer.com^$important
 ||thermosthahiti.website^$important
 ||thewebsitetofindplayersbest.info^$important
 ||thibzxxtotyqg.bid^$important

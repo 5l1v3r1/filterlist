@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-15 22:56:08
-! Version: 20191215225609
+! Last modified: 2019-12-15 23:24:51
+! Version: 20191215232451
 ! Expires: 3 hours
-! Number of filters: 13327
+! Number of filters: 13331
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1820,6 +1820,7 @@ http*:*/vinos.js$important,script
 ||chlpyktpzcciyh.com^$important
 ||chnktglh.com^$important
 ||chnvilhrmeaw.bid^$important
+||choogeet.net^$important
 ||choolslot.info^$important
 ||choov4fa.com^$important
 ||chosenlove.com^$important
@@ -7097,7 +7098,9 @@ http*:*/vinos.js$important,script
 ||newaprads.com^$important
 ||newdonate.com^$important
 ||newgadgetpresents.icu^$important
+||newhelp03.xyz^$important
 ||newinfo.support^$important
+||newjulads.com^$important
 ||newmail.support^$important
 ||newmayads.com^$important
 ||newmessage.support^$important
@@ -10135,6 +10138,7 @@ http*:*/vinos.js$important,script
 ||theforcontentingvideosystems.icu^$important
 ||thegoodcaster.com^$important
 ||theirsvendor.com^$important
+||themoneytizer.com^$important
 ||thermosthahiti.website^$important
 ||thewebsitetofindplayersbest.info^$important
 ||thibzxxtotyqg.bid^$important
