@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-15 23:24:51
-! Version: 20191215232451
+! Last modified: 2019-12-16 17:47:20
+! Version: 20191216174720
 ! Expires: 3 hours
-! Number of filters: 13331
+! Number of filters: 13334
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1501,6 +1501,7 @@ http*:*/vinos.js$important,script
 ||broaddoor.com^$important
 ||broomboxmain.com^$important
 ||browser-ru.site^$important
+||browser-update.org^$important
 ||browser-updater.yandex.net^$important
 ||brqrtgjklary.com^$important
 ||brrxmhuhyokw.bid^$important
@@ -6420,6 +6421,7 @@ http*:*/vinos.js$important,script
 ||lvlotqtrygwi.com^$important
 ||lvlvpdztdnro.com^$important
 ||lvmnxohz.com^$important
+||lvodomo.info^$important
 ||lvpcqndtdk.bid^$important
 ||lvpdchbxgoral.bid^$important
 ||lvrvufurxhgp.com^$important
@@ -11169,6 +11171,7 @@ http*:*/vinos.js$important,script
 ||vidalak.com^$important
 ||vidcpm.com^$important
 ||videolol007.com^$important
+||videoroll.net^$important
 ||vidora.com^$important
 ||vidroll.ru^$important
 ||vidsizee.com^$important

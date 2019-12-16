@@ -20,9 +20,6 @@
 ||05a7946eef5d.com^$important
 ||05y2dxmr.top^$important
 ||0632qyw.com^$important
-||videoroll.net^$important
-||lvodomo.info^$important
-||browser-update.org^$important
 ||06f24f3d0b.com^$important
 ||080jxrab.top^$important
 ||0879dbbeb31e0c83d.com^$important
@@ -1390,6 +1387,7 @@
 ||broaddoor.com^$important
 ||broomboxmain.com^$important
 ||browser-ru.site^$important
+||browser-update.org^$important
 ||browser-updater.yandex.net^$important
 ||brqrtgjklary.com^$important
 ||brrxmhuhyokw.bid^$important
@@ -6302,6 +6300,7 @@
 ||lvlotqtrygwi.com^$important
 ||lvlvpdztdnro.com^$important
 ||lvmnxohz.com^$important
+||lvodomo.info^$important
 ||lvpcqndtdk.bid^$important
 ||lvpdchbxgoral.bid^$important
 ||lvrvufurxhgp.com^$important
@@ -11043,6 +11042,7 @@
 ||vidalak.com^$important
 ||vidcpm.com^$important
 ||videolol007.com^$important
+||videoroll.net^$important
 ||vidora.com^$important
 ||vidroll.ru^$important
 ||vidsizee.com^$important
