@@ -45,6 +45,9 @@
 |http*:*?rand=*&blk=$important
 ||ddns.net^*=ws://$important
 ||ddns.net^*=wss://$important
+|http*:*/*?proxy=wss://$important
+|http*:*/*?proxy=ws://$important
+|http*:*/*?perfekt=wss://$important
 ||google.*/ads/$important
 ||google.*/adsense/$important
 ||google.*/uds/$important
