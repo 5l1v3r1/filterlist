@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-18 00:33:42
-! Version: 20191218003342
+! Last modified: 2019-12-18 01:05:24
+! Version: 20191218010524
 ! Expires: 3 hours
-! Number of filters: 13391
+! Number of filters: 13385
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -796,9 +796,7 @@ http*:*/vinos.js$important,script
 ||alasdzdnfvtj.com^$important
 ||aldaobpuhvl.com^$important
 ||alexametrics.com^$important
-||alflying.bid^$important
-||alflying.date^$important
-||alflying.win^$important
+||alflying.*^$important
 ||alfredean.com^$important
 ||algkebjdgafa.com^$important
 ||algnnojsdr.com^$important
@@ -3473,12 +3471,8 @@ http*:*/vinos.js$important,script
 ||fldlyzvhgjq.com^$important
 ||flepzrkdwm.com^$important
 ||flgstgrcwapk.com^$important
-||flightsy.bid^$important
-||flightsy.date^$important
-||flightsy.win^$important
-||flightzy.bid^$important
-||flightzy.date^$important
-||flightzy.win^$important
+||flightsy.*^$important
+||flightzy.*^$important
 ||flimsycircle.com^$important
 ||flirteenew.info^$important
 ||flkyhwjhp.com^$important
