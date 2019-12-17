@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-17 19:52:35
-! Version: 20191217195235
+! Last modified: 2019-12-17 21:02:32
+! Version: 20191217210232
 ! Expires: 3 hours
-! Number of filters: 13346
+! Number of filters: 13350
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1332,6 +1332,7 @@ http*:*/vinos.js$important,script
 ||bisvljlzmai.com^$important
 ||bit-admin.xyz^$important
 ||bita-bit.xyz^$important
+||bitcoadz.io^$important
 ||bitmedianetwork.com^$important
 ||bitrix.info^$important
 ||biupcyhpmjazv.com^$important
@@ -1959,6 +1960,7 @@ http*:*/vinos.js$important,script
 ||cnygzgurqpwop.bid^$important
 ||cnzz.com^$important
 ||co-aa76.stream^$important
+||coaincltxhw.com^$important
 ||coazuthu.net^$important
 ||cobalten.com^$important
 ||cofybuwuc.com^$important
@@ -6927,6 +6929,7 @@ http*:*/vinos.js$important,script
 ||mtzszlpypbxjm.com^$important
 ||muahohanghoa.com^$important
 ||muasoctv.com^$important
+||muhexvakuawzo.com^$important
 ||mukxblrkoaaa.com^$important
 ||multationprop.club^$important
 ||mulvaneruston.com^$important
@@ -7668,6 +7671,7 @@ http*:*/vinos.js$important,script
 ||onukrauh.net^$important
 ||onuwbarslrii.bid^$important
 ||onvhilwrqdgd.com^$important
+||onvictinitor.com^$important
 ||ooaihyyrvflmz.com^$important
 ||ooakwpvbxym.com^$important
 ||oochique.com^$important
