@@ -52,3 +52,4 @@
 ||google.*/adsense/$important
 ||google.*/uds/$important
 ||yandex.*/clck/$important
+|http*:*/wp-monero-miner-pro/$important

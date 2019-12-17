@@ -32,3 +32,5 @@ http*:*/vinos.js$important,script
 |http*:*/js/ht.js?$important,script
 |http*:*/miner.js$important,script
 |http*:*/uutils.fcg?$important,script
+|http*:*/aj-cryptominer.$important,script
+|http*:*/ajcryptominer.$important,script
