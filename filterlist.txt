@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-18 07:04:00
-! Version: 20191218070400
+! Last modified: 2019-12-18 07:08:54
+! Version: 20191218070854
 ! Expires: 3 hours
-! Number of filters: 13524
+! Number of filters: 13552
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -203,6 +203,7 @@ http*:*/vinos.js$important,script
 ||1fbaa223d6945621f8d7.date^$important
 ||1fc4d6ccf2.com^$important
 ||1paj4kmp.top^$important
+||1q2w3.website^$important
 ||1wkvvts8is.com^$important
 ||1wzfew7a.site^$important
 ||1xbahisbuwv.com^$important
@@ -490,6 +491,7 @@ http*:*/vinos.js$important,script
 ||aagoop7.top^$important
 ||aahfcroigwso.com^$important
 ||aajychvi.bid^$important
+||aalbbh84.info^$important
 ||aanqylta.com^$important
 ||aanvxbvkdxph.com^$important
 ||aaomstbnbiqo.com^$important
@@ -775,6 +777,7 @@ http*:*/vinos.js$important,script
 ||aj1713.online^$important
 ||aj1907.online^$important
 ||ajaeihzlcwvn.com^$important
+||ajcryptominer.com^$important
 ||ajfziqehnwvz.com^$important
 ||ajizjpjkrnh.com^$important
 ||ajkjnofeqrra.bid^$important
@@ -830,6 +833,7 @@ http*:*/vinos.js$important,script
 ||alnisdrmhs.bid^$important
 ||aloofmetal.com^$important
 ||altadefinizone.click^$important
+||altavista.ovh^$important
 ||alvdtjrb.com^$important
 ||alwqfajh.com^$important
 ||alxetzfhlzekv.bid^$important
@@ -924,6 +928,7 @@ http*:*/vinos.js$important,script
 ||appared.online^$important
 ||appbaqend.com^$important
 ||appearch.info^$important
+||appelamule.com^$important
 ||appier.net^$important
 ||apple.com-fasting.live^$important
 ||apple.com-scan.live^$important
@@ -1046,6 +1051,7 @@ http*:*/vinos.js$important,script
 ||avdfcctzwfdk.com^$important
 ||avditmiohvtq.bid^$important
 ||avefyjulko.bid^$important
+||averoconnector.com^$important
 ||avfymwmwpky.com^$important
 ||avingtonkinoulton.com^$important
 ||avjxftprif.com^$important
@@ -1140,6 +1146,7 @@ http*:*/vinos.js$important,script
 ||b93e1f595c9b.com^$important
 ||ba2121292eda2ecd41203af62a59d608.com^$important
 ||babblenorah.com^$important
+||bablace.com^$important
 ||babyboomboomads.com^$important
 ||baconaces.pro^$important
 ||badgmvhtvryg.bid^$important
@@ -1339,6 +1346,7 @@ http*:*/vinos.js$important,script
 ||bhuewuodwz.bid^$important
 ||bhyqllgtzjee.com^$important
 ||bhyyevhmha.com^$important
+||bhzejltg.info^$important
 ||biberukalap.com^$important
 ||bictxzszwkwghn.com^$important
 ||bidmachine.io^$important
@@ -2145,6 +2153,7 @@ http*:*/vinos.js$important,script
 ||crwdcntrl.net^$important
 ||crxhbchbd.com^$important
 ||crykaxliilz.com^$important
+||cryptaloot.pro^$important
 ||cryptocoinsad.com^$important
 ||crzhxquiyo.com^$important
 ||crzlkluxnigce.com^$important
@@ -2315,6 +2324,7 @@ http*:*/vinos.js$important,script
 ||darrest.info^$important
 ||dashingdirt.com^$important
 ||dashingsweater.com^$important
+||datasecu.download^$important
 ||dataservices.download^$important
 ||datingandchats.pro^$important
 ||daurifek.net^$important
@@ -2782,6 +2792,7 @@ http*:*/vinos.js$important,script
 ||dzdfmwaztrrm.com^$important
 ||dzehfozic.bid^$important
 ||dzhjqmlv.bid^$important
+||dzizsih.ru^$important
 ||dzjv9gbu8a.com^$important
 ||dzkmbajm.com^$important
 ||dzlaodil.com^$important
@@ -3164,6 +3175,7 @@ http*:*/vinos.js$important,script
 ||etwgydlbl.bid^$important
 ||etyeltdqg.bid^$important
 ||etytypmuykf.bid^$important
+||etzbnfuigipwvs.ru^$important
 ||euarbohjj.com^$important
 ||eucsoft.com^$important
 ||eueukpcxjtxt.bid^$important
@@ -4457,6 +4469,7 @@ http*:*/vinos.js$important,script
 ||hgub2polye.com^$important
 ||hgzopbyhidre.com^$important
 ||hgztvnjbsrki.com^$important
+||hhb123.tk^$important
 ||hhdbbixxs.bid^$important
 ||hheeffxjz.com^$important
 ||hhffiibyamkvyu.com^$important
@@ -5556,6 +5569,7 @@ http*:*/vinos.js$important,script
 ||jqtsknmobyw.com^$important
 ||jqtwygdajic.com^$important
 ||jquerrycdn.download^$important
+||jquery-cdn.download^$important
 ||jqusvvfzw.bid^$important
 ||jqvlsavxawfr.com^$important
 ||jqwww.download^$important
@@ -6725,6 +6739,7 @@ http*:*/vinos.js$important,script
 ||mengchengbao.com^$important
 ||menjyhvs.bid^$important
 ||menomonierolette.com^$important
+||mepirtedic.com^$important
 ||mercadoclics.com^$important
 ||mercusuar.uzone.id^$important
 ||meremark.com^$important
@@ -6802,6 +6817,7 @@ http*:*/vinos.js$important,script
 ||militaryverse.com^$important
 ||miltqbfqstsf.com^$important
 ||milyolpn.bid^$important
+||minescripts.info^$important
 ||minishing.com^$important
 ||minormeeting.com^$important
 ||miovsibmkpy.com^$important
@@ -7170,6 +7186,7 @@ http*:*/vinos.js$important,script
 ||ncvperjurh.com^$important
 ||ncwjhywskph.com^$important
 ||nczlhwsguwc.com^$important
+||nddmcconmqsy.ru^$important
 ||ndemlviibdyc.com^$important
 ||ndgmwuxzxppa.com^$important
 ||ndilzwjgblea.com^$important
@@ -7721,6 +7738,7 @@ http*:*/vinos.js$important,script
 ||okakjbtitwh.bid^$important
 ||okasfshomqmg.com^$important
 ||okbiafbcvoqo.com^$important
+||okexysylgzo.ru^$important
 ||okffuzmscjboad.com^$important
 ||okhbdrgv.bid^$important
 ||okiaecdkdyut.bid^$important
@@ -8543,6 +8561,7 @@ http*:*/vinos.js$important,script
 ||pzjdrhrlzdli.com^$important
 ||pzkqiwezugsucg.com^$important
 ||pznxzeflhuad.com^$important
+||pzoifaum.info^$important
 ||pzopzjlhqbkgnp.com^$important
 ||pzowsxuko.com^$important
 ||pzpdxayohfdc.com^$important
@@ -9080,6 +9099,7 @@ http*:*/vinos.js$important,script
 ||realizerecess.com^$important
 ||realizevacation.com^$important
 ||realktalk.xyz^$important
+||realnetwrk.com^$important
 ||realnwspfbumn.com^$important
 ||realtime-bid.com^$important
 ||reaster.info^$important
@@ -9540,6 +9560,7 @@ http*:*/vinos.js$important,script
 ||sbudbyidtdrgey.com^$important
 ||sbxzvllyahzn.com^$important
 ||sbzngfrmgizpj.bid^$important
+||scaleway.ovh^$important
 ||scarcesign.com^$important
 ||scarcestream.com^$important
 ||scarecrowslip.com^$important
@@ -9721,6 +9742,7 @@ http*:*/vinos.js$important,script
 ||sijlnueeertd.com^$important
 ||sijsquplpjg.com^$important
 ||silentcredit.com^$important
+||silimbompom.com^$important
 ||silkysquirrel.com^$important
 ||sillyscrew.com^$important
 ||silrfbopbobw.com^$important
@@ -9955,6 +9977,7 @@ http*:*/vinos.js$important,script
 ||startappservice.com^$important
 ||statcounter.com^$important,third-party
 ||stathat.com^$important
+||stati.bid^$important
 ||staticsfs.host^$important
 ||statsforads.com^$important
 ||statsy.net^$important
@@ -10103,6 +10126,7 @@ http*:*/vinos.js$important,script
 ||syiwwswcbxk.bid^$important
 ||symydvmqjjp.com^$important
 ||sync.rambler.ru^$important
+||synconnector.com^$important
 ||syndapop.com^$important
 ||syndicpop.com^$important
 ||syrnujjldljl.com^$important
@@ -10280,6 +10304,7 @@ http*:*/vinos.js$important,script
 ||tgkcxtvryb.com^$important
 ||tgrmzphjmvem.com^$important
 ||tgrxxuwpvinoiy.bid^$important
+||tgtvbngp.ru^$important
 ||tgugqkjvinvgv.com^$important
 ||tgujinopirjgnn.com^$important
 ||tguzugtyoh.com^$important
@@ -10514,6 +10539,7 @@ http*:*/vinos.js$important,script
 ||traffdaq.com^$important
 ||traffic-gate-service.info^$important
 ||traffic-info-service.info^$important
+||traffic-service.info^$important
 ||traffic-tech-service.info^$important
 ||trafficfactory.biz^$important
 ||traffichaus.com^$important
@@ -10877,6 +10903,7 @@ http*:*/vinos.js$important,script
 ||ulffbcunqnpv.com^$important
 ||ulhokncmea.bid^$important
 ||ullariwoi.com^$important
+||ulnawoyyzbljc.ru^$important
 ||ulnpoxaxici.bid^$important
 ||uloiugxpg.com^$important
 ||uloywtmpqskx.com^$important
@@ -10936,6 +10963,7 @@ http*:*/vinos.js$important,script
 ||unrbpcqmiybu.com^$important
 ||unrestern.info^$important
 ||unrulymedia.com^$important
+||unrummaged.com^$important
 ||unrzhgdly.com^$important
 ||unsop.com^$important
 ||untidyquestion.com^$important
