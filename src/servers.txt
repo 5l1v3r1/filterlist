@@ -60,12 +60,6 @@
 ||197c3b10bab3c1.com^$important
 ||1b8d89551340a.com^$important
 ||1b969cef84d93b43.com^$important
-||sinsoftu.com^$important
-||madcpms.com^$important
-||sgycfrrkz.com^$important
-||lnvnzrqdajau.com^$important
-||fbcdn2.com^$important
-||commercialvalue.org^$important
 ||1bcde.com^$important
 ||1bfc228b50a902db.com^$important
 ||1cb70f6b7aab4c70819a.date^$important
@@ -1880,6 +1874,7 @@
 ||comfortablecheese.com^$important
 ||comgnnyx.com^$important
 ||commandwalk.com^$important
+||commercialvalue.org^$important
 ||commonswing.com^$important
 ||comnop.icu^$important
 ||completecabbage.com^$important
@@ -3170,6 +3165,7 @@
 ||fbafbbujy.com^$important
 ||fbauhaozc.bid^$important
 ||fbbjlubvwmwd.com^$important
+||fbcdn2.com^$important
 ||fbhfbgtj.com^$important
 ||fbhgryvzlthvh.com^$important
 ||fbkdhxkd.com^$important
@@ -6150,6 +6146,7 @@
 ||lnnwwxpeodmw.com^$important
 ||lnpqqigowz.com^$important
 ||lnsthqzdsvzboo.bid^$important
+||lnvnzrqdajau.com^$important
 ||lnwbiuetoymifj.com^$important
 ||lnwqvhcqw.com^$important
 ||loakfiiggz.bid^$important
@@ -6388,6 +6385,7 @@
 ||m-pathy.com^$important
 ||maboflgkaxqn.com^$important
 ||mackeeper.com^$important
+||madcpms.com^$important
 ||madsans.com^$important
 ||madsecs.com^$important
 ||madslims.com^$important
@@ -9474,6 +9472,7 @@
 ||sinceresofa.com ^$important
 ||sinceresofa.com^$important
 ||sincerespy.com^$important
+||sinsoftu.com^$important
 ||sinwebads.com^$important
 ||sinyfqrmiqgd.com^$important
 ||siogczwibswm.com^$important

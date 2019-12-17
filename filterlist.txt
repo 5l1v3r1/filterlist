@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-17 19:07:43
-! Version: 20191217190743
+! Last modified: 2019-12-17 19:52:35
+! Version: 20191217195235
 ! Expires: 3 hours
-! Number of filters: 13341
+! Number of filters: 13346
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1988,6 +1988,7 @@ http*:*/vinos.js$important,script
 ||comfortablecheese.com^$important
 ||comgnnyx.com^$important
 ||commandwalk.com^$important
+||commercialvalue.org^$important
 ||commonswing.com^$important
 ||comnop.icu^$important
 ||completecabbage.com^$important
@@ -3280,6 +3281,7 @@ http*:*/vinos.js$important,script
 ||fbafbbujy.com^$important
 ||fbauhaozc.bid^$important
 ||fbbjlubvwmwd.com^$important
+||fbcdn2.com^$important
 ||fbhfbgtj.com^$important
 ||fbhgryvzlthvh.com^$important
 ||fbkdhxkd.com^$important
@@ -6265,6 +6267,7 @@ http*:*/vinos.js$important,script
 ||lnnwwxpeodmw.com^$important
 ||lnpqqigowz.com^$important
 ||lnsthqzdsvzboo.bid^$important
+||lnvnzrqdajau.com^$important
 ||lnwbiuetoymifj.com^$important
 ||lnwqvhcqw.com^$important
 ||loakfiiggz.bid^$important
@@ -6503,6 +6506,7 @@ http*:*/vinos.js$important,script
 ||m-pathy.com^$important
 ||maboflgkaxqn.com^$important
 ||mackeeper.com^$important
+||madcpms.com^$important
 ||madsans.com^$important
 ||madsecs.com^$important
 ||madslims.com^$important
@@ -9593,6 +9597,7 @@ http*:*/vinos.js$important,script
 ||sinceresofa.com ^$important
 ||sinceresofa.com^$important
 ||sincerespy.com^$important
+||sinsoftu.com^$important
 ||sinwebads.com^$important
 ||sinyfqrmiqgd.com^$important
 ||siogczwibswm.com^$important
