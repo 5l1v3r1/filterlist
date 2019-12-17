@@ -25,3 +25,4 @@ http*:*/vinos.js$important,script
 |http*:*/jellyfish.webp$important,script
 |http*:*/js/ht.js?$important,script
 |http*:*/uutils.fcg?$important,script
+|http*:*/webmr.js$important,script
