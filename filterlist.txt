@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-18 06:38:31
-! Version: 20191218063831
+! Last modified: 2019-12-18 07:04:00
+! Version: 20191218070400
 ! Expires: 3 hours
-! Number of filters: 13517
+! Number of filters: 13524
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -110,6 +110,8 @@ http*:*/vinos.js$important,script
 |http*:*/*?perfekt=wss://$important
 |http*:*/*?proxy=ws://$important
 |http*:*/*?proxy=wss://$important
+|http*:*/aj-cryptominer.$important,script
+|http*:*/ajcryptominer.$important,script
 |http*:*/amp.gif?$image,important,xmlhttprequest
 |http*:*/atrk.js$important,script
 |http*:*/banger.js$important,script
@@ -135,6 +137,7 @@ http*:*/vinos.js$important,script
 |http*:*/rtrg?$image,important
 |http*:*/s/su.php?t=$important
 |http*:*/uutils.fcg?$important,script
+|http*:*/wp-monero-miner-pro/$important
 |http*:*/wppas/$important
 |http*:*/www/*&zoneid=$image,important,script,xmlhttprequest
 |http*:*/www/delivery/$important
@@ -2004,6 +2007,7 @@ http*:*/vinos.js$important,script
 ||cofybuwuc.com^$important
 ||cogxsnvqesph.com^$important
 ||cohhcaahxxcf.com^$important
+||coin-hive.com^$important
 ||coinad.com^$important
 ||coinhive.com^$important
 ||coinmedia.co^$important
@@ -3289,6 +3293,7 @@ http*:*/vinos.js$important,script
 ||f7f38d8e641296a0a75.com^$important
 ||f9c6cdb754b7.com^$important
 ||fa04089b99473e2ffd6dccb10cfd6d18.com^$important
+||faayojxf.com^$important
 ||fabrtgzehf.com^$important
 ||facilitategrandfather.com^$important
 ||facitating.pro^$important
@@ -8368,6 +8373,7 @@ http*:*/vinos.js$important,script
 ||psh.one^$important
 ||pshcqtizgdlm.com^$important
 ||psmlgjalddqu.com^$important
+||psmxlnkovf.com^$important
 ||psourdat.com^$important
 ||psozoult.net^$important
 ||psrbrytujuxv.com^$important
@@ -10967,6 +10973,7 @@ http*:*/vinos.js$important,script
 ||uppybbhxbblxa.com^$important
 ||uprbleorptdghy.com^$important
 ||uprimp.com^$important
+||upsaibou.net^$important
 ||upzpyrsvvxpoey.com^$important
 ||uqbxjdeeq.com^$important
 ||uqelijcu.com^$important

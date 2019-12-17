@@ -1879,13 +1879,11 @@
 ||cofybuwuc.com^$important
 ||cogxsnvqesph.com^$important
 ||cohhcaahxxcf.com^$important
+||coin-hive.com^$important
 ||coinad.com^$important
 ||coinhive.com^$important
 ||coinmedia.co^$important
 ||cointraffic.io^$important
-||psmxlnkovf.com^$important
-||faayojxf.com^$important
-||upsaibou.net^$important
 ||coinzillatag.com^$important
 ||coiphezlzpl.bid^$important
 ||cokfwpfycgzjvn.bid^$important
@@ -3165,6 +3163,7 @@
 ||f7f38d8e641296a0a75.com^$important
 ||f9c6cdb754b7.com^$important
 ||fa04089b99473e2ffd6dccb10cfd6d18.com^$important
+||faayojxf.com^$important
 ||fabrtgzehf.com^$important
 ||facilitategrandfather.com^$important
 ||facitating.pro^$important
@@ -3303,7 +3302,6 @@
 ||fgsmmpazsuqak.com^$important
 ||fgudqqluv.com^$important
 ||fgvjjulaegidb.com^$important
-||coin-hive.com^$important
 ||fgwsjwiaqtjc.com^$important
 ||fgxgzjeip.bid^$important
 ||fgyeepfitnvkzz.com^$important
@@ -8236,6 +8234,7 @@
 ||psh.one^$important
 ||pshcqtizgdlm.com^$important
 ||psmlgjalddqu.com^$important
+||psmxlnkovf.com^$important
 ||psourdat.com^$important
 ||psozoult.net^$important
 ||psrbrytujuxv.com^$important
@@ -10831,6 +10830,7 @@
 ||uppybbhxbblxa.com^$important
 ||uprbleorptdghy.com^$important
 ||uprimp.com^$important
+||upsaibou.net^$important
 ||upzpyrsvvxpoey.com^$important
 ||uqbxjdeeq.com^$important
 ||uqelijcu.com^$important

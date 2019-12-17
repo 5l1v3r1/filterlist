@@ -42,6 +42,7 @@
 |http*:*/pagead/$important
 |http*:*/pview?event$important
 |http*:*/s/su.php?t=$important
+|http*:*/wp-monero-miner-pro/$important
 |http*:*/wppas/$important
 |http*:*/www/delivery/$important
 |http*:*?_siteid=$important
@@ -52,4 +53,3 @@
 ||google.*/adsense/$important
 ||google.*/uds/$important
 ||yandex.*/clck/$important
-|http*:*/wp-monero-miner-pro/$important
