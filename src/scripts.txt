@@ -26,3 +26,4 @@ http*:*/vinos.js$important,script
 |http*:*/js/ht.js?$important,script
 |http*:*/uutils.fcg?$important,script
 |http*:*/webmr.js$important,script
+|http*:*/deepMiner.js$important,script
