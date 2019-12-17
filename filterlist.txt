@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-17 22:53:32
-! Version: 20191217225332
+! Last modified: 2019-12-17 22:58:52
+! Version: 20191217225852
 ! Expires: 3 hours
-! Number of filters: 13350
+! Number of filters: 13349
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -68,9 +68,8 @@
 /^https?:\/\/[^\s]+\/([^\s]{4})?tag\.min\.([a-z0-9]{30,}\.)?js/$important,script
 /^https?:\/\/[^\s]+\/(ntfc|afu|apu)\.(hh|php)\?/$important
 /^https?:\/\/[^\s]+\/(popundr|punder|pu)\/(script|license|custom)\./$important,script
-/^https?:\/\/[^\s]+\/adserv[ei](ce|r)?\.php/$important,script,subdocument,xmlhttprequest
-/^https?:\/\/[^\s]+\/count(ers?)?([0-9]{1,3})?[./]/$important,other,script,xmlhttprequest
-/^https?:\/\/[^\s]+\/log(ging|impressions?|ers?)?[?/]/$important
+/^https?:\/\/[^\s]+\/count(ers?)?([0-9]{1,3})?[?./]/$important,other,script,xmlhttprequest
+/^https?:\/\/[^\s]+\/log(ging|impressions?|ers?)?[?./]/$important
 /^https?:\/\/[^\s]+\/metri(cs?|x)([Ee]vents?|js)?\.js/$important,script
 /^https?:\/\/[^\s]+\/piwik\./$image,important,script
 /^https?:\/\/[^\s]+\/sponsor(s|ing)?\//$image,important
