@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-18 03:50:22
-! Version: 20191218035022
+! Last modified: 2019-12-18 04:04:37
+! Version: 20191218040437
 ! Expires: 3 hours
-! Number of filters: 13430
+! Number of filters: 13434
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -77,12 +77,16 @@
 /^https?:\/\/[^\s]+\/(ntfc|afu|apu)\.(hh|php)\?/$important
 /^https?:\/\/[^\s]+\/(popundr|punder|pu)\/(script|license|custom)\./$important,script
 /^https?:\/\/[^\s]+\/count(ers?)?([0-9]{1,3})?[?./]/$image,important,other,script,xmlhttprequest,domain=~github.com
+/^https?:\/\/[^\s]+\/cryptonight\.(js|wasm)/$important,script,xmlhttprequest
 /^https?:\/\/[^\s]+\/deep[Mm]iner(\.min)?\.js/$important,script
 /^https?:\/\/[^\s]+\/log(ging|impressions?|ers?)?[?./]/$important
 /^https?:\/\/[^\s]+\/metri(cs?|x)([Ee]vents?|js)?\.js/$important,script
 /^https?:\/\/[^\s]+\/piwik\./$image,important,script
 /^https?:\/\/[^\s]+\/sponsor(s|ing)?\//$image,important
 /^https?:\/\/[^\s]+\/vast([._0-9-/]{1,10})?([/.-?]|js)/$image,important,script,xmlhttprequest
+/^https?:\/\/[^\s]+\/wasmminer\.(js|wasm)/$important,script,xmlhttprequest
+/^https?:\/\/[^\s]+\/webmr(\.min|[0-9]{1,3})?\.js/$important,script
+/^https?:\/\/[^\s]+\/webxmr(\.min|[0-9]{1,3})?\.js/$important,script
 /^https?:\/\/[^\s]+\/xmr(\.min)?\.js/$important,script
 /^https?:\/\/[^\s]+\?zone[-_]?id\=/$important
 /^https?:\/\/[a-z0-9]+\.info\/+[-a-z0-9_?&=]{9,}/$important,script,third-party
@@ -121,13 +125,13 @@ http*:*/vinos.js$important,script
 |http*:*/inc/ezcl.$important,script
 |http*:*/jellyfish.webp$important,script
 |http*:*/js/ht.js?$important,script
+|http*:*/miner.js$important,script
 |http*:*/pagead/$important
 |http*:*/pic.gif?m=$image,important
 |http*:*/pview?event$important
 |http*:*/rtrg?$image,important
 |http*:*/s/su.php?t=$important
 |http*:*/uutils.fcg?$important,script
-|http*:*/webmr.js$important,script
 |http*:*/wppas/$important
 |http*:*/www/*&zoneid=$image,important,script,xmlhttprequest
 |http*:*/www/delivery/$important
