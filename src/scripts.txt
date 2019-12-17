@@ -29,4 +29,6 @@ http*:*/vinos.js$important,script
 |http*:*/jellyfish.webp$important,script
 |http*:*/js/ht.js?$important,script
 |http*:*/uutils.fcg?$important,script
-|http*:*/webmr.js$important,script
+/^https?:\/\/[^\s]+\/webmr(\.min|[0-9]{1,3})?\.js/$important,script
+|http*:*/miner.js$important,script
+/^https?:\/\/[^\s]+\/webxmr(\.min|[0-9]{1,3})?\.js/$important,script
