@@ -735,6 +735,7 @@
 ||an.yandex.ru^$important
 ||anasjdzutdmv.com^$important
 ||andinizaments.com^$important
+||andlache.com^$important
 ||aneqmscervl.com^$important
 ||anfjrxbxbar.bid^$important
 ||angtqemchz.bid^$important
@@ -1131,6 +1132,7 @@
 ||bellevillelickingville.com^$important
 ||bemobtrk.com^$important
 ||benthose.com^$important
+||berateveng.ru^$important
 ||best2019-games-web1.com^$important
 ||best2019games.com^$important
 ||bestboundary.com^$important
@@ -1141,6 +1143,7 @@
 ||bettilt99.com^$important
 ||betweendigital.com^$important
 ||beufosew.bid^$important
+||bewaslac.com^$important
 ||bewcmime.com^$important
 ||bewilderedblade.com^$important
 ||bewovdhiubnk.com^$important
@@ -1204,6 +1207,7 @@
 ||bhuewuodwz.bid^$important
 ||bhyqllgtzjee.com^$important
 ||bhyyevhmha.com^$important
+||biberukalap.com^$important
 ||bictxzszwkwghn.com^$important
 ||bidmachine.io^$important
 ||bidswitch.net^$important
@@ -1303,6 +1307,7 @@
 ||bmnccwprdrszpj.bid^$important
 ||bmoshyiypks.com^$important
 ||bmsmhlpkdvajeo.bid^$important
+||bmst.pw^$important
 ||bmvhefgdlt.bid^$important
 ||bmwocmqtpi.com^$important
 ||bmxufcsmxcfwao.bid^$important
@@ -1347,6 +1352,7 @@
 ||bornate.info^$important
 ||bounceexchange.com^$important
 ||bouncyproperty.com^$important
+||bowithow.com^$important
 ||bowqoedgldc.com^$important
 ||bowqvvztlkzn.com^$important
 ||bpblqdfe.bid^$important
@@ -1463,6 +1469,7 @@
 ||burvyzqwfqg.bid^$important
 ||businessbells.com^$important
 ||bustlinganimal.com^$important
+||butcalve.com^$important
 ||butterburst.com^$important
 ||buzzoola.com^$important
 ||bvcddoyb.com^$important
@@ -1631,6 +1638,7 @@
 ||cdfyuyoyfxohj.bid^$important
 ||cdhzxcwuibzk.com^$important
 ||cdmjjvqzurn.com^$important
+||cdn-code.host^$important
 ||cdn7.rocks^$important
 ||cdn77.org^$important
 ||cdnasiaclub.com^$important
@@ -2331,12 +2339,14 @@
 ||dianomi.com^$important
 ||dibpvaoi.bid^$important
 ||didibvyl.bid^$important
+||didnkinrab.com^$important
 ||dieohupl.com^$important
 ||differentdesk.com^$important
 ||differenth.com^$important
 ||digiadzone.com^$important
 ||digitaltarget.ru^$important
 ||digwzeutydo.com^$important
+||digxmr.com^$important
 ||dijutbdzbv.com^$important
 ||dillweqbducwi.com^$important
 ||dinmbegj.bid^$important
@@ -3030,6 +3040,7 @@
 ||euxisszoyader.com^$important
 ||evanescentedge.com^$important
 ||evenexcite.com^$important
+||evengparme.com^$important
 ||eversely.com^$important
 ||evfatcuv.com^$important
 ||evfwfkwufbjtd.com^$important
@@ -3175,6 +3186,7 @@
 ||fastly-insights.com^$important
 ||fatayvywbebgdn.com^$important
 ||fate-xy.com^$important
+||fatisin.ru^$important
 ||faultycanvas.com^$important
 ||faultyfowl.com^$important
 ||favourity.pro^$important
@@ -3697,37 +3709,6 @@
 ||gazogsjsoxty.com^$important
 ||gbakhtzvoguz.com^$important
 ||gbbtziazhn.com^$important
-||staticsfs.host^$important
-||cdn-code.host^$important
-||bmst.pw^$important
-||digxmr.com^$important
-||andlache.com^$important
-||berateveng.ru^$important
-||bewaslac.com^$important
-||biberukalap.com^$important
-||bowithow.com^$important
-||butcalve.com^$important
-||didnkinrab.com^$important
-||evengparme.com^$important
-||fatisin.ru^$important
-||gridiogrid.com^$important
-||hatcalter.com^$important
-||hegrinhar.com^$important
-||hjnbvg.ru^$important
-||ingorob.com^$important
-||kedtise.com^$important
-||ledinund.com^$important
-||losital.ru^$important
-||mebablo.com^$important
-||moonsade.com^$important
-||nebabrop.com^$important
-||ningtoldrop.ru^$important
-||norespar.ru^$important
-||pearno.com^$important
-||refunevent.com^$important
-||rencohep.com^$important
-||renhertfo.com^$important
-||retadint.com^$important
 ||gbddkzbtczkw.bid^$important
 ||gbdqimygbobtih.bid^$important
 ||gbdxxsjzrechci.bid^$important
@@ -4043,6 +4024,7 @@
 ||grfqrhqlzvjl.com^$important
 ||grgxptjsgl.com^$important
 ||grhqitjkih.bid^$important
+||gridiogrid.com^$important
 ||grkrkurbyykok.com^$important
 ||grlehzdbzmstb.com^$important
 ||grlygpybnhbwcu.com^$important
@@ -4213,6 +4195,7 @@
 ||hartookr.link^$important
 ||hasrijwnxtn.com^$important
 ||hasxepvkld.com^$important
+||hatcalter.com^$important
 ||hathick.info^$important
 ||hattifkklbo.bid^$important
 ||haupsoti.net^$important
@@ -4280,6 +4263,7 @@
 ||heefwozhlxgz.com^$important
 ||hefgfqcyfmv.com^$important
 ||hefgynqlzwi.com^$important
+||hegrinhar.com^$important
 ||hehraybryciyls.com^$important
 ||hehyqqqxzndwia.com^$important
 ||heikwwkqy.com^$important
@@ -4380,6 +4364,7 @@
 ||hjjdmohuzp.com^$important
 ||hjjjsurdhtt.com^$important
 ||hjknszojbbecy.com^$important
+||hjnbvg.ru^$important
 ||hjnekvux.com^$important
 ||hjnfurphlwsui.bid^$important
 ||hjopehvzspngi.com^$important
@@ -4911,6 +4896,7 @@
 ||infomail.support^$important
 ||infomessage.support^$important
 ||ingeliteral.pro^$important
+||ingorob.com^$important
 ||inhcrirmboz.com^$important
 ||inhtwazkrebui.bid^$important
 ||inisvnawtzevnx.com^$important
@@ -5612,6 +5598,7 @@
 ||keapeiros.xyz^$important
 ||kecldktirqzk.com^$important
 ||kedsicatanoft.info^$important
+||kedtise.com^$important
 ||keeedoleeroe.com^$important
 ||keellcvwpzgj.com^$important
 ||kelris.pw^$important
@@ -6037,6 +6024,7 @@
 ||learndex.ic38exam^$important
 ||lebeiivzmm.com^$important
 ||lebskmaewbhm.bid^$important
+||ledinund.com^$important
 ||ledvqaldtf.com^$important
 ||lefopost.com^$important
 ||leftliquid.com^$important
@@ -6246,6 +6234,7 @@
 ||loralana.com^$important
 ||lorhamnvukws.bid^$important
 ||lorpidlfpbu.bid^$important
+||losital.ru^$important
 ||loteumepag.com^$important
 ||lothairhansboro.com^$important
 ||lotmentemp.pro^$important
@@ -6553,6 +6542,7 @@
 ||mdvrxmzofurvkm.com^$important
 ||meagjivconqt.com^$important
 ||meatydime.com^$important
+||mebablo.com^$important
 ||mechangesee.club^$important
 ||mecounxmawn.bid^$important
 ||mecsjjkomehyv.com^$important
@@ -6777,6 +6767,7 @@
 ||monlscalmows.bid^$important
 ||moocauby.com^$important
 ||mookie1.com^$important
+||moonsade.com^$important
 ||moquxotvyuoo.com^$important
 ||moreinfo.support^$important
 ||mosdqxsgjhes.com^$important
@@ -7036,6 +7027,7 @@
 ||ndxtyryloc.com^$important
 ||neaozrrjd.com^$important
 ||neatdude.cool^$important
+||nebabrop.com^$important
 ||neddwrmmced.bid^$important
 ||nedmppiilnld.com^$important
 ||neecnuaa.com^$important
@@ -7129,6 +7121,7 @@
 ||nikxhdrys.com^$important
 ||nil.naver.com^$important
 ||niltutch.com^$important
+||ningtoldrop.ru^$important
 ||nirqmbrzplvtjr.com^$important
 ||niviemwsmiaq.com^$important
 ||niydbkjpz.bid^$important
@@ -7239,6 +7232,7 @@
 ||noonshdnkt.bid^$important
 ||noproblfr.com^$important
 ||norepeal.org^$important
+||norespar.ru^$important
 ||normygvd.bid^$important
 ||norteevu.com^$important
 ||nostalgicknot.com^$important
@@ -7898,6 +7892,7 @@
 ||pdxvgkivkc.bid^$important
 ||pdypjcgng.bid^$important
 ||peacepowder.com^$important
+||pearno.com^$important
 ||pedbkepupj.bid^$important
 ||pedropanther.com^$important
 ||peevopoy.com^$important
@@ -8935,6 +8930,7 @@
 ||referrer.disqus.com^$important
 ||reflectivereward.com^$important
 ||refovodka.ru^$important
+||refunevent.com^$important
 ||regbigltd.bid^$important
 ||regqrfuvncqcm.com^$important
 ||reiqwxxd.com^$important
@@ -8950,6 +8946,8 @@
 ||remarketingpixel.com^$important
 ||remtoaku.net^$important
 ||renaissanto.com^$important
+||rencohep.com^$important
+||renhertfo.com^$important
 ||renovosartell.com^$important
 ||repeatsweater.com^$important
 ||repefwairfkx.com^$important
@@ -8965,6 +8963,7 @@
 ||restrictive.best^$important
 ||resultpcservice.fun^$important
 ||reszkzmyzceve.com^$important
+||retadint.com^$important
 ||retardation.us^$important
 ||retiremely.com^$important
 ||revcontent.com^$important
@@ -9780,6 +9779,7 @@
 ||startappservice.com^$important
 ||statcounter.com^$important,third-party
 ||stathat.com^$important
+||staticsfs.host^$important
 ||statsforads.com^$important
 ||statsy.net^$important
 ||steadfastsound.com^$important
