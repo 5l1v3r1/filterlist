@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-18 07:08:54
-! Version: 20191218070854
+! Last modified: 2019-12-18 07:20:03
+! Version: 20191218072003
 ! Expires: 3 hours
-! Number of filters: 13552
+! Number of filters: 13569
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -980,6 +980,7 @@ http*:*/vinos.js$important,script
 ||argyresthia.com^$important
 ||ariseboundary.com^$important
 ||aristianewr.club^$important
+||arizona-miner.tk^$important
 ||arjgnqlsdo.com^$important
 ||arkhamxojvr.com^$important
 ||arllvzkoh.com^$important
@@ -1179,6 +1180,7 @@ http*:*/vinos.js$important,script
 ||barbarousnerve.com^$important
 ||bardogjvsa.com^$important
 ||bascomdeary.com^$important
+||basepush.com^$important
 ||basketballbelieve.com^$important
 ||baskettellsinore.com^$important
 ||baskettexture.com^$important
@@ -1275,6 +1277,7 @@ http*:*/vinos.js$important,script
 ||best2019-games-web1.com^$important
 ||best2019games.com^$important
 ||bestboundary.com^$important
+||bestcoinsignals.com^$important
 ||bestdoctorstore.com^$important
 ||bestfreesite2contents.info^$important
 ||bestgadgetoffers.icu^$important
@@ -1291,6 +1294,7 @@ http*:*/vinos.js$important,script
 ||bexogxapbqict.bid^$important
 ||beyaek3.top^$important
 ||bezcmsrzx.com^$important
+||bezoglasa.online^$important
 ||bezqvpliexxtfw.com^$important
 ||bf-ad.net^$important
 ||bf3c1229dc6f28b2.com^$important
@@ -1779,8 +1783,10 @@ http*:*/vinos.js$important,script
 ||cdegnloptetj.com^$important
 ||cdfyuyoyfxohj.bid^$important
 ||cdhzxcwuibzk.com^$important
+||cdjchpojgifwc.ru^$important
 ||cdmjjvqzurn.com^$important
 ||cdn-code.host^$important
+||cdn-jquery.host^$important
 ||cdn7.rocks^$important
 ||cdn77.org^$important
 ||cdnasiaclub.com^$important
@@ -2020,6 +2026,7 @@ http*:*/vinos.js$important,script
 ||coinhive.com^$important
 ||coinmedia.co^$important
 ||cointraffic.io^$important
+||coinwebmining.com^$important
 ||coinzillatag.com^$important
 ||coiphezlzpl.bid^$important
 ||cokfwpfycgzjvn.bid^$important
@@ -2127,6 +2134,7 @@ http*:*/vinos.js$important,script
 ||crayoncompetition.com^$important
 ||crazyegg.com^$important
 ||crcewevoy.com^$important
+||creadordedinero.com^$important
 ||createfeartr3.com^$important
 ||credbgvhijbcj.com^$important
 ||credishe.com^$important
@@ -3157,7 +3165,9 @@ http*:*/vinos.js$important,script
 ||etggealva.com^$important
 ||etggiddfdaqd.com^$important
 ||etglnloj.com^$important
+||eth-pocket.*^$important
 ||ethfw0370q.com^$important
+||ethtrader.de^$important
 ||etizspyjmjhxo.com^$important
 ||etkdximarcsq.com^$important
 ||etkhujhmhjix.com^$important
@@ -5032,6 +5042,7 @@ http*:*/vinos.js$important,script
 ||imbpmlyhkk.com^$important
 ||imeljiehhwy.com^$important
 ||imevdywafhro.com^$important
+||imhvlhaelvvbrq.ru^$important
 ||imidshmpzr.com^$important
 ||imisagsrbci.com^$important
 ||immensehoney.com^$important
@@ -5282,6 +5293,7 @@ http*:*/vinos.js$important,script
 ||jamvgopociy.bid^$important
 ||janesvillelykens.com^$important
 ||janrlobmiroi.com^$important
+||japveny.ru^$important
 ||jareiulyg.bid^$important
 ||jasaiklan.com^$important
 ||jatkcmpxhbba.com^$important
@@ -7103,6 +7115,7 @@ http*:*/vinos.js$important,script
 ||mxvvvoqbgzdq.com^$important
 ||mxxrzwibnlnmd.bid^$important
 ||mxzxeersjv.com^$important
+||my-rigs.com^$important
 ||myawrthcsjc.com^$important
 ||mybestmv.com^$important
 ||mybetterdl.com^$important
@@ -8000,6 +8013,7 @@ http*:*/vinos.js$important,script
 ||paleleaf.com^$important
 ||palzblimzpdk.com^$important
 ||pameless.info^$important
+||pampopholf.com^$important
 ||paotmlonx.com^$important
 ||paradoxfactor.com^$important
 ||parandaya.com^$important
@@ -8100,6 +8114,7 @@ http*:*/vinos.js$important,script
 ||performquickintenselyfile.*^$important
 ||performquickintenselyfile.icu^$important
 ||perimeterx.net^$important
+||perrege.ru^$important
 ||pertosj.ru^$important
 ||peterboroughapalachicola.com^$important
 ||petiteumbrella.com^$important
@@ -11584,6 +11599,7 @@ http*:*/vinos.js$important,script
 ||vuoywsri.bid^$important
 ||vuryua.ru^$important
 ||vutsoabs.net^$important
+||vuuwd.com^$important
 ||vuvcwrxn.com^$important
 ||vuwdqproq.com^$important
 ||vuwojxgklca.com^$important
@@ -12515,6 +12531,7 @@ http*:*/vinos.js$important,script
 ||xvapnjwhofiv.com^$important
 ||xvfzxuzvxcv.bid^$important
 ||xvgfmbrifa.com^$important
+||xvideosharing.site^$important
 ||xvijskugh.com^$important
 ||xvika.com^$important
 ||xvjigtcdiogu.bid^$important

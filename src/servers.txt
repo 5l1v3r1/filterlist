@@ -852,6 +852,7 @@
 ||argyresthia.com^$important
 ||ariseboundary.com^$important
 ||aristianewr.club^$important
+||arizona-miner.tk^$important
 ||arjgnqlsdo.com^$important
 ||arkhamxojvr.com^$important
 ||arllvzkoh.com^$important
@@ -1051,6 +1052,7 @@
 ||barbarousnerve.com^$important
 ||bardogjvsa.com^$important
 ||bascomdeary.com^$important
+||basepush.com^$important
 ||basketballbelieve.com^$important
 ||baskettellsinore.com^$important
 ||baskettexture.com^$important
@@ -1147,6 +1149,7 @@
 ||best2019-games-web1.com^$important
 ||best2019games.com^$important
 ||bestboundary.com^$important
+||bestcoinsignals.com^$important
 ||bestdoctorstore.com^$important
 ||bestfreesite2contents.info^$important
 ||bestgadgetoffers.icu^$important
@@ -1163,6 +1166,7 @@
 ||bexogxapbqict.bid^$important
 ||beyaek3.top^$important
 ||bezcmsrzx.com^$important
+||bezoglasa.online^$important
 ||bezqvpliexxtfw.com^$important
 ||bf-ad.net^$important
 ||bf3c1229dc6f28b2.com^$important
@@ -1651,8 +1655,10 @@
 ||cdegnloptetj.com^$important
 ||cdfyuyoyfxohj.bid^$important
 ||cdhzxcwuibzk.com^$important
+||cdjchpojgifwc.ru^$important
 ||cdmjjvqzurn.com^$important
 ||cdn-code.host^$important
+||cdn-jquery.host^$important
 ||cdn7.rocks^$important
 ||cdn77.org^$important
 ||cdnasiaclub.com^$important
@@ -1892,6 +1898,7 @@
 ||coinhive.com^$important
 ||coinmedia.co^$important
 ||cointraffic.io^$important
+||coinwebmining.com^$important
 ||coinzillatag.com^$important
 ||coiphezlzpl.bid^$important
 ||cokfwpfycgzjvn.bid^$important
@@ -1999,6 +2006,7 @@
 ||crayoncompetition.com^$important
 ||crazyegg.com^$important
 ||crcewevoy.com^$important
+||creadordedinero.com^$important
 ||createfeartr3.com^$important
 ||credbgvhijbcj.com^$important
 ||credishe.com^$important
@@ -3027,7 +3035,9 @@
 ||etggealva.com^$important
 ||etggiddfdaqd.com^$important
 ||etglnloj.com^$important
+||eth-pocket.*^$important
 ||ethfw0370q.com^$important
+||ethtrader.de^$important
 ||etizspyjmjhxo.com^$important
 ||etkdximarcsq.com^$important
 ||etkhujhmhjix.com^$important
@@ -4897,6 +4907,7 @@
 ||imbpmlyhkk.com^$important
 ||imeljiehhwy.com^$important
 ||imevdywafhro.com^$important
+||imhvlhaelvvbrq.ru^$important
 ||imidshmpzr.com^$important
 ||imisagsrbci.com^$important
 ||immensehoney.com^$important
@@ -5147,6 +5158,7 @@
 ||jamvgopociy.bid^$important
 ||janesvillelykens.com^$important
 ||janrlobmiroi.com^$important
+||japveny.ru^$important
 ||jareiulyg.bid^$important
 ||jasaiklan.com^$important
 ||jatkcmpxhbba.com^$important
@@ -6967,6 +6979,7 @@
 ||mxvvvoqbgzdq.com^$important
 ||mxxrzwibnlnmd.bid^$important
 ||mxzxeersjv.com^$important
+||my-rigs.com^$important
 ||myawrthcsjc.com^$important
 ||mybestmv.com^$important
 ||mybetterdl.com^$important
@@ -7356,24 +7369,6 @@
 ||nubarwcziykx.bid^$important
 ||nubtjnopbjup.com^$important
 ||nucpzlpmp.bid^$important
-||cdjchpojgifwc.ru^$important
-||perrege.ru^$important
-||rmawm7mw.top^$important
-||basepush.com^$important
-||arizona-miner.tk^$important
-||eth-pocket.*^$important
-||japveny.ru^$important
-||imhvlhaelvvbrq.ru^$important
-||vuuwd.com^$important
-||ethtrader.de^$important
-||coinwebmining.com^$important
-||cdn-jquery.host^$important
-||creadordedinero.com^$important
-||xvideosharing.site^$important
-||bezoglasa.online^$important
-||my-rigs.com^$important
-||bestcoinsignals.com^$important
-||pampopholf.com^$important
 ||nucqkjkvppgs.com^$important
 ||nudooapfildwbz.com^$important
 ||nuggad.net^$important
@@ -7881,6 +7876,7 @@
 ||paleleaf.com^$important
 ||palzblimzpdk.com^$important
 ||pameless.info^$important
+||pampopholf.com^$important
 ||paotmlonx.com^$important
 ||paradoxfactor.com^$important
 ||parandaya.com^$important
@@ -7981,6 +7977,7 @@
 ||performquickintenselyfile.*^$important
 ||performquickintenselyfile.icu^$important
 ||perimeterx.net^$important
+||perrege.ru^$important
 ||pertosj.ru^$important
 ||peterboroughapalachicola.com^$important
 ||petiteumbrella.com^$important
@@ -11459,6 +11456,7 @@
 ||vuoywsri.bid^$important
 ||vuryua.ru^$important
 ||vutsoabs.net^$important
+||vuuwd.com^$important
 ||vuvcwrxn.com^$important
 ||vuwdqproq.com^$important
 ||vuwojxgklca.com^$important
@@ -12390,6 +12388,7 @@
 ||xvapnjwhofiv.com^$important
 ||xvfzxuzvxcv.bid^$important
 ||xvgfmbrifa.com^$important
+||xvideosharing.site^$important
 ||xvijskugh.com^$important
 ||xvika.com^$important
 ||xvjigtcdiogu.bid^$important
