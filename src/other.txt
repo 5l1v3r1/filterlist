@@ -35,6 +35,9 @@
 |http*:*&adformat=$important
 |http*:*-pixel.*?uuid=$important
 |http*:*.html?clicktag=$important
+|http*:*/*?perfekt=wss://$important
+|http*:*/*?proxy=ws://$important
+|http*:*/*?proxy=wss://$important
 |http*:*/in.php?*&referer=$important
 |http*:*/pagead/$important
 |http*:*/pview?event$important
@@ -45,9 +48,6 @@
 |http*:*?rand=*&blk=$important
 ||ddns.net^*=ws://$important
 ||ddns.net^*=wss://$important
-|http*:*/*?proxy=wss://$important
-|http*:*/*?proxy=ws://$important
-|http*:*/*?perfekt=wss://$important
 ||google.*/ads/$important
 ||google.*/adsense/$important
 ||google.*/uds/$important
