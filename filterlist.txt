@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-16 17:47:20
-! Version: 20191216174720
+! Last modified: 2019-12-17 19:07:43
+! Version: 20191217190743
 ! Expires: 3 hours
-! Number of filters: 13334
+! Number of filters: 13341
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1659,6 +1659,8 @@ http*:*/vinos.js$important,script
 ||cachefly.net^$important
 ||cacpcaizwx.bid^$important
 ||cadsabs.com^$important
+||cadsatz.com^$important
+||cadsokz.com^$important
 ||cadulscdfhtcb.bid^$important
 ||cafvzpusl.com^$important
 ||cah9ooy.bid^$important
@@ -6006,6 +6008,7 @@ http*:*/vinos.js$important,script
 ||kzexkhstcng.com^$important
 ||kzgzfndrvpnz.com^$important
 ||kzlmwsyftm.com^$important
+||kzmleuhgqifvzy.com^$important
 ||kzqrjfulybvv.com^$important
 ||kzujizavnlxf.com^$important
 ||kzwcmbypauw.com^$important
@@ -7158,6 +7161,7 @@ http*:*/vinos.js$important,script
 ||nicucircvp.bid^$important
 ||nidjppokmlcx.com^$important
 ||nidksyrrrtckzj.com^$important
+||niforniadistollie.info^$important
 ||niftyhospital.com^$important
 ||niftyjelly.com^$important
 ||nighting.info^$important
@@ -7697,6 +7701,7 @@ http*:*/vinos.js$important,script
 ||opfrjkmmvqmm.com^$important
 ||ophan.theguardian.com^$important
 ||ophistler.pro^$important
+||opingexamplyt.info^$important
 ||opknogsela.bid^$important
 ||opoefqthl.bid^$important
 ||oppcgcqytazs.com^$important
@@ -9689,6 +9694,7 @@ http*:*/vinos.js$important,script
 ||snsyebgupi.bid^$important
 ||snxjlicc.com^$important
 ||snxvrnhe.com^$important
+||snyrblftgu.com^$important
 ||socdm.com^$important
 ||sockjgaabayf.com^$important
 ||socxihke.bid^$important
@@ -11102,6 +11108,7 @@ http*:*/vinos.js$important,script
 ||veoujrnenng.com^$important
 ||vepatyei.com^$important
 ||vepcsswlpolz.com^$important
+||verdrivenbru.info^$important
 ||vertvshonf.com^$important
 ||veswrzdcvcdooh.bid^$important
 ||veta.naver.com^$important

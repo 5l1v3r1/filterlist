@@ -21,13 +21,6 @@
 ||05y2dxmr.top^$important
 ||0632qyw.com^$important
 ||06f24f3d0b.com^$important
-||cadsatz.com^$important
-||cadsokz.com^$important 
-||niforniadistollie.info^$important
-||kzmleuhgqifvzy.com^$important
-||opingexamplyt.info^$important
-||verdrivenbru.info^$important
-||snyrblftgu.com^$important
 ||080jxrab.top^$important
 ||0879dbbeb31e0c83d.com^$important
 ||09cd.co.kr^$important
@@ -1552,6 +1545,8 @@
 ||cachefly.net^$important
 ||cacpcaizwx.bid^$important
 ||cadsabs.com^$important
+||cadsatz.com^$important
+||cadsokz.com^$important
 ||cadulscdfhtcb.bid^$important
 ||cafvzpusl.com^$important
 ||cah9ooy.bid^$important
@@ -5892,6 +5887,7 @@
 ||kzexkhstcng.com^$important
 ||kzgzfndrvpnz.com^$important
 ||kzlmwsyftm.com^$important
+||kzmleuhgqifvzy.com^$important
 ||kzqrjfulybvv.com^$important
 ||kzujizavnlxf.com^$important
 ||kzwcmbypauw.com^$important
@@ -7043,6 +7039,7 @@
 ||nicucircvp.bid^$important
 ||nidjppokmlcx.com^$important
 ||nidksyrrrtckzj.com^$important
+||niforniadistollie.info^$important
 ||niftyhospital.com^$important
 ||niftyjelly.com^$important
 ||nighting.info^$important
@@ -7581,6 +7578,7 @@
 ||opfrjkmmvqmm.com^$important
 ||ophan.theguardian.com^$important
 ||ophistler.pro^$important
+||opingexamplyt.info^$important
 ||opknogsela.bid^$important
 ||opoefqthl.bid^$important
 ||oppcgcqytazs.com^$important
@@ -9571,6 +9569,7 @@
 ||snsyebgupi.bid^$important
 ||snxjlicc.com^$important
 ||snxvrnhe.com^$important
+||snyrblftgu.com^$important
 ||socdm.com^$important
 ||sockjgaabayf.com^$important
 ||socxihke.bid^$important
@@ -10980,6 +10979,7 @@
 ||veoujrnenng.com^$important
 ||vepatyei.com^$important
 ||vepcsswlpolz.com^$important
+||verdrivenbru.info^$important
 ||vertvshonf.com^$important
 ||veswrzdcvcdooh.bid^$important
 ||veta.naver.com^$important
