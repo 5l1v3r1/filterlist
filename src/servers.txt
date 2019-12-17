@@ -681,9 +681,7 @@
 ||alasdzdnfvtj.com^$important
 ||aldaobpuhvl.com^$important
 ||alexametrics.com^$important
-||alflying.bid^$important
-||alflying.date^$important
-||alflying.win^$important
+||alflying.*^$important
 ||alfredean.com^$important
 ||algkebjdgafa.com^$important
 ||algnnojsdr.com^$important
@@ -3356,12 +3354,8 @@
 ||fldlyzvhgjq.com^$important
 ||flepzrkdwm.com^$important
 ||flgstgrcwapk.com^$important
-||flightsy.bid^$important
-||flightsy.date^$important
-||flightsy.win^$important
-||flightzy.bid^$important
-||flightzy.date^$important
-||flightzy.win^$important
+||flightsy.*^$important
+||flightzy.*^$important
 ||flimsycircle.com^$important
 ||flirteenew.info^$important
 ||flkyhwjhp.com^$important
