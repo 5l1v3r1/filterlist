@@ -19,8 +19,6 @@
 ||00f31156f051fdf.com^$important
 ||01ced816b84.com^$important
 ||01counter.com^$important
-||ad-miner.com^$important
-||cpu2cash.link^$important
 ||024xuyisheng.com^$important
 ||0377shujuhuifu.top^$important
 ||0452jhw.com^$important
@@ -434,6 +432,7 @@
 ||acwswfbyhtsf.com^$important
 ||acwyoynw.com^$important
 ||acxujxzdluum.com^$important
+||ad-miner.com^$important
 ||ad.mail.ru^$important
 ||ad2bitcoin.com^$important
 ||ad4xh85llhcbfis8.com^$important
@@ -682,6 +681,9 @@
 ||alasdzdnfvtj.com^$important
 ||aldaobpuhvl.com^$important
 ||alexametrics.com^$important
+||alflying.bid^$important
+||alflying.date^$important
+||alflying.win^$important
 ||alfredean.com^$important
 ||algkebjdgafa.com^$important
 ||algnnojsdr.com^$important
@@ -1942,6 +1944,7 @@
 ||cpmstar.com^$important
 ||cpmterra.com^$important
 ||cpovvzgpc.com^$important
+||cpu2cash.link^$important
 ||cpxjivpayggg.com^$important
 ||cpynfeqyqfby.com^$important
 ||cqaiylftp.com^$important
@@ -3353,6 +3356,12 @@
 ||fldlyzvhgjq.com^$important
 ||flepzrkdwm.com^$important
 ||flgstgrcwapk.com^$important
+||flightsy.bid^$important
+||flightsy.date^$important
+||flightsy.win^$important
+||flightzy.bid^$important
+||flightzy.date^$important
+||flightzy.win^$important
 ||flimsycircle.com^$important
 ||flirteenew.info^$important
 ||flkyhwjhp.com^$important
@@ -4417,7 +4426,6 @@
 ||holbrooked.top^$important
 ||holexknw.loan^$important
 ||hollandaleresaca.com^$important
-||nonamergw59.live^$important
 ||hollowshake.com^$important
 ||honeybulb.com^$important
 ||honeygoldfish.com^$important
@@ -4426,7 +4434,6 @@
 ||hook2up8.com^$important
 ||hopafrmwpckj.com^$important
 ||hoqqzlvwukpo.com^$important
-||smartpixel.xyz^$important
 ||horshamoronoco.com^$important
 ||horylaht.bid^$important
 ||hosiioyx.com^$important
@@ -6254,9 +6261,6 @@
 ||lrbllelemsx.com^$important
 ||lrcnshyxwx.bid^$important
 ||lrcrobshelr.com^$important
-||traffic-info-service.info^$important
-||traffic-tech-service.info^$important
-||traffic-gate-service.info^$important
 ||lreylxggpqxz.bid^$important
 ||lrjltdosshhd.com^$important
 ||lrmjvytlhho.com^$important
@@ -6268,27 +6272,12 @@
 ||lrwwnmijztt.com^$important
 ||lryenoty.bid^$important
 ||lsdgtifuqrwjax.com^$important
-||money-maker-script.info^$important
-||money-maker-default.info^$important
 ||lsegvhvzrpqc.com^$important
 ||lsghawrw.bid^$important
 ||lsgystgg.bid^$important
 ||lshwezesshks.com^$important
 ||lskzcjgerhzn.com^$important
 ||lsmxicydlj.com^$important
-||zymerget.bid^$important
-||alflying.bid^$important
-||zymerget.faith^$important
-||flightsy.bid^$important
-||alflying.date^$important
-||zymerget.party^$important
-||flightsy.date^$important
-||flightzy.date^$important
-||flightzy.bid^$important
-||zymerget.date^$important
-||flightzy.win^$important
-||flightsy.win^$important
-||alflying.win^$important
 ||lsooyivois.com^$important
 ||lsslotuojpud.com^$important
 ||lstkchbeoey.com^$important
@@ -6733,6 +6722,8 @@
 ||moldyicicle.com^$important
 ||molqvpnnlmnb.com^$important
 ||monetate.net^$important
+||money-maker-default.info^$important
+||money-maker-script.info^$important
 ||money-slots.net^$important
 ||moneysavingexpertcarinsurance.icu^$important
 ||moneysavingexpertsavings.world^$important
@@ -7194,6 +7185,7 @@
 ||nomlxyhfgeny.com^$important
 ||nomzkqffqsz.com^$important
 ||nonamekgb64.live^$important
+||nonamergw59.live^$important
 ||nonceynp.com^$important
 ||nondescriptcrowd.com^$important
 ||nondescriptsmile.com^$important
@@ -9574,6 +9566,7 @@
 ||smartcj.com^$important
 ||smartclick.net^$important
 ||smartphonesbonusoffers.icu^$important
+||smartpixel.xyz^$important
 ||smashseek.com^$important
 ||smashsurprise.com^$important
 ||smazvhjn.com^$important
@@ -10282,6 +10275,9 @@
 ||tradedoubler.com^$important
 ||tradelab.fr^$important
 ||traffdaq.com^$important
+||traffic-gate-service.info^$important
+||traffic-info-service.info^$important
+||traffic-tech-service.info^$important
 ||trafficfactory.biz^$important
 ||traffichaus.com^$important
 ||trafficjunky.com^$important

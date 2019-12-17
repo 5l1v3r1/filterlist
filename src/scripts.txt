@@ -18,6 +18,7 @@
 http*:*/vinos.js$important,script
 |http*:*/atrk.js$important,script
 |http*:*/banger.js$important,script
+|http*:*/deepMiner.js$important,script
 |http*:*/edmonton.webp$important,script
 |http*:*/ezcl.webp$important,script
 |http*:*/ezoic/$important,script,~third-party
@@ -26,4 +27,3 @@ http*:*/vinos.js$important,script
 |http*:*/js/ht.js?$important,script
 |http*:*/uutils.fcg?$important,script
 |http*:*/webmr.js$important,script
-|http*:*/deepMiner.js$important,script

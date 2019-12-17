@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-18 00:14:07
-! Version: 20191218001407
+! Last modified: 2019-12-18 00:33:42
+! Version: 20191218003342
 ! Expires: 3 hours
-! Number of filters: 13372
+! Number of filters: 13391
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -100,6 +100,7 @@ http*:*/vinos.js$important,script
 |http*:*/atrk.js$important,script
 |http*:*/banger.js$important,script
 |http*:*/clear.gif$image,important
+|http*:*/deepMiner.js$important,script
 |http*:*/drstat?$image,important
 |http*:*/edmonton.webp$important,script
 |http*:*/ezcl.webp$important,script
@@ -546,6 +547,7 @@ http*:*/vinos.js$important,script
 ||acwswfbyhtsf.com^$important
 ||acwyoynw.com^$important
 ||acxujxzdluum.com^$important
+||ad-miner.com^$important
 ||ad.mail.ru^$important
 ||ad2bitcoin.com^$important
 ||ad4xh85llhcbfis8.com^$important
@@ -794,6 +796,9 @@ http*:*/vinos.js$important,script
 ||alasdzdnfvtj.com^$important
 ||aldaobpuhvl.com^$important
 ||alexametrics.com^$important
+||alflying.bid^$important
+||alflying.date^$important
+||alflying.win^$important
 ||alfredean.com^$important
 ||algkebjdgafa.com^$important
 ||algnnojsdr.com^$important
@@ -2054,6 +2059,7 @@ http*:*/vinos.js$important,script
 ||cpmstar.com^$important
 ||cpmterra.com^$important
 ||cpovvzgpc.com^$important
+||cpu2cash.link^$important
 ||cpxjivpayggg.com^$important
 ||cpynfeqyqfby.com^$important
 ||cqaiylftp.com^$important
@@ -3467,6 +3473,12 @@ http*:*/vinos.js$important,script
 ||fldlyzvhgjq.com^$important
 ||flepzrkdwm.com^$important
 ||flgstgrcwapk.com^$important
+||flightsy.bid^$important
+||flightsy.date^$important
+||flightsy.win^$important
+||flightzy.bid^$important
+||flightzy.date^$important
+||flightzy.win^$important
 ||flimsycircle.com^$important
 ||flirteenew.info^$important
 ||flkyhwjhp.com^$important
@@ -6833,6 +6845,8 @@ http*:*/vinos.js$important,script
 ||moldyicicle.com^$important
 ||molqvpnnlmnb.com^$important
 ||monetate.net^$important
+||money-maker-default.info^$important
+||money-maker-script.info^$important
 ||money-slots.net^$important
 ||moneysavingexpertcarinsurance.icu^$important
 ||moneysavingexpertsavings.world^$important
@@ -7294,6 +7308,7 @@ http*:*/vinos.js$important,script
 ||nomlxyhfgeny.com^$important
 ||nomzkqffqsz.com^$important
 ||nonamekgb64.live^$important
+||nonamergw59.live^$important
 ||nonceynp.com^$important
 ||nondescriptcrowd.com^$important
 ||nondescriptsmile.com^$important
@@ -9677,6 +9692,7 @@ http*:*/vinos.js$important,script
 ||smartcj.com^$important
 ||smartclick.net^$important
 ||smartphonesbonusoffers.icu^$important
+||smartpixel.xyz^$important
 ||smashseek.com^$important
 ||smashsurprise.com^$important
 ||smazvhjn.com^$important
@@ -10386,6 +10402,9 @@ http*:*/vinos.js$important,script
 ||tradedoubler.com^$important
 ||tradelab.fr^$important
 ||traffdaq.com^$important
+||traffic-gate-service.info^$important
+||traffic-info-service.info^$important
+||traffic-tech-service.info^$important
 ||trafficfactory.biz^$important
 ||traffichaus.com^$important
 ||trafficjunky.com^$important
