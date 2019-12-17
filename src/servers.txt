@@ -3718,23 +3718,6 @@
 ||gbjqfbnxfjx.com^$important
 ||gblogs.top^$important
 ||gbnwjjxb.bid^$important
-||rineventrec.com^$important
-||rintindown.com^$important
-||rintinwa.com^$important
-||rowherthat.ru^$important
-||terethat.ru^$important
-||thatresha.com^$important
-||thathislitt.ru^$important
-||toftofcal.com^$important
-||veritrol.com^$important
-||verresof.com^$important
-||wildianing.ru^$important
-||witthethim.com^$important
-||wronpeci.com^$important
-||wqgkainysj.ru^$important
-||kalipasindra.online^$important
-||never.ovh^$important
-||nexttime.ovh^$important
 ||gbsxcyukuuex.com^$important
 ||gbwgrhjjwz.com^$important
 ||gbwhqbiiq.com^$important
@@ -5552,6 +5535,7 @@
 ||kaktokualscgea.com^$important
 ||kakywxgevuv.com^$important
 ||kalfiydydtnhxk.com^$important
+||kalipasindra.online^$important
 ||kallwqgnec.com^$important
 ||kaojrivmhys.com^$important
 ||kaqtvgcy.bid^$important
@@ -7064,6 +7048,7 @@
 ||neschaypaxkk.com^$important
 ||net-ce49.stream^$important
 ||networkad.net^$important
+||never.ovh^$important
 ||neveryone.club^$important
 ||new-mail.support^$important
 ||new-message.support^$important
@@ -7092,6 +7077,7 @@
 ||newsupdatedir.info^$important
 ||newthuads.com^$important
 ||newtueads.com^$important
+||nexttime.ovh^$important
 ||neyenbozrfuocz.com^$important
 ||nezbumpwtdexd.com^$important
 ||nfaqnqsfhih.bid^$important
@@ -9055,8 +9041,11 @@
 ||rijadpczqbdsvb.com^$important
 ||rikazsjaezda.bid^$important
 ||rimvtigoyajas.com^$important
+||rineventrec.com^$important
 ||ringplayground.com^$important
 ||ringsrecord.com^$important
+||rintindown.com^$important
+||rintinwa.com^$important
 ||rinukkvp.bid^$important
 ||riserange.com^$important
 ||risvrteprhufnk.bid^$important
@@ -9148,6 +9137,7 @@
 ||rotumal.com^$important
 ||roughroll.com^$important
 ||rouvpebtazdlq.com^$important
+||rowherthat.ru^$important
 ||roxutbftcm.bid^$important
 ||rozcbrmng.bid^$important
 ||rpcncuzsmpni.com^$important
@@ -10071,6 +10061,7 @@
 ||tepazmynhvo.com^$important
 ||teqceeivmpvv.com^$important
 ||terdiparcalpe.info^$important
+||terethat.ru^$important
 ||terraclicks.com^$important
 ||terraviewbeat.com^$important
 ||terriblethumb.com^$important
@@ -10124,6 +10115,8 @@
 ||tgyswiymvtxg.com^$important
 ||thaihary.link^$important
 ||tharbadir.com^$important
+||thathislitt.ru^$important
+||thatresha.com^$important
 ||thbuhcnpt.com^$important
 ||thcumizbjxnp.bid^$important
 ||theadex.com^$important
@@ -10284,6 +10277,7 @@
 ||toecircle.com^$important
 ||toenwwsmam.com^$important
 ||toflvbkpwxcr.com^$important
+||toftofcal.com^$important
 ||togfcqfvarpq.com^$important
 ||toomsborogreycliff.com^$important
 ||toothbrushnote.com^$important
@@ -11094,6 +11088,8 @@
 ||vepatyei.com^$important
 ||vepcsswlpolz.com^$important
 ||verdrivenbru.info^$important
+||veritrol.com^$important
+||verresof.com^$important
 ||vertvshonf.com^$important
 ||veswrzdcvcdooh.bid^$important
 ||veta.naver.com^$important
@@ -11659,6 +11655,7 @@
 ||wiklweefcuorh.com^$important
 ||wilburnkeithsburg.com^$important
 ||wildernesscamera.com^$important
+||wildianing.ru^$important
 ||willfumyqwnkuq.com^$important
 ||wimprovideo.info^$important
 ||wimxqzilfwkn.bid^$important
@@ -11677,6 +11674,7 @@
 ||withingol.info^$important
 ||witholiced.info^$important
 ||witifyooqkumwn.com^$important
+||witthethim.com^$important
 ||wiykefcon.com^$important
 ||wiywlvkwwwrms.com^$important
 ||wizejdnlqwcb.com^$important
@@ -11811,6 +11809,7 @@
 ||wpysazovofdui.com^$important
 ||wqbvqmremvgp.com^$important
 ||wqgaevqpbwgx.com^$important
+||wqgkainysj.ru^$important
 ||wqkpadciw.com^$important
 ||wqndqrxoi.bid^$important
 ||wqnpcflbcv.com^$important
@@ -11835,6 +11834,7 @@
 ||wrkzbwhm.bid^$important
 ||wrmcfyzl.com^$important
 ||wrmwikcnynbk.com^$important
+||wronpeci.com^$important
 ||wrqjwrrpsnnm.com^$important
 ||wrrfckzbpygz.com^$important
 ||wrrytjtsyhrnfg.com^$important

@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-18 06:28:32
-! Version: 20191218062832
+! Last modified: 2019-12-18 06:30:01
+! Version: 20191218063001
 ! Expires: 3 hours
-! Number of filters: 13465
+! Number of filters: 13482
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -5667,6 +5667,7 @@ http*:*/vinos.js$important,script
 ||kaktokualscgea.com^$important
 ||kakywxgevuv.com^$important
 ||kalfiydydtnhxk.com^$important
+||kalipasindra.online^$important
 ||kallwqgnec.com^$important
 ||kaojrivmhys.com^$important
 ||kaqtvgcy.bid^$important
@@ -7180,6 +7181,7 @@ http*:*/vinos.js$important,script
 ||neschaypaxkk.com^$important
 ||net-ce49.stream^$important
 ||networkad.net^$important
+||never.ovh^$important
 ||neveryone.club^$important
 ||new-mail.support^$important
 ||new-message.support^$important
@@ -7208,6 +7210,7 @@ http*:*/vinos.js$important,script
 ||newsupdatedir.info^$important
 ||newthuads.com^$important
 ||newtueads.com^$important
+||nexttime.ovh^$important
 ||neyenbozrfuocz.com^$important
 ||nezbumpwtdexd.com^$important
 ||nfaqnqsfhih.bid^$important
@@ -9174,8 +9177,11 @@ http*:*/vinos.js$important,script
 ||rijadpczqbdsvb.com^$important
 ||rikazsjaezda.bid^$important
 ||rimvtigoyajas.com^$important
+||rineventrec.com^$important
 ||ringplayground.com^$important
 ||ringsrecord.com^$important
+||rintindown.com^$important
+||rintinwa.com^$important
 ||rinukkvp.bid^$important
 ||riserange.com^$important
 ||risvrteprhufnk.bid^$important
@@ -9267,6 +9273,7 @@ http*:*/vinos.js$important,script
 ||rotumal.com^$important
 ||roughroll.com^$important
 ||rouvpebtazdlq.com^$important
+||rowherthat.ru^$important
 ||roxutbftcm.bid^$important
 ||rozcbrmng.bid^$important
 ||rpcncuzsmpni.com^$important
@@ -10191,6 +10198,7 @@ http*:*/vinos.js$important,script
 ||tepazmynhvo.com^$important
 ||teqceeivmpvv.com^$important
 ||terdiparcalpe.info^$important
+||terethat.ru^$important
 ||terraclicks.com^$important
 ||terraviewbeat.com^$important
 ||terriblethumb.com^$important
@@ -10244,6 +10252,8 @@ http*:*/vinos.js$important,script
 ||tgyswiymvtxg.com^$important
 ||thaihary.link^$important
 ||tharbadir.com^$important
+||thathislitt.ru^$important
+||thatresha.com^$important
 ||thbuhcnpt.com^$important
 ||thcumizbjxnp.bid^$important
 ||theadex.com^$important
@@ -10404,6 +10414,7 @@ http*:*/vinos.js$important,script
 ||toecircle.com^$important
 ||toenwwsmam.com^$important
 ||toflvbkpwxcr.com^$important
+||toftofcal.com^$important
 ||togfcqfvarpq.com^$important
 ||toomsborogreycliff.com^$important
 ||toothbrushnote.com^$important
@@ -11217,6 +11228,8 @@ http*:*/vinos.js$important,script
 ||vepatyei.com^$important
 ||vepcsswlpolz.com^$important
 ||verdrivenbru.info^$important
+||veritrol.com^$important
+||verresof.com^$important
 ||vertvshonf.com^$important
 ||veswrzdcvcdooh.bid^$important
 ||veta.naver.com^$important
@@ -11782,6 +11795,7 @@ http*:*/vinos.js$important,script
 ||wiklweefcuorh.com^$important
 ||wilburnkeithsburg.com^$important
 ||wildernesscamera.com^$important
+||wildianing.ru^$important
 ||willfumyqwnkuq.com^$important
 ||wimprovideo.info^$important
 ||wimxqzilfwkn.bid^$important
@@ -11800,6 +11814,7 @@ http*:*/vinos.js$important,script
 ||withingol.info^$important
 ||witholiced.info^$important
 ||witifyooqkumwn.com^$important
+||witthethim.com^$important
 ||wiykefcon.com^$important
 ||wiywlvkwwwrms.com^$important
 ||wizejdnlqwcb.com^$important
@@ -11934,6 +11949,7 @@ http*:*/vinos.js$important,script
 ||wpysazovofdui.com^$important
 ||wqbvqmremvgp.com^$important
 ||wqgaevqpbwgx.com^$important
+||wqgkainysj.ru^$important
 ||wqkpadciw.com^$important
 ||wqndqrxoi.bid^$important
 ||wqnpcflbcv.com^$important
@@ -11958,6 +11974,7 @@ http*:*/vinos.js$important,script
 ||wrkzbwhm.bid^$important
 ||wrmcfyzl.com^$important
 ||wrmwikcnynbk.com^$important
+||wronpeci.com^$important
 ||wrqjwrrpsnnm.com^$important
 ||wrrfckzbpygz.com^$important
 ||wrrytjtsyhrnfg.com^$important
