@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-18 17:34:44
-! Version: 20191218173444
+! Last modified: 2019-12-18 22:13:30
+! Version: 20191218221330
 ! Expires: 3 hours
-! Number of filters: 13656
+! Number of filters: 13662
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -2555,6 +2555,7 @@ http*:*/vinos.js$important,script
 ||djhqkoikovr.bid^$important
 ||djiufagozzla.com^$important
 ||djjckavq.com^$important
+||djjyyqgsnnfa.com^$important
 ||djnroblmpyxrh.com^$important
 ||djqercix.com^$important
 ||djrkauxla.bid^$important
@@ -4596,6 +4597,7 @@ http*:*/vinos.js$important,script
 ||hkyskqpsqwjq.bid^$important
 ||hkyykkerrp.com^$important
 ||hlekbinpgsuk.com^$important
+||hlfjvpcpkynqco.com^$important
 ||hlgodnojfffhpc.bid^$important
 ||hlicmukjz.bid^$important
 ||hljiofrtqenc.com^$important
@@ -7325,6 +7327,7 @@ http*:*/vinos.js$important,script
 ||newsupdatedir.info^$important
 ||newthuads.com^$important
 ||newtueads.com^$important
+||nexac.com^$important
 ||nexioniect.com^$important
 ||nextbdom.ru^$important
 ||nexttime.ovh^$important
@@ -8436,6 +8439,7 @@ http*:*/vinos.js$important,script
 ||prgncwamr.com^$important
 ||printerplasma.com^$important
 ||prjywixf.bid^$important
+||prlnfrzyx.com^$important
 ||prmvrxcn.bid^$important
 ||prncfucwvi.bid^$important
 ||prnxtmtbbqs.bid^$important
@@ -10902,6 +10906,7 @@ http*:*/vinos.js$important,script
 ||uembrcfeuwtsjy.com^$important
 ||uemjnvyn.com^$important
 ||uenpibqyjvim.com^$important
+||ueopjincquazoo.com^$important
 ||ueosdjscxucj.com^$important
 ||uepsvcyxxrbs.bid^$important
 ||ueptzgugtxis.com^$important
@@ -13647,6 +13652,7 @@ http*:*/vinos.js$important,script
 ||zyxaituruuod.com^$important
 ||zyxtecsff.bid^$important
 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de^$important
+||zzaim55.ru^$important
 ||zzdnkvjaikjth.com^$important
 ||zzevmjynoljz.bid^$important
 ||zzgqqdmnrhhals.com^$important
