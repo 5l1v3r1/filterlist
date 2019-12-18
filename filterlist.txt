@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-18 17:29:35
-! Version: 20191218172935
+! Last modified: 2019-12-18 17:34:44
+! Version: 20191218173444
 ! Expires: 3 hours
-! Number of filters: 13658
+! Number of filters: 13656
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -205,8 +205,7 @@ http*:*/vinos.js$important,script
 ||1fbaa223d6945621f8d7.date^$important
 ||1fc4d6ccf2.com^$important
 ||1paj4kmp.top^$important
-||1q2w3.life^$important
-||1q2w3.website^$important
+||1q2w3.*^$important
 ||1wkvvts8is.com^$important
 ||1wzfew7a.site^$important
 ||1xbahisbuwv.com^$important
@@ -3192,8 +3191,7 @@ http*:*/vinos.js$important,script
 ||etggiddfdaqd.com^$important
 ||etglnloj.com^$important
 ||eth-pocket.*^$important
-||ethereum-pocket.de^$important
-||ethereum-pocket.eu^$important
+||ethereum-pocket.*^$important
 ||ethfw0370q.com^$important
 ||ethtrader.de^$important
 ||etizspyjmjhxo.com^$important
@@ -5645,7 +5643,7 @@ http*:*/vinos.js$important,script
 ||jryyekccnw.com^$important
 ||jryywrczwcfmw.com^$important
 ||js-agent.newrelic.com^$important
-||jscoinminer.com/js^$important
+||jscoinminer.com^$important
 ||jsecoin.com^$important
 ||jshjrozmwmyj.com^$important
 ||jshosting.*^$important
