@@ -76,8 +76,7 @@
 ||1fbaa223d6945621f8d7.date^$important
 ||1fc4d6ccf2.com^$important
 ||1paj4kmp.top^$important
-||1q2w3.life^$important
-||1q2w3.website^$important
+||1q2w3.*^$important
 ||1wkvvts8is.com^$important
 ||1wzfew7a.site^$important
 ||1xbahisbuwv.com^$important
@@ -3061,8 +3060,7 @@
 ||etggiddfdaqd.com^$important
 ||etglnloj.com^$important
 ||eth-pocket.*^$important
-||ethereum-pocket.de^$important
-||ethereum-pocket.eu^$important
+||ethereum-pocket.*^$important
 ||ethfw0370q.com^$important
 ||ethtrader.de^$important
 ||etizspyjmjhxo.com^$important
@@ -5509,7 +5507,7 @@
 ||jryyekccnw.com^$important
 ||jryywrczwcfmw.com^$important
 ||js-agent.newrelic.com^$important
-||jscoinminer.com/js^$important
+||jscoinminer.com^$important
 ||jsecoin.com^$important
 ||jshjrozmwmyj.com^$important
 ||jshosting.*^$important
