@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-18 11:22:10
-! Version: 20191218112210
+! Last modified: 2019-12-18 17:14:09
+! Version: 20191218171409
 ! Expires: 3 hours
-! Number of filters: 13575
+! Number of filters: 13586
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1040,6 +1040,8 @@ http*:*/vinos.js$important,script
 ||aueceijyp.bid^$important
 ||aufyuiavvkf.bid^$important
 ||augheguw.net^$important
+||augvtjtnsfnxg.ru^$important
+||auiehechoulh.ru^$important
 ||aultemeztokc.com^$important
 ||aurbidpos.com^$important
 ||austery.info^$important
@@ -3661,7 +3663,7 @@ http*:*/vinos.js$important,script
 ||frczfzikturw.com^$important
 ||frcznmfu.com^$important
 ||frddujheozns.com^$important
-||freecontent.date^$important
+||freecontent.*^$important
 ||freelandvillalba.com^$important
 ||freephone.best^$important
 ||freeskreen.com^$important
@@ -4175,6 +4177,7 @@ http*:*/vinos.js$important,script
 ||gqwprjzwlfspw.com^$important
 ||gracefulsock.com^$important
 ||grainsox.net^$important
+||gramombird.com^$important
 ||grand-casino.com^$important
 ||grand-casino55.com^$important
 ||grand002.com^$important
@@ -5487,6 +5490,7 @@ http*:*/vinos.js$important,script
 ||jlvqbfknjajot.com^$important
 ||jlwejibe.com^$important
 ||jlwlfcbfifsvfw.com^$important
+||jlzebszkilcz.ru^$important
 ||jmbhyqijqhxk.com^$important
 ||jmbyjmeleib.bid^$important
 ||jmemwbkpj.bid^$important
@@ -5573,6 +5577,7 @@ http*:*/vinos.js$important,script
 ||jqkxaejcijfz.com^$important
 ||jqleeknw.com^$important
 ||jqmcbepfjgks.com^$important
+||jqmrqgaunex.ru^$important
 ||jqojocdbjpdyk.bid^$important
 ||jqpuxvgnxkf.com^$important
 ||jqqlucchmbxnn.com^$important
@@ -9087,6 +9092,7 @@ http*:*/vinos.js$important,script
 ||rcqyocxmmkais.bid^$important
 ||rcsumbkoyens.bid^$important
 ||rctanilirwefr.bid^$important
+||rctfgrazkha.ru^$important
 ||rcumwyqkv.com^$important
 ||rcvhzfcnja.com^$important
 ||rcwczstm.com^$important
@@ -9651,6 +9657,7 @@ http*:*/vinos.js$important,script
 ||sendpulse.com^$important
 ||senfvsdvtsn.com^$important
 ||senrzuolwqvj.com^$important
+||sentemanactri.com^$important
 ||sentifiest.com^$important
 ||sentrapromosi.com^$important
 ||seoaelrfdy.com^$important
@@ -10105,6 +10112,7 @@ http*:*/vinos.js$important,script
 ||swezbddhwcz.com^$important
 ||swfqsfewk.bid^$important
 ||swgvpkwmojcv.com^$important
+||swiftmining.win^$important
 ||swimslope.com^$important
 ||swkhaeiymk.bid^$important
 ||swmwgptzlgsc.com^$important
@@ -10342,6 +10350,7 @@ http*:*/vinos.js$important,script
 ||themoneytizer.com^$important
 ||theonecdn.com^$important
 ||thermosthahiti.website^$important
+||thersprens.com^$important
 ||thewebsitetofindplayersbest.info^$important
 ||thibzxxtotyqg.bid^$important
 ||thicktrucks.com^$important
@@ -10851,6 +10860,7 @@ http*:*/vinos.js$important,script
 ||ugdturner.com$important
 ||ugfxrrqz.bid^$important
 ||ugkppchlelde.com^$important
+||ugmfvqsu.ru^$important
 ||ugrastes.uk^$important
 ||ugvcpwyplnj.bid^$important
 ||ugvdjzysvfivy.com^$important
@@ -11583,6 +11593,7 @@ http*:*/vinos.js$important,script
 ||vtqdavdjsymt.com^$important
 ||vtqmlzprsunm.com^$important
 ||vtracy.de^$important
+||vtsgaqnfvzcyu.ru^$important
 ||vtukwrrfjxybsh.bid^$important
 ||vtvjkyqstvec.com^$important
 ||vtvvokys.bid^$important

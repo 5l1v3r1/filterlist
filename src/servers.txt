@@ -912,6 +912,8 @@
 ||aueceijyp.bid^$important
 ||aufyuiavvkf.bid^$important
 ||augheguw.net^$important
+||augvtjtnsfnxg.ru^$important
+||auiehechoulh.ru^$important
 ||aultemeztokc.com^$important
 ||aurbidpos.com^$important
 ||austery.info^$important
@@ -3530,22 +3532,11 @@
 ||frcinpdv.com^$important
 ||frczfzikturw.com^$important
 ||frcznmfu.com^$important
-||swiftmining.win^$important
 ||frddujheozns.com^$important
 ||freecontent.*^$important
 ||freelandvillalba.com^$important
 ||freephone.best^$important
 ||freeskreen.com^$important
-||thersprens.com^$important
-||gramombird.com^$important
-||sentemanactri.com^$important
-||ugmfvqsu.ru^$important
-||auiehechoulh.ru^$important
-||vtsgaqnfvzcyu.ru^$important
-||rctfgrazkha.ru^$important
-||augvtjtnsfnxg.ru^$important
-||jlzebszkilcz.ru^$important
-||jqmrqgaunex.ru^$important
 ||frefxzrmcdxdmi.com^$important
 ||freshrefresher.com^$important
 ||freshthings.online^$important
@@ -4052,6 +4043,7 @@
 ||gqwprjzwlfspw.com^$important
 ||gracefulsock.com^$important
 ||grainsox.net^$important
+||gramombird.com^$important
 ||grand-casino.com^$important
 ||grand-casino55.com^$important
 ||grand002.com^$important
@@ -5363,6 +5355,7 @@
 ||jlvqbfknjajot.com^$important
 ||jlwejibe.com^$important
 ||jlwlfcbfifsvfw.com^$important
+||jlzebszkilcz.ru^$important
 ||jmbhyqijqhxk.com^$important
 ||jmbyjmeleib.bid^$important
 ||jmemwbkpj.bid^$important
@@ -5449,6 +5442,7 @@
 ||jqkxaejcijfz.com^$important
 ||jqleeknw.com^$important
 ||jqmcbepfjgks.com^$important
+||jqmrqgaunex.ru^$important
 ||jqojocdbjpdyk.bid^$important
 ||jqpuxvgnxkf.com^$important
 ||jqqlucchmbxnn.com^$important
@@ -8959,6 +8953,7 @@
 ||rcqyocxmmkais.bid^$important
 ||rcsumbkoyens.bid^$important
 ||rctanilirwefr.bid^$important
+||rctfgrazkha.ru^$important
 ||rcumwyqkv.com^$important
 ||rcvhzfcnja.com^$important
 ||rcwczstm.com^$important
@@ -9523,6 +9518,7 @@
 ||sendpulse.com^$important
 ||senfvsdvtsn.com^$important
 ||senrzuolwqvj.com^$important
+||sentemanactri.com^$important
 ||sentifiest.com^$important
 ||sentrapromosi.com^$important
 ||seoaelrfdy.com^$important
@@ -9976,6 +9972,7 @@
 ||swezbddhwcz.com^$important
 ||swfqsfewk.bid^$important
 ||swgvpkwmojcv.com^$important
+||swiftmining.win^$important
 ||swimslope.com^$important
 ||swkhaeiymk.bid^$important
 ||swmwgptzlgsc.com^$important
@@ -10213,6 +10210,7 @@
 ||themoneytizer.com^$important
 ||theonecdn.com^$important
 ||thermosthahiti.website^$important
+||thersprens.com^$important
 ||thewebsitetofindplayersbest.info^$important
 ||thibzxxtotyqg.bid^$important
 ||thicktrucks.com^$important
@@ -10719,6 +10717,7 @@
 ||ugdturner.com$important
 ||ugfxrrqz.bid^$important
 ||ugkppchlelde.com^$important
+||ugmfvqsu.ru^$important
 ||ugrastes.uk^$important
 ||ugvcpwyplnj.bid^$important
 ||ugvdjzysvfivy.com^$important
@@ -11451,6 +11450,7 @@
 ||vtqdavdjsymt.com^$important
 ||vtqmlzprsunm.com^$important
 ||vtracy.de^$important
+||vtsgaqnfvzcyu.ru^$important
 ||vtukwrrfjxybsh.bid^$important
 ||vtvjkyqstvec.com^$important
 ||vtvvokys.bid^$important
