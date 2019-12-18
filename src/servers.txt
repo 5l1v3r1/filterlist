@@ -6,14 +6,6 @@
 /^(https?|ftp|wss?):\/\/([^\s]+\.)?mi\-de\-ner\-nis([0-9]{1,3})?\.info/$important
 /^https:\/\/69([a-z]{1,2})\.([a-z]{4})/$important
 /^https:\/\/mxcdn([0-9]{1,3})?\.now\.sh/$important
-||vy4e3jw46l.com^$important
-||creative.stripchat.com^$important
-||ehu96t2p.com^$important
-||jozxoq42.com^$important
-||o4uxrk33.com^$important
-||theonecdn.com^$important
-||klsdee.com^$important
-||vrfuckdoll.net^$important
 /^https:\/\/npcdn([0-9]{1,3})?\.now\.sh/$important
 /^https:\/\/sxcdn([0-9]{1,3})?\.now\.sh/$important
 /^https?:\/\/(([a-zA-Z]{1})?[0-9]{1,4})?adserv\./$important
@@ -2016,6 +2008,7 @@
 ||crcewevoy.com^$important
 ||creadordedinero.com^$important
 ||createfeartr3.com^$important
+||creative.stripchat.com^$important
 ||credbgvhijbcj.com^$important
 ||credishe.com^$important
 ||creyboif.bid^$important
@@ -2839,6 +2832,7 @@
 ||ehraxliuwt.com^$important
 ||ehrwekypesnl.bid^$important
 ||ehrxkeosifmksi.bid^$important
+||ehu96t2p.com^$important
 ||ehuomemzh.com^$important
 ||ehxfudlqli.com^$important
 ||ehxpqwlnittvow.bid^$important
@@ -5413,6 +5407,7 @@
 ||jovzikimk.com^$important
 ||joxocqrbxe.bid^$important
 ||jozfwcmrxkwva.com^$important
+||jozxoq42.com^$important
 ||jpabviwck.com^$important
 ||jpcfosuswcqy.com^$important
 ||jpdauipgz.com^$important
@@ -5764,6 +5759,7 @@
 ||klnzalfz.com^$important
 ||klprrjvqalwx.bid^$important
 ||klqnukgo.com^$important
+||klsdee.com^$important
 ||klsduixe.com^$important
 ||klurrmvbqrhrwc.com^$important
 ||klxteeltivy.com^$important
@@ -10204,6 +10200,7 @@
 ||thegoodcaster.com^$important
 ||theirsvendor.com^$important
 ||themoneytizer.com^$important
+||theonecdn.com^$important
 ||thermosthahiti.website^$important
 ||thewebsitetofindplayersbest.info^$important
 ||thibzxxtotyqg.bid^$important
@@ -11399,6 +11396,7 @@
 ||vreqpavawpbfl.bid^$important
 ||vrewpywootyu.com^$important
 ||vreyirfvpytz.com^$important
+||vrfuckdoll.net^$important
 ||vriirdcvrvanh.com^$important
 ||vrmygckv.bid^$important
 ||vrnyvgkga.bid^$important

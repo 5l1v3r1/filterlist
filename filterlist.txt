@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-18 07:20:03
-! Version: 20191218072003
+! Last modified: 2019-12-18 11:22:10
+! Version: 20191218112210
 ! Expires: 3 hours
-! Number of filters: 13569
+! Number of filters: 13575
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -2136,6 +2136,7 @@ http*:*/vinos.js$important,script
 ||crcewevoy.com^$important
 ||creadordedinero.com^$important
 ||createfeartr3.com^$important
+||creative.stripchat.com^$important
 ||credbgvhijbcj.com^$important
 ||credishe.com^$important
 ||creyboif.bid^$important
@@ -2961,6 +2962,7 @@ http*:*/vinos.js$important,script
 ||ehraxliuwt.com^$important
 ||ehrwekypesnl.bid^$important
 ||ehrxkeosifmksi.bid^$important
+||ehu96t2p.com^$important
 ||ehuomemzh.com^$important
 ||ehxfudlqli.com^$important
 ||ehxpqwlnittvow.bid^$important
@@ -5540,6 +5542,7 @@ http*:*/vinos.js$important,script
 ||jovzikimk.com^$important
 ||joxocqrbxe.bid^$important
 ||jozfwcmrxkwva.com^$important
+||jozxoq42.com^$important
 ||jpabviwck.com^$important
 ||jpcfosuswcqy.com^$important
 ||jpdauipgz.com^$important
@@ -5891,6 +5894,7 @@ http*:*/vinos.js$important,script
 ||klnzalfz.com^$important
 ||klprrjvqalwx.bid^$important
 ||klqnukgo.com^$important
+||klsdee.com^$important
 ||klsduixe.com^$important
 ||klurrmvbqrhrwc.com^$important
 ||klxteeltivy.com^$important
@@ -10336,6 +10340,7 @@ http*:*/vinos.js$important,script
 ||thegoodcaster.com^$important
 ||theirsvendor.com^$important
 ||themoneytizer.com^$important
+||theonecdn.com^$important
 ||thermosthahiti.website^$important
 ||thewebsitetofindplayersbest.info^$important
 ||thibzxxtotyqg.bid^$important
@@ -11534,6 +11539,7 @@ http*:*/vinos.js$important,script
 ||vreqpavawpbfl.bid^$important
 ||vrewpywootyu.com^$important
 ||vreyirfvpytz.com^$important
+||vrfuckdoll.net^$important
 ||vriirdcvrvanh.com^$important
 ||vrmygckv.bid^$important
 ||vrnyvgkga.bid^$important
