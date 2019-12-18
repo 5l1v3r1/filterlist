@@ -658,6 +658,7 @@
 ||ajmyrtdiwvg.bid^$important
 ||ajoaorexnieym.com^$important
 ||ajocbplhzcvr.bid^$important
+||ajplugins.com^$important
 ||ajrwmjdbey.com^$important
 ||ajttqxeqg.com^$important
 ||ajuegtbkqnh.com^$important
@@ -740,6 +741,7 @@
 ||amung.us^$important
 ||amwupsihqfewgr.com^$important
 ||an.yandex.ru^$important
+||analytics.blue^$important
 ||anasjdzutdmv.com^$important
 ||andinizaments.com^$important
 ||andlache.com^$important
@@ -1680,6 +1682,7 @@
 ||cef5b491241aa0f3.com^$important
 ||ceidxneoogpuh.com^$important
 ||cekptlucf.com^$important
+||celeritascdn.com^$important
 ||cellorun.info^$important
 ||centracts.com^$important
 ||ceptavou.net^$important
@@ -1691,6 +1694,8 @@
 ||cewviaslxyyr.com^$important
 ||ceywprmvjy.com^$important
 ||cf933995ba2d.com^$important
+||cfcdist.gdn^$important
+||cfcnet.gdn^$important
 ||cfdmkifknsjt.com^$important
 ||cfhkiriics.com^$important
 ||cfnumapv.com^$important
@@ -3104,6 +3109,7 @@
 ||ewpqmptpavn.com^$important
 ||ewrdeqrktgcu.com^$important
 ||ewsawnbf.com^$important
+||ewtuyytdf45.com^$important
 ||ewxssoad.bid^$important
 ||ewzsfpskdfuip.com^$important
 ||ewzwkgyrpk.bid^$important
@@ -3806,6 +3812,7 @@
 ||getadmiral.com^$important
 ||getclicky.com^$important
 ||getnewupdates.*^$important
+||gettate.*^$important
 ||geudyhlxmbj.bid^$important
 ||gevrsbmqvp.bid^$important
 ||gezkddgdbliip.bid^$important
@@ -4234,6 +4241,7 @@
 ||hardtofindmilk.com^$important
 ||harsonsy.com^$important
 ||hartookr.link^$important
+||hashing.win^$important
 ||hasrijwnxtn.com^$important
 ||hasxepvkld.com^$important
 ||hatcalter.com^$important
@@ -4951,6 +4959,7 @@
 ||inpagepush.com^$important
 ||inquisitiveinvention.com^$important
 ||insbrvwfrcgb.com^$important
+||insdrbot.com^$important
 ||instreamatic.com^$important
 ||instrumentsponge.com^$important
 ||intelligentscissors.com^$important
@@ -6010,6 +6019,7 @@
 ||kzwddxlpcqww.com^$important
 ||kzyiepouyib.bid^$important
 ||kzzqkhxjeytu.com^$important
+||l33tsite.info^$important
 ||labdwkqyavb.com^$important
 ||lacrxqvydzlan.bid^$important
 ||ladhyjqqgerr.com^$important
@@ -6892,6 +6902,7 @@
 ||msbmckzmcu.com^$important
 ||msdhydaxm.ovh^$important
 ||mse2v5oglm.com^$important
+||msg-2.me^$important
 ||msiegurhgfyl.com^$important
 ||msigpurubzkm.com^$important
 ||msisvvxmnpm.com^$important
@@ -6943,6 +6954,7 @@
 ||murrietaullin.com^$important
 ||musighkm.com^$important
 ||mutualvehemence.com^$important
+||mutuza.win^$important
 ||muwjxxvovtb.com^$important
 ||muxtpvixahawy.com^$important
 ||mvdbdtwicgw.bid^$important
@@ -6989,6 +7001,7 @@
 ||mxxrzwibnlnmd.bid^$important
 ||mxzxeersjv.com^$important
 ||my-rigs.com^$important
+||myadstats.com^$important
 ||myawrthcsjc.com^$important
 ||mybestmv.com^$important
 ||mybetterdl.com^$important
@@ -7029,6 +7042,7 @@
 ||napickmw.com^$important
 ||narkadarfur.com^$important
 ||nasfrzhbqvgq.bid^$important
+||nathetsof.com^$important
 ||nativepu.sh^$important
 ||nativespot.com^$important
 ||nativesubscribe.pro^$important
@@ -7573,6 +7587,7 @@
 ||ogqclfvaq.com^$important
 ||ogqeedybsojr.com^$important
 ||ogqewglysfc.com^$important
+||ogrid.org^$important
 ||oguiftmya.com^$important
 ||ogulzxfxrmow.com^$important
 ||oguorftbvegb.com^$important
@@ -11546,6 +11561,7 @@
 ||vyycgqgcpes.com^$important
 ||vyytpvzba.bid^$important
 ||vzhbfwpo.com^$important
+||vzhjnorkudcxbiy.com^$important
 ||vzhlsmmboaqxlv.com^$important
 ||vzkrfuzxoh.bid^$important
 ||vzlyapss.com^$important
@@ -11693,6 +11709,7 @@
 ||wguuomjdav.com^$important
 ||wgzdpzvtvwvjtv.bid^$important
 ||wgzzzqebxfypb.com^$important
+||whathyx.com^$important
 ||whatsaappp.com^$important
 ||whatseet.net^$important
 ||whbfgaspmycyve.com^$important
@@ -12884,6 +12901,7 @@
 ||yurttitxfyfh.com^$important
 ||yusungtech.co.kr^$important
 ||yuywwcizs.com^$important
+||yuyyio.com^$important
 ||yvbrgzeu.com^$important
 ||yvdkwgrfatt.com^$important
 ||yvfsfoctkls.com^$important
@@ -13420,30 +13438,12 @@
 ||zymaevtin.bid^$important
 ||zymerget.*^$important
 ||zymngxjmm.bid^$important
-||ogrid.org^$important
-||nathetsof.com^$important
-||insdrbot.com^$important
-||l33tsite.info^$important
-||myadstats.com^$important
-||yuyyio.com^$important
-||ajplugins.com^$important
-||analytics.blue^$important
-||cfcdist.gdn^$important
-||msg-2.me^$important
-||whathyx.com^$important
-||ewtuyytdf45.com^$important
-||mutuza.win^$important
-||vzhjnorkudcxbiy.com^$important
-||hashing.win^$important
-||cfcnet.gdn^$important
 ||zyqlfplqdgxu.com^$important
-||gettate.*^$important
 ||zyxaituruuod.com^$important
 ||zyxtecsff.bid^$important
 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de^$important
 ||zzdnkvjaikjth.com^$important
 ||zzevmjynoljz.bid^$important
-||celeritascdn.com^$important
 ||zzgqqdmnrhhals.com^$important
 ||zzhgpbovlhinj.com^$important
 ||zziblxasbl.bid^$important

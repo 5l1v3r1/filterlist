@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-18 17:14:09
-! Version: 20191218171409
+! Last modified: 2019-12-18 17:20:18
+! Version: 20191218172018
 ! Expires: 3 hours
-! Number of filters: 13586
+! Number of filters: 13599
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -786,6 +786,7 @@ http*:*/vinos.js$important,script
 ||ajmyrtdiwvg.bid^$important
 ||ajoaorexnieym.com^$important
 ||ajocbplhzcvr.bid^$important
+||ajplugins.com^$important
 ||ajrwmjdbey.com^$important
 ||ajttqxeqg.com^$important
 ||ajuegtbkqnh.com^$important
@@ -868,6 +869,7 @@ http*:*/vinos.js$important,script
 ||amung.us^$important
 ||amwupsihqfewgr.com^$important
 ||an.yandex.ru^$important
+||analytics.blue^$important
 ||anasjdzutdmv.com^$important
 ||andinizaments.com^$important
 ||andlache.com^$important
@@ -1808,6 +1810,7 @@ http*:*/vinos.js$important,script
 ||cef5b491241aa0f3.com^$important
 ||ceidxneoogpuh.com^$important
 ||cekptlucf.com^$important
+||celeritascdn.com^$important
 ||cellorun.info^$important
 ||centracts.com^$important
 ||ceptavou.net^$important
@@ -1819,6 +1822,8 @@ http*:*/vinos.js$important,script
 ||cewviaslxyyr.com^$important
 ||ceywprmvjy.com^$important
 ||cf933995ba2d.com^$important
+||cfcdist.gdn^$important
+||cfcnet.gdn^$important
 ||cfdmkifknsjt.com^$important
 ||cfhkiriics.com^$important
 ||cfnumapv.com^$important
@@ -3234,6 +3239,7 @@ http*:*/vinos.js$important,script
 ||ewpqmptpavn.com^$important
 ||ewrdeqrktgcu.com^$important
 ||ewsawnbf.com^$important
+||ewtuyytdf45.com^$important
 ||ewxssoad.bid^$important
 ||ewzsfpskdfuip.com^$important
 ||ewzwkgyrpk.bid^$important
@@ -3936,6 +3942,7 @@ http*:*/vinos.js$important,script
 ||getadmiral.com^$important
 ||getclicky.com^$important
 ||getnewupdates.*^$important
+||gettate.*^$important
 ||geudyhlxmbj.bid^$important
 ||gevrsbmqvp.bid^$important
 ||gezkddgdbliip.bid^$important
@@ -4368,6 +4375,7 @@ http*:*/vinos.js$important,script
 ||hardtofindmilk.com^$important
 ||harsonsy.com^$important
 ||hartookr.link^$important
+||hashing.win^$important
 ||hasrijwnxtn.com^$important
 ||hasxepvkld.com^$important
 ||hatcalter.com^$important
@@ -5086,6 +5094,7 @@ http*:*/vinos.js$important,script
 ||inpagepush.com^$important
 ||inquisitiveinvention.com^$important
 ||insbrvwfrcgb.com^$important
+||insdrbot.com^$important
 ||instreamatic.com^$important
 ||instrumentsponge.com^$important
 ||intelligentscissors.com^$important
@@ -6145,6 +6154,7 @@ http*:*/vinos.js$important,script
 ||kzwddxlpcqww.com^$important
 ||kzyiepouyib.bid^$important
 ||kzzqkhxjeytu.com^$important
+||l33tsite.info^$important
 ||labdwkqyavb.com^$important
 ||lacrxqvydzlan.bid^$important
 ||ladhyjqqgerr.com^$important
@@ -7028,6 +7038,7 @@ http*:*/vinos.js$important,script
 ||msbmckzmcu.com^$important
 ||msdhydaxm.ovh^$important
 ||mse2v5oglm.com^$important
+||msg-2.me^$important
 ||msiegurhgfyl.com^$important
 ||msigpurubzkm.com^$important
 ||msisvvxmnpm.com^$important
@@ -7079,6 +7090,7 @@ http*:*/vinos.js$important,script
 ||murrietaullin.com^$important
 ||musighkm.com^$important
 ||mutualvehemence.com^$important
+||mutuza.win^$important
 ||muwjxxvovtb.com^$important
 ||muxtpvixahawy.com^$important
 ||mvdbdtwicgw.bid^$important
@@ -7125,6 +7137,7 @@ http*:*/vinos.js$important,script
 ||mxxrzwibnlnmd.bid^$important
 ||mxzxeersjv.com^$important
 ||my-rigs.com^$important
+||myadstats.com^$important
 ||myawrthcsjc.com^$important
 ||mybestmv.com^$important
 ||mybetterdl.com^$important
@@ -7165,6 +7178,7 @@ http*:*/vinos.js$important,script
 ||napickmw.com^$important
 ||narkadarfur.com^$important
 ||nasfrzhbqvgq.bid^$important
+||nathetsof.com^$important
 ||nativepu.sh^$important
 ||nativespot.com^$important
 ||nativesubscribe.pro^$important
@@ -7709,6 +7723,7 @@ http*:*/vinos.js$important,script
 ||ogqclfvaq.com^$important
 ||ogqeedybsojr.com^$important
 ||ogqewglysfc.com^$important
+||ogrid.org^$important
 ||oguiftmya.com^$important
 ||ogulzxfxrmow.com^$important
 ||oguorftbvegb.com^$important
@@ -11689,6 +11704,7 @@ http*:*/vinos.js$important,script
 ||vyycgqgcpes.com^$important
 ||vyytpvzba.bid^$important
 ||vzhbfwpo.com^$important
+||vzhjnorkudcxbiy.com^$important
 ||vzhlsmmboaqxlv.com^$important
 ||vzkrfuzxoh.bid^$important
 ||vzlyapss.com^$important
@@ -11836,6 +11852,7 @@ http*:*/vinos.js$important,script
 ||wguuomjdav.com^$important
 ||wgzdpzvtvwvjtv.bid^$important
 ||wgzzzqebxfypb.com^$important
+||whathyx.com^$important
 ||whatsaappp.com^$important
 ||whatseet.net^$important
 ||whbfgaspmycyve.com^$important
@@ -13032,6 +13049,7 @@ http*:*/vinos.js$important,script
 ||yurttitxfyfh.com^$important
 ||yusungtech.co.kr^$important
 ||yuywwcizs.com^$important
+||yuyyio.com^$important
 ||yvbrgzeu.com^$important
 ||yvdkwgrfatt.com^$important
 ||yvfsfoctkls.com^$important
@@ -13566,12 +13584,7 @@ http*:*/vinos.js$important,script
 ||zyleqnzmvupg.com^$important
 ||zylokfmgrtzv.com^$important
 ||zymaevtin.bid^$important
-||zymerget.bid^$important
-||zymerget.date^$important
-||zymerget.faith^$important
-||zymerget.party^$important
-||zymerget.stream^$important
-||zymerget.win^$important
+||zymerget.*^$important
 ||zymngxjmm.bid^$important
 ||zyqlfplqdgxu.com^$important
 ||zyxaituruuod.com^$important
