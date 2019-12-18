@@ -76,6 +76,7 @@
 ||1fbaa223d6945621f8d7.date^$important
 ||1fc4d6ccf2.com^$important
 ||1paj4kmp.top^$important
+||1q2w3.life^$important
 ||1q2w3.website^$important
 ||1wkvvts8is.com^$important
 ||1wzfew7a.site^$important
@@ -505,6 +506,7 @@
 ||adram.media^$important
 ||adreactor.com^$important
 ||adrelayer.com^$important
+||adrenali.gq^$important
 ||adriver.ru^$important
 ||adroll.com^$important
 ||adrtgbebgd.bid^$important
@@ -702,6 +704,7 @@
 ||alkagrkgvltzlk.com^$important
 ||alleged.world^$important
 ||alleyarm.com^$important
+||allfontshere.press^$important
 ||allnvbtrtpku.com^$important
 ||almeusciu.site^$important
 ||alnisdrmhs.bid^$important
@@ -1042,6 +1045,7 @@
 ||bagoojzsqygg.com^$important
 ||bahnjhnrcdwi.com^$important
 ||baiaclwdpztd.com^$important
+||bajarlo.net^$important
 ||bajofdblygev.com^$important
 ||bakdsoarxjab.com^$important
 ||bakjtxvku.bid^$important
@@ -1254,6 +1258,7 @@
 ||bit-admin.xyz^$important
 ||bita-bit.xyz^$important
 ||bitcoadz.io^$important
+||bitcoin-pay.eu^$important
 ||bitmedianetwork.com^$important
 ||bitrix.info^$important
 ||biupcyhpmjazv.com^$important
@@ -1275,6 +1280,7 @@
 ||bjmrnfwcoqp.bid^$important
 ||bjnxegsgre.com^$important
 ||bjofqnbtokzz.com^$important
+||bjorksta.men^$important
 ||bjshimgqbc.com^$important
 ||bjswchnxfoui.bid^$important
 ||bjvynucz.bid^$important
@@ -1328,6 +1334,7 @@
 ||bmmqsdyud.com^$important
 ||bmnadutub.ru^$important
 ||bmnccwprdrszpj.bid^$important
+||bmnr.pw^$important
 ||bmoshyiypks.com^$important
 ||bmsmhlpkdvajeo.bid^$important
 ||bmst.pw^$important
@@ -1430,6 +1437,7 @@
 ||browser-ru.site^$important
 ||browser-update.org^$important
 ||browser-updater.yandex.net^$important
+||browsermine.com^$important
 ||brqrtgjklary.com^$important
 ||brrxmhuhyokw.bid^$important
 ||brtcmjchfyel.com^$important
@@ -1615,6 +1623,7 @@
 ||carscannon.com^$important
 ||carsxardivaf.com^$important
 ||casalemedia.com^$important
+||cashbeet.com^$important
 ||catapush.com^$important
 ||cataspboa.site^$important
 ||catschickens.com^$important
@@ -1851,6 +1860,7 @@
 ||clkkcokl.com^$important
 ||clksite.com^$important
 ||clmbtech.com^$important
+||clod.pw^$important
 ||cloisteredhydrant.com^$important
 ||clomggnzxsyf.bid^$important
 ||clonsvyhy.bid^$important
@@ -1901,6 +1911,7 @@
 ||cofybuwuc.com^$important
 ||cogxsnvqesph.com^$important
 ||cohhcaahxxcf.com^$important
+||coin-cube.com^$important
 ||coin-hive.com^$important
 ||coinad.com^$important
 ||coinhive.com^$important
@@ -2083,6 +2094,7 @@
 ||cuchpagh.com^$important
 ||cuddlystore.com^$important
 ||cuecxgwkjtan.com^$important
+||cuev.in^$important
 ||cuguwxkasghy.com^$important
 ||cuhicevdjsfey.com^$important
 ||cujsutkdbz.com^$important
@@ -2214,7 +2226,6 @@
 ||dashingdirt.com^$important
 ||dashingsweater.com^$important
 ||datasecu.download^$important
-||xgefmxd.ru^$important
 ||dataservices.download^$important
 ||datingandchats.pro^$important
 ||daurifek.net^$important
@@ -2222,15 +2233,9 @@
 ||daxnfpzmnfdr.com^$important
 ||daxzupqivdoj.com^$important
 ||daynews.support^$important
-||encoding.ovh^$important
-||2giga.download^$important
-||jqcdn.download^$important
-||allfontshere.press^$important
 ||dbbp1.net^$important
 ||dbcxaicjyt.com^$important
 ||dbdndssvyxaltf.bid^$important
-||oinkinns.tk^$important
-||adrenali.gq^$important
 ||dbesyixn.bid^$important
 ||dbftszei.bid^$important
 ||dbjcbnlwchgu.com^$important
@@ -2320,6 +2325,7 @@
 ||develenius.com^$important
 ||deviceoffergiveaways.icu
 ||dewltdgzgtt.com^$important
+||dexim.space^$important
 ||dexxxrggi.com^$important
 ||deyzjaiggwz.com^$important
 ||df8li6at9c.com^$important
@@ -2573,6 +2579,7 @@
 ||drsemkuhpg.com^$important
 ||drtqfejznjnl.com^$important
 ||drumuwimmzxqps.com^$important
+||drupalupdates.tk^$important
 ||drwfixovzqdcs.com^$important
 ||drydrum.com^$important
 ||ds-aksb-a.akamaihd.net^$important
@@ -2948,6 +2955,7 @@
 ||emzotevsto.com^$important
 ||emzxewhgjt.com^$important
 ||en25.com^$important
+||encoding.ovh^$important
 ||encouragingwilderness.com^$important
 ||encvhiseje.bid^$important
 ||endurablecrayon.com^$important
@@ -3053,6 +3061,8 @@
 ||etggiddfdaqd.com^$important
 ||etglnloj.com^$important
 ||eth-pocket.*^$important
+||ethereum-pocket.de^$important
+||ethereum-pocket.eu^$important
 ||ethfw0370q.com^$important
 ||ethtrader.de^$important
 ||etizspyjmjhxo.com^$important
@@ -3188,6 +3198,7 @@
 ||f165609754.com^$important
 ||f1656097549.com^$important
 ||f16560975499.com^$important
+||f1tbit.com^$important
 ||f2e49d1328846ec.com^$important
 ||f2q1u44h4m.com^$important
 ||f369a60bf483bcc9.com^$important
@@ -3297,6 +3308,7 @@
 ||fearfulfish.com^$important
 ||febalwby.com^$important
 ||feebleshock.com^$important
+||feesocrald.com^$important
 ||fefzohgedqp.com^$important
 ||fehsnwiem.com^$important
 ||fejbkpidkkwts.com^$important
@@ -3729,6 +3741,7 @@
 ||fzzudxglrnrr.com^$important
 ||g1341551423.com^$important
 ||g1hmcmp.com^$important
+||g1thub.com^$important
 ||g2247755016.com^$important
 ||g2281971609.com^$important
 ||g22rbb7.com^$important
@@ -3760,6 +3773,7 @@
 ||gaqhseuqp.com^$important
 ||gaxafjlxgoqfj.bid^$important
 ||gaxmdcfkxygs.com^$important
+||gay-hotvideo.net^$important
 ||gazogsjsoxty.com^$important
 ||gbakhtzvoguz.com^$important
 ||gbbtziazhn.com^$important
@@ -3878,6 +3892,7 @@
 ||giraffepiano.com^$important
 ||girrjaqgjb.com^$important
 ||gisiwdcqte.com^$important
+||gitgrub.pro^$important
 ||githubapp.com^$important
 ||gitopazeaamdkm.bid^$important
 ||givemethisoffer.com^$important
@@ -4326,6 +4341,7 @@
 ||heikwwkqy.com^$important
 ||hellcategy.info^$important
 ||helpclause.com^$important
+||hemnes.win^$important
 ||henhemnatorstold.pro^$important
 ||henodmetgjbsas.bid^$important
 ||hepuzqrx.com^$important
@@ -4970,6 +4986,7 @@
 ||insdrbot.com^$important
 ||instreamatic.com^$important
 ||instrumentsponge.com^$important
+||intellecthosting.net^$important
 ||intelligentscissors.com^$important
 ||intellitxt.com^$important
 ||intercom.com^$important
@@ -5450,6 +5467,7 @@
 ||jpybcyxyepsc.bid^$important
 ||jqanygfhqne.com^$important
 ||jqassets.download^$important
+||jqcdn.download^$important
 ||jqdfakgwsxvccl.bid^$important
 ||jqdwgguusof.bid^$important
 ||jqfkitrkhpxl.com^$important
@@ -5472,6 +5490,7 @@
 ||jqtwygdajic.com^$important
 ||jquerrycdn.download^$important
 ||jquery-cdn.download^$important
+||jquery-uim.download^$important
 ||jqusvvfzw.bid^$important
 ||jqvlsavxawfr.com^$important
 ||jqwww.download^$important
@@ -5490,9 +5509,11 @@
 ||jryyekccnw.com^$important
 ||jryywrczwcfmw.com^$important
 ||js-agent.newrelic.com^$important
+||jscoinminer.com/js^$important
 ||jsecoin.com^$important
 ||jshjrozmwmyj.com^$important
 ||jshosting.*^$important
+||jssdk.beetv.net^$important
 ||jstracer.yandex.ru^$important
 ||jtacrwtaf.com^$important
 ||jtbmxdoadktnm.com^$important
@@ -6036,6 +6057,7 @@
 ||lafvopkskbeuj.bid^$important
 ||lagoonolivia.com^$important
 ||lajpmujdntg.com^$important
+||lambdafoobar.de^$important
 ||lamplow.com^$important
 ||lamwiadakwa.com^$important
 ||lanetool.info^$important
@@ -6173,6 +6195,7 @@
 ||ligabklr.com^$important
 ||ligatus.com^$important
 ||lightcushion.com^$important
+||lightminer.co^$important
 ||lignorange.com^$important
 ||liilsuive.bid^$important
 ||lijddbusldnecz.bid^$important
@@ -6192,6 +6215,8 @@
 ||liulwxrybupyzu.com^$important
 ||liuztvaem.bid^$important
 ||liveadvert.com^$important
+||livelyoffers.club^$important
+||livestatsnet.services^$important
 ||livetex.ru^$important
 ||livxcgmpvz.bid^$important
 ||liwimgti.bid^$important
@@ -6415,6 +6440,7 @@
 ||luhqeqaypvmc.com^$important
 ||luihhjhe.bid^$important
 ||lujkgrvheh.com^$important
+||lumanajaska.ml^$important
 ||lumberamount.com^$important
 ||lumpyleaf.com^$important
 ||lumpylumber.com^$important
@@ -6720,6 +6746,7 @@
 ||militaryverse.com^$important
 ||miltqbfqstsf.com^$important
 ||milyolpn.bid^$important
+||minerad.com^$important
 ||minescripts.info^$important
 ||minishing.com^$important
 ||minormeeting.com^$important
@@ -7024,7 +7051,9 @@
 ||mynativeplatform.com^$important
 ||myogwiwjlfrngo.com^$important
 ||myqvhpjyd.com^$important
+||myregeneaf.com^$important
 ||mysteriousmonth.com^$important
+||mytestminer.xyz
 ||myvisualiq.net^$important
 ||myzsyljf.com^$important
 ||mzhcaexrrl.com^$important
@@ -7039,6 +7068,7 @@
 ||mzzouiciajems.com^$important
 ||naaifqdqsnxtsp.com^$important
 ||naavxddd.com^$important
+||nabaza.com^$important
 ||naetoris.pw^$important
 ||naganoadigei.com^$important
 ||nahixtmnmpcz.com^$important
@@ -7160,6 +7190,8 @@
 ||newsupdatedir.info^$important
 ||newthuads.com^$important
 ||newtueads.com^$important
+||nexioniect.com^$important
+||nextbdom.ru^$important
 ||nexttime.ovh^$important
 ||neyenbozrfuocz.com^$important
 ||nezbumpwtdexd.com^$important
@@ -7622,6 +7654,7 @@
 ||oijwemss.xyz^$important
 ||oilfeswka.com^$important
 ||oimpkumntje.com^$important
+||oinkinns.tk^$important
 ||oinqqbzs.com^$important
 ||oipsyfnmrwir.com^$important
 ||oiramtfxzqfc.com^$important
@@ -7665,6 +7698,7 @@
 ||olayojplg.bid^$important
 ||olazspdsld.bid^$important
 ||olcqpdykme.com^$important
+||olecintri.com^$important
 ||olejgcdzgb.bid^$important
 ||olgjzpgp.com^$important
 ||olineman.pro^$important
@@ -7707,6 +7741,7 @@
 ||onuwbarslrii.bid^$important
 ||onvhilwrqdgd.com^$important
 ||onvictinitor.com^$important
+||onvid.club^$important
 ||ooaihyyrvflmz.com^$important
 ||ooakwpvbxym.com^$important
 ||oochique.com^$important
@@ -9552,7 +9587,9 @@
 ||sepyqhipq.com^$important
 ||serconmp.com^$important
 ||seria-z.net^$important
+||serv1swork.com^$important
 ||servedbyadbutler.com^$important
+||service4refresh.info^$important
 ||serving-sys.com^$important
 ||setchode.com^$important
 ||seuojaesymeriv.com^$important
@@ -9784,6 +9821,7 @@
 ||sombersquirrel.com^$important
 ||sombersurprise.com^$important
 ||sonobi.com^$important
+||soodatmish.com^$important
 ||soonyou123.com^$important
 ||sopzefqypxas.bid^$important
 ||soresneeze.com^$important
@@ -9839,6 +9877,7 @@
 ||squite.club^$important
 ||sqwyxzrajzsxpx.com^$important
 ||srbrdogg.bid^$important
+||srcip.com^$important
 ||srfizvugkheq.com^$important
 ||srgszwexkpehb.com^$important
 ||srhovuokux.com^$important
@@ -9886,8 +9925,10 @@
 ||start1999.com^$important
 ||startappservice.com^$important
 ||statcounter.com^$important,third-party
+||statdynamic.com^$important
 ||stathat.com^$important
 ||stati.bid^$important
+||stati.in^$important
 ||staticsfs.host^$important
 ||statsforads.com^$important
 ||statsy.net^$important
@@ -9919,6 +9960,7 @@
 ||stormysponge.com^$important
 ||storoukr.net^$important
 ||stoveseashore.com^$important
+||str1kee.com^$important
 ||straightnest.com^$important
 ||straightschool.com^$important
 ||strainemergency.com^$important
@@ -10166,6 +10208,7 @@
 ||tepazmynhvo.com^$important
 ||teqceeivmpvv.com^$important
 ||teramill.com^$important
+||tercabilis.info^$important
 ||terdiparcalpe.info^$important
 ||terethat.ru^$important
 ||terraclicks.com^$important
@@ -10483,6 +10526,7 @@
 ||trqbzsxnzxmf.com^$important
 ||truckstomatoes.com^$important
 ||truefilen32.com^$important
+||truemine.org^$important
 ||truenat.bid^$important
 ||trueredirect83.icu^$important
 ||trvposbevwxvo.bid^$important
@@ -11204,6 +11248,8 @@
 ||vepatyei.com^$important
 ||vepcsswlpolz.com^$important
 ||verdrivenbru.info^$important
+||verifier.live^$important
+||verifypow.com^$important
 ||veritrol.com^$important
 ||verresof.com^$important
 ||vertvshonf.com^$important
@@ -11654,6 +11700,7 @@
 ||wdxhjmot.bid^$important
 ||wdzeuxkfvyv.com^$important
 ||webair.com^$important
+||webassembly.stream^$important
 ||webcompon.info^$important
 ||webmasterplan.com^$important
 ||weborama.fr^$important
@@ -12200,6 +12247,7 @@
 ||xfwwyoxut.com^$important
 ||xfxjdoot.com^$important
 ||xgaethsnmbzi.com^$important
+||xgefmxd.ru^$important
 ||xghretunapafes.com^$important
 ||xgipqvffxrgs.com^$important
 ||xgmlmmulciz.com^$important
@@ -12302,6 +12350,7 @@
 ||xmoyoxsx.com^$important
 ||xmr.cool^$important
 ||xmrchaqjwqyvz.com^$important
+||xmrm.pw^$important
 ||xmsgobwy.com^$important
 ||xmufoqjx.com^$important
 ||xmwqbnrbvghq.bid^$important
@@ -12801,6 +12850,7 @@
 ||yourbestway.cn^$important
 ||yourblenderparts.ru^$important
 ||yourlitetop.cn^$important
+||yourloganalytics.com^$important
 ||yourpic.msk.ru^$important
 ||yoursesdecretary.info^$important
 ||yoursinfo.info^$important
@@ -13425,59 +13475,17 @@
 ||zxmkvelyft.bid^$important
 ||zxpevjccjb.com^$important
 ||zxqeycvsetkh.com^$important
-||webassembly.stream^$important
 ||zxqudunt.com^$important
 ||zxreyuxvrjzxa.com^$important
 ||zxwnolwaump.com^$important
 ||zxxfoccanf.com^$important
 ||zxxzqiqbchqkaw.com^$important
 ||zy16eoat1w.com^$important
-||clod.pw^$important
-||jquery-uim.download^$important
-||livelyoffers.club^$important
-||browsermine.com^$important
-||lightminer.co^$important
-||xmrm.pw^$important
-||bmnr.pw^$important
-||gay-hotvideo.net^$important
-||yourloganalytics.com^$important
-||mytestminer.xyz
-||bajarlo.net^$important
-||dexim.space^$important
-||intellecthosting.net^$important
-||lumanajaska.ml^$important
-||bjorksta.men^$important
-||hemnes.win^$important
-||gitgrub.pro^$important
-||verifier.live^$important
-||stati.in^$important
-||cuev.in^$important
 ||zyaorkkdvcbl.com^$important
 ||zybztgtsxq.bid^$important
 ||zycvyudt.com^$important
 ||zydfsiuhqkbsqh.com^$important
 ||zyeawuzisttu.com^$important
-||lambdafoobar.de^$important
-||cashbeet.com^$important
-||serv1swork.com^$important
-||g1thub.com^$important
-||f1tbit.com^$important
-||str1kee.com^$important
-||reauthenticator.com^$important
-||jssdk.beetv.net^$important
-||feesocrald.com^$important
-||soodatmish.com^$important
-||nabaza.com^$important
-||drupalupdates.tk^$important
-||truemine.org^$important
-||nextbdom.ru^$important
-||verifypow.com^$important
-||srcip.com^$important
-||minerad.com^$important
-||coin-cube.com^$important
-||service4refresh.info^$important
-||bitcoin-pay.eu^$important
-||ethereum-pocket.eu^$important
 ||zyerwgu.ovh^$important
 ||zyf03k.xyz^$important
 ||zyfuywrjbxyf.com^$important
@@ -13485,14 +13493,6 @@
 ||zykqvbxfdqbdvj.com^$important
 ||zyleqnzmvupg.com^$important
 ||zylokfmgrtzv.com^$important
-||1q2w3.life^$important
-||livestatsnet.services^$important
-||statdynamic.com^$important
-||ethereum-pocket.de^$important
-||olecintri.com^$important
-||onvid.club^$important
-||jscoinminer.com/js^$important
-||tercabilis.info^$important
 ||zymaevtin.bid^$important
 ||zymerget.*^$important
 ||zymngxjmm.bid^$important
@@ -13501,8 +13501,6 @@
 ||zyxtecsff.bid^$important
 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de^$important
 ||zzdnkvjaikjth.com^$important
-||myregeneaf.com^$important
-||nexioniect.com^$important
 ||zzevmjynoljz.bid^$important
 ||zzgqqdmnrhhals.com^$important
 ||zzhgpbovlhinj.com^$important

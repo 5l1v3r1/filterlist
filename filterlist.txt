@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-18 17:20:18
-! Version: 20191218172018
+! Last modified: 2019-12-18 17:29:35
+! Version: 20191218172935
 ! Expires: 3 hours
-! Number of filters: 13599
+! Number of filters: 13658
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -25,6 +25,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?informers?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?logs?(ging|impressions?|g?ers?)?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?metric?[asx]?([0-9]{1,3})?\./$important,domain=~metrica.yandex.com|~metrica.yandex.ru|~metrika.yandex.com|~metrika.yandex.ru
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?miner([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?monitor([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?partners?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?pi?xe?l?([0-9]{1,3})?\./$important
@@ -41,6 +42,7 @@
 /^(https?|ftp|wss?):\/\/([^\s]+\.)?de\-ner\-mi\-nis([0-9]{1,3})?\.info/$important
 /^(https?|ftp|wss?):\/\/([^\s]+\.)?de\-nis\-ner\-mi\-[0-9]{1,3}\.info/$important
 /^(https?|ftp|wss?):\/\/([^\s]+\.)?mi\-de\-ner\-nis([0-9]{1,3})?\.info/$important
+/^(https?|ftp|wss?):\/\/([^\s]+\.)?ner\-de\-mi\-nis\-[0-9]{1,3}\.info/$important
 /^https:\/\/.*?\/v2\/0\/[a-zA-Z0-9_-]{30,}$/$important,script,third-party
 /^https:\/\/69([a-z]{1,2})\.([a-z]{4})/$important
 /^https:\/\/mxcdn([0-9]{1,3})?\.now\.sh/$important
@@ -203,6 +205,7 @@ http*:*/vinos.js$important,script
 ||1fbaa223d6945621f8d7.date^$important
 ||1fc4d6ccf2.com^$important
 ||1paj4kmp.top^$important
+||1q2w3.life^$important
 ||1q2w3.website^$important
 ||1wkvvts8is.com^$important
 ||1wzfew7a.site^$important
@@ -632,6 +635,7 @@ http*:*/vinos.js$important,script
 ||adram.media^$important
 ||adreactor.com^$important
 ||adrelayer.com^$important
+||adrenali.gq^$important
 ||adriver.ru^$important
 ||adroll.com^$important
 ||adrtgbebgd.bid^$important
@@ -829,6 +833,7 @@ http*:*/vinos.js$important,script
 ||alkagrkgvltzlk.com^$important
 ||alleged.world^$important
 ||alleyarm.com^$important
+||allfontshere.press^$important
 ||allnvbtrtpku.com^$important
 ||almeusciu.site^$important
 ||alnisdrmhs.bid^$important
@@ -1169,6 +1174,7 @@ http*:*/vinos.js$important,script
 ||bagoojzsqygg.com^$important
 ||bahnjhnrcdwi.com^$important
 ||baiaclwdpztd.com^$important
+||bajarlo.net^$important
 ||bajofdblygev.com^$important
 ||bakdsoarxjab.com^$important
 ||bakjtxvku.bid^$important
@@ -1381,6 +1387,7 @@ http*:*/vinos.js$important,script
 ||bit-admin.xyz^$important
 ||bita-bit.xyz^$important
 ||bitcoadz.io^$important
+||bitcoin-pay.eu^$important
 ||bitmedianetwork.com^$important
 ||bitrix.info^$important
 ||biupcyhpmjazv.com^$important
@@ -1402,6 +1409,7 @@ http*:*/vinos.js$important,script
 ||bjmrnfwcoqp.bid^$important
 ||bjnxegsgre.com^$important
 ||bjofqnbtokzz.com^$important
+||bjorksta.men^$important
 ||bjshimgqbc.com^$important
 ||bjswchnxfoui.bid^$important
 ||bjvynucz.bid^$important
@@ -1455,6 +1463,7 @@ http*:*/vinos.js$important,script
 ||bmmqsdyud.com^$important
 ||bmnadutub.ru^$important
 ||bmnccwprdrszpj.bid^$important
+||bmnr.pw^$important
 ||bmoshyiypks.com^$important
 ||bmsmhlpkdvajeo.bid^$important
 ||bmst.pw^$important
@@ -1557,6 +1566,7 @@ http*:*/vinos.js$important,script
 ||browser-ru.site^$important
 ||browser-update.org^$important
 ||browser-updater.yandex.net^$important
+||browsermine.com^$important
 ||brqrtgjklary.com^$important
 ||brrxmhuhyokw.bid^$important
 ||brtcmjchfyel.com^$important
@@ -1742,6 +1752,7 @@ http*:*/vinos.js$important,script
 ||carscannon.com^$important
 ||carsxardivaf.com^$important
 ||casalemedia.com^$important
+||cashbeet.com^$important
 ||catapush.com^$important
 ||cataspboa.site^$important
 ||catschickens.com^$important
@@ -1978,6 +1989,7 @@ http*:*/vinos.js$important,script
 ||clkkcokl.com^$important
 ||clksite.com^$important
 ||clmbtech.com^$important
+||clod.pw^$important
 ||cloisteredhydrant.com^$important
 ||clomggnzxsyf.bid^$important
 ||clonsvyhy.bid^$important
@@ -2028,6 +2040,7 @@ http*:*/vinos.js$important,script
 ||cofybuwuc.com^$important
 ||cogxsnvqesph.com^$important
 ||cohhcaahxxcf.com^$important
+||coin-cube.com^$important
 ||coin-hive.com^$important
 ||coinad.com^$important
 ||coinhive.com^$important
@@ -2210,6 +2223,7 @@ http*:*/vinos.js$important,script
 ||cuchpagh.com^$important
 ||cuddlystore.com^$important
 ||cuecxgwkjtan.com^$important
+||cuev.in^$important
 ||cuguwxkasghy.com^$important
 ||cuhicevdjsfey.com^$important
 ||cujsutkdbz.com^$important
@@ -2442,6 +2456,7 @@ http*:*/vinos.js$important,script
 ||develenius.com^$important
 ||deviceoffergiveaways.icu
 ||dewltdgzgtt.com^$important
+||dexim.space^$important
 ||dexxxrggi.com^$important
 ||deyzjaiggwz.com^$important
 ||df8li6at9c.com^$important
@@ -2695,6 +2710,7 @@ http*:*/vinos.js$important,script
 ||drsemkuhpg.com^$important
 ||drtqfejznjnl.com^$important
 ||drumuwimmzxqps.com^$important
+||drupalupdates.tk^$important
 ||drwfixovzqdcs.com^$important
 ||drydrum.com^$important
 ||ds-aksb-a.akamaihd.net^$important
@@ -3070,6 +3086,7 @@ http*:*/vinos.js$important,script
 ||emzotevsto.com^$important
 ||emzxewhgjt.com^$important
 ||en25.com^$important
+||encoding.ovh^$important
 ||encouragingwilderness.com^$important
 ||encvhiseje.bid^$important
 ||endurablecrayon.com^$important
@@ -3175,6 +3192,8 @@ http*:*/vinos.js$important,script
 ||etggiddfdaqd.com^$important
 ||etglnloj.com^$important
 ||eth-pocket.*^$important
+||ethereum-pocket.de^$important
+||ethereum-pocket.eu^$important
 ||ethfw0370q.com^$important
 ||ethtrader.de^$important
 ||etizspyjmjhxo.com^$important
@@ -3310,6 +3329,7 @@ http*:*/vinos.js$important,script
 ||f165609754.com^$important
 ||f1656097549.com^$important
 ||f16560975499.com^$important
+||f1tbit.com^$important
 ||f2e49d1328846ec.com^$important
 ||f2q1u44h4m.com^$important
 ||f369a60bf483bcc9.com^$important
@@ -3419,6 +3439,7 @@ http*:*/vinos.js$important,script
 ||fearfulfish.com^$important
 ||febalwby.com^$important
 ||feebleshock.com^$important
+||feesocrald.com^$important
 ||fefzohgedqp.com^$important
 ||fehsnwiem.com^$important
 ||fejbkpidkkwts.com^$important
@@ -3851,6 +3872,7 @@ http*:*/vinos.js$important,script
 ||fzzudxglrnrr.com^$important
 ||g1341551423.com^$important
 ||g1hmcmp.com^$important
+||g1thub.com^$important
 ||g2247755016.com^$important
 ||g2281971609.com^$important
 ||g22rbb7.com^$important
@@ -3882,6 +3904,7 @@ http*:*/vinos.js$important,script
 ||gaqhseuqp.com^$important
 ||gaxafjlxgoqfj.bid^$important
 ||gaxmdcfkxygs.com^$important
+||gay-hotvideo.net^$important
 ||gazogsjsoxty.com^$important
 ||gbakhtzvoguz.com^$important
 ||gbbtziazhn.com^$important
@@ -4000,6 +4023,7 @@ http*:*/vinos.js$important,script
 ||giraffepiano.com^$important
 ||girrjaqgjb.com^$important
 ||gisiwdcqte.com^$important
+||gitgrub.pro^$important
 ||githubapp.com^$important
 ||gitopazeaamdkm.bid^$important
 ||givemethisoffer.com^$important
@@ -4452,6 +4476,7 @@ http*:*/vinos.js$important,script
 ||heikwwkqy.com^$important
 ||hellcategy.info^$important
 ||helpclause.com^$important
+||hemnes.win^$important
 ||henhemnatorstold.pro^$important
 ||henodmetgjbsas.bid^$important
 ||hepuzqrx.com^$important
@@ -5097,6 +5122,7 @@ http*:*/vinos.js$important,script
 ||insdrbot.com^$important
 ||instreamatic.com^$important
 ||instrumentsponge.com^$important
+||intellecthosting.net^$important
 ||intelligentscissors.com^$important
 ||intellitxt.com^$important
 ||intercom.com^$important
@@ -5577,6 +5603,7 @@ http*:*/vinos.js$important,script
 ||jpybcyxyepsc.bid^$important
 ||jqanygfhqne.com^$important
 ||jqassets.download^$important
+||jqcdn.download^$important
 ||jqdfakgwsxvccl.bid^$important
 ||jqdwgguusof.bid^$important
 ||jqfkitrkhpxl.com^$important
@@ -5599,6 +5626,7 @@ http*:*/vinos.js$important,script
 ||jqtwygdajic.com^$important
 ||jquerrycdn.download^$important
 ||jquery-cdn.download^$important
+||jquery-uim.download^$important
 ||jqusvvfzw.bid^$important
 ||jqvlsavxawfr.com^$important
 ||jqwww.download^$important
@@ -5617,9 +5645,11 @@ http*:*/vinos.js$important,script
 ||jryyekccnw.com^$important
 ||jryywrczwcfmw.com^$important
 ||js-agent.newrelic.com^$important
+||jscoinminer.com/js^$important
 ||jsecoin.com^$important
 ||jshjrozmwmyj.com^$important
 ||jshosting.*^$important
+||jssdk.beetv.net^$important
 ||jstracer.yandex.ru^$important
 ||jtacrwtaf.com^$important
 ||jtbmxdoadktnm.com^$important
@@ -6163,6 +6193,7 @@ http*:*/vinos.js$important,script
 ||lafvopkskbeuj.bid^$important
 ||lagoonolivia.com^$important
 ||lajpmujdntg.com^$important
+||lambdafoobar.de^$important
 ||lamplow.com^$important
 ||lamwiadakwa.com^$important
 ||lanetool.info^$important
@@ -6300,6 +6331,7 @@ http*:*/vinos.js$important,script
 ||ligabklr.com^$important
 ||ligatus.com^$important
 ||lightcushion.com^$important
+||lightminer.co^$important
 ||lignorange.com^$important
 ||liilsuive.bid^$important
 ||lijddbusldnecz.bid^$important
@@ -6319,6 +6351,8 @@ http*:*/vinos.js$important,script
 ||liulwxrybupyzu.com^$important
 ||liuztvaem.bid^$important
 ||liveadvert.com^$important
+||livelyoffers.club^$important
+||livestatsnet.services^$important
 ||livetex.ru^$important
 ||livxcgmpvz.bid^$important
 ||liwimgti.bid^$important
@@ -6542,6 +6576,7 @@ http*:*/vinos.js$important,script
 ||luhqeqaypvmc.com^$important
 ||luihhjhe.bid^$important
 ||lujkgrvheh.com^$important
+||lumanajaska.ml^$important
 ||lumberamount.com^$important
 ||lumpyleaf.com^$important
 ||lumpylumber.com^$important
@@ -6848,6 +6883,7 @@ http*:*/vinos.js$important,script
 ||militaryverse.com^$important
 ||miltqbfqstsf.com^$important
 ||milyolpn.bid^$important
+||minerad.com^$important
 ||minescripts.info^$important
 ||minishing.com^$important
 ||minormeeting.com^$important
@@ -7152,7 +7188,9 @@ http*:*/vinos.js$important,script
 ||mynativeplatform.com^$important
 ||myogwiwjlfrngo.com^$important
 ||myqvhpjyd.com^$important
+||myregeneaf.com^$important
 ||mysteriousmonth.com^$important
+||mytestminer.xyz
 ||myvisualiq.net^$important
 ||myzsyljf.com^$important
 ||mzhcaexrrl.com^$important
@@ -7167,6 +7205,7 @@ http*:*/vinos.js$important,script
 ||mzzouiciajems.com^$important
 ||naaifqdqsnxtsp.com^$important
 ||naavxddd.com^$important
+||nabaza.com^$important
 ||naetoris.pw^$important
 ||naganoadigei.com^$important
 ||nahixtmnmpcz.com^$important
@@ -7288,6 +7327,8 @@ http*:*/vinos.js$important,script
 ||newsupdatedir.info^$important
 ||newthuads.com^$important
 ||newtueads.com^$important
+||nexioniect.com^$important
+||nextbdom.ru^$important
 ||nexttime.ovh^$important
 ||neyenbozrfuocz.com^$important
 ||nezbumpwtdexd.com^$important
@@ -7750,6 +7791,7 @@ http*:*/vinos.js$important,script
 ||oijwemss.xyz^$important
 ||oilfeswka.com^$important
 ||oimpkumntje.com^$important
+||oinkinns.tk^$important
 ||oinqqbzs.com^$important
 ||oipsyfnmrwir.com^$important
 ||oiramtfxzqfc.com^$important
@@ -7794,6 +7836,7 @@ http*:*/vinos.js$important,script
 ||olayojplg.bid^$important
 ||olazspdsld.bid^$important
 ||olcqpdykme.com^$important
+||olecintri.com^$important
 ||olejgcdzgb.bid^$important
 ||olgjzpgp.com^$important
 ||olineman.pro^$important
@@ -7836,6 +7879,7 @@ http*:*/vinos.js$important,script
 ||onuwbarslrii.bid^$important
 ||onvhilwrqdgd.com^$important
 ||onvictinitor.com^$important
+||onvid.club^$important
 ||ooaihyyrvflmz.com^$important
 ||ooakwpvbxym.com^$important
 ||oochique.com^$important
@@ -9683,7 +9727,9 @@ http*:*/vinos.js$important,script
 ||sepyqhipq.com^$important
 ||serconmp.com^$important
 ||seria-z.net^$important
+||serv1swork.com^$important
 ||servedbyadbutler.com^$important
+||service4refresh.info^$important
 ||serving-sys.com^$important
 ||setchode.com^$important
 ||seuojaesymeriv.com^$important
@@ -9915,6 +9961,7 @@ http*:*/vinos.js$important,script
 ||sombersquirrel.com^$important
 ||sombersurprise.com^$important
 ||sonobi.com^$important
+||soodatmish.com^$important
 ||soonyou123.com^$important
 ||sopzefqypxas.bid^$important
 ||soresneeze.com^$important
@@ -9970,6 +10017,7 @@ http*:*/vinos.js$important,script
 ||squite.club^$important
 ||sqwyxzrajzsxpx.com^$important
 ||srbrdogg.bid^$important
+||srcip.com^$important
 ||srfizvugkheq.com^$important
 ||srgszwexkpehb.com^$important
 ||srhovuokux.com^$important
@@ -10017,8 +10065,10 @@ http*:*/vinos.js$important,script
 ||start1999.com^$important
 ||startappservice.com^$important
 ||statcounter.com^$important,third-party
+||statdynamic.com^$important
 ||stathat.com^$important
 ||stati.bid^$important
+||stati.in^$important
 ||staticsfs.host^$important
 ||statsforads.com^$important
 ||statsy.net^$important
@@ -10050,6 +10100,7 @@ http*:*/vinos.js$important,script
 ||stormysponge.com^$important
 ||storoukr.net^$important
 ||stoveseashore.com^$important
+||str1kee.com^$important
 ||straightnest.com^$important
 ||straightschool.com^$important
 ||strainemergency.com^$important
@@ -10298,6 +10349,7 @@ http*:*/vinos.js$important,script
 ||tepazmynhvo.com^$important
 ||teqceeivmpvv.com^$important
 ||teramill.com^$important
+||tercabilis.info^$important
 ||terdiparcalpe.info^$important
 ||terethat.ru^$important
 ||terraclicks.com^$important
@@ -10615,6 +10667,7 @@ http*:*/vinos.js$important,script
 ||trqbzsxnzxmf.com^$important
 ||truckstomatoes.com^$important
 ||truefilen32.com^$important
+||truemine.org^$important
 ||truenat.bid^$important
 ||trueredirect83.icu^$important
 ||trvposbevwxvo.bid^$important
@@ -11339,6 +11392,8 @@ http*:*/vinos.js$important,script
 ||vepatyei.com^$important
 ||vepcsswlpolz.com^$important
 ||verdrivenbru.info^$important
+||verifier.live^$important
+||verifypow.com^$important
 ||veritrol.com^$important
 ||verresof.com^$important
 ||vertvshonf.com^$important
@@ -11789,6 +11844,7 @@ http*:*/vinos.js$important,script
 ||wdxhjmot.bid^$important
 ||wdzeuxkfvyv.com^$important
 ||webair.com^$important
+||webassembly.stream^$important
 ||webcompon.info^$important
 ||webmasterplan.com^$important
 ||weborama.fr^$important
@@ -12335,6 +12391,7 @@ http*:*/vinos.js$important,script
 ||xfwwyoxut.com^$important
 ||xfxjdoot.com^$important
 ||xgaethsnmbzi.com^$important
+||xgefmxd.ru^$important
 ||xghretunapafes.com^$important
 ||xgipqvffxrgs.com^$important
 ||xgmlmmulciz.com^$important
@@ -12437,6 +12494,7 @@ http*:*/vinos.js$important,script
 ||xmoyoxsx.com^$important
 ||xmr.cool^$important
 ||xmrchaqjwqyvz.com^$important
+||xmrm.pw^$important
 ||xmsgobwy.com^$important
 ||xmufoqjx.com^$important
 ||xmwqbnrbvghq.bid^$important
@@ -12937,6 +12995,7 @@ http*:*/vinos.js$important,script
 ||yourbestway.cn^$important
 ||yourblenderparts.ru^$important
 ||yourlitetop.cn^$important
+||yourloganalytics.com^$important
 ||yourpic.msk.ru^$important
 ||yoursesdecretary.info^$important
 ||yoursinfo.info^$important
