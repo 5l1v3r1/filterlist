@@ -24,20 +24,6 @@
 ||01ced816b84.com^$important
 ||01counter.com^$important
 ||024xuyisheng.com^$important
-||viatepigan.com^$important
-||popupme.net^$important
-||voodoo.com^$important
-||mawdok.com^$important
-||padsblue.com^$important
-||bitcoinadvertise.net^$important
-||spider.ad^$important
-||fawenys.xyz^$important
-||ezmob.com^$important
-||parkingcrew.net^$important
-||mimosamajor.com^$important
-||abstractedamount.com^$important
-||fadedsnow.com^$important
-||siliconslow.com^$important
 ||0377shujuhuifu.top^$important
 ||0452jhw.com^$important
 ||05a7946eef5d.com^$important
@@ -417,6 +403,7 @@
 ||absorbingband.com^$important
 ||absorbingcorn.com^$important
 ||absorbingprison.com^$important
+||abstractedamount.com^$important
 ||absurdapple.com^$important
 ||absurdwater.com^$important
 ||abunmrqsbfn.bid^$important
@@ -1272,6 +1259,7 @@
 ||bita-bit.xyz^$important
 ||bitcoadz.io^$important
 ||bitcoin-pay.eu^$important
+||bitcoinadvertise.net^$important
 ||bitmedianetwork.com^$important
 ||bitrix.info^$important
 ||biupcyhpmjazv.com^$important
@@ -3200,6 +3188,7 @@
 ||ezkbzmwigo.bid^$important
 ||ezknqsblzmsl.com^$important
 ||ezlxnyhbjtqr.com^$important
+||ezmob.com^$important
 ||ezoic.net^$important
 ||ezpush.me^$important
 ||ezqldmevi.com^$important
@@ -3234,6 +3223,7 @@
 ||facqgdunsgf.com^$important
 ||facsowlaufzk.com^$important
 ||fadedprofit.com^$important
+||fadedsnow.com^$important
 ||fae4b91d8638a798.com^$important
 ||faecbook.com^$important
 ||faegbmhey.com^$important
@@ -3267,6 +3257,7 @@
 ||faultycanvas.com^$important
 ||faultyfowl.com^$important
 ||favourity.pro^$important
+||fawenys.xyz^$important
 ||fawhiybzs.bid^$important
 ||faykdrhpo.com^$important
 ||fb68ada9b5d.com^$important
@@ -6604,6 +6595,7 @@
 ||mathyestore.com^$important
 ||mavexercial.info^$important
 ||mavmlkzt.com^$important
+||mawdok.com^$important
 ||mawtykynmhxkjd.bid^$important
 ||maxgirlgames.com^$important
 ||maxonclick.com^$important
@@ -6760,6 +6752,7 @@
 ||militaryverse.com^$important
 ||miltqbfqstsf.com^$important
 ||milyolpn.bid^$important
+||mimosamajor.com^$important
 ||minerad.com^$important
 ||minescripts.info^$important
 ||minishing.com^$important
@@ -7946,6 +7939,7 @@
 ||ozymwqsycimr.com^$important
 ||paddleangle.com^$important
 ||padsats.com^$important
+||padsblue.com^$important
 ||padsbrown.com^$important
 ||padsips.com^$important
 ||paecbeeavmopbl.com^$important
@@ -7966,6 +7960,7 @@
 ||parcelcreature.com^$important
 ||parchedangle.com^$important
 ||parentelement.ml^$important
+||parkingcrew.net^$important
 ||parmelecumbola.com^$important
 ||parsimoniouspolice.com^$important
 ||partlepool.com^$important
@@ -8247,6 +8242,7 @@
 ||popmonetizer.net^$important
 ||popmyads.com^$important
 ||popunders.bid^$important
+||popupme.net^$important
 ||popzkvfimbox.com^$important
 ||poqqvnychl.com^$important
 ||possessivebucket.com^$important
@@ -9705,6 +9701,7 @@
 ||sijlnueeertd.com^$important
 ||sijsquplpjg.com^$important
 ||silentcredit.com^$important
+||siliconslow.com^$important
 ||silimbompom.com^$important
 ||silkysquirrel.com^$important
 ||sillyscrew.com^$important
@@ -9862,6 +9859,7 @@
 ||spfrlpjmvkmq.com^$important
 ||spgjtypydhdxl.com^$important
 ||sphjqakwuteg.com^$important
+||spider.ad^$important
 ||spidersboats.com^$important
 ||spiffymachine.com^$important
 ||spillvacation.com^$important
@@ -11333,6 +11331,7 @@
 ||vhwuphctrfil.com^$important
 ||vhzgmzakn.com^$important
 ||vhzzzbdtxhh.bid^$important
+||viatepigan.com^$important
 ||vickgdkdrwpdt.com^$important
 ||vicofhozbuaf.com^$important
 ||vidalak.com^$important
@@ -11455,6 +11454,7 @@
 ||volleqgoafcb.com^$important
 ||volyncftzhw.bid^$important
 ||vomhhsovuu.bid^$important
+||voodoo.com^$important
 ||vornz.com^$important
 ||vouekcjmiu.com^$important
 ||voumxy.ru^$important
