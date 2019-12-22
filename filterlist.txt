@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-22 12:23:36
-! Version: 20191222122336
+! Last modified: 2019-12-22 16:20:46
+! Version: 20191222162046
 ! Expires: 3 hours
-! Number of filters: 13680
+! Number of filters: 13685
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -79,9 +79,9 @@
 /^https?:\/\/[^\s]+\/(([a-zA-Z]{1,5})?[!"#$%&'()*+,:;<=>?@/\^_`{|}~-])?track(ers?|ing)?([0-9a-zA-Z-_.]{1,12})?\.js/$image,important,script,xmlhttprequest,domain=~music.yandex.by|~music.yandex.com|~music.yandex.ru|~music.yandex.ua
 /^https?:\/\/[^\s]+\/(([a-zA-Z]{1,7})?[!"#$%&'()*+,:;<=>?@/\^_`{|}~-]?)?track(ers?|ing)[?/]/$image,important,other,script,xmlhttprequest
 /^https?:\/\/[^\s]+\/([^\s]{4})?tag\.min\.([a-z0-9]{30,}\.)?js/$important,script
+/^https?:\/\/[^\s]+\/([a-z]+)?count(ers?)?([0-9]{1,3})?[!"#$%&'()*+,:;<=>?@/\^_`{|}~-]/$image,important,other,script,xmlhttprequest,domain=~github.com
 /^https?:\/\/[^\s]+\/(ntfc|afu|apu)\.(hh|php)\?/$important
 /^https?:\/\/[^\s]+\/(popundr|punder|pu)\/(script|license|custom)\./$important,script
-/^https?:\/\/[^\s]+\/count(ers?)?([0-9]{1,3})?[?./]/$image,important,other,script,xmlhttprequest,domain=~github.com
 /^https?:\/\/[^\s]+\/cryptonight\.(js|wasm)/$important,script,xmlhttprequest
 /^https?:\/\/[^\s]+\/deep[Mm]iner(\.min)?\.js/$important,script
 /^https?:\/\/[^\s]+\/log(ging|impressions?|ers?)?[?./]/$important
@@ -260,6 +260,7 @@ http*:*/vinos.js$important,script
 ||2simple.ru^$important
 ||2taa9ib4ib.com^$important
 ||2v1xq54yxm.com^$important
+||2vaxwkujrfwh.info^$important
 ||2xclick.ru^$important
 ||2xinfinito.com.br^$important
 ||2xuyib43.top^$important
@@ -835,6 +836,7 @@ http*:*/vinos.js$important,script
 ||alleyarm.com^$important
 ||allfontshere.press^$important
 ||allnvbtrtpku.com^$important
+||allstat-pp.ru^$important
 ||almeusciu.site^$important
 ||alnisdrmhs.bid^$important
 ||aloofmetal.com^$important
@@ -3439,10 +3441,12 @@ http*:*/vinos.js$important,script
 ||fdvmskmentjob.com^$important
 ||fdxdjkswppg.com^$important
 ||fdzylxffu.com^$important
+||fe4r7k22y68p.info^$important
 ||fe8abdee64d5ea.com^$important
 ||feacamnliz.bid^$important
 ||fearfulfish.com^$important
 ||febalwby.com^$important
+||fed2nkspbdnr.info^$important
 ||feebleshock.com^$important
 ||feesocrald.com^$important
 ||fefzohgedqp.com^$important
@@ -9896,6 +9900,7 @@ http*:*/vinos.js$important,script
 ||skzhfyqozkic.com^$important
 ||skzpsnpp.com^$important
 ||skzsukues.bid^$important
+||sl0t24.us^$important
 ||slaysweater.com^$important
 ||sldtsvjnpwundn.bid^$important
 ||sleepcartoon.com^$important
