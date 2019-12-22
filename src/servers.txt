@@ -4984,6 +4984,10 @@
 ||inmobi.com^$important
 ||inmrjokdxmkh.com^$important
 ||innity.net^$important
+||push-ad.com^$important
+||ftd2q1g8id1z.ru^$important
+||henerun.com^$important
+||capriciouscorn.com^$important
 ||innocentwax.com^$important
 ||inpagepush.com^$important
 ||inquisitiveinvention.com^$important
