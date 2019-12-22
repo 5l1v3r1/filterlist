@@ -1617,6 +1617,7 @@
 ||capablecows.com^$important
 ||capablecup.com^$important
 ||capacitly.com^$important
+||capriciouscorn.com^$important
 ||captainbicycle.com^$important
 ||caribanner.bid^$important
 ||caringzinc.com^$important
@@ -3611,6 +3612,7 @@
 ||fsxmtpvumpty.bid^$important
 ||ftbiufcomsa.bid^$important
 ||ftbnrjzvgtdyzs.bid^$important
+||ftd2q1g8id1z.ru^$important
 ||ftdyrqgjr.bid^$important
 ||ftfnchzmnyl.com^$important
 ||ftgfmbxqkjda.com^$important
@@ -4346,6 +4348,7 @@
 ||hellcategy.info^$important
 ||helpclause.com^$important
 ||hemnes.win^$important
+||henerun.com^$important
 ||henhemnatorstold.pro^$important
 ||henodmetgjbsas.bid^$important
 ||hepuzqrx.com^$important
@@ -4984,10 +4987,6 @@
 ||inmobi.com^$important
 ||inmrjokdxmkh.com^$important
 ||innity.net^$important
-||push-ad.com^$important
-||ftd2q1g8id1z.ru^$important
-||henerun.com^$important
-||capriciouscorn.com^$important
 ||innocentwax.com^$important
 ||inpagepush.com^$important
 ||inquisitiveinvention.com^$important
@@ -8405,6 +8404,7 @@
 ||punvqjsvnmubxb.com^$important
 ||puogotzrsvtg.com^$important
 ||puserving.com^$important
+||push-ad.com^$important
 ||push-me-down.com^$important
 ||pushads.biz^$important
 ||pushame.com^$important
