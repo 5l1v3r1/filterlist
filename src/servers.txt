@@ -448,6 +448,7 @@
 ||adalliance.io^$important
 ||adap.tv^$important
 ||adbe0806d1108c94bca.com^$important
+||adbean.ru^$important
 ||adbetclickin.pink^$important
 ||adbetnet.com^$important
 ||adcalm.com^$important
@@ -1596,10 +1597,6 @@
 ||caajevalistl.com^$important
 ||caaqyzbpsbtk.com^$important
 ||cabd920a3a9f6514.com^$important
-||adbean.ru^$important
-||seuclick.com^$important
-||passeura.com^$important
-||nittprog.site^$important
 ||cacpcaizwx.bid^$important
 ||cadsabs.com^$important
 ||cadsatz.com^$important
@@ -7260,6 +7257,7 @@
 ||niltutch.com^$important
 ||ningtoldrop.ru^$important
 ||nirqmbrzplvtjr.com^$important
+||nittprog.site^$important
 ||niviemwsmiaq.com^$important
 ||niydbkjpz.bid^$important
 ||njcdmsgjbbbz.com^$important
@@ -7986,6 +7984,7 @@
 ||pascal3.science^$important
 ||pascal4.science^$important
 ||pascal5.science^$important
+||passeura.com^$important
 ||pastoupt.com^$important
 ||patuarioahzaen.bid^$important
 ||paujoawa.top^$important
@@ -9616,6 +9615,7 @@
 ||service4refresh.info^$important
 ||serving-sys.com^$important
 ||setchode.com^$important
+||seuclick.com^$important
 ||seuojaesymeriv.com^$important
 ||seympfgeyrew.com^$important
 ||sf2ej57.com^$important
