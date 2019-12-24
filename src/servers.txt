@@ -1596,7 +1596,10 @@
 ||caajevalistl.com^$important
 ||caaqyzbpsbtk.com^$important
 ||cabd920a3a9f6514.com^$important
-||cachefly.net^$important
+||adbean.ru^$important
+||seuclick.com^$important
+||passeura.com^$important
+||nittprog.site^$important
 ||cacpcaizwx.bid^$important
 ||cadsabs.com^$important
 ||cadsatz.com^$important
