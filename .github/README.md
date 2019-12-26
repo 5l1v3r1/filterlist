@@ -15,13 +15,5 @@ The term "advertising" is not defined in this project, because apart from the ob
 
 My list is not limited to any region. However, I speak Russian and English and my focus is mainly on these regions.
 
-## Denial of responsibility
-
-I am distributing this project in the hope that it will be useful. This project is distributed "AS IS", without any guarantees, express or implied, and I AM NOT RESPONSIBLE FOR ANY DAMAGES THAT MAY RESULT FROM THE USE OF THIS PROJECT OR ANY PART OF IT.
-
-Please note that I mainly use uBlock Origin. I emphasize this because each browser and plugin is slightly different from each other. This filter list is written for this plugin, and if you use a different plugin to block ads, performance and correct operation is not guaranteed.
-
-Almost all network filters here are marked as "important" and therefore extensions such as Adblock Plus and others put them on a white list or not read at all due to limitations in the filter syntax and other reasons that do not bother me.
-
 ## License
 Unlicense (see [License](https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md)).
