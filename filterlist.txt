@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-25 22:30:55
-! Version: 20191225223055
+! Last modified: 2019-12-26 13:47:39
+! Version: 20191226134739
 ! Expires: 3 hours
-! Number of filters: 13695
+! Number of filters: 13698
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -3238,6 +3238,7 @@ http*:*/vinos.js$important,script
 ||euuikdao.com^$important
 ||euwyhbib.com^$important
 ||euxisszoyader.com^$important
+||euxqbav1kapmde.ru^$important
 ||evanescentedge.com^$important
 ||evenexcite.com^$important
 ||evengparme.com^$important
@@ -4905,6 +4906,7 @@ http*:*/vinos.js$important,script
 ||iatwyqgvpq.com^$important
 ||iauvabogtws.bid^$important
 ||iaxxhqwaig.com^$important
+||ibcggjcgagjhjiadafc.ru^$important
 ||ibclxtlh.com^$important
 ||ibetinwubwl.com^$important
 ||ibeyqnjfjgsuob.bid^$important
@@ -5906,6 +5908,7 @@ http*:*/vinos.js$important,script
 ||kiinvgntnnw.com^$important
 ||kiixmhyrlawz.com^$important
 ||kiks.yandex.ru^$important
+||kinoaction.ru^$important
 ||kiobmbncsrwc.com^$important
 ||kiochlocj.bid^$important
 ||kiodudldzmzwr.com^$important
