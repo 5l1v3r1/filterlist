@@ -39,6 +39,7 @@
 |http*:*/*?perfekt=wss://$important
 |http*:*/*?proxy=ws://$important
 |http*:*/*?proxy=wss://$important
+|http*:*/empty.php$important
 |http*:*/in.php?*&referer=$important
 |http*:*/pagead/$important
 |http*:*/pview?event$important
@@ -54,4 +55,3 @@
 ||google.*/adsense/$important
 ||google.*/uds/$important
 ||yandex.*/clck/$important
-|http*:*/empty.php$important

@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-26 14:55:59
-! Version: 20191226145559
+! Last modified: 2019-12-26 15:01:50
+! Version: 20191226150150
 ! Expires: 3 hours
-! Number of filters: 13698
+! Number of filters: 13702
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -120,6 +120,7 @@ http*:*/vinos.js$important,script
 |http*:*/clear.gif$image,important
 |http*:*/drstat?$image,important
 |http*:*/edmonton.webp$important,script
+|http*:*/empty.php$important
 |http*:*/ezcl.webp$important,script
 |http*:*/ezcl.webp?$image,important
 |http*:*/ezoic/$important,script,~third-party
@@ -2436,6 +2437,7 @@ http*:*/vinos.js$important,script
 ||deloplen.com^$important
 ||deloplenn.com^$important
 ||deloton.com^$important
+||deltaction.com^$important
 ||demand.supply^$important
 ||demandbase.com^$important
 ||demdex.net^$important
@@ -4989,6 +4991,7 @@ http*:*/vinos.js$important,script
 ||ifgnsrtjcz.com^$important
 ||iflndvke.com^$important
 ||ifmobkrjonnm.com^$important
+||ifnwfachxk.com^$important
 ||ifoldmuxqjeddk.com^$important
 ||iftvlrkyvubnn.com^$important
 ||ifvgsekkvcc.bid^$important
@@ -12749,6 +12752,7 @@ http*:*/vinos.js$important,script
 ||yabs.yandex.ua^$important
 ||yadr0.com^$important
 ||yadro.ru^$important
+||yadyiymarz.com^$important
 ||yafsixmo.com^$important
 ||yahbdmyvvmjh.com^$important
 ||yahoo-news.co^$important
