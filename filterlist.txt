@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-26 15:47:28
-! Version: 20191226154728
+! Last modified: 2019-12-26 15:59:11
+! Version: 20191226155911
 ! Expires: 3 hours
-! Number of filters: 13702
+! Number of filters: 13705
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1809,6 +1809,7 @@ http*:*/vinos.js$important,script
 ||cdmjjvqzurn.com^$important
 ||cdn-code.host^$important
 ||cdn-jquery.host^$important
+||cdn.siteswithcontent.com/js/push/subscribe.js$important,script
 ||cdn7.rocks^$important
 ||cdn77.org^$important
 ||cdnasiaclub.com^$important
@@ -7008,6 +7009,7 @@ http*:*/vinos.js$important,script
 ||mobsoftffree.xyz^$important
 ||modifyeyes.com^$important
 ||modkehkcihvzi.bid^$important
+||modulepush.com^$important
 ||moe.video^$important
 ||moevideo.biz^$important
 ||mofrupteeuqnvc.bid^$important
@@ -10129,6 +10131,7 @@ http*:*/vinos.js$important,script
 ||stompebi.link^$important
 ||stoomeddert.info^$important
 ||stoordep.com^$important
+||storage.googleapis.com/vkcdnservice.appspot.com/$important,script
 ||storehouse.biz^$important
 ||storescissors.com^$important
 ||storeslope.com^$important
