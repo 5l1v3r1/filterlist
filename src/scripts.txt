@@ -36,3 +36,4 @@ http*:*/vinos.js$important,script
 |http*:*/uutils.fcg?$important,script
 ||cdn.siteswithcontent.com/js/push/subscribe.js$important,script
 ||storage.googleapis.com/vkcdnservice.appspot.com/$important,script
+||spankcdn.net/*/pht*/pht*.js$script,important
