@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-26 16:26:23
-! Version: 20191226162623
+! Last modified: 2019-12-26 16:35:07
+! Version: 20191226163507
 ! Expires: 3 hours
-! Number of filters: 13706
+! Number of filters: 13708
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1034,6 +1034,7 @@ http*:*/vinos.js$important,script
 ||atczxgxuxloqf.com^$important
 ||atdmt.com^$important
 ||atebqbjh.bid^$important
+||aterroppop.com^$important
 ||atijsiwpbrvtm.bid^$important
 ||atjgtndhvbescp.bid^$important
 ||atkkkyhyxemut.bid^$important
@@ -3131,6 +3132,7 @@ http*:*/vinos.js$important,script
 ||eoepqqkg.com^$important
 ||eofaplocyrcxhq.com^$important
 ||eojrldtucqsf.com^$important
+||eoredi.com^$important
 ||eoruxpqn.com^$important
 ||eotbkgjqu.com^$important
 ||eozbwwxniksmb.com^$important
