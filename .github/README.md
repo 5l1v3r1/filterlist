@@ -8,12 +8,5 @@ Yet another anti-bullshit filter list.
 
 RAW - `https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt`
 
-## About the project
-
-The overall goal of the project is to block ads and reduce traffic from the domains and sites You visit.
-The term "advertising" is not defined in this project, because apart from the obvious advertising, I also block banners and tips that I think create useless traffic.
-
-My list is not limited to any region. However, I speak Russian and English and my focus is mainly on these regions.
-
 ## License
 Unlicense (see [License](https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md)).
