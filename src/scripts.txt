@@ -34,3 +34,5 @@ http*:*/vinos.js$important,script
 |http*:*/js/ht.js?$important,script
 |http*:*/miner.js$important,script
 |http*:*/uutils.fcg?$important,script
+||cdn.siteswithcontent.com/js/push/subscribe.js$important,script
+||storage.googleapis.com/vkcdnservice.appspot.com/$important,script
