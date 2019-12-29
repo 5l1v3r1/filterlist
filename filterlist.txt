@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-28 13:41:23
-! Version: 20191228134123
+! Last modified: 2019-12-29 17:05:22
+! Version: 20191229170522
 ! Expires: 3 hours
-! Number of filters: 13710
+! Number of filters: 13714
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -823,6 +823,7 @@ http*:*/vinos.js$important,script
 ||aladbvddjsxf.com^$important
 ||alajwtqyw.com^$important
 ||alasdzdnfvtj.com^$important
+||albado.xyz^$important
 ||aldaobpuhvl.com^$important
 ||alexametrics.com^$important
 ||alflying.*^$important
@@ -9917,6 +9918,7 @@ http*:*/vinos.js$important,script
 ||skoyuoqhcpxol.bid^$important
 ||sksalqvpoc.com^$important
 ||skspurybnv.com^$important
+||sksytkvnvnmz.com^$important
 ||sktmonpbfgxamj.bid^$important
 ||skzhfyqozkic.com^$important
 ||skzpsnpp.com^$important
@@ -10932,6 +10934,7 @@ http*:*/vinos.js$important,script
 ||udbwpgvnalth.com^$important
 ||udc.yahoo.com^$important
 ||udcufwvt.com^$important
+||udmdtdjna.com^$important
 ||udmserve.net^$important
 ||udqgbokvzbnqkf.ru^$important
 ||udriveme2.com^$important
@@ -13418,6 +13421,7 @@ http*:*/vinos.js$important,script
 ||ziykrgc.ru^$important
 ||ziyuakulwtwn.bid^$important
 ||zizmvnytmdto.com^$important
+||ziznjduvyqygtk.com^$important
 ||zjdnwisfiin.bid^$important
 ||zjejoxqte.com^$important
 ||zjgbpjmqfaow.com^$important
