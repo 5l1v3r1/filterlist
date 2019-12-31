@@ -7,11 +7,6 @@
 /^(https?|ftp|wss?):\/\/([^\s]+\.)?ner\-de\-mi\-nis\-[0-9]{1,3}\.info/$important
 /^https:\/\/69([a-z]{1,2})\.([a-z]{4})/$important
 /^https:\/\/mxcdn([0-9]{1,3})?\.now\.sh/$important
-||yim3eyv5.top^$important
-||mirrordrive.net^$important
-||xlbbhdarc.com^$important
-||ifbubmsr.com^$important
-||pushcrew.com^$important
 /^https:\/\/npcdn([0-9]{1,3})?\.now\.sh/$important
 /^https:\/\/sxcdn([0-9]{1,3})?\.now\.sh/$important
 /^https?:\/\/(([a-zA-Z]{1})?[0-9]{1,4})?adserv\./$important
@@ -4856,6 +4851,7 @@
 ||ieve2ee.top^$important
 ||iewsaprgerkjny.com^$important
 ||ifbhceoxx.com^$important
+||ifbubmsr.com^$important
 ||ifdmdfqysaacqa.com^$important
 ||ifecuwzjajkiq.com^$important
 ||iffzxqnhd.com^$important
@@ -6784,6 +6780,7 @@
 ||minormeeting.com^$important
 ||miovsibmkpy.com^$important
 ||miquonearlham.com^$important
+||mirrordrive.net^$important
 ||miszwaojrn.com^$important
 ||mivrpcxlo.com^$important
 ||mixadvert.com^$important
@@ -8442,6 +8439,7 @@
 ||pushbaddy.com^$important
 ||pushbasic.com^$important
 ||pushbullet.com^$important
+||pushcrew.com^$important
 ||pushdusk.com^$important
 ||pushimer.com^$important
 ||pushkov.info^$important
@@ -12383,6 +12381,7 @@
 ||xkzzkxntmryst.com^$important
 ||xlauvkqs.bid^$important
 ||xlavzhffzwgb.com^$important
+||xlbbhdarc.com^$important
 ||xlbosrttvas.bid^$important
 ||xlcnavkhn.bid^$important
 ||xlhhbtve.com^$important

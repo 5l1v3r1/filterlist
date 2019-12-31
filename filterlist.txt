@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-29 17:05:22
-! Version: 20191229170522
+! Last modified: 2019-12-31 21:12:12
+! Version: 20191231211212
 ! Expires: 3 hours
-! Number of filters: 13714
+! Number of filters: 13718
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -4990,6 +4990,7 @@ http*:*/vinos.js$important,script
 ||ieve2ee.top^$important
 ||iewsaprgerkjny.com^$important
 ||ifbhceoxx.com^$important
+||ifbubmsr.com^$important
 ||ifdmdfqysaacqa.com^$important
 ||ifecuwzjajkiq.com^$important
 ||iffzxqnhd.com^$important
@@ -6919,6 +6920,7 @@ http*:*/vinos.js$important,script
 ||minormeeting.com^$important
 ||miovsibmkpy.com^$important
 ||miquonearlham.com^$important
+||mirrordrive.net^$important
 ||miszwaojrn.com^$important
 ||mivrpcxlo.com^$important
 ||mixadvert.com^$important
@@ -8580,6 +8582,7 @@ http*:*/vinos.js$important,script
 ||pushbaddy.com^$important
 ||pushbasic.com^$important
 ||pushbullet.com^$important
+||pushcrew.com^$important
 ||pushdusk.com^$important
 ||pushimer.com^$important
 ||pushkov.info^$important
@@ -12527,6 +12530,7 @@ http*:*/vinos.js$important,script
 ||xkzzkxntmryst.com^$important
 ||xlauvkqs.bid^$important
 ||xlavzhffzwgb.com^$important
+||xlbbhdarc.com^$important
 ||xlbosrttvas.bid^$important
 ||xlcnavkhn.bid^$important
 ||xlhhbtve.com^$important
