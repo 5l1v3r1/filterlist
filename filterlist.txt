@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2019-12-31 21:12:12
-! Version: 20191231211212
+! Last modified: 2020-01-02 20:26:03
+! Version: 20200102202603
 ! Expires: 3 hours
-! Number of filters: 13718
+! Number of filters: 13726
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -208,6 +208,7 @@ http*:*/vinos.js$important,script
 ||1fc4d6ccf2.com^$important
 ||1paj4kmp.top^$important
 ||1q2w3.*^$important
+||1to1.
 ||1wkvvts8is.com^$important
 ||1wzfew7a.site^$important
 ||1xbahisbuwv.com^$important
@@ -398,6 +399,7 @@ http*:*/vinos.js$important,script
 ||67e0ffa991f1cb0.com^$important
 ||6868bbe42af8e518.com^$important
 ||6ce0a8be8375b.com^$important
+||6d47c1118927cf53ba9654931df80e8d.com^$important
 ||6d79qh7j.com^$important
 ||6eez7ouig7gwguf6.pro^$important
 ||6fa5633abf4b53a1.com^$important
@@ -530,6 +532,7 @@ http*:*/vinos.js$important,script
 ||abodealley.com^$important
 ||abourself.com^$important
 ||abruptroad.com^$important
+||abs.proxistore.com^$important
 ||absentstream.com^$important
 ||abserv123.com^$important
 ||absorbingband.com^$important
@@ -1389,6 +1392,7 @@ http*:*/vinos.js$important,script
 ||billowybead.com^$important
 ||bimwswreljucxa.com^$important
 ||binasmdul.com^$important
+||bing.com/fd/ls/$xmlhttprequest
 ||binullxzwnsqws.com^$important
 ||birpidnl.com^$important
 ||birslhmnnc.com^$important
@@ -2626,6 +2630,7 @@ http*:*/vinos.js$important,script
 ||dnftqfwycmfqrs.com^$important
 ||dngsuhxuzb.com^$important
 ||dnjxoflvkvec.com^$important
+||dnkwgzmuxv.com^$important
 ||dnntgcfejsg.bid^$important
 ||dnoucjqzsasm.com^$important
 ||dnpehliwdvjkp.com^$important
@@ -7680,6 +7685,7 @@ http*:*/vinos.js$important,script
 ||nzxriltfmrpl.com^$important
 ||nzyymvidnbvz.bid^$important
 ||o-oo.ooo^$important
+||o0e.ru^$important
 ||o1o6tadz5p.com^$important
 ||o333o.com^$important
 ||o4uxrk33.com^$important
@@ -9948,6 +9954,7 @@ http*:*/vinos.js$important,script
 ||smartadserver.com^$important
 ||smartcj.com^$important
 ||smartclick.net^$important
+||smartclip.net^$important
 ||smartphonesbonusoffers.icu^$important
 ||smartpixel.xyz^$important
 ||smashseek.com^$important
@@ -10073,6 +10080,7 @@ http*:*/vinos.js$important,script
 ||srhovuokux.com^$important
 ||sriaqmzx.com^$important
 ||srizwhcdjruf.com^$important
+||srjbxbkwn.com^$important
 ||srkdunvxun.com^$important
 ||srksyzqzcetq.com^$important
 ||srlmbvfmvl.com^$important

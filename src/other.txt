@@ -49,10 +49,10 @@
 |http*:*/www/delivery/$important
 |http*:*?_siteid=$important
 |http*:*?rand=*&blk=$important
+||1to1.
 ||ddns.net^*=ws://$important
 ||ddns.net^*=wss://$important
 ||google.*/ads/$important
 ||google.*/adsense/$important
 ||google.*/uds/$important
 ||yandex.*/clck/$important
-||1to1.
