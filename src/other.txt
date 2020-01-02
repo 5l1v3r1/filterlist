@@ -55,3 +55,4 @@
 ||google.*/adsense/$important
 ||google.*/uds/$important
 ||yandex.*/clck/$important
+||1to1.
