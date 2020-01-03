@@ -55,12 +55,6 @@
 ||125jia.cn^$important
 ||129ji7ymdw.com^$important
 ||12dc71b7cb820f2a.com^$important
-||gzxdkaytxdsyxg.com^$important
-||adworkmedia.net^$important
-||xkzrbaexyrds.com^$important
-||popmonetizer.com^$important
-||wvwgfecqswm.com^$important
-||jajbufmcl.com^$important
 ||12directions.com^$important
 ||1300invention.com.au^$important
 ||13801993263.com^$important
@@ -568,6 +562,7 @@
 ||advmaker.su^$important
 ||advmusic.net^$important
 ||adwidgets.ru^$important
+||adworkmedia.net^$important
 ||adxadserv.com^$important
 ||adxnexus.com^$important
 ||adxpddpc.com^$important
@@ -4260,6 +4255,7 @@
 ||gzqoxmkuhl.com^$important
 ||gzrlatbooqmt.com^$important
 ||gzumjmvqjkki.com^$important
+||gzxdkaytxdsyxg.com^$important
 ||gzxjfkhwvhwfzr.com^$important
 ||gzyddiyiyme.bid^$important
 ||gzzctcekf.com^$important
@@ -5222,6 +5218,7 @@
 ||jaihowgr.com^$important
 ||jairtejvkqiux.com^$important
 ||jaizouji.com^$important
+||jajbufmcl.com^$important
 ||jajkgegza.com^$important
 ||jakzpcgrxgda.com^$important
 ||jakzxxzrymhz.com^$important
@@ -8276,6 +8273,7 @@
 ||poparya.com^$important
 ||popcash.net^$important
 ||popmajor.com^$important
+||popmonetizer.com^$important
 ||popmonetizer.net^$important
 ||popmyads.com^$important
 ||popunders.bid^$important
@@ -12141,6 +12139,7 @@
 ||wvrntfonizbxn.com^$important
 ||wvutzxicvmgljw.bid^$important
 ||wvvftburvtyz.com^$important
+||wvwgfecqswm.com^$important
 ||wvxnvnrsahfd.bid^$important
 ||wvxywejnmpsh.bid^$important
 ||wwclicknews.club^$important
@@ -12390,6 +12389,7 @@
 ||xkygmtrrjalx.com^$important
 ||xkylfuhjh.com^$important
 ||xkziczlmpsfw.bid^$important
+||xkzrbaexyrds.com^$important
 ||xkzzkxntmryst.com^$important
 ||xlauvkqs.bid^$important
 ||xlavzhffzwgb.com^$important
