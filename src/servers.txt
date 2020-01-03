@@ -28,12 +28,6 @@
 ||0452jhw.com^$important
 ||05a7946eef5d.com^$important
 ||05y2dxmr.top^$important
-||enavtfdjjcmgy.com^$important
-||mirox23.biz^$important
-||sentry.io^$important
-||admo.tv^$important
-||vortex.data.microsoft.com^$important
-||clicktale.net^$important
 ||0632qyw.com^$important
 ||06f24f3d0b.com^$important
 ||080jxrab.top^$important
@@ -499,6 +493,7 @@
 ||admitad.com^$important
 ||admixer.net^$important
 ||admlqqewbede.com^$important
+||admo.tv^$important
 ||adnetworkperformance.com^$important
 ||adnxs.com^$important
 ||adnz.co^$important
@@ -1872,6 +1867,7 @@
 ||clickopop1000.com^$important
 ||clicks.support^$important
 ||clicksgear.com^$important
+||clicktale.net^$important
 ||clickterra.net^$important
 ||clicktripz.com^$important
 ||clkkcokl.com^$important
@@ -2976,6 +2972,7 @@
 ||emzotevsto.com^$important
 ||emzxewhgjt.com^$important
 ||en25.com^$important
+||enavtfdjjcmgy.com^$important
 ||encoding.ovh^$important
 ||encouragingwilderness.com^$important
 ||encvhiseje.bid^$important
@@ -6792,6 +6789,7 @@
 ||minormeeting.com^$important
 ||miovsibmkpy.com^$important
 ||miquonearlham.com^$important
+||mirox23.biz^$important
 ||mirrordrive.net^$important
 ||miszwaojrn.com^$important
 ||mivrpcxlo.com^$important
@@ -9634,6 +9632,7 @@
 ||sentemanactri.com^$important
 ||sentifiest.com^$important
 ||sentrapromosi.com^$important
+||sentry.io^$important
 ||seoaelrfdy.com^$important
 ||seodding.com^$important
 ||seotpqntjukhg.bid^$important
@@ -11506,6 +11505,7 @@
 ||vomhhsovuu.bid^$important
 ||voodoo.com^$important
 ||vornz.com^$important
+||vortex.data.microsoft.com^$important
 ||vouekcjmiu.com^$important
 ||voumxy.ru^$important
 ||voxnrvzwy.com^$important

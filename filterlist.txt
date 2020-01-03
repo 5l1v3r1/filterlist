@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-03 17:32:55
-! Version: 20200103173255
+! Last modified: 2020-01-03 17:35:40
+! Version: 20200103173541
 ! Expires: 3 hours
-! Number of filters: 13731
+! Number of filters: 13737
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -624,6 +624,7 @@ http*:*/vinos.js$important,script
 ||admitad.com^$important
 ||admixer.net^$important
 ||admlqqewbede.com^$important
+||admo.tv^$important
 ||adnetworkperformance.com^$important
 ||adnxs.com^$important
 ||adnz.co^$important
@@ -1999,6 +2000,7 @@ http*:*/vinos.js$important,script
 ||clickopop1000.com^$important
 ||clicks.support^$important
 ||clicksgear.com^$important
+||clicktale.net^$important
 ||clickterra.net^$important
 ||clicktripz.com^$important
 ||clkkcokl.com^$important
@@ -3105,6 +3107,7 @@ http*:*/vinos.js$important,script
 ||emzotevsto.com^$important
 ||emzxewhgjt.com^$important
 ||en25.com^$important
+||enavtfdjjcmgy.com^$important
 ||encoding.ovh^$important
 ||encouragingwilderness.com^$important
 ||encvhiseje.bid^$important
@@ -6927,6 +6930,7 @@ http*:*/vinos.js$important,script
 ||minormeeting.com^$important
 ||miovsibmkpy.com^$important
 ||miquonearlham.com^$important
+||mirox23.biz^$important
 ||mirrordrive.net^$important
 ||miszwaojrn.com^$important
 ||mivrpcxlo.com^$important
@@ -9772,6 +9776,7 @@ http*:*/vinos.js$important,script
 ||sentemanactri.com^$important
 ||sentifiest.com^$important
 ||sentrapromosi.com^$important
+||sentry.io^$important
 ||seoaelrfdy.com^$important
 ||seodding.com^$important
 ||seotpqntjukhg.bid^$important
@@ -11650,6 +11655,7 @@ http*:*/vinos.js$important,script
 ||vomhhsovuu.bid^$important
 ||voodoo.com^$important
 ||vornz.com^$important
+||vortex.data.microsoft.com^$important
 ||vouekcjmiu.com^$important
 ||voumxy.ru^$important
 ||voxnrvzwy.com^$important
