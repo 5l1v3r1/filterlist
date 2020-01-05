@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-03 17:35:40
-! Version: 20200103173541
+! Last modified: 2020-01-05 14:35:48
+! Version: 20200105143548
 ! Expires: 3 hours
-! Number of filters: 13737
+! Number of filters: 13746
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -991,6 +991,7 @@ http*:*/vinos.js$important,script
 ||arcicalonetal.pro^$important
 ||arcticamber.com^$important
 ||arda0hylt58g4wg0.pro^$important
+||areandarm.com^$important
 ||arearmark.club^$important
 ||areary.com^$important
 ||arfttojxv.com^$important
@@ -1738,6 +1739,7 @@ http*:*/vinos.js$important,script
 ||cabd920a3a9f6514.com^$important
 ||cacpcaizwx.bid^$important
 ||cadsabs.com^$important
+||cadsabz.com^$important
 ||cadsatz.com^$important
 ||cadsokz.com^$important
 ||cadulscdfhtcb.bid^$important
@@ -2010,6 +2012,7 @@ http*:*/vinos.js$important,script
 ||cloisteredhydrant.com^$important
 ||clomggnzxsyf.bid^$important
 ||clonsvyhy.bid^$important
+||cloud-miner.eu^$important
 ||cloudflane.com^$important
 ||cloudflareinsights.com^$important
 ||cloudsdestruction.com^$important
@@ -5167,6 +5170,7 @@ http*:*/vinos.js$important,script
 ||internetuzerindenis.com^$important
 ||intrepid-badger.eu^$important
 ||inventionpassenger.com^$important
+||investingchannel.com^$important
 ||invgsoqwtkvxs.bid^$important
 ||inviterabbits.com^$important
 ||invitesugar.com^$important
@@ -6002,6 +6006,7 @@ http*:*/vinos.js$important,script
 ||kmvupiadkzdn.com^$important
 ||kmyelzmlkl.bid^$important
 ||kmypiwpbastt.com^$important
+||knbnejxqn.com^$important
 ||knepsiwviviwed.com^$important
 ||knifeoctopus.com^$important
 ||knimmqli.com^$important
@@ -7371,6 +7376,7 @@ http*:*/vinos.js$important,script
 ||newsupdatedir.info^$important
 ||newthuads.com^$important
 ||newtueads.com^$important
+||newwedads.com^$important
 ||nexac.com^$important
 ||nexioniect.com^$important
 ||nextbdom.ru^$important
@@ -8509,6 +8515,7 @@ http*:*/vinos.js$important,script
 ||proporing.info^$important
 ||propu.sh^$important
 ||prostomers.com^$important
+||protect-ad.com^$important
 ||protect-your-privacy-now.com^$important
 ||protovid.com^$important
 ||provaless.com^$important
@@ -9767,6 +9774,7 @@ http*:*/vinos.js$important,script
 ||selectionsugar.com^$important
 ||selectivesummer.com^$important
 ||selfishsea.com^$important
+||selltrafficfor.me^$important
 ||semi-cod.com^$important
 ||semvdooatmd.bid^$important
 ||sendmepush.com^$important
@@ -10696,6 +10704,7 @@ http*:*/vinos.js$important,script
 ||tracking.cdiscount.com^$important
 ||tracking.olx-st.com^$important
 ||trackjs.com^$important
+||trackpush.com^$important
 ||tracksrv.zdf.de^$important
 ||tradedoubler.com^$important
 ||tradelab.fr^$important
