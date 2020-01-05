@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-05 14:35:48
-! Version: 20200105143548
+! Last modified: 2020-01-05 16:09:31
+! Version: 20200105160931
 ! Expires: 3 hours
-! Number of filters: 13746
+! Number of filters: 13753
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -656,6 +656,7 @@ http*:*/vinos.js$important,script
 ||adsco.re^$important
 ||adscpm.site^$important
 ||adsensecustomsearchads.com^$important
+||adser.io^$important
 ||adservice.google.$important
 ||adshost.site^$important
 ||adskeeper.co.uk^$important
@@ -2351,6 +2352,7 @@ http*:*/vinos.js$important,script
 ||dacqmkmsjajm.com^$important
 ||dadllrpazourna.com^$important
 ||dadsecs.com^$important
+||dadsecz.com^$important
 ||daelynn.xyz^$important
 ||daetemegxlyp.com^$important
 ||daezorwyn.xyz^$important
@@ -2934,6 +2936,7 @@ http*:*/vinos.js$important,script
 ||edpnkcsrp.bid^$important
 ||edua29146y.com^$important
 ||edudktabmq.bid^$important
+||eduyzcjsnoeokj.com^$important
 ||edvbyybaviln.com^$important
 ||edwywpsufuda.com^$important
 ||edxosrcvydn.com^$important
@@ -2956,6 +2959,7 @@ http*:*/vinos.js$important,script
 ||eehdssnxola.com^$important
 ||eekmkywfke.com^$important
 ||eelwibevmywtz.com^$important
+||eenbryfjg.com^$important
 ||eencosteptffo.com^$important
 ||eepuawuevovi.com^$important
 ||eeqlxzpqqaii.com^$important
@@ -6305,6 +6309,7 @@ http*:*/vinos.js$important,script
 ||leftliquid.com^$important
 ||legistrike.pro^$important
 ||legkiy-zarabotoki.xyz^$important
+||lemetri.info^$important
 ||lenoramanning.com^$important
 ||lepfj.site^$important
 ||lepyhlczldiuja.bid^$important
@@ -9468,6 +9473,7 @@ http*:*/vinos.js$important,script
 ||roppccqbzvizrd.bid^$important
 ||roqtynlfysu.bid^$important
 ||roqweslqqlyklb.com^$important
+||rotate4all.com^$important
 ||rotumal.com^$important
 ||roughroll.com^$important
 ||rouvpebtazdlq.com^$important
@@ -12037,6 +12043,7 @@ http*:*/vinos.js$important,script
 ||wicanwfobqiz.com^$important
 ||wicxfvlozsqz.com^$important
 ||widpzvyx.com^$important
+||wiewsulznyncf.com^$important
 ||wiezvhxoqhnn.com^$important
 ||wifteakcp.bid^$important
 ||wigglygeese.com^$important

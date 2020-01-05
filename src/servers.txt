@@ -525,6 +525,7 @@
 ||adsco.re^$important
 ||adscpm.site^$important
 ||adsensecustomsearchads.com^$important
+||adser.io^$important
 ||adservice.google.$important
 ||adshost.site^$important
 ||adskeeper.co.uk^$important
@@ -2218,6 +2219,7 @@
 ||dacqmkmsjajm.com^$important
 ||dadllrpazourna.com^$important
 ||dadsecs.com^$important
+||dadsecz.com^$important
 ||daelynn.xyz^$important
 ||daetemegxlyp.com^$important
 ||daezorwyn.xyz^$important
@@ -2799,6 +2801,7 @@
 ||edpnkcsrp.bid^$important
 ||edua29146y.com^$important
 ||edudktabmq.bid^$important
+||eduyzcjsnoeokj.com^$important
 ||edvbyybaviln.com^$important
 ||edwywpsufuda.com^$important
 ||edxosrcvydn.com^$important
@@ -2821,6 +2824,7 @@
 ||eehdssnxola.com^$important
 ||eekmkywfke.com^$important
 ||eelwibevmywtz.com^$important
+||eenbryfjg.com^$important
 ||eencosteptffo.com^$important
 ||eepuawuevovi.com^$important
 ||eeqlxzpqqaii.com^$important
@@ -6165,6 +6169,7 @@
 ||leftliquid.com^$important
 ||legistrike.pro^$important
 ||legkiy-zarabotoki.xyz^$important
+||lemetri.info^$important
 ||lenoramanning.com^$important
 ||lepfj.site^$important
 ||lepyhlczldiuja.bid^$important
@@ -6219,15 +6224,6 @@
 ||lhnlplsj.bid^$important
 ||lhqcrrsatxwsl.bid^$important
 ||lhtekmhy.com^$important
-||reklamstore.com^$important
-||adser.io^$important
-||lemetri.info^$important
-||rotate4all.com^$important
-||eenbryfjg.com^$important
-||eduyzcjsnoeokj.com^$important
-||kzmleuhgqifvzy.com^$important
-||wiewsulznyncf.com^$important
-||dadsecz.com^$important
 ||lhttyvdxvgjrdp.com^$important
 ||lhuetsviudr.com^$important
 ||lhuqalcxjmtq.com^$important
@@ -9333,6 +9329,7 @@
 ||roppccqbzvizrd.bid^$important
 ||roqtynlfysu.bid^$important
 ||roqweslqqlyklb.com^$important
+||rotate4all.com^$important
 ||rotumal.com^$important
 ||roughroll.com^$important
 ||rouvpebtazdlq.com^$important
@@ -11896,6 +11893,7 @@
 ||wicanwfobqiz.com^$important
 ||wicxfvlozsqz.com^$important
 ||widpzvyx.com^$important
+||wiewsulznyncf.com^$important
 ||wiezvhxoqhnn.com^$important
 ||wifteakcp.bid^$important
 ||wigglygeese.com^$important
