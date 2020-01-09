@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-06 22:10:38
-! Version: 20200106221038
+! Last modified: 2020-01-09 14:04:32
+! Version: 20200109140432
 ! Expires: 3 hours
-! Number of filters: 13755
+! Number of filters: 13771
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -579,6 +579,7 @@ http*:*/vinos.js$important,script
 ||ad4xh85llhcbfis8.com^$important
 ||adakgpoi.com^$important
 ||adalliance.io^$important
+||adalso.com^$important
 ||adap.tv^$important
 ||adbe0806d1108c94bca.com^$important
 ||adbean.ru^$important
@@ -2354,6 +2355,7 @@ http*:*/vinos.js$important,script
 ||dadllrpazourna.com^$important
 ||dadsecs.com^$important
 ||dadsecz.com^$important
+||dadsipz.com^$important
 ||daelynn.xyz^$important
 ||daetemegxlyp.com^$important
 ||daezorwyn.xyz^$important
@@ -3581,6 +3583,7 @@ http*:*/vinos.js$important,script
 ||fjxlbkwhtpil.com^$important
 ||fjxssyatdwttqm.com^$important
 ||fjyapvqvgjmwy.com^$important
+||fkcfaagktu.com^$important
 ||fkdslgyunikais.com^$important
 ||fkekipafwlqd.com^$important
 ||fkemshukccjvu.com^$important
@@ -4240,6 +4243,7 @@ http*:*/vinos.js$important,script
 ||gqtaibrlhbwd.bid^$important
 ||gqtcapjnn.bid^$important
 ||gqulrzprheth.com^$important
+||gquqjrbgaghpfq.com^$important
 ||gqusxhuexmu.com^$important
 ||gqutnukt.com^$important
 ||gquvhveabaem.com^$important
@@ -5239,6 +5243,7 @@ http*:*/vinos.js$important,script
 ||irbkobqlrbtt.com^$important
 ||iretlniy.bid^$important
 ||irfiysdcrnleu.com^$important
+||irkgxjcgl.com^$important
 ||irlklysyeqek.bid^$important
 ||irmfncjihlb.com^$important
 ||iroktywi.bid^$important
@@ -6149,6 +6154,7 @@ http*:*/vinos.js$important,script
 ||kvfdhsmrrwamt.bid^$important
 ||kvgtjwduvn.bid^$important
 ||kvhkfptcv.bid^$important
+||kvhwrotf.com^$important
 ||kvhxckkd.com^$important
 ||kvikjeqepjrq.bid^$important
 ||kvkoqywl.com^$important
@@ -6238,6 +6244,7 @@ http*:*/vinos.js$important,script
 ||ladhyjqqgerr.com^$important
 ||ladsbrown.com^$important
 ||ladslims.com^$important
+||ladsoks.com^$important
 ||lafvopkskbeuj.bid^$important
 ||lagoonolivia.com^$important
 ||lajpmujdntg.com^$important
@@ -7967,6 +7974,7 @@ http*:*/vinos.js$important,script
 ||opawiftgis.com^$important
 ||opbneuozwyuvpk.com^$important
 ||opcyvbwkbiaqyt.com^$important
+||opdefmkoeuoumo.com^$important
 ||opdfugwvncf.bid^$important
 ||opdmxlsdzd.bid^$important
 ||openstat.net^$important
@@ -8128,6 +8136,7 @@ http*:*/vinos.js$important,script
 ||ozwtmmcdglos.com^$important
 ||ozyjicurrutehe.bid^$important
 ||ozymwqsycimr.com^$important
+||p9oqu.com^$important
 ||paddleangle.com^$important
 ||padsats.com^$important
 ||padsblue.com^$important
@@ -8556,6 +8565,7 @@ http*:*/vinos.js$important,script
 ||psygnjvrd.com^$important
 ||ptarywzhyzri.com^$important
 ||ptblqwjz.com^$important
+||pteefoak.com^$important
 ||ptgiweiu.com^$important
 ||ptikeegno.com^$important
 ||ptiniretm.com^$important
@@ -9395,6 +9405,7 @@ http*:*/vinos.js$important,script
 ||ritvtdtnxkbzb.bid^$important
 ||ritzykey.com^$important
 ||ritzysponge.com^$important
+||riverhit.com^$important
 ||riwdydttgbczku.com^$important
 ||rixxvqexdlgrl.com^$important
 ||rjeksrigwzm.com^$important
@@ -9584,6 +9595,7 @@ http*:*/vinos.js$important,script
 ||rupstration.club^$important
 ||ruqckzdjsoe.bid^$important
 ||rurjxaovebr.bid^$important
+||rusenov.com^$important
 ||rushhips.com^$important
 ||russia-lives.icu^$important
 ||rustqlclwuebif.bid^$important
@@ -10436,6 +10448,7 @@ http*:*/vinos.js$important,script
 ||terdiparcalpe.info^$important
 ||terethat.ru^$important
 ||terraclicks.com^$important
+||terrapsps.com^$important
 ||terraviewbeat.com^$important
 ||terriblethumb.com^$important
 ||terribleturkey.com^$important
@@ -11001,6 +11014,7 @@ http*:*/vinos.js$important,script
 ||uewejiuqwqx.com^$important
 ||uezxmehb.com^$important
 ||ufelatujvbhtbo.com^$important
+||ufeuyyfoguo.com^$important
 ||ufgtddsuhlo.com^$important
 ||ufkdsnlvxoqw.com^$important
 ||ufmnicckqyru.com^$important
@@ -12337,6 +12351,7 @@ http*:*/vinos.js$important,script
 ||wxdtvssnezam.com^$important
 ||wxgfqdxoserkr.bid^$important
 ||wxhpszslw.com^$important
+||wxiwegwffls.com^$important
 ||wxjqyqvagefw.com^$important
 ||wxktv.cn^$important
 ||wxmpekoil.com^$important
@@ -13277,6 +13292,7 @@ http*:*/vinos.js$important,script
 ||yyqowjogchca.bid^$important
 ||yyupkqqokrus.com^$important
 ||yyuztnlcpiym.com^$important
+||yyvvnutdokptca.com^$important
 ||yyxknmmvdvv.bid^$important
 ||yyxntcpxxvtpuk.com^$important
 ||yyyghfmjkz.com^$important
