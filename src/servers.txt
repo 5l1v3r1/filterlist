@@ -52,6 +52,14 @@
 ||110380d053f716c4.com^$important
 ||123mdw.com^$important
 ||123sheying.com^$important
+||meapk.com^$important
+||contehos.com^$important
+||jeinvegpool.com^$important
+||adfill.me^$important
+||2xclick.ru^$important
+||peerclicktrk.com^$important
+||pushokey.com^$important
+||adrunnr.com^$important
 ||125jia.cn^$important
 ||129ji7ymdw.com^$important
 ||12dc71b7cb820f2a.com^$important
