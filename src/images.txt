@@ -9,3 +9,4 @@
 |http*:*/pic.gif?m=$image,important
 |http*:*/rtrg?$image,important
 ||mail.yandex.*/monitoring_liza.txt$image,important
+|http*:*/ping.gif?$image,important

@@ -14,7 +14,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?geo(service)?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?informers?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?logs?(ging|impressions?|g?ers?)?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?metric?[asx]?([0-9]{1,3})?\./$important,domain=~metrica.yandex.com|~metrica.yandex.ru|~metrika.yandex.com|~metrika.yandex.ru
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?metri[ck]?[asx]?([0-9]{1,3})?\./$important,domain=~metrica.yandex.com|~metrica.yandex.ru|~metrika.yandex.com|~metrika.yandex.ru
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?miner([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?monitor([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?partners?([0-9]{1,3})?\./$important
@@ -31,6 +31,7 @@
 /^https?:\/\/[^\s]+\/(ntfc|afu|apu)\.(hh|php)\?/$important
 /^https?:\/\/[^\s]+\/log(ging|impressions?|ers?)?[?./]/$important
 /^https?:\/\/[^\s]+\?zone[-_]?id\=/$important
+/^https?:\/\/[^\s]+\/metri[ck]?[asx]?\/$important
 |http*:*%22request_id%*%22idzone%$important
 |http*:*&action=js_stats&$important
 |http*:*&action=js_stats_$important
@@ -50,7 +51,6 @@
 |http*:*/www/delivery/$important
 |http*:*?_siteid=$important
 |http*:*?rand=*&blk=$important
-||1to1.
 ||ddns.net^*=ws://$important
 ||ddns.net^*=wss://$important
 ||google.*/ads/$important
