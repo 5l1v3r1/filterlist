@@ -244,20 +244,6 @@
 ||5hrnx8hsub.com^$important
 ||5mcwl.pw^$important
 ||5nt1gx7o57.com^$important
-||yabs.yandex.by^$important
-||mrds.mail.ru^$important
-||easyupdate.ru^$important
-||mc-portal.mail.ru^$important
-||pxxxyhum.com^$important
-||tyjyrkcrv.com^$important
-||infolinks.com^$important
-||cwplubzglmfah.com^$important
-||tvmzvqoudtj.com^$important
-||silvalliant.info^$important
-||inspikon.com^$important
-||totogetica.com^$important
-||omareeper.com^$important
-||ascraftan.com^$important
 ||5odjin7ipi.com^$important
 ||5ovrmmmoubi71efvatfd.com^$important
 ||5qg9ibt1a6.com^$important
@@ -903,6 +889,7 @@
 ||as07d698u9.com^$important
 ||asadismn.xyz^$important
 ||asbqyhrpty.com^$important
+||ascraftan.com^$important
 ||asdtwttky.com^$important
 ||aseanbanner.tk^$important
 ||asecxggulyrf.com^$important
@@ -2165,6 +2152,7 @@
 ||cwmxsgbllbee.bid^$important
 ||cwmycjoddoq.com^$important
 ||cwofongvtbsi.com^$important
+||cwplubzglmfah.com^$important
 ||cwtekghutpaq.com^$important
 ||cwvdzcqvg.com^$important
 ||cwvqtapvqbmxfd.com^$important
@@ -2781,6 +2769,7 @@
 ||easygatepr.bid^$important
 ||easyhits4u.com^$important
 ||easylist.club^$important
+||easyupdate.ru^$important
 ||easyziptab.com^$important
 ||eawp2ra7.top^$important
 ||ebbhjxspf.com^$important
@@ -5029,6 +5018,7 @@
 ||info.web.de^$important
 ||infobizyours.info^$important
 ||infocenter.support^$important
+||infolinks.com^$important
 ||infomail.support^$important
 ||infomessage.support^$important
 ||ingeliteral.pro^$important
@@ -5045,6 +5035,7 @@
 ||inquisitiveinvention.com^$important
 ||insbrvwfrcgb.com^$important
 ||insdrbot.com^$important
+||inspikon.com^$important
 ||instreamatic.com^$important
 ||instrumentsponge.com^$important
 ||intellecthosting.net^$important
@@ -6680,6 +6671,7 @@
 ||mbtalhkebpbpwb.com^$important
 ||mbyponflbv.bid^$important
 ||mbyrgeoizdid.com^$important
+||mc-portal.mail.ru^$important
 ||mc.webvisor.org^$important
 ||mc.yandex.ru^$important
 ||mcagbtdcwklf.com^$important
@@ -6997,6 +6989,7 @@
 ||mradx.net^$important
 ||mrdbkfyaxsig.bid^$important
 ||mrdiehhk.bid^$important
+||mrds.mail.ru^$important
 ||mrepqeyednht.club^$important
 ||mrfveznetjtp.com^$important
 ||mrjzfzwey.com^$important
@@ -7795,6 +7788,7 @@
 ||olwopczjfkng.com^$important
 ||olxeziuke.com^$important
 ||omakfhugexq.com^$important
+||omareeper.com^$important
 ||omcozngvtyox.com^$important
 ||omniscientspark.com^$important
 ||omoukkkj.stream^$important
@@ -8582,6 +8576,7 @@
 ||pxpndcfntwb.com^$important
 ||pxthyfgzm.com^$important
 ||pxvnhcdzuozqn.com^$important
+||pxxxyhum.com^$important
 ||pxzacgmr.com^$important
 ||pycvhwxtqhknb.com^$important
 ||pydpcqjenhjx.com^$important
@@ -9798,6 +9793,7 @@
 ||silkysquirrel.com^$important
 ||sillyscrew.com^$important
 ||silrfbopbobw.com^$important
+||silvalliant.info^$important
 ||similarsabine.com^$important
 ||simplisticnose.com^$important
 ||sincerebuffalo.com^$important
@@ -10553,6 +10549,7 @@
 ||torringtonguion.com^$important
 ||torvind.com^$important
 ||totalmedia2.ynet.co.il^$important
+||totogetica.com^$important
 ||totvsaexihbe.com^$important
 ||touayfftdwcd.com^$important
 ||tougaloocolerain.com^$important
@@ -10718,6 +10715,7 @@
 ||tvhyilwkn.com^$important
 ||tvjkilgfanpt.com^$important
 ||tvlubtrxcold.com^$important
+||tvmzvqoudtj.com^$important
 ||tvnetfcgpjq.bid^$important
 ||tvnewtop.pro^$important
 ||tvoykqiea.com^$important
@@ -10764,6 +10762,7 @@
 ||txyylwegpdfsda.com^$important
 ||tyavjmvuvygs.com^$important
 ||tyccaweownne.com^$important
+||tyjyrkcrv.com^$important
 ||tylzbdkjsjig.com^$important
 ||tynt.com^$important
 ||tyoaclrjeb.com^$important
@@ -12686,6 +12685,7 @@
 ||ya-googl.ws^$important
 ||ya-toptal-tvoyu-dushu.com^$important
 ||yaaqsdteo.com^$important
+||yabs.yandex.by^$important
 ||yabs.yandex.ru^$important
 ||yabs.yandex.ua^$important
 ||yadr0.com^$important
