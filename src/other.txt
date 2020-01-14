@@ -53,7 +53,6 @@
 |http*:*?rand=*&blk=$important
 ||ddns.net^*=ws://$important
 ||ddns.net^*=wss://$important
-||google.*/ads/$important
-||google.*/adsense/$important
+|http*:*/ads/$important
+|http*:*/adsense/$important
 ||google.*/uds/$important
-||yandex.*/clck/$important
