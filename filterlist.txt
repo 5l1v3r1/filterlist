@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-13 02:28:35
-! Version: 20200113022835
+! Last modified: 2020-01-14 11:20:05
+! Version: 20200114112005
 ! Expires: 3 hours
-! Number of filters: 13794
+! Number of filters: 13793
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -114,6 +114,8 @@ http*:*/vinos.js$important,script
 |http*:*/*?perfekt=wss://$important
 |http*:*/*?proxy=ws://$important
 |http*:*/*?proxy=wss://$important
+|http*:*/ads/$important
+|http*:*/adsense/$important
 |http*:*/aj-cryptominer.$important,script
 |http*:*/ajcryptominer.$important,script
 |http*:*/amp.gif?$image,important,xmlhttprequest
@@ -4187,8 +4189,6 @@ http*:*/vinos.js$important,script
 ||goo4anywhere.com^$important
 ||goodbookbook.com^$important
 ||google-analytics.com^$important
-||google.*/ads/$important
-||google.*/adsense/$important
 ||google.*/uds/$important
 ||google.com^*/viewerimpressions?$important,xmlhttprequest
 ||googleadservices.com^$important
@@ -12859,7 +12859,6 @@ http*:*/vinos.js$important,script
 ||yamrxfbkpirt.com^$important
 ||yanagi.co.kr^$important
 ||yandex-click.net^$important
-||yandex.*/clck/$important
 ||yaoshuo.cn^$important
 ||yaoslgiweccw.com^$important
 ||yapboom.com^$important
