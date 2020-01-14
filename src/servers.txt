@@ -26,21 +26,6 @@
 ||024xuyisheng.com^$important
 ||0377shujuhuifu.top^$important
 ||0452jhw.com^$important
-||tubecorporate.com^$important
-||reallypab.com^$important
-||visitstats.com^$important
-||goonline13.online^$important
-||videonow.ru^$important
-||okvfijgdmqton.bid^$important
-||fvkdatbzswo.bid^$important
-||xjijqczj.com^$important
-||kncmdqkvnrofe.com^$important
-||quantserve.com^$important
-||casalemedia.com^$important
-||innovid.com^$important
-||mookie1.com^$important
-||zefirgood1.ru^$important
-||portal-xiva.yandex.net^$important
 ||05a7946eef5d.com^$important
 ||05y2dxmr.top^$important
 ||0632qyw.com^$important
@@ -4070,6 +4055,7 @@
 ||googletagmanager.com^$important
 ||googletagservices.com^$important
 ||googlo.co^$important
+||goonline13.online^$important
 ||goowurzdotcom.bid^$important
 ||gopamdzgpdrwe.bid^$important
 ||gor1lla.win^$important
@@ -5046,6 +5032,7 @@
 ||inmrjokdxmkh.com^$important
 ||innity.net^$important
 ||innocentwax.com^$important
+||innovid.com^$important
 ||inpagepush.com^$important
 ||inquisitiveinvention.com^$important
 ||insbrvwfrcgb.com^$important
@@ -5901,6 +5888,7 @@
 ||kmyelzmlkl.bid^$important
 ||kmypiwpbastt.com^$important
 ||knbnejxqn.com^$important
+||kncmdqkvnrofe.com^$important
 ||knepsiwviviwed.com^$important
 ||knifeoctopus.com^$important
 ||knimmqli.com^$important
@@ -8335,6 +8323,7 @@
 ||popupme.net^$important
 ||popzkvfimbox.com^$important
 ||poqqvnychl.com^$important
+||portal-xiva.yandex.net^$important
 ||possessivebucket.com^$important
 ||possibleboats.com^$important
 ||postaffiliatepro.com^$important
@@ -9151,6 +9140,7 @@
 ||realizerecess.com^$important
 ||realizevacation.com^$important
 ||realktalk.xyz^$important
+||reallypab.com^$important
 ||realnetwrk.com^$important
 ||realnwspfbumn.com^$important
 ||realtime-bid.com^$important
@@ -10696,6 +10686,7 @@
 ||ttxsrl139.life^$important
 ||ttxssayyes102.agency^$important
 ||ttyvbqif.bid^$important
+||tubecorporate.com^$important
 ||tudsawhfmutb.bid^$important
 ||tudsxyhpn.com^$important
 ||tufpmrcdc.com^$important
@@ -11452,6 +11443,7 @@
 ||vidalak.com^$important
 ||vidcpm.com^$important
 ||videolol007.com^$important
+||videonow.ru^$important
 ||videoplayer2.xyz^$important
 ||videoroll.net^$important
 ||vidora.com^$important
@@ -11469,6 +11461,7 @@
 ||viqfxgmgacxv.com^$important
 ||viqmadjqndqkm.com^$important
 ||virgbmkmear.com^$important
+||visitstats.com^$important
 ||visitstats.com^$important,third-party
 ||viunypnvhcw.com^$important
 ||vivcdctagoij.com^$important
@@ -12433,6 +12426,7 @@
 ||xjdriaiyy.com^$important
 ||xjehskjzyedb.com^$important
 ||xjfaqocrss.bid^$important
+||xjijqczj.com^$important
 ||xjjfgxdfpr.com^$important
 ||xjjjohojeeozv.com^$important
 ||xjompsubsozc.com^$important
@@ -13275,6 +13269,7 @@
 ||zealousfield.com^$important
 ||zeantqrix.bid^$important
 ||zedo.com^$important
+||zefirgood1.ru^$important
 ||zehwjplnopevjt.bid^$important
 ||zekert.com^$important
 ||zelienopleprattsville.com^$important

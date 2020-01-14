@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-14 11:20:05
-! Version: 20200114112005
+! Last modified: 2020-01-14 23:39:53
+! Version: 20200114233953
 ! Expires: 3 hours
-! Number of filters: 13793
+! Number of filters: 13803
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -4196,6 +4196,7 @@ http*:*/vinos.js$important,script
 ||googletagmanager.com^$important
 ||googletagservices.com^$important
 ||googlo.co^$important
+||goonline13.online^$important
 ||goowurzdotcom.bid^$important
 ||gopamdzgpdrwe.bid^$important
 ||gor1lla.win^$important
@@ -5173,6 +5174,7 @@ http*:*/vinos.js$important,script
 ||inmrjokdxmkh.com^$important
 ||innity.net^$important
 ||innocentwax.com^$important
+||innovid.com^$important
 ||inpagepush.com^$important
 ||inquisitiveinvention.com^$important
 ||insbrvwfrcgb.com^$important
@@ -6028,6 +6030,7 @@ http*:*/vinos.js$important,script
 ||kmyelzmlkl.bid^$important
 ||kmypiwpbastt.com^$important
 ||knbnejxqn.com^$important
+||kncmdqkvnrofe.com^$important
 ||knepsiwviviwed.com^$important
 ||knifeoctopus.com^$important
 ||knimmqli.com^$important
@@ -8465,6 +8468,7 @@ http*:*/vinos.js$important,script
 ||popupme.net^$important
 ||popzkvfimbox.com^$important
 ||poqqvnychl.com^$important
+||portal-xiva.yandex.net^$important
 ||possessivebucket.com^$important
 ||possibleboats.com^$important
 ||postaffiliatepro.com^$important
@@ -9282,6 +9286,7 @@ http*:*/vinos.js$important,script
 ||realizerecess.com^$important
 ||realizevacation.com^$important
 ||realktalk.xyz^$important
+||reallypab.com^$important
 ||realnetwrk.com^$important
 ||realnwspfbumn.com^$important
 ||realtime-bid.com^$important
@@ -10830,6 +10835,7 @@ http*:*/vinos.js$important,script
 ||ttxsrl139.life^$important
 ||ttxssayyes102.agency^$important
 ||ttyvbqif.bid^$important
+||tubecorporate.com^$important
 ||tudsawhfmutb.bid^$important
 ||tudsxyhpn.com^$important
 ||tufpmrcdc.com^$important
@@ -11589,6 +11595,7 @@ http*:*/vinos.js$important,script
 ||vidalak.com^$important
 ||vidcpm.com^$important
 ||videolol007.com^$important
+||videonow.ru^$important
 ||videoplayer2.xyz^$important
 ||videoroll.net^$important
 ||vidora.com^$important
@@ -11606,6 +11613,7 @@ http*:*/vinos.js$important,script
 ||viqfxgmgacxv.com^$important
 ||viqmadjqndqkm.com^$important
 ||virgbmkmear.com^$important
+||visitstats.com^$important
 ||visitstats.com^$important,third-party
 ||viunypnvhcw.com^$important
 ||vivcdctagoij.com^$important
@@ -12570,6 +12578,7 @@ http*:*/vinos.js$important,script
 ||xjdriaiyy.com^$important
 ||xjehskjzyedb.com^$important
 ||xjfaqocrss.bid^$important
+||xjijqczj.com^$important
 ||xjjfgxdfpr.com^$important
 ||xjjjohojeeozv.com^$important
 ||xjompsubsozc.com^$important
@@ -13416,6 +13425,7 @@ http*:*/vinos.js$important,script
 ||zealousfield.com^$important
 ||zeantqrix.bid^$important
 ||zedo.com^$important
+||zefirgood1.ru^$important
 ||zehwjplnopevjt.bid^$important
 ||zekert.com^$important
 ||zelienopleprattsville.com^$important
