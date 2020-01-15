@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-15 13:50:42
-! Version: 20200115135042
+! Last modified: 2020-01-15 15:19:26
+! Version: 20200115151926
 ! Expires: 3 hours
-! Number of filters: 13800
+! Number of filters: 13801
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -624,7 +624,7 @@ http*:*/vinos.js$important,script
 ||admessage.support^$important
 ||admetric.io^$important
 ||admetrica.ru^$important
-||admetricspro.com^$important,third-party
+||admetricspro.com^$important
 ||admitad.com^$important
 ||admixer.net^$important
 ||admlqqewbede.com^$important
@@ -654,9 +654,6 @@ http*:*/vinos.js$important,script
 ||ads*-adnow.com^$important
 ||ads-twitter.com^$important
 ||ads.com^$important
-||ads1-adnow.com^$important
-||ads2-adnow.com^$important
-||ads3-adnow.com^$important
 ||adsafeprotected.com^$important
 ||adsco.re^$important
 ||adscpm.site^$important
@@ -2487,7 +2484,7 @@ http*:*/vinos.js$important,script
 ||detectdiscovery.com^$important
 ||dev-mobile-techie-fresh.pw^$important
 ||develenius.com^$important
-||deviceoffergiveaways.icu
+||deviceoffergiveaways.icu^$important
 ||dewltdgzgtt.com^$important
 ||dexim.space^$important
 ||dexxxrggi.com^$important
@@ -5871,6 +5868,7 @@ http*:*/vinos.js$important,script
 ||kdaskxrcgxhp.com^$important
 ||kdekyymbn.bid^$important
 ||kdfjjvidllnbaa.com^$important
+||kdfumeftulzzpp.com^$important
 ||kdhkjeklzihiwh.com^$important
 ||kdhndryipp.com^$important
 ||kdiunbsaw.com^$important
@@ -7076,6 +7074,7 @@ http*:*/vinos.js$important,script
 ||money-maker-default.info^$important
 ||money-maker-script.info^$important
 ||money-slots.net^$important
+||moneymakercdn.com^$important
 ||moneysavingexpertcarinsurance.icu^$important
 ||moneysavingexpertsavings.world^$important
 ||monklerm.pro^$important
@@ -8045,6 +8044,7 @@ http*:*/vinos.js$important,script
 ||otdgnmvw.com^$important
 ||otefauks.link^$important
 ||otewxlcmkih.com^$important
+||otmyoesv.com^$important
 ||otnolatrnup.com^$important
 ||otoxkqlivsqr.com^$important
 ||otparcaltonther.pro^$important
@@ -8270,7 +8270,6 @@ http*:*/vinos.js$important,script
 ||peqdwnztlzjp.com^$important
 ||perceivequarter.com^$important
 ||performquickintenselyfile.*^$important
-||performquickintenselyfile.icu^$important
 ||perimeterx.net^$important
 ||perrege.ru^$important
 ||pertosj.ru^$important
@@ -12968,6 +12967,7 @@ http*:*/vinos.js$important,script
 ||yfkwqoswbghk.com^$important
 ||yflpucjkuwvh.com^$important
 ||yflyluiqdig.com^$important
+||yfnvswrfjw.com^$important
 ||yfoymaiiab.club^$important
 ||yfqlqjpdsckc.com^$important
 ||yfrsukbbfzyf.com^$important
@@ -13678,6 +13678,7 @@ http*:*/vinos.js$important,script
 ||zseec.com^$important
 ||zsihqvjfwwlk.com^$important
 ||zsikmzoehqw.com^$important
+||zsjgmnmtgm.com^$important
 ||zslembevfypr.com^$important
 ||zsruuckp.com^$important
 ||zsuqhunoiex.com^$important
