@@ -41,8 +41,6 @@
 |http*:*/*?perfekt=wss://$important
 |http*:*/*?proxy=ws://$important
 |http*:*/*?proxy=wss://$important
-|http*:*/ads/$important
-|http*:*/adsense/$important
 |http*:*/empty.php$important
 |http*:*/in.php?*&referer=$important
 |http*:*/pagead/$important
@@ -55,4 +53,3 @@
 |http*:*?rand=*&blk=$important
 ||ddns.net^*=ws://$important
 ||ddns.net^*=wss://$important
-||google.*/uds/$important
