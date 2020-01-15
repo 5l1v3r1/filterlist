@@ -392,7 +392,7 @@
 ||abbowtxibib.com^$important
 ||abekjzzhfbr.com^$important
 ||abfcfxfkzmiqht.com^$important
-||abgclk.club$important
+||abgclk.club^$important
 ||ablehed.pro^$important
 ||ablenctionalle.info^$important
 ||aboardamusement.com^$important
@@ -526,7 +526,7 @@
 ||adscpm.site^$important
 ||adsensecustomsearchads.com^$important
 ||adser.io^$important
-||adservice.google.$important
+||adservice.google.*^$important
 ||adshost.site^$important
 ||adskeeper.co.uk^$important
 ||adslop.com^$important
@@ -1033,7 +1033,6 @@
 ||b13481647cf775c5.com^$important
 ||b1img.com^$important
 ||b3f17a21a3d.com^$important
-||b3z29k1uxb.com$important
 ||b3z29k1uxb.com^$important
 ||b42rracj.com^$important
 ||b4e12976c052bbd91c3e.date^$important
@@ -4043,7 +4042,6 @@
 ||golkkzpniri.com^$important
 ||gondolagnome.com^$important
 ||gonuuudpdcu.com^$important
-||goo.gl^document
 ||goo4anywhere.com^$important
 ||goodbookbook.com^$important
 ||google-analytics.com^$important
@@ -4835,7 +4833,7 @@
 ||icxssspyxquw.bid^$important
 ||icyddcsjbqjxz.bid^$important
 ||icyfqtjj.bid^$important
-||id.google.$important
+||id.google.*^$important
 ||idbjhskxiablsi.com^$important
 ||idbtfwllhogxc.com^$important
 ||idbxnzgmn.com^$important
@@ -6319,7 +6317,7 @@
 ||lkrojmvmxxqze.com^$important
 ||lkuirehx.com^$important
 ||lkzvhtetshbu.com^$important
-||llahnch259.com$important
+||llahnch259.com^$important
 ||llbevorurncfcc.bid^$important
 ||llbynwyuoj.bid^$important
 ||llddarkinywtmg.bid^$important
@@ -7125,7 +7123,7 @@
 ||myqvhpjyd.com^$important
 ||myregeneaf.com^$important
 ||mysteriousmonth.com^$important
-||mytestminer.xyz
+||mytestminer.xyz^$important
 ||myvisualiq.net^$important
 ||myzsyljf.com^$important
 ||mzhcaexrrl.com^$important
@@ -10900,7 +10898,7 @@
 ||ufrzvzpympib.com^$important
 ||ufugfbtpp.com^$important
 ||ugbmcjmpapeo.bid^$important
-||ugdturner.com$important
+||ugdturner.com^$important
 ||ugfxrrqz.bid^$important
 ||ugkppchlelde.com^$important
 ||ugmfvqsu.ru^$important
