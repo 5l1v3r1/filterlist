@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-15 15:30:07
-! Version: 20200115153007
+! Last modified: 2020-01-17 16:35:19
+! Version: 20200117163519
 ! Expires: 3 hours
-! Number of filters: 13799
+! Number of filters: 13803
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1395,6 +1395,7 @@ http*:*/vinos.js$important,script
 ||bileth.pw^$important
 ||biliqpvehf.com^$important
 ||billowybead.com^$important
+||bilsyndication.com^$important
 ||bimwswreljucxa.com^$important
 ||binasmdul.com^$important
 ||bing.com/fd/ls/$xmlhttprequest
@@ -1703,6 +1704,7 @@ http*:*/vinos.js$important,script
 ||byqmzodcdhhu.com^$important
 ||byspwzspx.bid^$important
 ||bysziktift.com^$important
+||bytetouruniverse.com^$important
 ||byufpbvjpedvpx.com^$important
 ||byuwgtzpawzzd.com^$important
 ||byxlivaqzo.com^$important
@@ -2737,6 +2739,7 @@ http*:*/vinos.js$important,script
 ||drjgjngf.com^$important
 ||droqnswhcfk.com^$important
 ||drpmtzjanjqjpj.com^$important
+||drqlvjwhg.com^$important
 ||drragqvk.bid^$important
 ||drsemkuhpg.com^$important
 ||drtqfejznjnl.com^$important
@@ -5808,6 +5811,7 @@ http*:*/vinos.js$important,script
 ||jzkznpleaqshdj.com^$important
 ||jzllgntkazui.com^$important
 ||jzlzdnvvktcf.com^$important
+||jzowfnqah.com^$important
 ||jzqvmpkppjlgc.com^$important
 ||jzthapvjlq.bid^$important
 ||jzurzhjqrp.com^$important
