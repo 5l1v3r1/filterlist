@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-17 16:35:19
-! Version: 20200117163519
+! Last modified: 2020-01-21 16:56:59
+! Version: 20200121165659
 ! Expires: 3 hours
-! Number of filters: 13803
+! Number of filters: 13806
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -88,7 +88,7 @@
 /^https?:\/\/[^\s]+\/log(ging|impressions?|ers?)?[?./]/$important
 /^https?:\/\/[^\s]+\/metri(cs?|x)([a-zA-Z0-9]+)?[!"#$%&'()*+,.:;<=>?@/\^_`{|}~-]/$important,script
 /^https?:\/\/[^\s]+\/metri[ck]?[asx]?\/$important
-/^https?:\/\/[^\s]+\/piwik\./$image,important,script
+/^https?:\/\/[^\s]+\/piwik[!"#$%&'()*+,:;<=>?@\/\^_`{|}~-]/$image,important,script
 /^https?:\/\/[^\s]+\/sponsor(s|ing)?\//$image,important
 /^https?:\/\/[^\s]+\/vast([._0-9-/]{1,10})?([/.-?]|js)/$image,important,script,xmlhttprequest
 /^https?:\/\/[^\s]+\/wasmminer\.(js|wasm)/$important,script,xmlhttprequest
@@ -7835,6 +7835,7 @@ http*:*/vinos.js$important,script
 ||ofwwrgelrvx.bid^$important
 ||ofwznbbxso.com^$important
 ||ogbamfpcfac.bid^$important
+||ogdzyxly.com^$important
 ||ogegqayudrypc.bid^$important
 ||ogisrmbhajhyam.com^$important
 ||ogjascdgq.com^$important
@@ -8555,6 +8556,7 @@ http*:*/vinos.js$important,script
 ||provaless.com^$important
 ||provideplant.com^$important
 ||prpkhpjxghhn.com^$important
+||prpops.com^$important
 ||prsmglob.com^$important
 ||prsrjdr.ru^$important
 ||prtjzzyfi.com^$important
@@ -11072,6 +11074,7 @@ http*:*/vinos.js$important,script
 ||uhfqrxwlnszw.com^$important
 ||uhgnxrkhoi.bid^$important
 ||uhicnlmab.com^$important
+||uhjedvnlaq.com^$important
 ||uhkgydsvc.bid^$important
 ||uhnuskfd.bid^$important
 ||uhpdodqzxewhcv.com^$important
