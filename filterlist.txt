@@ -1,7 +1,7 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-22 21:22:12
-! Version: 20200122212213
+! Last modified: 2020-01-22 21:28:16
+! Version: 20200122212816
 ! Expires: 3 hours
 ! Number of filters: 13808
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
@@ -70,12 +70,12 @@
 /^https?:\/\/[^\s]+[!"#$%&'()*+,.:;<=>?@/\^_`{|}~-]coinhive(\.min)?\.js/$important,script
 /^https?:\/\/[^\s]+[!"#$%&'()*+,.:;<=>?@/\^_`{|}~-]monero\-miner(\.min)?\.js/$important,script
 /^https?:\/\/[^\s]+[!"#$%&'()*+,.:;<=>?@/\^_`{|}~-]pi?xe?l?[!"#$%&'()*+,.:;<=>?@/\^_`{|}~-]/$image,important,script,subdocument,xmlhttprequest
-/^https?:\/\/[^\s]+[!"#$%&'()*+,.:;<=>?@/\^_`{|}~-]piwik[!"#$%&'()*+,:;<=>?@\/\^_`{|}~-]/$image,important,script
+/^https?:\/\/[^\s]+[!"#$%&'()*+,.:;<=>?@/\^_`{|}~-]piwik[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]/$image,important,script
 /^https?:\/\/[^\s]+[!"#$%&'()*+,.:;<=>?@/\^_`{|}~-]prebid([.0-9-]{1,6})?[/.]/$important,script
-/^https?:\/\/[^\s]+[!"#$%&'()*+,.:;<=>?@/\^_`{|}~-]vast[!"#$%&'()*+,:;<=>?@\/\^_`{|}~-]/$image,important,script,xmlhttprequest
+/^https?:\/\/[^\s]+[!"#$%&'()*+,.:;<=>?@/\^_`{|}~-]vast[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]/$image,important,script,xmlhttprequest
 /^https?:\/\/[^\s]+[!"#$%&'()*+,.:;<=>?@/\^_`{|}~-]videoads?[0-9]{1,3}\./$important,script,xmlhttprequest
 /^https?:\/\/[^\s]+[!"#$%&'()*+,.:;<=>?@/\^_`{|}~-]worker\-asmjs(\.min)?\.js/$important,script
-/^https?:\/\/[^\s]+[!"#$%&'()*+,:;<=>?@\/\^_`{|}~-]log[!"#$%&'()*+,:;<=>?@\/\^_`{|}~-]?(type|event|entry|request|stats?|view(edpage)?)\??/$image,important,script,xmlhttprequest
+/^https?:\/\/[^\s]+[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]log[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]?(type|event|entry|request|stats?|view(edpage)?)\??/$image,important,script,xmlhttprequest
 /^https?:\/\/[^\s]+\&refer\=https?/$important,script
 /^https?:\/\/[^\s]+\.(cc\/$|club|com|online|ru)/$important,xmlhttprequest,domain=hdgo.cc|vio.to
 /^https?:\/\/[^\s]+\.[A-Za-z]{2,6}\/[A-Za-z]{1}\?tag\=[^\s]+\&site\=[A-Za-z0-9]{1,}\&ads?\=/$important,popup,script
