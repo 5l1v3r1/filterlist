@@ -9,9 +9,9 @@
 /^https?:\/\/[^\s]+\.[A-Za-z]{2,6}\/[A-Za-z]{1}\?tag\=[^\s]+\&site\=[A-Za-z0-9]{1,}\&ads?\=/$important,popup,script
 /^https?:\/\/[^\s]+\/(([a-zA-Z]{1,5})?[!"#$%&'()*+,.:;<=>?@/\^_`{|}~-])?track(ers?|ing)?([0-9a-zA-Z-_.]{1,12})?\.js/$image,important,script,xmlhttprequest,domain=~music.yandex.by|~music.yandex.com|~music.yandex.ru|~music.yandex.ua
 /^https?:\/\/[^\s]+\/(([a-zA-Z]{1,7})?[!"#$%&'()*+,.:;<=>?@/\^_`{|}~-]?)?track(ers?|ing)[?/]/$image,important,other,script,xmlhttprequest
-/^https?:\/\/[^\s]+\/cryptonight\.(js|wasm)/$important,script,xmlhttprequest
 /^https?:\/\/[^\s]+\/[!"#$%&'()*+,.:;<=>?@/\^_`{|}~-]?piwik[!"#$%&'()*+,:;<=>?@\/\^_`{|}~-]/$image,important,script
 /^https?:\/\/[^\s]+\/[!"#$%&'()*+,.:;<=>?@/\^_`{|}~-]?vast([._0-9-/]{1,10})?([/.-?]|js)/$image,important,script,xmlhttprequest
+/^https?:\/\/[^\s]+\/cryptonight\.(js|wasm)/$important,script,xmlhttprequest
 /^https?:\/\/[^\s]+\/wasmminer\.(js|wasm)/$important,script,xmlhttprequest
 /^https?:\/\/turbobit\.net\/(.*\/fdlogger|pus\/|.*\/js\/brinpopup\.js|glx\_[0-9]{5}\.js$)/$important,script,xmlhttprequest
 |http*:*/amp.gif?$image,important,xmlhttprequest
