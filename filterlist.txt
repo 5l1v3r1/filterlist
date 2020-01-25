@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-23 18:07:13
-! Version: 20200123180713
+! Last modified: 2020-01-25 14:39:39
+! Version: 20200125143939
 ! Expires: 3 hours
-! Number of filters: 13810
+! Number of filters: 13816
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -739,6 +739,7 @@ http*:*/vinos.js$important,script
 ||afraidlanguage.com^$important
 ||afxtcajgtzcugb.com^$important
 ||afyqzjxzuupmz.bid^$important
+||afzfzhbk.com^$important
 ||afzkqajwcbub.com^$important
 ||afzoyaquhjltdd.com^$important
 ||agegefpkbll.bid^$important
@@ -1636,6 +1637,7 @@ http*:*/vinos.js$important,script
 ||buadnqirhykcyc.com^$important
 ||buauaamx.bid^$important
 ||bubblelife90.life^$important
+||bubblesmedia.ru^$important
 ||bucketbean.com^$important
 ||budyxjttmjkf.com^$important
 ||bufqrxzyrecf.com^$important
@@ -2111,6 +2113,7 @@ http*:*/vinos.js$important,script
 ||consensu.org^$important
 ||contehos.com^$important
 ||content-ad.net^$important
+||contentabc.com^$important
 ||contentsfeed.com^$important
 ||contentza.com^$important
 ||contestandgiveaways.xyz^$important
@@ -5675,6 +5678,7 @@ http*:*/vinos.js$important,script
 ||jqleeknw.com^$important
 ||jqmcbepfjgks.com^$important
 ||jqmrqgaunex.ru^$important
+||jqnshpbuj.com^$important
 ||jqojocdbjpdyk.bid^$important
 ||jqpuxvgnxkf.com^$important
 ||jqqlucchmbxnn.com^$important
@@ -7673,6 +7677,7 @@ http*:*/vinos.js$important,script
 ||nuxsmhexm.com^$important
 ||nvajxoahenwe.com^$important
 ||nvcwvcmwdjgjyu.bid^$important
+||nvdljujp.com^$important
 ||nvgcmeqfn.com^$important
 ||nvjjquyylqicp.com^$important
 ||nvkkjenz.com^$important
@@ -12137,6 +12142,7 @@ http*:*/vinos.js$important,script
 ||wjdjovjrxsqx.com^$important
 ||wjevvjxwg.com^$important
 ||wjgddzpvx.com^$important
+||wjhwruwrirpizx.com^$important
 ||wjkwjcmeymu.com^$important
 ||wjmckfsdcxpj.com^$important
 ||wjnkvhlgvixx.com^$important
