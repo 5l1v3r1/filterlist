@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-25 14:39:39
-! Version: 20200125143939
+! Last modified: 2020-01-25 16:25:58
+! Version: 20200125162558
 ! Expires: 3 hours
-! Number of filters: 13816
+! Number of filters: 13841
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -68,7 +68,7 @@
 /^https?:\/\/[^\s]+[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-](player|client|csi|gen(erate)?|stream|logs?|live)[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]?204\??/$image,important,other,xmlhttprequest
 /^https?:\/\/[^\s]+[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]1x1\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|heic|heif|webp|jxr|wdp|dng|cr2|arw|js|html?)/$image,important,script,subdocument
 /^https?:\/\/[^\s]+[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]coinhive(\.min)?\.js/$important,script
-/^https?:\/\/[^\s]+[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]log[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]?(type|event|entry|request|stats?|view(edpage)?)\??/$image,important,script,xmlhttprequest
+/^https?:\/\/[^\s]+[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]log[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]?(type|event|entry|request|stats?|view(edpage)?)\??/$image,important,other,script,xmlhttprequest
 /^https?:\/\/[^\s]+[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]monero\-miner(\.min)?\.js/$important,script
 /^https?:\/\/[^\s]+[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]pi?xe?l?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]/$image,important,script,subdocument,xmlhttprequest
 /^https?:\/\/[^\s]+[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]piwik[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]/$image,important,script
@@ -391,6 +391,7 @@ http*:*/vinos.js$important,script
 ||628e7ae68a3357896.com^$important
 ||63e7b6347c45fa.com^$important
 ||64b8ff0e76975d3d63.com^$important
+||64uq73u7ug.webcam^$important
 ||6530868523.com^$important
 ||6530868523e.com^$important
 ||6530868523e6.com^$important
@@ -527,6 +528,18 @@ http*:*/vinos.js$important,script
 ||abfcfxfkzmiqht.com^$important
 ||abgclk.club^$important
 ||ablehed.pro^$important
+||ablen01.tk^$important
+||ablen02.tk^$important
+||ablen03.tk^$important
+||ablen04.tk^$important
+||ablen05.tk^$important
+||ablen06.tk^$important
+||ablen07.tk^$important
+||ablen08.tk^$important
+||ablen09.tk^$important
+||ablen10.tk^$important
+||ablen11.tk^$important
+||ablen12.tk^$important
 ||ablenctionalle.info^$important
 ||aboardamusement.com^$important
 ||aboardlevel.com^$important
@@ -718,6 +731,18 @@ http*:*/vinos.js$important,script
 ||aeobzaii.com^$important
 ||aepwqsajypyti.com^$important
 ||aerkxydrptnv.com^$important
+||aeros01.tk^$important
+||aeros02.tk^$important
+||aeros03.tk^$important
+||aeros04.tk^$important
+||aeros05.tk^$important
+||aeros06.tk^$important
+||aeros07.tk^$important
+||aeros08.tk^$important
+||aeros09.tk^$important
+||aeros10.tk^$important
+||aeros11.tk^$important
+||aeros12.tk^$important
 ||aerqvywe.com^$important
 ||aeuiazspafmbu.com^$important
 ||aeunorkjuqtn.com^$important
