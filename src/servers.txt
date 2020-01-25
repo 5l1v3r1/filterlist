@@ -1982,6 +1982,12 @@
 ||contributor.google.com^$important
 ||conviva.com^$important
 ||coograma.net^$important
+||contentabc.com^$important
+||bubblesmedia.ru^$important
+||nvdljujp.com^$important
+||wjhwruwrirpizx.com^$important
+||jqnshpbuj.com^$important
+||afzfzhbk.com^$important
 ||cookie-script.com^$important
 ||cookiebot.com^$important
 ||cookielaw.org^$important
