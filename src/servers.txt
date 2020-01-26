@@ -77,11 +77,6 @@
 ||1fc4d6ccf2.com^$important
 ||1paj4kmp.top^$important
 ||1q2w3.*^$important
-||traffic-gate-service.info^$important
-||traffic-info-service.info^$important
-||traffic-optical-service.info^$important
-||traffic-service.info^$important
-||traffic-tech-service.info^$important
 ||1wkvvts8is.com^$important
 ||1wzfew7a.site^$important
 ||1xbahisbuwv.com^$important
@@ -10700,6 +10695,7 @@
 ||traffdaq.com^$important
 ||traffic-gate-service.info^$important
 ||traffic-info-service.info^$important
+||traffic-optical-service.info^$important
 ||traffic-service.info^$important
 ||traffic-tech-service.info^$important
 ||trafficfactory.biz^$important
