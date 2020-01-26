@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-26 18:30:28
-! Version: 20200126183029
+! Last modified: 2020-01-26 19:16:53
+! Version: 20200126191653
 ! Expires: 3 hours
-! Number of filters: 13875
+! Number of filters: 13894
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -2718,6 +2718,12 @@ http*:*/vinos.js$important,script
 ||douangvwl.com^$important
 ||doubleclick.com^$important
 ||doubleclick.net^$important
+||doubleclick1.xyz^$important
+||doubleclick2.xyz^$important
+||doubleclick3.xyz^$important
+||doubleclick4.xyz^$important
+||doubleclick5.xyz^$important
+||doubleclick6.xyz^$important
 ||doubleclickbygoogle.com^$important
 ||doublepimp.com^$important
 ||doublepimpssl.com^$important
@@ -3640,6 +3646,7 @@ http*:*/vinos.js$important,script
 ||fkwwhndzjlqrm.com^$important
 ||flakyfeast.com^$important
 ||flash-searchfor-find.icu^$important
+||flashx.*^$important
 ||flavordecision.com^$important
 ||flbecoidmt.com^$important
 ||flcfstbzncsim.com^$important
@@ -3647,6 +3654,7 @@ http*:*/vinos.js$important,script
 ||flepzrkdwm.com^$important
 ||flgstgrcwapk.com^$important
 ||flightsy.*^$important
+||flighty.*^$important
 ||flightzy.*^$important
 ||flimsycircle.com^$important
 ||flirteenew.info^$important
@@ -5730,6 +5738,7 @@ http*:*/vinos.js$important,script
 ||jrdxlxdnohjzs.bid^$important
 ||jrlnmyorquny.bid^$important
 ||jrlsithadutpm.com^$important
+||jroqvbvw.info^$important
 ||jrrekpskc.com^$important
 ||jrrmwjybfaztct.com^$important
 ||jrtawlpbusyg.com^$important
@@ -5737,6 +5746,8 @@ http*:*/vinos.js$important,script
 ||jryyekccnw.com^$important
 ||jryywrczwcfmw.com^$important
 ||js-agent.newrelic.com^$important
+||jsccnn.com^$important
+||jscdndel.com^$important
 ||jscoinminer.com^$important
 ||jsecoin.com^$important
 ||jshjrozmwmyj.com^$important
@@ -5765,8 +5776,11 @@ http*:*/vinos.js$important,script
 ||juqakqgv.com^$important
 ||juqmlmoclnhe.com^$important
 ||juren0.com^$important
+||jurty.ml^$important
+||jurtym.cf^$important
 ||jusrlkubhjnr.com^$important
 ||justicejudo.com^$important
+||juststatic.info^$important
 ||jutbdkjc.bid^$important
 ||juuwyyvjecnvps.com^$important
 ||juvqtttkhz.com^$important
@@ -5823,6 +5837,7 @@ http*:*/vinos.js$important,script
 ||jyccdcavzpqt.com^$important
 ||jydbctzvbqrh.com^$important
 ||jyezgitcx.com^$important
+||jyhfuqoh.info^$important
 ||jykqpeumdrjopy.com^$important
 ||jynbcpfwvazazd.com^$important
 ||jypmcknqvnfd.com^$important
@@ -5910,6 +5925,7 @@ http*:*/vinos.js$important,script
 ||kdkzvfzmgvm.com^$important
 ||kdmilqoiaucqto.com^$important
 ||kdmkauchahynhrs.ru^$important
+||kdowqlpt.info^$important
 ||kdpqydaxbxztnh.com^$important
 ||kdtictjmofbl.com^$important
 ||kdtrdexby.com^$important
@@ -5971,6 +5987,7 @@ http*:*/vinos.js$important,script
 ||khhpckhkikd.bid^$important
 ||khlgdlarmqnp.com^$important
 ||khmbjndynx.com^$important
+||kho3au7l4z.me^$important
 ||khomuto.info^$important
 ||khpgychzfdmpm.bid^$important
 ||khwfemkr.bid^$important
@@ -5985,12 +6002,14 @@ http*:*/vinos.js$important,script
 ||kiixmhyrlawz.com^$important
 ||kiks.yandex.ru^$important
 ||kinoaction.ru^$important
+||kinohabr.net^$important
 ||kiobmbncsrwc.com^$important
 ||kiochlocj.bid^$important
 ||kiodudldzmzwr.com^$important
 ||kiohmgklwi.com^$important
 ||kioxprngouirqu.com^$important
 ||kipnobwbyz.bid^$important
+||kippbeak.cf^$important
 ||kiqsynap.com^$important
 ||kistutch.net^$important
 ||kisvtclf.bid^$important
