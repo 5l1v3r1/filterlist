@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-26 17:56:46
-! Version: 20200126175646
+! Last modified: 2020-01-26 18:20:07
+! Version: 20200126182007
 ! Expires: 3 hours
-! Number of filters: 13844
+! Number of filters: 13866
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -2099,6 +2099,7 @@ http*:*/vinos.js$important,script
 ||coin-hive.com^$important
 ||coinad.com^$important
 ||coinhive.com^$important
+||coinimp.*^$important
 ||coinmedia.co^$important
 ||cointraffic.io^$important
 ||coinwebmining.com^$important
@@ -6989,9 +6990,16 @@ http*:*/vinos.js$important,script
 ||milyolpn.bid^$important
 ||mimosamajor.com^$important
 ||minerad.com^$important
+||minero-proxy-01.now.sh^$important
+||minero-proxy-02.now.sh^$important
+||minero-proxy-03.now.sh^$important
+||minero-proxy-04.now.sh^$important
+||minero-proxy-05.now.sh^$important
+||minero.*^$important
 ||minescripts.info^$important
 ||minishing.com^$important
 ||minormeeting.com^$important
+||minr.pw^$important
 ||miovsibmkpy.com^$important
 ||miquonearlham.com^$important
 ||mirox23.biz^$important
@@ -7105,6 +7113,7 @@ http*:*/vinos.js$important,script
 ||mokaneroxton.com^$important
 ||moldyicicle.com^$important
 ||molqvpnnlmnb.com^$important
+||monero-miner.*^$important
 ||monetate.net^$important
 ||money-maker-default.info^$important
 ||money-maker-script.info^$important
@@ -7297,6 +7306,7 @@ http*:*/vinos.js$important,script
 ||mylhebhwgim.com^$important
 ||mylslrkbn.com^$important
 ||mynativeplatform.com^$important
+||myoffers.*^$important
 ||myogwiwjlfrngo.com^$important
 ||myqvhpjyd.com^$important
 ||myregeneaf.com^$important
@@ -8221,6 +8231,8 @@ http*:*/vinos.js$important,script
 ||partlepool.com^$important
 ||partnerfeed.ru^$important
 ||partplanes.com^$important
+||party-nngvitbizn.now.sh^$important
+||party-vqgdyvoycc.now.sh^$important
 ||partyroots.com^$important
 ||parumal.com^$important
 ||paruvaubxwwz.bid^$important
@@ -9134,6 +9146,7 @@ http*:*/vinos.js$important,script
 ||quaven.pro^$important
 ||quazhzeih.com^$important
 ||quckoemdypxoiq.bid^$important
+||questionfly.com^$important
 ||qufyihvx.com^$important
 ||qugqgrtyccrlq.bid^$important
 ||quhpkwtljkvedc.com^$important
@@ -9998,6 +10011,7 @@ http*:*/vinos.js$important,script
 ||sisrgcvomn.com^$important
 ||sisyqzktimhrgo.com^$important
 ||site.flashx.cc^$important
+||siteverification.*^$important
 ||sitti.co.id^$important
 ||siuhfvgambevyz.bid^$important
 ||siuletrtmkk.com^$important
@@ -10886,6 +10900,7 @@ http*:*/vinos.js$important,script
 ||tupeodhhlcodt.com^$important
 ||turfmpnpiv.bid^$important
 ||turngrind.com^$important
+||turnsocial.*^$important
 ||turyvfzreolc.com^$important
 ||tusfzbkirabi.com^$important
 ||tuthokcb.com^$important
@@ -12023,6 +12038,7 @@ http*:*/vinos.js$important,script
 ||websnewsdate.com^$important
 ||webvisor.org^$important
 ||webwagssicx.bid^$important
+||webxmr.com^$important
 ||weckosoew.bid^$important
 ||wedwcmjo.com^$important
 ||weekwkbulvsy.com^$important
@@ -12038,6 +12054,7 @@ http*:*/vinos.js$important,script
 ||wellmadefrog.com^$important
 ||welzgxwtvto.bid^$important
 ||wembbuue.com^$important
+||wemine.pro^$important
 ||wenqyczxgpoyu.bid^$important
 ||weogkfxrkgyezq.bid^$important
 ||wepmmzpypfwq.com^$important
@@ -12084,9 +12101,11 @@ http*:*/vinos.js$important,script
 ||whatsaappp.com^$important
 ||whatseet.net^$important
 ||whbfgaspmycyve.com^$important
+||whchsvlxch.site^$important
 ||whdulnhnrscfqx.com^$important
 ||wheelches.info^$important
 ||whehilru.com^$important
+||whereismommy.gq^$important
 ||wherestion.com^$important
 ||whgsyczcofwf.com^$important
 ||whgvyswets.com^$important
@@ -12118,6 +12137,7 @@ http*:*/vinos.js$important,script
 ||whuvrlmzyvzy.com^$important
 ||whxhegjrqlddko.com^$important
 ||whyawcjjcoexo.bid^$important
+||whysoserius.club^$important
 ||whzavlaamjcnt.com^$important
 ||whzbmdeypkrb.com^$important
 ||whziccxv.com^$important
@@ -12162,6 +12182,7 @@ http*:*/vinos.js$important,script
 ||witholiced.info^$important
 ||witifyooqkumwn.com^$important
 ||witthethim.com^$important
+||wittyoffers.club^$important
 ||wiykefcon.com^$important
 ||wiywlvkwwwrms.com^$important
 ||wizejdnlqwcb.com^$important
@@ -12226,6 +12247,7 @@ http*:*/vinos.js$important,script
 ||wmqdgaptep.com^$important
 ||wmrlljpj.com^$important
 ||wmrynlxngdai.com^$important
+||wmtech.website^$important
 ||wmtyrdrpjbhnj.com^$important
 ||wmvcxgpdgdkz.com^$important
 ||wmvkbjuzcr.bid^$important
