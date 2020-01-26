@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-25 16:25:58
-! Version: 20200125162558
+! Last modified: 2020-01-26 17:56:46
+! Version: 20200126175646
 ! Expires: 3 hours
-! Number of filters: 13841
+! Number of filters: 13844
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1031,6 +1031,7 @@ http*:*/vinos.js$important,script
 ||aristianewr.club^$important
 ||arizona-miner.tk^$important
 ||arjgnqlsdo.com^$important
+||arkairbuy.site^$important
 ||arkhamxojvr.com^$important
 ||arllvzkoh.com^$important
 ||arloxpiosxzjw.bid^$important
@@ -7126,6 +7127,7 @@ http*:*/vinos.js$important,script
 ||mousvowpfso.com^$important
 ||movcpm.com^$important
 ||moveadrenaline.com^$important
+||movemeal.com^$important
 ||mowfruit.com^$important
 ||moxdmkdzvkgxow.bid^$important
 ||moxvufgh.com^$important
@@ -7987,6 +7989,7 @@ http*:*/vinos.js$important,script
 ||ongkidcasarv.com^$important
 ||onhxejzm.bid^$important
 ||onjqfyuxprnq.com^$important
+||online-metrix.net^$important
 ||onmnkdzpmvxfab.bid^$important
 ||onndvfcettwt.com^$important
 ||onocjgpq.com^$important
