@@ -66,4 +66,4 @@ select yn in "Yes" "No"; do
     esac
 done
 echo 'Upload finished'
-read -n 1 -s -r -p 'Press any key to exit.'
+sleep 1
