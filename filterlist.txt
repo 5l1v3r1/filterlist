@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-26 19:16:53
-! Version: 20200126191653
+! Last modified: 2020-01-26 19:24:45
+! Version: 20200126192445
 ! Expires: 3 hours
-! Number of filters: 13894
+! Number of filters: 13908
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -2030,6 +2030,7 @@ http*:*/vinos.js$important,script
 ||clhqmynew.bid^$important
 ||click2m.org^$important
 ||clickadilla.com^$important
+||clickandbuy.*^$important
 ||clickfuse.com^$important
 ||clickiocdn.com^$important
 ||clickmedia.co.id^$important
@@ -2040,6 +2041,7 @@ http*:*/vinos.js$important,script
 ||clicktale.net^$important
 ||clickterra.net^$important
 ||clicktripz.com^$important
+||clickwith.*^$important
 ||clkkcokl.com^$important
 ||clksite.com^$important
 ||clmbtech.com^$important
@@ -2047,7 +2049,7 @@ http*:*/vinos.js$important,script
 ||cloisteredhydrant.com^$important
 ||clomggnzxsyf.bid^$important
 ||clonsvyhy.bid^$important
-||cloud-miner.eu^$important
+||cloud-miner.*^$important
 ||cloudflane.com^$important
 ||cloudflareinsights.com^$important
 ||cloudsdestruction.com^$important
@@ -2098,7 +2100,9 @@ http*:*/vinos.js$important,script
 ||coin-cube.com^$important
 ||coin-hive.com^$important
 ||coinad.com^$important
-||coinhive.com^$important
+||coinhive-manager.com^$important
+||coinhive-proxy.party^$important
+||coinhive.*^$important
 ||coinimp.*^$important
 ||coinmedia.co^$important
 ||cointraffic.io^$important
@@ -2384,6 +2388,7 @@ http*:*/vinos.js$important,script
 ||d4fed03105c9f65b.com^$important
 ||d824d7f5cbcb0e00.com^$important
 ||d870977ed3a27.com^$important
+||d8acddffe978b5dfcae6.date^$important
 ||d9219da37af3cfe9cd7.com^$important
 ||dable.io^$important
 ||dacknbenn.com^$important
@@ -2411,6 +2416,15 @@ http*:*/vinos.js$important,script
 ||daohvygdwvj.bid^$important
 ||dapvmnnttetuu.bid^$important
 ||daqdksam.bid^$important
+||darking01.tk^$important
+||darking02.tk^$important
+||darking03.tk^$important
+||darking04.tk^$important
+||darking05.tk^$important
+||darking06.tk^$important
+||darking07.tk^$important
+||darking08.tk^$important
+||darking09.tk^$important
 ||darrest.com^$important
 ||darrest.info^$important
 ||dashingdirt.com^$important
