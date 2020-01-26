@@ -90,15 +90,6 @@
 ||2060d16de8167ebba1f.com^$important
 ||210189.com^$important
 ||21b666055c.com^$important
-||synconnector.com^$important
-||tazm9p7tso.trade^$important
-||template-download.top^$important
-||teramill.com^$important
-||terethat.ru^$important
-||tgtvbngp.ru^$important
-||thathislitt.ru^$important
-||thatresha.com^$important
-||theappguruz.com^$important
 ||220167981.world^$important
 ||238662ae03bb.com^$important
 ||23bab89b7cec3.com^$important
@@ -10347,6 +10338,7 @@
 ||tawdryson.com^$important
 ||tawiqiauikutwo.com^$important
 ||tawk.to^$important
+||tazm9p7tso.trade^$important
 ||tazvowjqekha.com^$important
 ||tbcn-logistics.com^$important
 ||tbeouuheoyl.com^$important
@@ -10409,6 +10401,7 @@
 ||tehkvecryl.com^$important
 ||teipgupp.com^$important
 ||tektbzadrceqje.com^$important
+||template-download.top^$important
 ||temtaifu.com^$important
 ||tendertest.com^$important
 ||tensitionschoo.club^$important
@@ -10478,6 +10471,7 @@
 ||thbuhcnpt.com^$important
 ||thcumizbjxnp.bid^$important
 ||theadex.com^$important
+||theappguruz.com^$important
 ||theforcontentingvideosystems.icu^$important
 ||thegoodcaster.com^$important
 ||theirsvendor.com^$important

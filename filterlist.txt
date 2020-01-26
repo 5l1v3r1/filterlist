@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-26 19:26:49
-! Version: 20200126192649
+! Last modified: 2020-01-26 19:30:58
+! Version: 20200126193058
 ! Expires: 3 hours
-! Number of filters: 13909
+! Number of filters: 13912
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -10484,6 +10484,7 @@ http*:*/vinos.js$important,script
 ||tawdryson.com^$important
 ||tawiqiauikutwo.com^$important
 ||tawk.to^$important
+||tazm9p7tso.trade^$important
 ||tazvowjqekha.com^$important
 ||tbcn-logistics.com^$important
 ||tbeouuheoyl.com^$important
@@ -10546,6 +10547,7 @@ http*:*/vinos.js$important,script
 ||tehkvecryl.com^$important
 ||teipgupp.com^$important
 ||tektbzadrceqje.com^$important
+||template-download.top^$important
 ||temtaifu.com^$important
 ||tendertest.com^$important
 ||tensitionschoo.club^$important
@@ -10615,6 +10617,7 @@ http*:*/vinos.js$important,script
 ||thbuhcnpt.com^$important
 ||thcumizbjxnp.bid^$important
 ||theadex.com^$important
+||theappguruz.com^$important
 ||theforcontentingvideosystems.icu^$important
 ||thegoodcaster.com^$important
 ||theirsvendor.com^$important
