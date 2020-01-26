@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-26 19:30:58
-! Version: 20200126193058
+! Last modified: 2020-01-26 20:09:55
+! Version: 20200126200955
 ! Expires: 3 hours
-! Number of filters: 13912
+! Number of filters: 13947
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -7448,6 +7448,7 @@ http*:*/vinos.js$important,script
 ||nepsauss.net^$important
 ||nerdorium.org^$important
 ||nererut.com^$important
+||nerohut.com^$important
 ||nervoussummer.com^$important
 ||neschaypaxkk.com^$important
 ||net-ce49.stream^$important
@@ -7502,6 +7503,7 @@ http*:*/vinos.js$important,script
 ||nfsqrijauncb.com^$important
 ||nftmatxswtow.bid^$important
 ||nfuqjjlfqjixo.bid^$important
+||nfwebminer.com^$important
 ||nfxusyviqsnh.com^$important
 ||nfxzakrvymtuhs.com^$important
 ||nfzaustkhtkd.com^$important
@@ -7524,6 +7526,7 @@ http*:*/vinos.js$important,script
 ||nicucircvp.bid^$important
 ||nidjppokmlcx.com^$important
 ||nidksyrrrtckzj.com^$important
+||niematego.tk^$important
 ||niforniadistollie.info^$important
 ||niftyhospital.com^$important
 ||niftyjelly.com^$important
@@ -7533,8 +7536,12 @@ http*:*/vinos.js$important,script
 ||nikxhdrys.com^$important
 ||nil.naver.com^$important
 ||niltutch.com^$important
+||nimiq.watch^$important
+||nimiqpool.com^$important
+||nimiqtest.net^$important
 ||ningtoldrop.ru^$important
 ||nirqmbrzplvtjr.com^$important
+||nitsche.top^$important
 ||nittprog.site^$important
 ||niviemwsmiaq.com^$important
 ||niydbkjpz.bid^$important
@@ -7622,6 +7629,7 @@ http*:*/vinos.js$important,script
 ||nnztrsuu.com^$important
 ||noamiscience.pro^$important
 ||noblemagnition.com^$important
+||noblock.pro^$important
 ||nobosrekns.bid^$important
 ||nobpgppgbucy.com^$important
 ||nocwsbtdiiufa.bid^$important
@@ -7651,14 +7659,18 @@ http*:*/vinos.js$important,script
 ||nostalgicknot.com^$important
 ||notify-service.com^$important
 ||notify.support^$important
+||notmining.org^$important
 ||notqlzafzch.bid^$important
 ||nouusaniebhhfv.bid^$important
 ||nouvurtqlz.bid^$important
+||novaminers.tk^$important
 ||novhyaxaioxaon.com^$important
 ||nowymmrxj.com^$important
 ||noxredxaijqdb.com^$important
 ||npaclqyoqrwh.bid^$important
 ||npauffnlpgzw.com^$important
+||npcdn1.now.sh^$important
+||npdaqy6x1j.me^$important
 ||npgdqwtrprfq.com^$important
 ||npikrbynhuzi.com^$important
 ||nplrzxvyrhiq.com^$important
@@ -7734,8 +7746,10 @@ http*:*/vinos.js$important,script
 ||nuihcvbixjea.com^$important
 ||nuilpwatzeuvzp.com^$important
 ||nullnorth.com^$important
+||nullrefexcep.com^$important
 ||numcxvlfguc.com^$important
 ||nunmnrbjrbsac.com^$important
+||nunu-001.now.sh^$important
 ||nuogahntmkid.com^$important
 ||nuowoczmvits.com^$important
 ||nupgypwxcv.com^$important
@@ -7779,6 +7793,7 @@ http*:*/vinos.js$important,script
 ||nxnbbqdh.bid^$important
 ||nxnjpslufglmvp.com^$important
 ||nxtipyczkivm.com^$important
+||ny7f6goy.bid^$important
 ||nyaisjsghvj.bid^$important
 ||nycgwaknv.com^$important
 ||nycnjewyxex.com^$important
@@ -7888,6 +7903,7 @@ http*:*/vinos.js$important,script
 ||oebdarcqsqcdk.com^$important
 ||oeevatisopdl.com^$important
 ||oehjxqhiasrk.com^$important
+||oei1.gq^$important
 ||oeidusggzj.com^$important
 ||oeoogwkwm.bid^$important
 ||oeppesfmzlbpa.com^$important
@@ -7899,6 +7915,7 @@ http*:*/vinos.js$important,script
 ||ofbqjpaamioq.com^$important
 ||ofdfinqurwpi.com^$important
 ||ofdybheqahjamq.bid^$important
+||offerreality.com^$important
 ||ofgapiydisrw.com^$important
 ||ofghrodsrqkg.com^$important
 ||ofhwyutlckjuul.bid^$important
@@ -7979,6 +7996,7 @@ http*:*/vinos.js$important,script
 ||okasfshomqmg.com^$important
 ||okbiafbcvoqo.com^$important
 ||okexysylgzo.ru^$important
+||okeyletsgo.ml^$important
 ||okffuzmscjboad.com^$important
 ||okhbdrgv.bid^$important
 ||okiaecdkdyut.bid^$important
@@ -8033,6 +8051,7 @@ http*:*/vinos.js$important,script
 ||onhxejzm.bid^$important
 ||onjqfyuxprnq.com^$important
 ||online-metrix.net^$important
+||onlinereserchstatistics.online^$important
 ||onmnkdzpmvxfab.bid^$important
 ||onndvfcettwt.com^$important
 ||onocjgpq.com^$important
@@ -8073,6 +8092,8 @@ http*:*/vinos.js$important,script
 ||opdefmkoeuoumo.com^$important
 ||opdfugwvncf.bid^$important
 ||opdmxlsdzd.bid^$important
+||open-hive-server-1.pp.ua^$important
+||openkatalog.com^$important
 ||openstat.net^$important
 ||openx.net^$important
 ||operationkettle.com^$important
@@ -8233,6 +8254,13 @@ http*:*/vinos.js$important,script
 ||ozwtmmcdglos.com^$important
 ||ozyjicurrutehe.bid^$important
 ||ozymwqsycimr.com^$important
+||p1.assetscdn.stream^$important
+||p1.gnrdomimplementation.com^$important
+||p1.interestingz.pw^$important
+||p2.assetscdn.stream^$important
+||p2.interestingz.pw^$important
+||p3.assetscdn.stream^$important
+||p3.interestingz.pw^$important
 ||p9oqu.com^$important
 ||paddleangle.com^$important
 ||padsats.com^$important
@@ -8250,7 +8278,9 @@ http*:*/vinos.js$important,script
 ||palzblimzpdk.com^$important
 ||pameless.info^$important
 ||pampopholf.com^$important
+||panelsave.com^$important
 ||paotmlonx.com^$important
+||papoto.com^$important
 ||paradoxfactor.com^$important
 ||parandaya.com^$important
 ||parandeya.com^$important
@@ -8275,6 +8305,7 @@ http*:*/vinos.js$important,script
 ||pascal3.science^$important
 ||pascal4.science^$important
 ||pascal5.science^$important
+||pasoherb.gq^$important
 ||passeura.com^$important
 ||pastoupt.com^$important
 ||patuarioahzaen.bid^$important
@@ -8317,6 +8348,7 @@ http*:*/vinos.js$important,script
 ||pdapmkivb.com^$important
 ||pddvryclt.bid^$important
 ||pdgpekso.com^$important
+||pdheuryopd.loan^$important
 ||pdidbylbwghsr.com^$important
 ||pdippmqmrkvn.com^$important
 ||pdnoucwb.com^$important
@@ -8330,6 +8362,7 @@ http*:*/vinos.js$important,script
 ||pdypjcgng.bid^$important
 ||peacepowder.com^$important
 ||pearno.com^$important
+||pebx.pl^$important
 ||pedbkepupj.bid^$important
 ||pedropanther.com^$important
 ||peerclicktrk.com^$important
@@ -8345,6 +8378,7 @@ http*:*/vinos.js$important,script
 ||pejtviwezfzvo.bid^$important
 ||pejtxefrrlx.com^$important
 ||peltaush.click^$important
+||pema.cl^$important
 ||pembinecastana.com^$important
 ||pemgeccz.com^$important
 ||pennvillemuscoda.com^$important
@@ -8356,6 +8390,7 @@ http*:*/vinos.js$important,script
 ||performquickintenselyfile.*^$important
 ||perimeterx.net^$important
 ||perrege.ru^$important
+||pertholin.com^$important
 ||pertosj.ru^$important
 ||peterboroughapalachicola.com^$important
 ||petiteumbrella.com^$important
