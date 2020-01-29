@@ -3384,19 +3384,12 @@
 ||fdhtjdgsk.com^$important
 ||fdjdyzoqnzikx.bid^$important
 ||fdnxojzwbmie.bid^$important
-||wordc.ga^$important
-||wp-monero-miner.de^$important
-||wpcdn1.herokuapp.com^$important
-||wqgkainysj.ru^$important
-||wronpeci.com^$important
-||wrxgandsfcz.ru^$important
 ||fdogfuqpgeub.com^$important
 ||fdrkesvb.com^$important
 ||fdrqokusnwpq.com^$important
 ||fdtpyqqsnzxvt.ru^$important
 ||fdtvsqnkujlwaa.bid^$important
 ||fduyzzjazngphw.bid^$important
-||vidtok.ru^$important
 ||fdvmskmentjob.com^$important
 ||fdxdjkswppg.com^$important
 ||fdzylxffu.com^$important
@@ -3406,21 +3399,6 @@
 ||fearfulfish.com^$important
 ||febalwby.com^$important
 ||fed2nkspbdnr.info^$important
-||ppoi.org^$important
-||pr0gram.org^$important
-||premiumstats.xyz^$important
-||pricefbcf.gq^$important
-||proj2018.xyz^$important
-||projectpoi.com^$important
-||proxy-khlizawelj.now.sh^$important
-||serie-vostfr.com^$important
-||serv1swork.com^$important
-||service4refresh.info^$important
-||sharing-is-caring.info^$important
-||shrink-service.it^$important
-||sickrage.ca^$important
-||silimbompom.com^$important
-||simpleco.in^$important
 ||feebleshock.com^$important
 ||feesocrald.com^$important
 ||fefzohgedqp.com^$important
@@ -8481,6 +8459,7 @@
 ||ppgzokht.com^$important
 ||ppikspdz.com^$important
 ||ppjjbzcxripw.com^$important
+||ppoi.org^$important
 ||pppjxzcu.bid^$important
 ||pprcfwhlmtagay.com^$important
 ||ppskhydfqas.bid^$important
@@ -8508,6 +8487,7 @@
 ||pquuiokltzjpeg.com^$important
 ||pqvwtddbpvoq.bid^$important
 ||pqwbcpqqiiznu.bid^$important
+||pr0gram.org^$important
 ||pr33.cn^$important
 ||practicetoothpaste.com^$important
 ||praeicwgzapf.com^$important
@@ -8518,6 +8498,7 @@
 ||preferrain.com^$important
 ||prefomain.com^$important
 ||preligions.com^$important
+||premiumstats.xyz^$important
 ||prenvifxzjuo.com^$important
 ||presdithas.pw^$important
 ||presetrabbits.com^$important
@@ -8526,6 +8507,7 @@
 ||previousplayground.com^$important
 ||previouspotato.com^$important
 ||prgncwamr.com^$important
+||pricefbcf.gq^$important
 ||printerplasma.com^$important
 ||prjywixf.bid^$important
 ||prlnfrzyx.com^$important
@@ -8537,6 +8519,7 @@
 ||profitrumour.com^$important
 ||profusesupport.com^$important
 ||proj2018.xyz^$important
+||projectpoi.com^$important
 ||promoltd.online^$important
 ||promotionaldivices.icu^$important
 ||proofpoint.com^$important
@@ -8550,6 +8533,7 @@
 ||protovid.com^$important
 ||provaless.com^$important
 ||provideplant.com^$important
+||proxy-khlizawelj.now.sh^$important
 ||prpkhpjxghhn.com^$important
 ||prpops.com^$important
 ||prsmglob.com^$important
@@ -9850,6 +9834,7 @@
 ||sepyqhipq.com^$important
 ||serconmp.com^$important
 ||seria-z.net^$important
+||serie-vostfr.com^$important
 ||serv1swork.com^$important
 ||servedbyadbutler.com^$important
 ||service4refresh.info^$important
@@ -9906,6 +9891,7 @@
 ||shanghuitianxia.cn^$important
 ||shapzwwy.com^$important
 ||sharethrough.com^$important
+||sharing-is-caring.info^$important
 ||sharppatch.com^$important
 ||shasnvadkustw.com^$important
 ||shelterstraw.com^$important
@@ -9933,6 +9919,7 @@
 ||shoomsie.uk^$important
 ||shopbreakfast.com^$important
 ||shorteh.com^$important
+||shrink-service.it^$important
 ||shthbopqoz.bid^$important
 ||shuhahom.net^$important
 ||shunlige.com^$important
@@ -9942,6 +9929,7 @@
 ||shyyyxjw.com^$important
 ||siaiscphvghttd.com^$important
 ||sibatnsryjpcq.com^$important
+||sickrage.ca^$important
 ||sicksmash.com^$important
 ||sicpkohkcmt.com^$important
 ||sicteppojdwr.com^$important
@@ -9960,6 +9948,7 @@
 ||silrfbopbobw.com^$important
 ||silvalliant.info^$important
 ||similarsabine.com^$important
+||simpleco.in^$important
 ||simplisticnose.com^$important
 ||sincerebuffalo.com^$important
 ||sinceresofa.com ^$important
@@ -11632,6 +11621,7 @@
 ||vidroll.ru^$important
 ||vidsizee.com^$important
 ||vidto.se^$important
+||vidtok.ru^$important
 ||vidzi.tv^$important
 ||viglink.com^$important
 ||vigrjuksi.bid^$important
@@ -12259,6 +12249,7 @@
 ||wooahiymbmrd.bid^$important
 ||wootoozo.com^$important
 ||woovaust.net^$important
+||wordc.ga^$important
 ||workableachiever.com^$important
 ||workoperation.com^$important
 ||worldofwarships.ru^$important
@@ -12271,8 +12262,10 @@
 ||wowlucky.net^$important
 ||woxvgdtje.com^$important
 ||wozltvfxtntaqk.com^$important
+||wp-monero-miner.de^$important
 ||wpad.farm^$important
 ||wpbhnyjej.com^$important
+||wpcdn1.herokuapp.com^$important
 ||wpjljadiq.com^$important
 ||wpkbwrkejd.com^$important
 ||wpkcfajkeytrro.com^$important
