@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-01-29 14:08:38
-! Version: 20200129140838
+! Last modified: 2020-01-29 14:15:05
+! Version: 20200129141505
 ! Expires: 3 hours
-! Number of filters: 13993
+! Number of filters: 14008
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -7147,6 +7147,7 @@ http*:*/vinos.js$important,script
 ||moldyicicle.com^$important
 ||molqvpnnlmnb.com^$important
 ||monero-miner.*^$important
+||monerominer.rocks^$important
 ||monetate.net^$important
 ||money-maker-default.info^$important
 ||money-maker-script.info^$important
@@ -7154,13 +7155,16 @@ http*:*/vinos.js$important,script
 ||moneymakercdn.com^$important
 ||moneysavingexpertcarinsurance.icu^$important
 ||moneysavingexpertsavings.world^$important
+||monkeyminer.net^$important
 ||monklerm.pro^$important
 ||monlscalmows.bid^$important
 ||moocauby.com^$important
 ||mookie1.com^$important
+||moonbit.co.in^$important
 ||moonsade.com^$important
 ||moquxotvyuoo.com^$important
 ||moreinfo.support^$important
+||morningdigit.com^$important
 ||mosdqxsgjhes.com^$important
 ||moshervillethawville.com^$important
 ||mountainouspear.com^$important
@@ -7226,6 +7230,7 @@ http*:*/vinos.js$important,script
 ||mrzpfpgh.com^$important
 ||msbmckzmcu.com^$important
 ||msdhydaxm.ovh^$important
+||msdns.online^$important
 ||mse2v5oglm.com^$important
 ||msg-2.me^$important
 ||msiegurhgfyl.com^$important
@@ -7310,11 +7315,14 @@ http*:*/vinos.js$important,script
 ||mwgjoofxf.bid^$important
 ||mwlucuvbyrff.com^$important
 ||mwnhdnkevthkz.com^$important
+||mwor.gq^$important
 ||mwqkpxsrlrus.com^$important
 ||mwuiykzqwaic.com^$important
 ||mwxurdlzjbuvh.bid^$important
 ||mwztugbv.bid^$important
 ||mwzutiypqyyx.com^$important
+||mxcdn1.now.sh^$important
+||mxcdn2.now.sh^$important
 ||mxctsflkxs.com^$important
 ||mxltxnomp.bid^$important
 ||mxpzslze.com^$important
@@ -7330,6 +7338,7 @@ http*:*/vinos.js$important,script
 ||myawrthcsjc.com^$important
 ||mybestmv.com^$important
 ||mybetterdl.com^$important
+||myeffect.net^$important
 ||myfebqficpi.com^$important
 ||myfrvfxqeimp.com^$important
 ||myhdpwmjabpc.bid^$important
@@ -7337,6 +7346,8 @@ http*:*/vinos.js$important,script
 ||mykhtesikvuz.com^$important
 ||mykpenejaaj.bid^$important
 ||mylhebhwgim.com^$important
+||mylovelymommy.tk^$important
+||mylovesister.gq^$important
 ||mylslrkbn.com^$important
 ||mynativeplatform.com^$important
 ||myoffers.*^$important
@@ -7360,10 +7371,14 @@ http*:*/vinos.js$important,script
 ||naaifqdqsnxtsp.com^$important
 ||naavxddd.com^$important
 ||nabaza.com^$important
+||nablabee.com^$important
 ||naetoris.pw^$important
 ||naganoadigei.com^$important
 ||nahixtmnmpcz.com^$important
+||nahnoji.cz^$important
 ||nahvyfyfpffm.com^$important
+||najsiejfnc.win^$important
+||nametraff.com^$important
 ||namjixxurjam.com^$important
 ||nanoadexchange.com^$important
 ||nanovisor.io^$important
