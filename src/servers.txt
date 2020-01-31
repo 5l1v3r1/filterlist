@@ -63,6 +63,7 @@
 ||1431f15e2fe8ba0f1f2.com^$important
 ||1492tapasbar.com^$important
 ||14e6e1ee3d7236d41431.date^$important
+||15257dddaccde96.com^$important
 ||15jiaju.com^$important
 ||172ipkuobc.com^$important
 ||190282.xyz^$important
@@ -358,6 +359,7 @@
 ||a5e04df959f1af34.com^$important
 ||a9nf3hg5c2.com^$important
 ||aa53df329975c325.com^$important
+||aaaaaco.com^$important
 ||aab-check.me^$important
 ||aabmxezph.com^$important
 ||aacgeuvaoqbw.com^$important
@@ -891,6 +893,7 @@
 ||areandarm.com^$important
 ||arearmark.club^$important
 ||areary.com^$important
+||areyouabot.net^$important
 ||arfttojxv.com^$important
 ||argetz.fun^$important
 ||argyresthia.com^$important
@@ -3019,6 +3022,7 @@
 ||emegbthex.bid^$important
 ||emeighglenellen.com^$important
 ||emektdasctwt.bid^$important
+||ememoricane.info^$important
 ||emented.pro^$important
 ||emeqnqxd.bid^$important
 ||emetriq.de^$important
@@ -3107,6 +3111,7 @@
 ||eqszmuwnozvx.com^$important
 ||eraeoggritjeo.com^$important
 ||erahvrtzbg.com^$important
+||eratqmdr.com^$important
 ||erbsqnmglmnv.com^$important
 ||erckgobvi.com^$important
 ||erhpodgijusvi.bid^$important
@@ -3277,18 +3282,6 @@
 ||ezmob.com^$important
 ||ezoic.net^$important
 ||ezpush.me^$important
-||srshdswmrl.com^$important
-||eratqmdr.com^$important
-||performax.cz^$important
-||sascdn.com^$important
-||aaaaaco.com^$important 
-||lengejoberdak.pro^$important
-||ememoricane.info^$important
-||olineman.pro^$important
-||15257dddaccde96.com^$important
-||badspads.com^$important
-||areyouabot.net^$important
-||pushmejs.com^$important
 ||ezqldmevi.com^$important
 ||ezrutveckpuly.com^$important
 ||ezskz4vee5.com^$important
@@ -6268,6 +6261,7 @@
 ||legistrike.pro^$important
 ||legkiy-zarabotoki.xyz^$important
 ||lemetri.info^$important
+||lengejoberdak.pro^$important
 ||lenoramanning.com^$important
 ||lepfj.site^$important
 ||lepyhlczldiuja.bid^$important
@@ -8273,6 +8267,7 @@
 ||pephirda.link^$important
 ||peqdwnztlzjp.com^$important
 ||perceivequarter.com^$important
+||performax.cz^$important
 ||performquickintenselyfile.*^$important
 ||perimeterx.net^$important
 ||perrege.ru^$important
@@ -9745,6 +9740,7 @@
 ||sape.ru^$important
 ||sapvummffiay.com^$important
 ||saqcgojcure.bid^$important
+||sascdn.com^$important
 ||sasieidpe.bid^$important
 ||sasqhtfxsnklxn.bid^$important
 ||satjrvwtaertn.com^$important
@@ -10176,6 +10172,7 @@
 ||srlmbvfmvl.com^$important
 ||srmbifowhxaeqa.bid^$important
 ||srppykbedhqp.com^$important
+||srshdswmrl.com^$important
 ||srtvohoivnrahq.bid^$important
 ||srxgnzdkjucr.com^$important
 ||ssa.1337x.to^$important
