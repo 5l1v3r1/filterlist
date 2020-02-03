@@ -728,6 +728,7 @@
 ||alasdzdnfvtj.com^$important
 ||albado.xyz^$important
 ||aldaobpuhvl.com^$important
+||aleapeact.club^$important
 ||alexametrics.com^$important
 ||alflying.*^$important
 ||alfredean.com^$important
@@ -736,6 +737,7 @@
 ||algrizej.com^$important
 ||aliadvert.ru^$important
 ||alidnquxirv.bid^$important
+||alikeaddition.com^$important
 ||alikuvxxwy.com^$important
 ||aliru1.ru^$important
 ||aljsuubo.com^$important
@@ -4739,13 +4741,6 @@
 ||httftlckaxj.com^$important
 ||http-check-headers.yandex.ru^$important
 ||htvlulpbhtkgr.com^$important
-||alikeaddition.com^$important
-||pyq6n.com^$important
-||mel-bet.xyz^$important
-||prepareplanes.com^$important
-||samestretch.com^$important
-||aleapeact.club^$important
-||ememoricane.info^$important
 ||htyazxwc.com^$important
 ||huayucnblhgy.com^$important
 ||hub.com.pl^$important
@@ -6809,6 +6804,7 @@
 ||meguanha.com^$important
 ||mehcpazsnzh.com^$important
 ||mekmrcgtmuvv.bid^$important
+||mel-bet.xyz^$important
 ||melfljypjydxta.com^$important
 ||melqdjqiekcv.com^$important
 ||memorizeneck.com^$important
@@ -8529,6 +8525,7 @@
 ||preligions.com^$important
 ||premiumstats.xyz^$important
 ||prenvifxzjuo.com^$important
+||prepareplanes.com^$important
 ||presdithas.pw^$important
 ||presetrabbits.com^$important
 ||presidery.info^$important
@@ -9739,6 +9736,7 @@
 ||sajhiqlcsugy.com^$important
 ||salamaleyum.com^$important
 ||salhbbkvs.com^$important
+||samestretch.com^$important
 ||samlmqljptbd.com^$important
 ||samsungads.com^$important
 ||sandroprabratm.info^$important
