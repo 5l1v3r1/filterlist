@@ -30,14 +30,6 @@
 ||05y2dxmr.top^$important
 ||0632qyw.com^$important
 ||06f24f3d0b.com^$important
-||appsflyer.com^$important
-||firebase.google.com^$important
-||mixpanel.com^$important
-||appsee.com^$important
-||fabric.io^$important
-||localytics.com^$important
-||count.ly^$important
-||analytics.facebook.com^$important
 ||080jxrab.top^$important
 ||0879dbbeb31e0c83d.com^$important
 ||09cd.co.kr^$important
@@ -795,6 +787,7 @@
 ||amwupsihqfewgr.com^$important
 ||an.yandex.ru^$important
 ||analytics.blue^$important
+||analytics.facebook.com^$important
 ||anasjdzutdmv.com^$important
 ||andinizaments.com^$important
 ||andlache.com^$important
@@ -864,6 +857,8 @@
 ||applicalled.club^$important
 ||applovin.com^$important
 ||appmetrica.yandex.net^$important
+||appsee.com^$important
+||appsflyer.com^$important
 ||aprddnfuzc.bid^$important
 ||apscxogwydnkx.com^$important
 ||apsntakwzycu.com^$important
@@ -2041,6 +2036,7 @@
 ||cortxphssdvc.com^$important
 ||coshfgpgab.com^$important
 ||cosmosjackson.com^$important
+||count.ly^$important
 ||count.taobao.com^$important
 ||covjoecuzyss.com^$important
 ||cowmslkltc.com^$important
@@ -3318,6 +3314,7 @@
 ||f9c6cdb754b7.com^$important
 ||fa04089b99473e2ffd6dccb10cfd6d18.com^$important
 ||faayojxf.com^$important
+||fabric.io^$important
 ||fabrtgzehf.com^$important
 ||facilitategrandfather.com^$important
 ||facitating.pro^$important
@@ -3495,6 +3492,7 @@
 ||fioeazluwwirp.bid^$important
 ||fiozxmznaba.com^$important
 ||fiqkmfapvnntn.bid^$important
+||firebase.google.com^$important
 ||firflzsngsg.bid^$important
 ||firrectly.top^$important
 ||firstimpression.io^$important
@@ -6458,6 +6456,7 @@
 ||loamauji.com^$important
 ||loaphizu.com^$important
 ||loasdfn.xyz^$important
+||localytics.com^$important
 ||locjzfoh.com^$important
 ||lodoxfwite.com^$important
 ||lofipgeld.bid^$important
