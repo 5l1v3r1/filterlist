@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-02-04 15:41:44
-! Version: 20200204154144
+! Last modified: 2020-02-10 16:22:49
+! Version: 20200210162249
 ! Expires: 3 hours
-! Number of filters: 14032
+! Number of filters: 14035
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1573,6 +1573,7 @@ http*:*/vinos.js$important,script
 ||bowithow.com^$important
 ||bowqoedgldc.com^$important
 ||bowqvvztlkzn.com^$important
+||boyaidare.club^$important
 ||bpblqdfe.bid^$important
 ||bpbwwasthwtp.com^$important
 ||bpcegfmfzvkjmi.bid^$important
@@ -2175,7 +2176,6 @@ http*:*/vinos.js$important,script
 ||coshfgpgab.com^$important
 ||cosmosjackson.com^$important
 ||count.ly^$important
-||count.taobao.com^$important
 ||covjoecuzyss.com^$important
 ||cowmslkltc.com^$important
 ||coxgtwdios.bid^$important
@@ -2628,6 +2628,7 @@ http*:*/vinos.js$important,script
 ||discreetfield.com^$important
 ||dispensablestranger.com^$important
 ||disqusads.com^$important
+||distinctday.com^$important
 ||districtm.ca^$important
 ||districtm.io^$important
 ||ditouyldfqgt.com^$important
@@ -6845,6 +6846,7 @@ http*:*/vinos.js$important,script
 ||magrie.pw^$important
 ||magwfymjhils.com^$important
 ||maidlytsnrn.com^$important
+||mail-ads.google.com^$important
 ||mail.yandex.*/monitoring_liza.txt$image,important
 ||mailinfo.support^$important
 ||mailmessage.support^$important
@@ -8601,6 +8603,7 @@ http*:*/vinos.js$important,script
 ||pohguiypgprqr.bid^$important
 ||policester.info^$important
 ||policityseriod.info^$important
+||politegoldfish.com^$important
 ||pomerous.info^$important
 ||pondokiklan.com^$important
 ||poolgmsd.com^$important
