@@ -32,7 +32,7 @@
 /^https?:\/\/(apps?|best|mobile|prize|reward|sweeps).*\.[a-z]{5,15}.*\.(agency|icu|live)\//$document,important
 /^https?:\/\/[^\s]+\/(ntfc|afu|apu)\.(hh|php)\?/$important
 /^https?:\/\/[^\s]+\/log(ging|impressions?|ers?)?[?./]/$important
-/^https?:\/\/[^\s]+\/metri[ck]?[asx]?\/$important
+/^https?:\/\/[^\s]+\/metri[ck]?[asx]?\//$important
 /^https?:\/\/[^\s]+\?zone[-_]?id\=/$important
 |http*:*%22request_id%*%22idzone%$important
 |http*:*&action=js_stats&$important
