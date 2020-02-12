@@ -1,7 +1,7 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-02-12 00:16:54
-! Version: 20200212001654
+! Last modified: 2020-02-12 17:28:46
+! Version: 20200212172846
 ! Expires: 3 hours
 ! Number of filters: 14035
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
@@ -992,7 +992,6 @@ http*:*/vinos.js$important,script
 ||applesupportofficial.com^$important
 ||applicalled.club^$important
 ||applovin.com^$important
-||appmetrica.yandex.net^$important
 ||appsee.com^$important
 ||appsflyer.com^$important
 ||aprddnfuzc.bid^$important
@@ -12193,6 +12192,7 @@ http*:*/vinos.js$important,script
 ||webmasterplan.com^$important
 ||weborama.fr^$important
 ||websnewsdate.com^$important
+||webvisor.com^$important
 ||webvisor.org^$important
 ||webwagssicx.bid^$important
 ||webxmr.com^$important

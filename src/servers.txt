@@ -858,7 +858,6 @@
 ||applovin.com^$important
 ||appsee.com^$important
 ||appsflyer.com^$important
-||webvisor.com^$important
 ||aprddnfuzc.bid^$important
 ||apscxogwydnkx.com^$important
 ||apsntakwzycu.com^$important
@@ -12041,6 +12040,7 @@
 ||webmasterplan.com^$important
 ||weborama.fr^$important
 ||websnewsdate.com^$important
+||webvisor.com^$important
 ||webvisor.org^$important
 ||webwagssicx.bid^$important
 ||webxmr.com^$important
