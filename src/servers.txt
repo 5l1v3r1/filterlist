@@ -856,9 +856,9 @@
 ||applesupportofficial.com^$important
 ||applicalled.club^$important
 ||applovin.com^$important
-||appmetrica.yandex.net^$important
 ||appsee.com^$important
 ||appsflyer.com^$important
+||webvisor.com^$important
 ||aprddnfuzc.bid^$important
 ||apscxogwydnkx.com^$important
 ||apsntakwzycu.com^$important
