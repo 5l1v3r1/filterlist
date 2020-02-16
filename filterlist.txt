@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-02-15 20:58:01
-! Version: 20200215205801
+! Last modified: 2020-02-16 21:12:55
+! Version: 20200216211255
 ! Expires: 3 hours
-! Number of filters: 14040
+! Number of filters: 14046
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1061,6 +1061,7 @@ http*:*/vinos.js$important,script
 ||asdtwttky.com^$important
 ||aseanbanner.tk^$important
 ||asecxggulyrf.com^$important
+||ashaidart.site^$important
 ||ashaidbit.club^$important
 ||ashwlrtiazee.com^$important
 ||asjdfasas.xyz^$important
@@ -2128,6 +2129,7 @@ http*:*/vinos.js$important,script
 ||collamps.com^$important
 ||collector.schibsted.io^$important
 ||colleduny.info^$important
+||colossalchance.com^$important
 ||com-gift-winner-lucky-day.vip^$important
 ||com-guard-device.live^$important
 ||com-mac-booster.live^$important
@@ -4053,6 +4055,7 @@ http*:*/vinos.js$important,script
 ||gcwhhynufwnj.com^$important
 ||gcxsbflncu.bid^$important
 ||gcypxlue.bid^$important
+||gczjhffh.com^$important
 ||gdbhmiyly.com^$important
 ||gdbmpwlhf.com^$important
 ||gdbohhvoo.com^$important
@@ -9501,6 +9504,7 @@ http*:*/vinos.js$important,script
 ||repeatsweater.com^$important
 ||repefwairfkx.com^$important
 ||repetitish.com^$important
+||replaceroute.com^$important
 ||reportantu.info^$important
 ||rereegny.net^$important
 ||rereghpaz.com^$important
@@ -9800,6 +9804,7 @@ http*:*/vinos.js$important,script
 ||rustqlclwuebif.bid^$important
 ||rutarget.ru^$important
 ||rutheronwenonah.com^$important
+||ruthlessdegree.com^$important
 ||ruthlessrobin.com^$important
 ||rutrk.org^$important
 ||ruvuryua.ru^$important
@@ -13561,6 +13566,7 @@ http*:*/vinos.js$important,script
 ||yyxntcpxxvtpuk.com^$important
 ||yyyghfmjkz.com^$important
 ||yzesxnzfhyy.com^$important
+||yzexonvknhw.com^$important
 ||yzlwuuzzehjh.com^$important
 ||yzoyfmwr.com^$important
 ||yzreywobobmw.com^$important
