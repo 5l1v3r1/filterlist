@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-02-16 21:12:55
-! Version: 20200216211255
+! Last modified: 2020-02-17 00:46:23
+! Version: 20200217004623
 ! Expires: 3 hours
-! Number of filters: 14046
+! Number of filters: 14064
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -332,6 +332,7 @@ http*:*/vinos.js$important,script
 ||44f29447f575c4.com^$important
 ||44f29447f575c41.com^$important
 ||45eijvhgj2.com^$important
+||4615cccc9a6e470dc33a438ca9c0ad38.com^$important
 ||470d2b0f462.com^$important
 ||4736.in^$important
 ||47f624b2e6c6072e.com^$important
@@ -425,6 +426,7 @@ http*:*/vinos.js$important,script
 ||755f8823d5ca4c7f07a.com^$important
 ||75ce0f054e9abc.com^$important
 ||764d5e2f9a6e.com^$important
+||76674bdad304297eda3d325f449f6f49.com^$important
 ||7667bab1751ff777.com^$important
 ||7713gsefc0.com^$important
 ||7937584337b8.com^$important
@@ -632,6 +634,7 @@ http*:*/vinos.js$important,script
 ||adhitzads.com^$important
 ||adinfo.support^$important
 ||adition.com^$important
+||adjust.com^$important
 ||adkeeker.com^$important
 ||adkontekst.pl^$important
 ||adlightning.com^$important
@@ -649,6 +652,7 @@ http*:*/vinos.js$important,script
 ||admlqqewbede.com^$important
 ||admo.tv^$important
 ||adnetworkperformance.com^$important
+||adnow.com^$important
 ||adnxs.com^$important
 ||adnz.co^$important
 ||adofuokjj.bid^$important
@@ -674,11 +678,17 @@ http*:*/vinos.js$important,script
 ||ads-twitter.com^$important
 ||ads.com^$important
 ||adsafeprotected.com^$important
+||adsafety.net^$important
+||adsame.com^$important
+||adscale.de^$important
 ||adsco.re^$important
 ||adscpm.site^$important
 ||adsensecustomsearchads.com^$important
 ||adser.io^$important
+||adserver.com^$important
+||adserversolutions.com^$important
 ||adservice.google.*^$important
+||adservme.com^$important
 ||adshost.site^$important
 ||adskeeper.co.uk^$important
 ||adslop.com^$important
@@ -692,9 +702,16 @@ http*:*/vinos.js$important,script
 ||adsymptotic.com^$important
 ||adtechus.com^$important
 ||adtelligent.com^$important
+||adtheorent.com^$important
+||adthor.com^$important
+||adthrive.com^$important
 ||adtikimdtfbb.com^$important
 ||adtilt.com^$important
+||adtima.vn^$important
+||adtimaserver.vn^$important
+||adtiming.com^$important
 ||adtival.com^$important
+||adtlgc.com^$important
 ||adtm.chip.de^$important
 ||adtng.com^$important
 ||adtrack.adleadevent.com^$important
@@ -2949,6 +2966,7 @@ http*:*/vinos.js$important,script
 ||e7393e33565ce805.com^$important
 ||e7d7772dd865.com^$important
 ||e85440ec98f04725.com^$important
+||e9fd3d63a0d429498f876a4e3f0542e.com^$important
 ||e9kv7bhnzt.com^$important
 ||eaaqsama.com^$important
 ||eab70defda7d.com^$important
