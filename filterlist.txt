@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-02-17 00:46:23
-! Version: 20200217004623
+! Last modified: 2020-02-17 15:14:50
+! Version: 20200217151450
 ! Expires: 3 hours
-! Number of filters: 14064
+! Number of filters: 14079
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -73,7 +73,7 @@
 /^https?:\/\/[^\s]+[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]1x1\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|heic|heif|webp|jxr|wdp|dng|cr2|arw|js|html?)/$image,important,script,subdocument
 /^https?:\/\/[^\s]+[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]coinhive(\.min)?\.js/$important,script
 /^https?:\/\/[^\s]+[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]monero\-miner(\.min)?\.js/$important,script
-/^https?:\/\/[^\s]+[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]pi?xe?l?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]/$image,important,script,subdocument,xmlhttprequest,domain=~kinopoisk.ru
+/^https?:\/\/[^\s]+[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]pi?xe?l?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]/$image,important,script,subdocument,xmlhttprequest,domain=~kinopoisk.ru|~twitch.tv
 /^https?:\/\/[^\s]+[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]piwik[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]/$image,important,script
 /^https?:\/\/[^\s]+[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]prebid([.0-9-]{1,6})?[/.]/$important,script
 /^https?:\/\/[^\s]+[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]vast[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]/$image,important,script,xmlhttprequest
@@ -719,7 +719,13 @@ http*:*/vinos.js$important,script
 ||adturtle.biz^$important
 ||adudzlhdjgof.com^$important
 ||aduobooydxr.com^$important
+||adup-tech.com^$important
+||adups.cn^$important
+||adups.com^$important
+||advanstar.com^$important
+||advanstar.info^$important
 ||advarkads.com^$important
+||adventori.com^$important
 ||adverline.com^$important
 ||advertica-cdn.com^$important
 ||advertisementafterthought.com^$important
@@ -3818,8 +3824,10 @@ http*:*/vinos.js$important,script
 ||fqqtlkuklrd.com^$important
 ||fqrcutjorn.com^$important
 ||fqsdlhaffr.bid^$important
+||fqtag.com^$important
 ||fqtpulizvvjcf.com^$important
 ||fqufpknrarn.com^$important
+||fractionalmedia.com^$important
 ||frailoffer.com^$important
 ||franecki.net^$important
 ||franksvillereddick.com^$important
@@ -3917,6 +3925,7 @@ http*:*/vinos.js$important,script
 ||furocmay.com^$important
 ||furryhorses.com^$important
 ||furtherne.com^$important
+||fuse-ad.com^$important
 ||futuristicapparatus.com^$important
 ||futuristicfairies.com^$important
 ||futuristicfifth.com^$important
@@ -4215,6 +4224,7 @@ http*:*/vinos.js$important,script
 ||glhbjwuovievay.bid^$important
 ||glhqdfmcchhk.bid^$important
 ||glhxoawgunlame.bid^$important
+||glispa.com^$important
 ||gljanrsxz.com^$important
 ||gllkdkxygckb.com^$important
 ||globalentrycard.site^$important
@@ -4259,6 +4269,7 @@ http*:*/vinos.js$important,script
 ||go-azino-777.online^$important
 ||go-mpulse.net^$important
 ||goacestnzgrd.com^$important
+||goadservices.com^$important
 ||gobijnwbyri.com^$important
 ||gobljmgamwfjrc.bid^$important
 ||goegstjtam.bid^$important
@@ -4274,12 +4285,14 @@ http*:*/vinos.js$important,script
 ||goldendalepremont.com^$important
 ||golkkzpniri.com^$important
 ||gondolagnome.com^$important
+||gondzizo.com^$important
 ||gonuuudpdcu.com^$important
 ||goo4anywhere.com^$important
 ||goodbookbook.com^$important
 ||google-analytics.com^$important
 ||google.com^*/viewerimpressions?$important,xmlhttprequest
 ||googleadservices.com^$important
+||googleadsserving.cn^$important
 ||googlesyndication.com^$important
 ||googletagmanager.com^$important
 ||googletagservices.com^$important
@@ -6064,6 +6077,7 @@ http*:*/vinos.js$important,script
 ||kipnobwbyz.bid^$important
 ||kippbeak.cf^$important
 ||kiqsynap.com^$important
+||kissmetrics.com^$important
 ||kistutch.net^$important
 ||kisvtclf.bid^$important
 ||kizpkvkdfm.bid^$important
@@ -6358,6 +6372,7 @@ http*:*/vinos.js$important,script
 ||labdwkqyavb.com^$important
 ||lacrxqvydzlan.bid^$important
 ||ladhyjqqgerr.com^$important
+||ladsatz.com^$important
 ||ladsbrown.com^$important
 ||ladsims.com^$important
 ||ladslims.com^$important
