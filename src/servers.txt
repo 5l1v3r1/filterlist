@@ -23,30 +23,6 @@
 ||00f31156f051fdf.com^$important
 ||01ced816b84.com^$important
 ||01counter.com^$important
-||infiniadmp.com^$important
-||infinario.com^$important
-||indicative.com^$important
-||indexww.com^$important
-||impactradius.com^$important
-||imonomy.com^$important
-||innovid.com^$important
-||insightexpressai.com^$important
-||instartlogic.com^$important
-||iperceptions.com^$important
-||ipromote.com^$important
-||iqzone.com^$important
-||ipredictive.com^$important
-||isnssdk.com^$important
-||ipinyou.com^$important
-||izooto.com^$important
-||jampp.com^$important
-||jedimobi.com^$important
-||ivitrack.com^$important
-||iz682noju02ye5.com^$important
-||justpremium.com^$important
-||kochava.com^$important
-||ksapisrv.com^$important
-||lavanetwork.net^$important
 ||024xuyisheng.com^$important
 ||0377shujuhuifu.top^$important
 ||0452jhw.com^$important
@@ -5126,6 +5102,8 @@
 ||immensehoney.com^$important
 ||immgnzenbixuzd.bid^$important
 ||imnsmvmjrdiwwr.com^$important
+||imonomy.com^$important
+||impactradius.com^$important
 ||impactserving.com^$important
 ||importedincrease.com^$important
 ||importlocate.com^$important
@@ -5138,8 +5116,11 @@
 ||incdjkjbyhlttx.com^$important
 ||incrediblesugar.com^$important
 ||indexww.com^$important
+||indicative.com^$important
 ||indlzxgptf.com^$important
 ||inewoioxxdbm.com^$important
+||infinario.com^$important
+||infiniadmp.com^$important
 ||influads.com^$important
 ||info.web.de^$important
 ||infobizyours.info^$important
@@ -5162,7 +5143,9 @@
 ||inquisitiveinvention.com^$important
 ||insbrvwfrcgb.com^$important
 ||insdrbot.com^$important
+||insightexpressai.com^$important
 ||inspikon.com^$important
+||instartlogic.com^$important
 ||instreamatic.com^$important
 ||instrumentsponge.com^$important
 ||intellecthosting.net^$important
@@ -5206,9 +5189,11 @@
 ||ipdcgsdjkz.bid^$important
 ||ipdlsrwctdjb.com^$important
 ||ipehunxxyir.com^$important
+||iperceptions.com^$important
 ||ipesdpqmq.com^$important
 ||ipfcvsxisyz.com^$important
 ||iphwttyqzuhucw.bid^$important
+||ipinyou.com^$important
 ||ipllxfcftp.com^$important
 ||ipluhckk.com^$important
 ||ipncblpgxlhjpc.com^$important
@@ -5216,7 +5201,9 @@
 ||ipntpfokhkrh.com^$important
 ||ippninrrcl.com^$important
 ||ippwkczttno.com^$important
+||ipredictive.com^$important
 ||iproinvestor.co^$important
+||ipromote.com^$important
 ||iptrkboffhf.com^$important
 ||ipvvitntvja.com^$important
 ||ipwwqitqsh.com^$important
@@ -5234,6 +5221,7 @@
 ||iqwczlbxvtcnh.com^$important
 ||iqwhwomdmjg.bid^$important
 ||iqyirwfzlx.com^$important
+||iqzone.com^$important
 ||irbipwnr.bid^$important
 ||irbkobqlrbtt.com^$important
 ||iretlniy.bid^$important
@@ -5257,6 +5245,7 @@
 ||ishwuhvow.bid^$important
 ||iskkrmwivxfmdjwxme.bid^$important
 ||isnsgjhthhaqtu.com^$important
+||isnssdk.com^$important
 ||ispaagigjygd.com^$important
 ||ispyveemlvygba.com^$important
 ||istlandoll.com^$important
@@ -5284,6 +5273,7 @@
 ||ivastoor.com^$important
 ||ivebuyrkn.com^$important
 ||ivildmcafzped.bid^$important
+||ivitrack.com^$important
 ||ivkasohqerzl.com^$important
 ||ivktdwmjhkqy.com^$important
 ||ivldzqidbv.com^$important
@@ -5356,6 +5346,7 @@
 ||izmciznsszatv.com^$important
 ||izmwtewwobxy.com^$important
 ||iznhvszyizwd.com^$important
+||izooto.com^$important
 ||iztsbnkxphnj.com^$important
 ||iztxikfgw.com^$important
 ||izwzyhlm.com^$important
@@ -5376,6 +5367,7 @@
 ||jakzxxzrymhz.com^$important
 ||jamexistence.com^$important
 ||jamkkydyiyhx.com^$important
+||jampp.com^$important
 ||jamvgopociy.bid^$important
 ||janesvillelykens.com^$important
 ||janrlobmiroi.com^$important
@@ -5442,6 +5434,7 @@
 ||jebfktzfjqghv.bid^$important
 ||jebuorwrqfflzl.com^$important
 ||jecbbkrnfn.com^$important
+||jedimobi.com^$important
 ||jednyqbb.com^$important
 ||jeeshapi.net^$important
 ||jeeumttalzwt.com^$important
@@ -5728,6 +5721,7 @@
 ||jurtym.cf^$important
 ||jusrlkubhjnr.com^$important
 ||justicejudo.com^$important
+||justpremium.com^$important
 ||juststatic.info^$important
 ||jutbdkjc.bid^$important
 ||juuwyyvjecnvps.com^$important
@@ -6045,6 +6039,7 @@
 ||knxwoaewryxaxd.bid^$important
 ||knyqnoozhcvrkc.bid^$important
 ||koamxmikmuhahc.com^$important
+||kochava.com^$important
 ||kofeereb.com^$important
 ||koindut.com^$important
 ||kokqhnybnhdr.bid^$important
@@ -6102,6 +6097,7 @@
 ||krzdqcqb.com^$important
 ||krziyrrnvjai.com^$important
 ||krzllasnlbpjk.bid^$important
+||ksapisrv.com^$important
 ||ksavagrh.com^$important
 ||ksavfuxjbqx.com^$important
 ||ksbewtjuqitxg.bid^$important
@@ -6279,6 +6275,7 @@
 ||laughablecopper.com^$important
 ||laughcloth.com^$important
 ||lauzlpyl.com^$important
+||lavanetwork.net^$important
 ||lavmeebdxwc.com^$important
 ||lawvcpqtapzsh.com^$important
 ||lazkslkkmtpy.com^$important
