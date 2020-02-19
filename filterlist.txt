@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-02-18 22:12:39
-! Version: 20200218221239
+! Last modified: 2020-02-19 22:59:10
+! Version: 20200219225910
 ! Expires: 3 hours
-! Number of filters: 14101
+! Number of filters: 14107
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -7207,8 +7207,10 @@ http*:*/vinos.js$important,script
 ||mobdisc.org^$important
 ||mobibiobi.com^$important
 ||mobileadspopup.com^$important
+||mobileapptracking.com^$important
 ||mobileoffers-a-download.com^$important
 ||mobisla.com^$important
+||mobpowertech.com^$important
 ||mobsoftffree.xyz^$important
 ||modifyeyes.com^$important
 ||modkehkcihvzi.bid^$important
@@ -7313,6 +7315,7 @@ http*:*/vinos.js$important,script
 ||msdhydaxm.ovh^$important
 ||msdns.online^$important
 ||mse2v5oglm.com^$important
+||msecnd.net^$important
 ||msg-2.me^$important
 ||msiegurhgfyl.com^$important
 ||msigpurubzkm.com^$important
@@ -8042,6 +8045,7 @@ http*:*/vinos.js$important,script
 ||oguiftmya.com^$important
 ||ogulzxfxrmow.com^$important
 ||oguorftbvegb.com^$important
+||ogury.io^$important
 ||ogyhsyuhczvjg.com^$important
 ||ogzivkwjhrs.com^$important
 ||ohecnqpldvuw.com^$important
@@ -8129,6 +8133,7 @@ http*:*/vinos.js$important,script
 ||omareeper.com^$important
 ||omcozngvtyox.com^$important
 ||omniscientspark.com^$important
+||omniture.com^$important
 ||omoukkkj.stream^$important
 ||ompzowzfwwfc.com^$important
 ||omqygrfokyxg.com^$important
@@ -8191,6 +8196,7 @@ http*:*/vinos.js$important,script
 ||open-hive-server-1.pp.ua^$important
 ||openkatalog.com^$important
 ||openstat.net^$important
+||openx.com^$important
 ||openx.net^$important
 ||operationkettle.com^$important
 ||opertures.com^$important
