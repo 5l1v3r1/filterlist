@@ -67,9 +67,6 @@
 ||15jiaju.com^$important
 ||172ipkuobc.com^$important
 ||190282.xyz^$important
-||perfectionholic.com^$important
-||2f37a122063b9591b3d67a49b6d93f7c.com^$important
-||mopub.com^$important
 ||197c3b10bab3c1.com^$important
 ||1b8d89551340a.com^$important
 ||1b969cef84d93b43.com^$important
@@ -121,6 +118,7 @@
 ||2e91ddf5f5cc6dbfef88.date^$important
 ||2ed354b39d61a.com^$important
 ||2edd6c0fea91f88494d1cc37672db524.com^$important
+||2f37a122063b9591b3d67a49b6d93f7c.com^$important
 ||2giga.download^$important
 ||2go7v1nes8.com^$important
 ||2gok8g15p2.com^$important
@@ -7104,6 +7102,7 @@
 ||mookie1.com^$important
 ||moonbit.co.in^$important
 ||moonsade.com^$important
+||mopub.com^$important
 ||moquxotvyuoo.com^$important
 ||moreinfo.support^$important
 ||morningdigit.com^$important
@@ -8347,6 +8346,7 @@
 ||pephirda.link^$important
 ||peqdwnztlzjp.com^$important
 ||perceivequarter.com^$important
+||perfectionholic.com^$important
 ||performax.cz^$important
 ||performquickintenselyfile.*^$important
 ||perimeterx.net^$important

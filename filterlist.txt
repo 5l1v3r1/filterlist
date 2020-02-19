@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-02-19 22:59:10
-! Version: 20200219225910
+! Last modified: 2020-02-19 23:37:51
+! Version: 20200219233751
 ! Expires: 3 hours
-! Number of filters: 14107
+! Number of filters: 14110
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -255,6 +255,7 @@ http*:*/vinos.js$important,script
 ||2e91ddf5f5cc6dbfef88.date^$important
 ||2ed354b39d61a.com^$important
 ||2edd6c0fea91f88494d1cc37672db524.com^$important
+||2f37a122063b9591b3d67a49b6d93f7c.com^$important
 ||2giga.download^$important
 ||2go7v1nes8.com^$important
 ||2gok8g15p2.com^$important
@@ -7245,6 +7246,7 @@ http*:*/vinos.js$important,script
 ||mookie1.com^$important
 ||moonbit.co.in^$important
 ||moonsade.com^$important
+||mopub.com^$important
 ||moquxotvyuoo.com^$important
 ||moreinfo.support^$important
 ||morningdigit.com^$important
@@ -8489,6 +8491,7 @@ http*:*/vinos.js$important,script
 ||pephirda.link^$important
 ||peqdwnztlzjp.com^$important
 ||perceivequarter.com^$important
+||perfectionholic.com^$important
 ||performax.cz^$important
 ||performquickintenselyfile.*^$important
 ||perimeterx.net^$important
