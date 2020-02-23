@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-02-21 17:04:06
-! Version: 20200221170406
+! Last modified: 2020-02-23 17:48:29
+! Version: 20200223174829
 ! Expires: 3 hours
-! Number of filters: 14128
+! Number of filters: 14138
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -842,6 +842,7 @@ http*:*/vinos.js$important,script
 ||aionvpexcmm.com^$important
 ||aioxvilwpg.bid^$important
 ||aiprvqqnhm.com^$important
+||airartapt.site^$$important
 ||airfhtyo.bid^$important
 ||aitdwhmcvlm.com^$important
 ||aivae2o.top^$important
@@ -3679,6 +3680,7 @@ http*:*/vinos.js$important,script
 ||fivskvc6ccgtrnl.ru^$important
 ||fixfuturetype-restclicks.icu^$important
 ||fixingit.solutions^$important
+||fixsirrod.site^$important
 ||fjeqkpblfb.com^$important
 ||fjlvozwlv.bid^$important
 ||fjmjlwvtv.bid^$important
@@ -6408,6 +6410,7 @@ http*:*/vinos.js$important,script
 ||ladhyjqqgerr.com^$important
 ||ladsatz.com^$important
 ||ladsbrown.com^$important
+||ladsecz.com^$important
 ||ladsims.com^$important
 ||ladslims.com^$important
 ||ladsoks.com^$important
@@ -8229,6 +8232,7 @@ http*:*/vinos.js$important,script
 ||optimallimit.com^$important
 ||optimize-stats.voxmedia.com^$important
 ||optimizely.com^$important
+||optimove.net^$important
 ||oqaghvocticy.com^$important
 ||oqfoiwjwysbffe.com^$important
 ||oqgztgtmcxfcic.com^$important
@@ -8264,6 +8268,7 @@ http*:*/vinos.js$important,script
 ||otdgnmvw.com^$important
 ||otefauks.link^$important
 ||otewxlcmkih.com^$important
+||otherlevels.com^$important
 ||otmyoesv.com^$important
 ||otnolatrnup.com^$important
 ||otoxkqlivsqr.com^$important
@@ -8691,6 +8696,8 @@ http*:*/vinos.js$important,script
 ||poolgmsd.com^$important
 ||poorybdbh.bid^$important
 ||pooxbpxm.com^$important
+||popads.com^$important
+||popads.media^$important
 ||popads.net^$important
 ||popadscdn.net^$important
 ||poparya.com^$important
@@ -8757,6 +8764,7 @@ http*:*/vinos.js$important,script
 ||prctxexizzpp.com^$important
 ||prcymjchczmbjj.com^$important
 ||prdrmcwuawjwjl.bid^$important
+||predictvideo.com^$important
 ||preferrain.com^$important
 ||prefomain.com^$important
 ||preligions.com^$important
@@ -8787,6 +8795,7 @@ http*:*/vinos.js$important,script
 ||promoltd.online^$important
 ||promotionaldivices.icu^$important
 ||proofpoint.com^$important
+||propellerads.com^$important
 ||propellerclick.com^$important
 ||prophet.heise.de^$important
 ||proporing.info^$important
@@ -8869,6 +8878,7 @@ http*:*/vinos.js$important,script
 ||punksgotoserver21.live^$important
 ||punlkhusprgw.com^$important
 ||punosy.com^$important
+||puntoenun.site^$important
 ||punvqjsvnmubxb.com^$important
 ||puogotzrsvtg.com^$important
 ||puserving.com^$important

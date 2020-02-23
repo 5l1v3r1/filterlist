@@ -705,6 +705,7 @@
 ||aionvpexcmm.com^$important
 ||aioxvilwpg.bid^$important
 ||aiprvqqnhm.com^$important
+||airartapt.site^$$important
 ||airfhtyo.bid^$important
 ||aitdwhmcvlm.com^$important
 ||aivae2o.top^$important
@@ -1622,19 +1623,6 @@
 ||bxoemfpetyqi.bid^$important
 ||bxpbwitpgbid.bid^$important
 ||bxrjiqoajbbh.com^$important
-||optimove.net^$important
-||otherlevels.com^$important
-||outbrain.com^$important
-||popads.media^$important
-||popads.com^$important
-||predictvideo.com^$important
-||propellerads.com^$important
-||pushwoosh.com^$important
-||quantserve.com^$important
-||ladsecz.com^$important
-||airartapt.site^$$important
-||puntoenun.site^$important
-||fixsirrod.site^$important
 ||bxtcgufurbdk.bid^$important
 ||bxvydxjqklq.com^$important
 ||bxwbflhpk.com^$important
@@ -3551,6 +3539,7 @@
 ||fivskvc6ccgtrnl.ru^$important
 ||fixfuturetype-restclicks.icu^$important
 ||fixingit.solutions^$important
+||fixsirrod.site^$important
 ||fjeqkpblfb.com^$important
 ||fjlvozwlv.bid^$important
 ||fjmjlwvtv.bid^$important
@@ -6278,6 +6267,7 @@
 ||ladhyjqqgerr.com^$important
 ||ladsatz.com^$important
 ||ladsbrown.com^$important
+||ladsecz.com^$important
 ||ladsims.com^$important
 ||ladslims.com^$important
 ||ladsoks.com^$important
@@ -8097,6 +8087,7 @@
 ||optimallimit.com^$important
 ||optimize-stats.voxmedia.com^$important
 ||optimizely.com^$important
+||optimove.net^$important
 ||oqaghvocticy.com^$important
 ||oqfoiwjwysbffe.com^$important
 ||oqgztgtmcxfcic.com^$important
@@ -8132,6 +8123,7 @@
 ||otdgnmvw.com^$important
 ||otefauks.link^$important
 ||otewxlcmkih.com^$important
+||otherlevels.com^$important
 ||otmyoesv.com^$important
 ||otnolatrnup.com^$important
 ||otoxkqlivsqr.com^$important
@@ -8558,6 +8550,8 @@
 ||poolgmsd.com^$important
 ||poorybdbh.bid^$important
 ||pooxbpxm.com^$important
+||popads.com^$important
+||popads.media^$important
 ||popads.net^$important
 ||popadscdn.net^$important
 ||poparya.com^$important
@@ -8624,6 +8618,7 @@
 ||prctxexizzpp.com^$important
 ||prcymjchczmbjj.com^$important
 ||prdrmcwuawjwjl.bid^$important
+||predictvideo.com^$important
 ||preferrain.com^$important
 ||prefomain.com^$important
 ||preligions.com^$important
@@ -8653,6 +8648,7 @@
 ||promoltd.online^$important
 ||promotionaldivices.icu^$important
 ||proofpoint.com^$important
+||propellerads.com^$important
 ||propellerclick.com^$important
 ||prophet.heise.de^$important
 ||proporing.info^$important
@@ -8735,6 +8731,7 @@
 ||punksgotoserver21.live^$important
 ||punlkhusprgw.com^$important
 ||punosy.com^$important
+||puntoenun.site^$important
 ||punvqjsvnmubxb.com^$important
 ||puogotzrsvtg.com^$important
 ||puserving.com^$important
