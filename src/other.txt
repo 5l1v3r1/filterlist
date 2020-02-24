@@ -13,6 +13,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?delivery([0-9]{1,3})?\./$important,third-party
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?events?([0-9]{1,3})?\./$important,domain=~webmoney.ru
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?geo(service)?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?telemetr(y|ics)?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?informers?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?logs?(ging|impressions?|g?ers?)?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?m[io]nero?([0-9]{1,3})?\./$important
