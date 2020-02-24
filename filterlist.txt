@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-02-23 17:48:29
-! Version: 20200223174829
+! Last modified: 2020-02-24 21:32:29
+! Version: 20200224213229
 ! Expires: 3 hours
-! Number of filters: 14138
+! Number of filters: 14147
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1716,6 +1716,7 @@ http*:*/vinos.js$important,script
 ||buitxcrnucyi.com^$important
 ||bukpsslm.com^$important
 ||bulbbait.com^$important
+||burgerbrush.com^$important
 ||burnbubble.com^$important
 ||burobtnbpgkh.com^$important
 ||burvyzqwfqg.bid^$important
@@ -1899,7 +1900,6 @@ http*:*/vinos.js$important,script
 ||cdn-jquery.host^$important
 ||cdn.siteswithcontent.com/js/push/subscribe.js$important,script
 ||cdn7.rocks^$important
-||cdn77.org^$important
 ||cdnasiaclub.com^$important
 ||cdnm.me^$important
 ||cdnondemand.org^$important
@@ -2726,6 +2726,7 @@ http*:*/vinos.js$important,script
 ||dmojscqlwewu.com^$important
 ||dmrqnwtyttd.com^$important
 ||dmsvdderirwbu.com^$important
+||dmvbdfblevxvx.com^$important
 ||dmvegzsxaxn.com^$important
 ||dmvmnafx.com^$important
 ||dmxoedcqcb.com^$important
@@ -2763,6 +2764,7 @@ http*:*/vinos.js$important,script
 ||dojmlztmbrvp.com^$important
 ||doksfyhdtqmipa.com^$important
 ||doljrizlsem.bid^$important
+||dollardelta.com^$important
 ||dolohen.com^$important
 ||dolphincdn.xyz^$important
 ||dolphindispute.com^$important
@@ -4552,6 +4554,7 @@ http*:*/vinos.js$important,script
 ||hajsefgocgkxfg.com^$important
 ||hajtekzuoe.com^$important
 ||halal.ad^$important
+||haltingbadge.com^$important
 ||hamjgkzgycmur.com^$important
 ||hammerhearing.com^$important
 ||handsomeindustry.com^$important
@@ -4829,6 +4832,7 @@ http*:*/vinos.js$important,script
 ||hollowshake.com^$important
 ||honeybulb.com^$important
 ||honeygoldfish.com^$important
+||honorablehall.com^$important
 ||honorableland.com^$important
 ||hoo1luha.com^$important
 ||hook2up8.com^$important
@@ -6941,6 +6945,7 @@ http*:*/vinos.js$important,script
 ||marisingly.com^$important
 ||mariuspetrescu.gq^$important
 ||markedcrayon.com^$important
+||markedmeasure.com^$important
 ||markedpail.com^$important
 ||market-place.su^$important
 ||marketgid.com^$important
@@ -7549,6 +7554,7 @@ http*:*/vinos.js$important,script
 ||neaozrrjd.com^$important
 ||neatdude.cool^$important
 ||nebabrop.com^$important
+||necessarywax.com^$important
 ||neddwrmmced.bid^$important
 ||nedmppiilnld.com^$important
 ||neecnuaa.com^$important
@@ -8308,6 +8314,7 @@ http*:*/vinos.js$important,script
 ||ovcksawwem.com^$important
 ||ovcmqf.com^$important
 ||ovczxzkfkfbb.com^$important
+||overconfidentfood.com^$important
 ||overely.com^$important
 ||ovfbwavekglf.com^$important
 ||ovgepsxx.com^$important
@@ -10548,6 +10555,7 @@ http*:*/vinos.js$important,script
 ||summerobject.com^$important
 ||sumsmoxssy.com^$important
 ||sumvztfze.com^$important
+||sundhopen.site^$important
 ||suonvyzivnfy.com^$important
 ||superfastcdn.com^$important
 ||superficialsink.com^$important
@@ -11470,6 +11478,7 @@ http*:*/vinos.js$important,script
 ||unarmedindustry.com^$important
 ||unasgi.club^$important
 ||unbecominghall.com^$important
+||uncoveredcircle.com^$important
 ||uncoveredexpert.com^$important
 ||uncumlzowtkn.com^$important
 ||uncyane.com^$important
