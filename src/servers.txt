@@ -1760,7 +1760,6 @@
 ||cdn-code.host^$important
 ||cdn-jquery.host^$important
 ||cdn7.rocks^$important
-||cdn77.org^$important
 ||cdnasiaclub.com^$important
 ||cdnm.me^$important
 ||cdnondemand.org^$important
@@ -1770,6 +1769,16 @@
 ||cdvoqspgdp.com^$important
 ||cdxyb.cn^$important
 ||cdyiipzo.com^$important
+||uncoveredcircle.com^$important
+||overconfidentfood.com^$important
+||necessarywax.com^$important
+||markedmeasure.com^$important
+||honorablehall.com^$important
+||haltingbadge.com^$important
+||dollardelta.com^$important
+||burgerbrush.com^$important
+||dmvbdfblevxvx.com^$important
+||sundhopen.site^$important
 ||cdyygbzihdh.com^$important
 ||cdzifdzftkmfof.com^$important
 ||cea9d3d4f74fb831.com^$important
