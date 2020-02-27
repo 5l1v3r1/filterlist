@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-02-24 21:34:26
-! Version: 20200224213426
+! Last modified: 2020-02-27 18:49:19
+! Version: 20200227184919
 ! Expires: 3 hours
-! Number of filters: 14148
+! Number of filters: 14136
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -243,6 +243,7 @@ http*:*/vinos.js$important,script
 ||280asnlnr7.com^$important
 ||28f77rd30e.ru^$important
 ||2a12be6140880286.com^$important
+||2am0yc33wt2e.ru^$important
 ||2bbb1fdde3f864152.com^$important
 ||2bd3c9da116ed2907.com^$important
 ||2chicksathome.com^$important
@@ -691,7 +692,6 @@ http*:*/vinos.js$important,script
 ||adser.io^$important
 ||adserver.com^$important
 ||adserversolutions.com^$important
-||adservice.google.*^$important
 ||adservme.com^$important
 ||adshost.site^$important
 ||adskeeper.co.uk^$important
@@ -2090,6 +2090,7 @@ http*:*/vinos.js$important,script
 ||clksite.com^$important
 ||clmbtech.com^$important
 ||clod.pw^$important
+||cloisteredcord.com^$important
 ||cloisteredhydrant.com^$important
 ||clomggnzxsyf.bid^$important
 ||clonsvyhy.bid^$important
@@ -2193,7 +2194,6 @@ http*:*/vinos.js$important,script
 ||contentsfeed.com^$important
 ||contentza.com^$important
 ||contestandgiveaways.xyz^$important
-||contributor.google.com^$important
 ||conviva.com^$important
 ||coograma.net^$important
 ||cookie-script.com^$important
@@ -3672,7 +3672,6 @@ http*:*/vinos.js$important,script
 ||fioeazluwwirp.bid^$important
 ||fiozxmznaba.com^$important
 ||fiqkmfapvnntn.bid^$important
-||firebase.google.com^$important
 ||firflzsngsg.bid^$important
 ||firrectly.top^$important
 ||firstimpression.io^$important
@@ -3932,7 +3931,6 @@ http*:*/vinos.js$important,script
 ||fun520.fun^$important
 ||functionalclam.com^$important
 ||functionalcrown.com^$important
-||fundingchoicesmessages.google.com^$important
 ||funnyairplane.com^$important
 ||funysmile93.agency^$important
 ||fupgvldb.com^$important
@@ -4306,13 +4304,7 @@ http*:*/vinos.js$important,script
 ||gonuuudpdcu.com^$important
 ||goo4anywhere.com^$important
 ||goodbookbook.com^$important
-||google-analytics.com^$important
 ||google.com^*/viewerimpressions?$important,xmlhttprequest
-||googleadservices.com^$important
-||googleadsserving.cn^$important
-||googlesyndication.com^$important
-||googletagmanager.com^$important
-||googletagservices.com^$important
 ||googlo.co^$important
 ||goonline13.online^$important
 ||goowurzdotcom.bid^$important
@@ -5102,7 +5094,6 @@ http*:*/vinos.js$important,script
 ||icxssspyxquw.bid^$important
 ||icyddcsjbqjxz.bid^$important
 ||icyfqtjj.bid^$important
-||id.google.*^$important
 ||idbjhskxiablsi.com^$important
 ||idbtfwllhogxc.com^$important
 ||idbxnzgmn.com^$important
@@ -5254,7 +5245,6 @@ http*:*/vinos.js$important,script
 ||ilvibsabwuza.com^$important
 ||ilxwlsnzhzukj.com^$important
 ||imagetopng.club^$important
-||imasdk.googleapis.com^$important
 ||imayjubge.com^$important
 ||imbpmlyhkk.com^$important
 ||imeljiehhwy.com^$important
@@ -6927,7 +6917,6 @@ http*:*/vinos.js$important,script
 ||magrie.pw^$important
 ||magwfymjhils.com^$important
 ||maidlytsnrn.com^$important
-||mail-ads.google.com^$important
 ||mail.yandex.*/monitoring_liza.txt$image,important
 ||mailinfo.support^$important
 ||mailmessage.support^$important
@@ -8634,7 +8623,6 @@ http*:*/vinos.js$important,script
 ||pkxquvydrgin.com^$important
 ||pkzfmxjlkcxkub.com^$important
 ||play-best-games-2k18.xyz^$important
-||playatoms-pa.googleapis.com^$important
 ||playe.vidto.se^$important
 ||playermailer.net^$important
 ||plcsedkinoul.com^$important
