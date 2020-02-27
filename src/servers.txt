@@ -553,7 +553,6 @@
 ||adser.io^$important
 ||adserver.com^$important
 ||adserversolutions.com^$important
-||adservice.google.*^$important
 ||adservme.com^$important
 ||adshost.site^$important
 ||adskeeper.co.uk^$important
@@ -2053,7 +2052,6 @@
 ||contentsfeed.com^$important
 ||contentza.com^$important
 ||contestandgiveaways.xyz^$important
-||contributor.google.com^$important
 ||conviva.com^$important
 ||coograma.net^$important
 ||cookie-script.com^$important
@@ -3530,7 +3528,6 @@
 ||fioeazluwwirp.bid^$important
 ||fiozxmznaba.com^$important
 ||fiqkmfapvnntn.bid^$important
-||firebase.google.com^$important
 ||firflzsngsg.bid^$important
 ||firrectly.top^$important
 ||firstimpression.io^$important
@@ -3790,7 +3787,6 @@
 ||fun520.fun^$important
 ||functionalclam.com^$important
 ||functionalcrown.com^$important
-||fundingchoicesmessages.google.com^$important
 ||funnyairplane.com^$important
 ||funysmile93.agency^$important
 ||fupgvldb.com^$important
@@ -4164,12 +4160,6 @@
 ||gonuuudpdcu.com^$important
 ||goo4anywhere.com^$important
 ||goodbookbook.com^$important
-||google-analytics.com^$important
-||googleadservices.com^$important
-||googleadsserving.cn^$important
-||googlesyndication.com^$important
-||googletagmanager.com^$important
-||googletagservices.com^$important
 ||googlo.co^$important
 ||goonline13.online^$important
 ||goowurzdotcom.bid^$important
@@ -4958,7 +4948,6 @@
 ||icxssspyxquw.bid^$important
 ||icyddcsjbqjxz.bid^$important
 ||icyfqtjj.bid^$important
-||id.google.*^$important
 ||idbjhskxiablsi.com^$important
 ||idbtfwllhogxc.com^$important
 ||idbxnzgmn.com^$important
@@ -5110,7 +5099,8 @@
 ||ilvibsabwuza.com^$important
 ||ilxwlsnzhzukj.com^$important
 ||imagetopng.club^$important
-||imasdk.googleapis.com^$important
+||cloisteredcord.com^$important
+||2am0yc33wt2e.ru^$important
 ||imayjubge.com^$important
 ||imbpmlyhkk.com^$important
 ||imeljiehhwy.com^$important
@@ -6783,7 +6773,6 @@
 ||magrie.pw^$important
 ||magwfymjhils.com^$important
 ||maidlytsnrn.com^$important
-||mail-ads.google.com^$important
 ||mailinfo.support^$important
 ||mailmessage.support^$important
 ||majoritishbettes.info^$important
@@ -8487,7 +8476,6 @@
 ||pkxquvydrgin.com^$important
 ||pkzfmxjlkcxkub.com^$important
 ||play-best-games-2k18.xyz^$important
-||playatoms-pa.googleapis.com^$important
 ||playe.vidto.se^$important
 ||playermailer.net^$important
 ||plcsedkinoul.com^$important
