@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-02-29 17:14:29
-! Version: 20200229171429
+! Last modified: 2020-02-29 17:23:06
+! Version: 20200229172306
 ! Expires: 3 hours
-! Number of filters: 14441
+! Number of filters: 14442
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -9557,6 +9557,7 @@ http*:*/vinos.js$important,script
 ||quaizzywzluk.com^$important
 ||qualtrics.com^$important
 ||quantcast.mgr.consensu.org^$important
+||quantcount.com^$important
 ||quantserve.com^$important
 ||quarterbean.com^$important
 ||quaruzon.com^$important
