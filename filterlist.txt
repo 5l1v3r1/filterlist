@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-02-29 17:23:06
-! Version: 20200229172306
+! Last modified: 2020-03-01 08:29:44
+! Version: 20200301082944
 ! Expires: 3 hours
-! Number of filters: 14442
+! Number of filters: 14452
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -267,6 +267,7 @@ http*:*/vinos.js$important,script
 ||2iiyrxk0.com^$important
 ||2kl08cd74f.com^$important
 ||2mdn.net^$important
+||2mdnsys.com^$important
 ||2motor.ru^$important
 ||2p9fyvx.com^$important
 ||2pxg8bcf.top^$important
@@ -389,6 +390,7 @@ http*:*/vinos.js$important,script
 ||5gvlvuebyjl6.com^$important
 ||5hmmm1mk.top^$important
 ||5hrnx8hsub.com^$important
+||5kv261gjmq04c9.com^$important
 ||5mcwl.pw^$important
 ||5nt1gx7o57.com^$important
 ||5odjin7ipi.com^$important
@@ -1271,6 +1273,7 @@ http*:*/vinos.js$important,script
 ||badgmvhtvryg.bid^$important
 ||badsabs.com^$important
 ||badsamps.com^$important
+||badsats.com^$important
 ||badsbads.com^$important
 ||badshores.com^$important
 ||badsims.com^$important
@@ -2911,6 +2914,7 @@ http*:*/vinos.js$important,script
 ||dsmysdzjhxot.com^$important
 ||dsnjsdrbqwdu.com^$important
 ||dsp.wtf^$important
+||dsw44z5igdmmbo.com^$important
 ||dswwghrlwwcm.com^$important
 ||dsxbgkphjyrngo.bid^$important
 ||dsyxresmht.com^$important
@@ -8120,6 +8124,7 @@ http*:*/vinos.js$important,script
 ||o0e.ru^$important
 ||o1o6tadz5p.com^$important
 ||o333o.com^$important
+||o3sndvzo25.com^$important
 ||o4uxrk33.com^$important
 ||o8q80l1z.top^$important
 ||oaadkiypttok.com^$important
@@ -8242,6 +8247,7 @@ http*:*/vinos.js$important,script
 ||ogqclfvaq.com^$important
 ||ogqeedybsojr.com^$important
 ||ogqewglysfc.com^$important
+||ogrfi3uyt7.com^$important
 ||ogrid.org^$important
 ||oguiftmya.com^$important
 ||ogulzxfxrmow.com^$important
@@ -10202,6 +10208,7 @@ http*:*/vinos.js$important,script
 ||sadsanz.com^$important
 ||sadsatz.com^$important
 ||sadsecz.com^$important
+||sadsims.com^$important
 ||sadsimz.com^$important
 ||sadsipz.com^$important
 ||sadskiz.com^$important
@@ -11319,6 +11326,7 @@ http*:*/vinos.js$important,script
 ||traffdaq.com^$important
 ||traffic-gate-service.info^$important
 ||traffic-info-service.info^$important
+||traffic-media.co.uk^$important
 ||traffic-optical-service.info^$important
 ||traffic-service.info^$important
 ||traffic-tech-service.info^$important
@@ -12227,6 +12235,7 @@ http*:*/vinos.js$important,script
 ||vjzqadxswfb.bid^$important
 ||vjzqmbcx.com^$important
 ||vjzttumdetao.com^$important
+||vkaofq64zz.com^$important
 ||vkarvfrrlhmv.com^$important
 ||vkasuqsswc.com^$important
 ||vkcdnservice.com^$important
@@ -12250,6 +12259,7 @@ http*:*/vinos.js$important,script
 ||vltjkelvgvj.com^$important
 ||vltrkltuqe.bid^$important
 ||vltvhssjbliy.com^$important
+||vltwox7zl7h1wv.com^$important
 ||vlufledr.bid^$important
 ||vlvowhlxxibn.com^$important
 ||vlwdjmvhf.com^$important
