@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-02-29 15:48:19
-! Version: 20200229154819
+! Last modified: 2020-02-29 17:14:29
+! Version: 20200229171429
 ! Expires: 3 hours
-! Number of filters: 14430
+! Number of filters: 14441
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -755,6 +755,7 @@ http*:*/vinos.js$important,script
 ||advmusic.net^$important
 ||adwidgets.ru^$important
 ||adworkmedia.net^$important
+||adworldmedia.com^$important
 ||adxadserv.com^$important
 ||adxnexus.com^$important
 ||adxpddpc.com^$important
@@ -1685,6 +1686,7 @@ http*:*/vinos.js$important,script
 ||browser-updater.yandex.net^$important
 ||browsermine.com^$important
 ||browserr.top^$important
+||browsers.support^$important
 ||brqrtgjklary.com^$important
 ||brrxmhuhyokw.bid^$important
 ||brtcmjchfyel.com^$important
@@ -2590,6 +2592,7 @@ http*:*/vinos.js$important,script
 ||delegatediscussion.com^$important
 ||delightdriving.com^$important
 ||delightfulhour.com^$important
+||deliverimp.com^$important
 ||delivery.vidible.tv^$important
 ||deloplen.com^$important
 ||deloplenn.com^$important
@@ -3000,6 +3003,7 @@ http*:*/vinos.js$important,script
 ||dylsjsmqjbbcs.com^$important
 ||dymaffzxk.com^$important
 ||dynamicadx.com^$important
+||dynsrvtbg.com^$important
 ||dypmzetaj.com^$important
 ||dywqwrtnhegyz.com^$important
 ||dyykxositkqt.bid^$important
@@ -3615,6 +3619,7 @@ http*:*/vinos.js$important,script
 ||fastly-insights.com^$important
 ||fastpopclick.com^$important
 ||fastpopunder.com^$important
+||fastrotate.com^$important
 ||fatayvywbebgdn.com^$important
 ||fate-xy.com^$important
 ||fatisin.ru^$important
@@ -5026,6 +5031,7 @@ http*:*/vinos.js$important,script
 ||hrskwmpvpgocj.com^$important
 ||hrtgkdwjbjblb.com^$important
 ||hrtxufdb.com^$important
+||hrtya.com^$important
 ||hrvxpinmdyjx.com^$important
 ||hrykyhqtgcro.com^$important
 ||hs-analytics.net^$important
@@ -5545,6 +5551,7 @@ http*:*/vinos.js$important,script
 ||itdfougdewupfd.bid^$important
 ||itgfqliqge.com^$important
 ||itlmnxlauah.com^$important
+||itspsmup.com^$important
 ||itsskxyyi.bid^$important
 ||itsyuvrlesq.com^$important
 ||itxljhric.com^$important
@@ -10716,6 +10723,7 @@ http*:*/vinos.js$important,script
 ||stati.bid^$important
 ||stati.in^$important
 ||staticsfs.host^$important
+||statserv.net^$important
 ||statsforads.com^$important
 ||statsy.net^$important
 ||steadfastsound.com^$important
@@ -11314,6 +11322,7 @@ http*:*/vinos.js$important,script
 ||traffic-service.info^$important
 ||traffic-tech-service.info^$important
 ||trafficfactory.biz^$important
+||trafficforce.com^$important
 ||traffichaus.com^$important
 ||trafficjunky.com^$important
 ||trafficjunky.net^$important
@@ -12691,6 +12700,7 @@ http*:*/vinos.js$important,script
 ||wikbpyexkw.com^$important
 ||wiklrrrwqqf.com^$important
 ||wiklweefcuorh.com^$important
+||wilafhhbdyewgbd.xyz^$important
 ||wilburnkeithsburg.com^$important
 ||wildernesscamera.com^$important
 ||wildianing.ru^$important
@@ -13786,6 +13796,7 @@ http*:*/vinos.js$important,script
 ||ypyarwgh.com^$important
 ||yqaywudifu.date^$important
 ||yqeuu.com^$important
+||yqezqofkb1nnmz.com^$important
 ||yqhgbmyfiomx.com^$important
 ||yqjoqncxmufi.com^$important
 ||yqlfiutmnbazmj.bid^$important

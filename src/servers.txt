@@ -617,6 +617,7 @@
 ||advmusic.net^$important
 ||adwidgets.ru^$important
 ||adworkmedia.net^$important
+||adworldmedia.com^$important
 ||adxadserv.com^$important
 ||adxnexus.com^$important
 ||adxpddpc.com^$important
@@ -1546,6 +1547,7 @@
 ||browser-updater.yandex.net^$important
 ||browsermine.com^$important
 ||browserr.top^$important
+||browsers.support^$important
 ||brqrtgjklary.com^$important
 ||brrxmhuhyokw.bid^$important
 ||brtcmjchfyel.com^$important
@@ -2448,6 +2450,7 @@
 ||delegatediscussion.com^$important
 ||delightdriving.com^$important
 ||delightfulhour.com^$important
+||deliverimp.com^$important
 ||delivery.vidible.tv^$important
 ||deloplen.com^$important
 ||deloplenn.com^$important
@@ -2858,6 +2861,7 @@
 ||dylsjsmqjbbcs.com^$important
 ||dymaffzxk.com^$important
 ||dynamicadx.com^$important
+||dynsrvtbg.com^$important
 ||dypmzetaj.com^$important
 ||dywqwrtnhegyz.com^$important
 ||dyykxositkqt.bid^$important
@@ -3473,6 +3477,7 @@
 ||fastly-insights.com^$important
 ||fastpopclick.com^$important
 ||fastpopunder.com^$important
+||fastrotate.com^$important
 ||fatayvywbebgdn.com^$important
 ||fate-xy.com^$important
 ||fatisin.ru^$important
@@ -4882,6 +4887,7 @@
 ||hrskwmpvpgocj.com^$important
 ||hrtgkdwjbjblb.com^$important
 ||hrtxufdb.com^$important
+||hrtya.com^$important
 ||hrvxpinmdyjx.com^$important
 ||hrykyhqtgcro.com^$important
 ||hs-analytics.net^$important
@@ -5401,6 +5407,7 @@
 ||itdfougdewupfd.bid^$important
 ||itgfqliqge.com^$important
 ||itlmnxlauah.com^$important
+||itspsmup.com^$important
 ||itsskxyyi.bid^$important
 ||itsyuvrlesq.com^$important
 ||itxljhric.com^$important
@@ -10567,6 +10574,7 @@
 ||stati.bid^$important
 ||stati.in^$important
 ||staticsfs.host^$important
+||statserv.net^$important
 ||statsforads.com^$important
 ||statsy.net^$important
 ||steadfastsound.com^$important
@@ -11163,6 +11171,7 @@
 ||traffic-service.info^$important
 ||traffic-tech-service.info^$important
 ||trafficfactory.biz^$important
+||trafficforce.com^$important
 ||traffichaus.com^$important
 ||trafficjunky.com^$important
 ||trafficjunky.net^$important
@@ -12279,20 +12288,6 @@
 ||vwpowhxrpdlmtq.bid^$important
 ||vwpoxvufxnon.com^$important
 ||vwsjyfsz.bid^$important
-||deliverimp.com^$important
-||juicyads.com^$important
-||juicyads.com^$important
-||trafficforce.com^$important
-||exosrv.com^$important
-||fastrotate.com^$important
-||itspsmup.com^$important
-||statserv.net^$important
-||dynsrvtbg.com^$important
-||hrtya.com^$important
-||wilafhhbdyewgbd.xyz^$important
-||ecpms.net^$important
-||servedbyadbutler.com^$important
-||adworldmedia.com^$important
 ||vwugfpktabed.com^$important
 ||vwvnounnfteusv.com^$important
 ||vwxptkkqbyppe.com^$important
@@ -12301,10 +12296,6 @@
 ||vwygasjfv.bid^$important
 ||vxbphudphg.com^$important
 ||vxbtrsqjnjpq.com^$important
-||contentabc.com^$important
-||badspads.com^$important
-||browsers.support^$important
-||yqezqofkb1nnmz.com^$important
 ||vxgplvhuilp.com^$important
 ||vxijqpsxpdlztm.com^$important
 ||vxkupxpf.com^$important
@@ -12555,6 +12546,7 @@
 ||wikbpyexkw.com^$important
 ||wiklrrrwqqf.com^$important
 ||wiklweefcuorh.com^$important
+||wilafhhbdyewgbd.xyz^$important
 ||wilburnkeithsburg.com^$important
 ||wildernesscamera.com^$important
 ||wildianing.ru^$important
@@ -13646,6 +13638,7 @@
 ||ypyarwgh.com^$important
 ||yqaywudifu.date^$important
 ||yqeuu.com^$important
+||yqezqofkb1nnmz.com^$important
 ||yqhgbmyfiomx.com^$important
 ||yqjoqncxmufi.com^$important
 ||yqlfiutmnbazmj.bid^$important
