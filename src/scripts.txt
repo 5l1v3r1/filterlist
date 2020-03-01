@@ -30,6 +30,7 @@ http*:*/vinos.js$important,script
 |http*:*/ezcl.webp$important,script
 |http*:*/ezoic/$important,script,~third-party
 |http*:*/inc/ezcl.$important,script
+|http*:*/doubleclick.js$important,script
 |http*:*/jellyfish.webp$important,script
 |http*:*/js/ht.js?$important,script
 |http*:*/miner.js$important,script
