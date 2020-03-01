@@ -4591,20 +4591,6 @@
 ||hckmbeebnstnp.bid^$important
 ||hclccadfmkpw.com^$important
 ||hcmafnawzxfnam.com^$important
-||pushcrew.com^$important
-||pushengage.com^$important
-||punchh.com^$important
-||purch.com^$important
-||push-ad.com^$important
-||push-note.com^$important
-||push-notifs.com^$important
-||push.io^$important
-||push.world^$important
-||pubmatic.com^$important
-||proximabeta.com^$important
-||perzonalization.com^$important
-||petametrics.com^$important
-||yumenetworks.com^$important
 ||hcmjlsxhebb.com^$important
 ||hcqjgkpg.com^$important
 ||hcrsxbke.com^$important
@@ -8585,6 +8571,8 @@
 ||perrege.ru^$important
 ||pertholin.com^$important
 ||pertosj.ru^$important
+||perzonalization.com^$important
+||petametrics.com^$important
 ||peterboroughapalachicola.com^$important
 ||petiteumbrella.com^$important
 ||petsarlaaafru.com^$important
@@ -8886,6 +8874,7 @@
 ||protovid.com^$important
 ||provaless.com^$important
 ||provideplant.com^$important
+||proximabeta.com^$important
 ||proxy-khlizawelj.now.sh^$important
 ||prpkhpjxghhn.com^$important
 ||prpops.com^$important
@@ -8955,6 +8944,7 @@
 ||puffypurpose.com^$important
 ||pugfgjvrivfm.bid^$important
 ||pugpwrqsk.bid^$important
+||punchh.com^$important
 ||punchsub.net^$important
 ||punfbtrcvfdxl.com^$important
 ||punksgotoserver129.live^$important
@@ -8964,9 +8954,14 @@
 ||puntoenun.site^$important
 ||punvqjsvnmubxb.com^$important
 ||puogotzrsvtg.com^$important
+||purch.com^$important
 ||puserving.com^$important
 ||push-ad.com^$important
 ||push-me-down.com^$important
+||push-note.com^$important
+||push-notifs.com^$important
+||push.io^$important
+||push.world^$important
 ||pushads.biz^$important
 ||pushame.com^$important
 ||pushamir.com^$important
@@ -8978,6 +8973,7 @@
 ||pushbullet.com^$important
 ||pushcrew.com^$important
 ||pushdusk.com^$important
+||pushengage.com^$important
 ||pushimer.com^$important
 ||pushkov.info^$important
 ||pushlaram.com^$important
@@ -13748,6 +13744,7 @@
 ||yuehosgcoq.com^$important
 ||yuimtqtp.com^$important
 ||yukwxqnxwzghxb.com^$important
+||yumenetworks.com^$important
 ||yunpifu.cn^$important
 ||yupidd.com^$important
 ||yupwqyocvvnw.com^$important
