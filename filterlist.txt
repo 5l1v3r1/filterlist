@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-01 08:29:44
-! Version: 20200301082944
+! Last modified: 2020-03-01 17:12:54
+! Version: 20200301171254
 ! Expires: 3 hours
-! Number of filters: 14452
+! Number of filters: 14461
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1374,6 +1374,7 @@ http*:*/vinos.js$important,script
 ||beavideopro.vip^$important
 ||bebadu.com^$important
 ||bebi.com^$important
+||bebreloomr.com^$important
 ||bebufuspldzh.com^$important
 ||bebxxrgjigz.com^$important
 ||bedformj.com^$important
@@ -2620,6 +2621,7 @@ http*:*/vinos.js$important,script
 ||destricso.com^$important
 ||detailedglue.com^$important
 ||detailedgovernment.com^$important
+||detailedkitten.com^$important
 ||detailsay.info^$important
 ||detectdinner.com^$important
 ||detectdiscovery.com^$important
@@ -4431,7 +4433,10 @@ http*:*/vinos.js$important,script
 ||goo4anywhere.com^$important
 ||gooblesdd.com^$important
 ||goodbookbook.com^$important
+||google-analytics.com^$important
 ||google.com^*/viewerimpressions?$important,xmlhttprequest
+||googletagmanager.com^$important
+||googletagservices.com^$important
 ||googlo.co^$important
 ||goonline13.online^$important
 ||goowurzdotcom.bid^$important
@@ -5231,6 +5236,7 @@ http*:*/vinos.js$important,script
 ||icxssspyxquw.bid^$important
 ||icyddcsjbqjxz.bid^$important
 ||icyfqtjj.bid^$important
+||id.google.$important
 ||idbjhskxiablsi.com^$important
 ||idbtfwllhogxc.com^$important
 ||idbxnzgmn.com^$important
@@ -7089,6 +7095,7 @@ http*:*/vinos.js$important,script
 ||magrie.pw^$important
 ||magwfymjhils.com^$important
 ||maidlytsnrn.com^$important
+||mail-ads.google.com^$important
 ||mail.yandex.*/monitoring_liza.txt$image,important
 ||mailinfo.support^$important
 ||mailmessage.support^$important
@@ -10324,6 +10331,7 @@ http*:*/vinos.js$important,script
 ||secfpgpqx.com^$important
 ||secretivecub.com^$important
 ||secretspiders.com^$important
+||secretturtle.com^$important
 ||secumine.net^$important
 ||securedownload.network^$important
 ||securenetsystems.net^$important
@@ -10610,6 +10618,7 @@ http*:*/vinos.js$important,script
 ||sokanffuyinr.com^$important
 ||solo83.biz^$important
 ||solvement.mobi^$important
+||somberscarecrow.com^$important
 ||sombersea.com^$important
 ||sombersquirrel.com^$important
 ||sombersurprise.com^$important
