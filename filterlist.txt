@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-01 17:33:58
-! Version: 20200301173358
+! Last modified: 2020-03-01 19:15:03
+! Version: 20200301191503
 ! Expires: 3 hours
-! Number of filters: 14472
+! Number of filters: 14473
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -94,7 +94,7 @@
 /^https?:\/\/[^\s]+\/deep[Mm]iner(\.min)?\.js/$important,script
 /^https?:\/\/[^\s]+\/log(ging|impressions?|ers?)?[?./]/$important
 /^https?:\/\/[^\s]+\/metri(cs?|x)([a-zA-Z0-9]+)?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]/$important,script
-/^https?:\/\/[^\s]+\/metri[ck]?[asx]?\//$important
+/^https?:\/\/[^\s]+\/metri[ck]?[asx]?\//$important,domain=~metrica.yandex.com|~metrica.yandex.ru|~metrika.yandex.com|~metrika.yandex.ru
 /^https?:\/\/[^\s]+\/sponsor(s|ing)?\//$image,important
 /^https?:\/\/[^\s]+\/wasmminer\.(js|wasm)/$important,script,xmlhttprequest
 /^https?:\/\/[^\s]+\/webmr(\.min|[0-9]{1,3})?\.js/$important,script
@@ -10649,6 +10649,7 @@ http*:*/vinos.js$important,script
 ||sovqylkbucid.com^$important
 ||soyzsnaivas.com^$important
 ||sozdyrrtsvr.com^$important
+||spade.sci.twitch.tv^$important
 ||spankcdn.net/*/pht*/pht*.js$important,script
 ||sparklingnumber.com^$important
 ||spbflxvnheih.com^$important
