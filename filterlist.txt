@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-01 20:11:26
-! Version: 20200301201126
+! Last modified: 2020-03-01 22:05:55
+! Version: 20200301220555
 ! Expires: 3 hours
-! Number of filters: 14473
+! Number of filters: 14480
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -125,6 +125,7 @@ http*:*/vinos.js$important,script
 |http*:*/atrk.js$important,script
 |http*:*/banger.js$important,script
 |http*:*/clear.gif$image,important
+|http*:*/doubleclick.js$important,script
 |http*:*/drstat?$image,important
 |http*:*/edmonton.webp$important,script
 |http*:*/empty.php$important
@@ -922,6 +923,7 @@ http*:*/vinos.js$important,script
 ||aliru1.ru^$important
 ||aljsuubo.com^$important
 ||alkagrkgvltzlk.com^$important
+||allartand.club^$important
 ||alleged.world^$important
 ||alleyarm.com^$important
 ||allfontshere.press^$important
@@ -1392,6 +1394,7 @@ http*:*/vinos.js$important,script
 ||behjgnhniasz.com^$important
 ||beholder.xyz^$important
 ||behybmunweid.com^$important
+||beigeiros.pw^$important
 ||bekiruvppl.com^$important
 ||bektvxxfv.bid^$important
 ||bellevillelickingville.com^$important
@@ -1750,6 +1753,7 @@ http*:*/vinos.js$important,script
 ||buitxcrnucyi.com^$important
 ||bukpsslm.com^$important
 ||bulbbait.com^$important
+||bumampaid.club^$important
 ||burgerbrush.com^$important
 ||burnbubble.com^$important
 ||burobtnbpgkh.com^$important
@@ -4518,6 +4522,7 @@ http*:*/vinos.js$important,script
 ||greatwork.info^$important
 ||greedseed.world^$important
 ||greenyourday19.agency^$important
+||greetpanda.info^$important
 ||greetzebra.com^$important
 ||gregnobs.com^$important
 ||grewuxii.bid^$important
@@ -4593,6 +4598,7 @@ http*:*/vinos.js$important,script
 ||gurltransfer.com^$important
 ||gurrfwsscwda.com^$important
 ||gutccaxnwso.com^$important
+||guttengyp.club^$important
 ||guwegqmvqxfa.bid^$important
 ||guziwptcqucio.bid^$important
 ||guzwqarqdxai.bid^$important
@@ -12760,6 +12766,7 @@ http*:*/vinos.js$important,script
 ||wiywlvkwwwrms.com^$important
 ||wizejdnlqwcb.com^$important
 ||wizknbrgxuqjo.com^$important
+||wizliebeg.com^$important
 ||wjavelurhgx.com^$important
 ||wjdjovjrxsqx.com^$important
 ||wjevvjxwg.com^$important
