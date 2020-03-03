@@ -2105,7 +2105,6 @@
 ||contentsfeed.com^$important
 ||contentza.com^$important
 ||contestandgiveaways.xyz^$important
-||conversantmedia.com^$important
 ||conviva.com^$important
 ||coocopop.com^$important
 ||coograma.net^$important
@@ -2186,6 +2185,8 @@
 ||crispadvertising.com^$important
 ||criteo.com^$important
 ||criteo.net^$important
+||dotomi.com^$important
+||conversantmedia.com^$important
 ||critictruck.com^$important
 ||crittercism.com^$important
 ||crjsrbyybipozq.com^$important
@@ -2698,17 +2699,22 @@
 ||dompegho.net^$important
 ||donhyxngg.com^$important
 ||doorbrazil.com^$important
+||easy-ads.com^$important
 ||dorbanise.pw^$important
 ||dosanrnlq.com^$important
 ||dot4mobi.club^$important
-||dotomi.com^$important
+||edgekey.net^$important
+||innity.net^$important
+||innity.com^$important
 ||douangvwl.com^$important
 ||doubleclick*.*^$important
+||doubleverify.com^$important
 ||doubledeepclick.com^$important
+||duapps.com^$important
 ||doublelimpup.com^$important
+||earnify.com^$important
 ||doublepimp.com^$important
 ||doublepimpssl.com^$important
-||doubleverify.com^$important
 ||doubtfulrainstorm.com^$important
 ||douoblelimpup.com^$important
 ||dovltuzibsfs.com^$important
@@ -2720,6 +2726,10 @@
 ||dpkdwhfdrvxzcr.bid^$important
 ||dpmsrv.com^$important
 ||dpmvpttamz.com^$important
+||dxsvr.com^$important
+||dynad.net^$important
+||dynamicyield.com^$important
+||dynatrace.com^$important
 ||dpmyrskvbznvn.com^$important
 ||dpnahzfbb.com^$important
 ||dpoffxqjlgt.com^$important
@@ -2798,7 +2808,6 @@
 ||dtvlalitvg.com^$important
 ||dtzlgtmqoj.bid^$important
 ||duamuprs.com^$important
-||duapps.com^$important
 ||dubijsirwtwq.com^$important
 ||dubzmzpdkddi.com^$important
 ||duchmcmpmqqu.com^$important
@@ -5335,6 +5344,7 @@
 ||iohyjoomzoufn.bid^$important
 ||ioighavxylne.com^$important
 ||ioitfufxdsxtq.bid^$important
+||nativeads.com^$important
 ||ioiylgyf.com^$important
 ||iokggekuz.bid^$important
 ||iolzwhbf.bid^$important
@@ -7176,6 +7186,7 @@
 ||miszwaojrn.com^$important
 ||mivrpcxlo.com^$important
 ||mixadvert.com^$important
+||mobpartner.*^$important
 ||mixedreading.com^$important
 ||mixer-1ruplus.ru^$important
 ||mixfyfriqtatz.bid^$important
