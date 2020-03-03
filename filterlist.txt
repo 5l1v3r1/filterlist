@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-03 15:04:27
-! Version: 20200303150427
+! Last modified: 2020-03-03 15:36:54
+! Version: 20200303153654
 ! Expires: 3 hours
-! Number of filters: 14487
+! Number of filters: 14497
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -3000,6 +3000,7 @@ http*:*/vinos.js$important,script
 ||dxokxbrfl.bid^$important
 ||dxqorupwedbotu.com^$important
 ||dxqxeklbsqe.com^$important
+||dxsvr.com^$important
 ||dxtveuux.com^$important
 ||dxurtngzawwe.com^$important
 ||dxyafwkhrnycjp.com^$important
@@ -3014,7 +3015,10 @@ http*:*/vinos.js$important,script
 ||dyjkbkpzxgpjfs.com^$important
 ||dylsjsmqjbbcs.com^$important
 ||dymaffzxk.com^$important
+||dynad.net^$important
 ||dynamicadx.com^$important
+||dynamicyield.com^$important
+||dynatrace.com^$important
 ||dynsrvtbg.com^$important
 ||dypmzetaj.com^$important
 ||dywqwrtnhegyz.com^$important
@@ -3069,10 +3073,12 @@ http*:*/vinos.js$important,script
 ||eaidabmuxbqy.com^$important
 ||eaqxjz6bra.com^$important
 ||earnbigo.com^$important
+||earnify.com^$important
 ||earthquakescarf.com^$important
 ||earthycopy.com^$important
 ||easmdmxps.com^$important
 ||easnviytengk.com^$important
+||easy-ads.com^$important
 ||easygatepr.bid^$important
 ||easyhits4u.com^$important
 ||easylist.club^$important
@@ -3110,6 +3116,7 @@ http*:*/vinos.js$important,script
 ||ed77c4363c7.com^$important
 ||ed98512111bb19e5.in.net^$important
 ||edfthzanlsyse.com^$important
+||edgekey.net^$important
 ||edgsscofljhc.com^$important
 ||edigitalsurvey.com^$important
 ||ednnpxhjsqyd.com^$important
@@ -5445,6 +5452,7 @@ http*:*/vinos.js$important,script
 ||initialized902nq.online^$important
 ||inmobi.com^$important
 ||inmrjokdxmkh.com^$important
+||innity.com^$important
 ||innity.net^$important
 ||innocentwax.com^$important
 ||innovid.com^$important
@@ -7412,6 +7420,7 @@ http*:*/vinos.js$important,script
 ||mobileapptracking.com^$important
 ||mobileoffers-a-download.com^$important
 ||mobisla.com^$important
+||mobpartner.*^$important
 ||mobpowertech.com^$important
 ||mobsoftffree.xyz^$important
 ||modifyeyes.com^$important
@@ -7682,6 +7691,7 @@ http*:*/vinos.js$important,script
 ||nasfrzhbqvgq.bid^$important
 ||natapea.com^$important
 ||nathetsof.com^$important
+||nativeads.com^$important
 ||nativepu.sh^$important
 ||nativespot.com^$important
 ||nativesubscribe.pro^$important

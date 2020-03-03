@@ -2105,6 +2105,7 @@
 ||contentsfeed.com^$important
 ||contentza.com^$important
 ||contestandgiveaways.xyz^$important
+||conversantmedia.com^$important
 ||conviva.com^$important
 ||coocopop.com^$important
 ||coograma.net^$important
@@ -2185,8 +2186,6 @@
 ||crispadvertising.com^$important
 ||criteo.com^$important
 ||criteo.net^$important
-||dotomi.com^$important
-||conversantmedia.com^$important
 ||critictruck.com^$important
 ||crittercism.com^$important
 ||crjsrbyybipozq.com^$important
@@ -2699,22 +2698,17 @@
 ||dompegho.net^$important
 ||donhyxngg.com^$important
 ||doorbrazil.com^$important
-||easy-ads.com^$important
 ||dorbanise.pw^$important
 ||dosanrnlq.com^$important
 ||dot4mobi.club^$important
-||edgekey.net^$important
-||innity.net^$important
-||innity.com^$important
+||dotomi.com^$important
 ||douangvwl.com^$important
 ||doubleclick*.*^$important
-||doubleverify.com^$important
 ||doubledeepclick.com^$important
-||duapps.com^$important
 ||doublelimpup.com^$important
-||earnify.com^$important
 ||doublepimp.com^$important
 ||doublepimpssl.com^$important
+||doubleverify.com^$important
 ||doubtfulrainstorm.com^$important
 ||douoblelimpup.com^$important
 ||dovltuzibsfs.com^$important
@@ -2726,10 +2720,6 @@
 ||dpkdwhfdrvxzcr.bid^$important
 ||dpmsrv.com^$important
 ||dpmvpttamz.com^$important
-||dxsvr.com^$important
-||dynad.net^$important
-||dynamicyield.com^$important
-||dynatrace.com^$important
 ||dpmyrskvbznvn.com^$important
 ||dpnahzfbb.com^$important
 ||dpoffxqjlgt.com^$important
@@ -2808,6 +2798,7 @@
 ||dtvlalitvg.com^$important
 ||dtzlgtmqoj.bid^$important
 ||duamuprs.com^$important
+||duapps.com^$important
 ||dubijsirwtwq.com^$important
 ||dubzmzpdkddi.com^$important
 ||duchmcmpmqqu.com^$important
@@ -2866,6 +2857,7 @@
 ||dxokxbrfl.bid^$important
 ||dxqorupwedbotu.com^$important
 ||dxqxeklbsqe.com^$important
+||dxsvr.com^$important
 ||dxtveuux.com^$important
 ||dxurtngzawwe.com^$important
 ||dxyafwkhrnycjp.com^$important
@@ -2880,7 +2872,10 @@
 ||dyjkbkpzxgpjfs.com^$important
 ||dylsjsmqjbbcs.com^$important
 ||dymaffzxk.com^$important
+||dynad.net^$important
 ||dynamicadx.com^$important
+||dynamicyield.com^$important
+||dynatrace.com^$important
 ||dynsrvtbg.com^$important
 ||dypmzetaj.com^$important
 ||dywqwrtnhegyz.com^$important
@@ -2935,10 +2930,12 @@
 ||eaidabmuxbqy.com^$important
 ||eaqxjz6bra.com^$important
 ||earnbigo.com^$important
+||earnify.com^$important
 ||earthquakescarf.com^$important
 ||earthycopy.com^$important
 ||easmdmxps.com^$important
 ||easnviytengk.com^$important
+||easy-ads.com^$important
 ||easygatepr.bid^$important
 ||easyhits4u.com^$important
 ||easylist.club^$important
@@ -2976,6 +2973,7 @@
 ||ed77c4363c7.com^$important
 ||ed98512111bb19e5.in.net^$important
 ||edfthzanlsyse.com^$important
+||edgekey.net^$important
 ||edgsscofljhc.com^$important
 ||edigitalsurvey.com^$important
 ||ednnpxhjsqyd.com^$important
@@ -5309,6 +5307,7 @@
 ||initialized902nq.online^$important
 ||inmobi.com^$important
 ||inmrjokdxmkh.com^$important
+||innity.com^$important
 ||innity.net^$important
 ||innocentwax.com^$important
 ||innovid.com^$important
@@ -5344,7 +5343,6 @@
 ||iohyjoomzoufn.bid^$important
 ||ioighavxylne.com^$important
 ||ioitfufxdsxtq.bid^$important
-||nativeads.com^$important
 ||ioiylgyf.com^$important
 ||iokggekuz.bid^$important
 ||iolzwhbf.bid^$important
@@ -7186,7 +7184,6 @@
 ||miszwaojrn.com^$important
 ||mivrpcxlo.com^$important
 ||mixadvert.com^$important
-||mobpartner.*^$important
 ||mixedreading.com^$important
 ||mixer-1ruplus.ru^$important
 ||mixfyfriqtatz.bid^$important
@@ -7277,6 +7274,7 @@
 ||mobileapptracking.com^$important
 ||mobileoffers-a-download.com^$important
 ||mobisla.com^$important
+||mobpartner.*^$important
 ||mobpowertech.com^$important
 ||mobsoftffree.xyz^$important
 ||modifyeyes.com^$important
@@ -7547,6 +7545,7 @@
 ||nasfrzhbqvgq.bid^$important
 ||natapea.com^$important
 ||nathetsof.com^$important
+||nativeads.com^$important
 ||nativepu.sh^$important
 ||nativespot.com^$important
 ||nativesubscribe.pro^$important
