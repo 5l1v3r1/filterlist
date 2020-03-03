@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-01 22:05:55
-! Version: 20200301220555
+! Last modified: 2020-03-03 14:30:59
+! Version: 20200303143059
 ! Expires: 3 hours
-! Number of filters: 14480
+! Number of filters: 14491
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -701,6 +701,7 @@ http*:*/vinos.js$important,script
 ||adscale.de^$important
 ||adsco.re^$important
 ||adscpm.site^$important
+||adsdk.yandex.ru^$important
 ||adsensecustomsearchads.com^$important
 ||adser.io^$important
 ||adserver.com^$important
@@ -1193,7 +1194,7 @@ http*:*/vinos.js$important,script
 ||avyrpwvm.com^$important
 ||awaeswvqd.bid^$important
 ||awakebird.com^$important
-||awaps.yandex.net^$important
+||awaps.yandex.*^$important
 ||awcpmsaiv.com^$important
 ||awfjqdhcuftd.com^$important
 ||awgdgpawhwgi.bid^$important
@@ -1704,6 +1705,8 @@ http*:*/vinos.js$important,script
 ||bryvvdtek.com^$important
 ||brzmefeoqwdakc.bid^$important
 ||brztxamj.com^$important
+||bs-meta.yandex.ru^$important
+||bs.yandex.ru^$important
 ||bsbrxl7znz.com^$important
 ||bsepyppitmkkf.com^$important
 ||bsfnvvxjcisif.com^$important
@@ -2320,9 +2323,11 @@ http*:*/vinos.js$important,script
 ||crgfbmzsk.com^$important
 ||crheaeqw.com^$important
 ||crijpgcer.com^$important
+||crispadvertising.com^$important
 ||criteo.com^$important
 ||criteo.net^$important
 ||critictruck.com^$important
+||crittercism.com^$important
 ||crjsrbyybipozq.com^$important
 ||crkliqlyabacgt.bid^$important
 ||crllmzsy.top^$important
@@ -2606,6 +2611,7 @@ http*:*/vinos.js$important,script
 ||deloplenn.com^$important
 ||deloton.com^$important
 ||deltaction.com^$important
+||deltadna.net^$important
 ||demand.supply^$important
 ||demandbase.com^$important
 ||demdex.net^$important
@@ -7798,6 +7804,7 @@ http*:*/vinos.js$important,script
 ||newwedads.com^$important
 ||newyearads.com^$important
 ||nexac.com^$important
+||nexage.com^$important
 ||nexioniect.com^$important
 ||nextbdom.ru^$important
 ||nexttime.ovh^$important
@@ -12309,6 +12316,7 @@ http*:*/vinos.js$important,script
 ||vmtjybwfb.com^$important
 ||vmtwnkpskok.com^$important
 ||vmvhmwppcsvd.com^$important
+||vmweb.net^$important
 ||vmyvsltb.com^$important
 ||vnadjbcsxfyt.com^$important
 ||vncvownr.bid^$important
@@ -13666,6 +13674,7 @@ http*:*/vinos.js$important,script
 ||yibrvxydm.bid^$important
 ||yicainjezma.com^$important
 ||yieldlab.net^$important
+||yieldoptimizer.com^$important
 ||yifuqtge.com^$important
 ||yigxdcmrgutrjl.com^$important
 ||yihibfmdq.bid^$important
@@ -14033,6 +14042,7 @@ http*:*/vinos.js$important,script
 ||zansceeifcmm.com^$important
 ||zap.buzz^$important
 ||zapvzwydgiwz.com^$important
+||zarget.com^$important
 ||zarlomgog.com^$important
 ||zarpop.com^$important
 ||zatrlsov.com^$important
@@ -14279,6 +14289,7 @@ http*:*/vinos.js$important,script
 ||zomsfhgj.com^$important
 ||zonement.com^$important
 ||zonhpljclov.com^$important
+||zoomanalytics.co^$important
 ||zoowknbw.com^$important
 ||zospzfvxkshe.com^$important
 ||zostofou.link^$important

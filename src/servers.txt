@@ -7,15 +7,6 @@
 /^(https?|ftp|wss?):\/\/([^\s]+\.)?ner\-de\-mi\-nis\-[0-9]{1,3}\.info/$important
 /^https:\/\/69([a-z]{1,2})\.([a-z]{4})/$important
 /^https:\/\/mxcdn([0-9]{1,3})?\.now\.sh/$important
-||550b3ikb9j.com^$important
-||nexage.com^$important
-||money-slots.net^$important
-||vmweb.net^$important
-||zoomanalytics.co^$important
-||zarget.com^$important
-||yieldoptimizer.com^$important
-||bs-meta.yandex.ru^$important
-||bs.yandex.ru^$important
 /^https:\/\/npcdn([0-9]{1,3})?\.now\.sh/$important
 /^https:\/\/sxcdn([0-9]{1,3})?\.now\.sh/$important
 /^https?:\/\/(([a-zA-Z]{1})?[0-9]{1,4})?adserv\./$important
@@ -517,16 +508,12 @@
 ||adfpkxvaqeyj.com^$important
 ||adglare.net^$important
 ||adgsfoxoavmc.com^$important
-||deltadna.net^$important
-||crispadvertising.com^$important
-||crittercism.com^$important
 ||adhese.com^$important
 ||adhitzads.com^$important
 ||adinfo.support^$important
 ||adition.com^$important
 ||adjust.com^$important
 ||adkeeker.com^$important
-||adsdk.yandex.ru^$important
 ||adkontekst.pl^$important
 ||adlightning.com^$important
 ||adlogine.com^$important
@@ -575,6 +562,7 @@
 ||adscale.de^$important
 ||adsco.re^$important
 ||adscpm.site^$important
+||adsdk.yandex.ru^$important
 ||adsensecustomsearchads.com^$important
 ||adser.io^$important
 ||adserver.com^$important
@@ -851,7 +839,6 @@
 ||analytics.facebook.com^$important
 ||anasjdzutdmv.com^$important
 ||andinizaments.com^$important
-||adsdk.yandex.ru^$important
 ||andlache.com^$important
 ||aneqmscervl.com^$important
 ||anfjrxbxbar.bid^$important
@@ -1578,6 +1565,8 @@
 ||bryvvdtek.com^$important
 ||brzmefeoqwdakc.bid^$important
 ||brztxamj.com^$important
+||bs-meta.yandex.ru^$important
+||bs.yandex.ru^$important
 ||bsbrxl7znz.com^$important
 ||bsepyppitmkkf.com^$important
 ||bsfnvvxjcisif.com^$important
@@ -2193,9 +2182,11 @@
 ||crgfbmzsk.com^$important
 ||crheaeqw.com^$important
 ||crijpgcer.com^$important
+||crispadvertising.com^$important
 ||criteo.com^$important
 ||criteo.net^$important
 ||critictruck.com^$important
+||crittercism.com^$important
 ||crjsrbyybipozq.com^$important
 ||crkliqlyabacgt.bid^$important
 ||crllmzsy.top^$important
@@ -2477,6 +2468,7 @@
 ||deloplenn.com^$important
 ||deloton.com^$important
 ||deltaction.com^$important
+||deltadna.net^$important
 ||demand.supply^$important
 ||demandbase.com^$important
 ||demdex.net^$important
@@ -7666,6 +7658,7 @@
 ||newwedads.com^$important
 ||newyearads.com^$important
 ||nexac.com^$important
+||nexage.com^$important
 ||nexioniect.com^$important
 ||nextbdom.ru^$important
 ||nexttime.ovh^$important
@@ -12168,6 +12161,7 @@
 ||vmtjybwfb.com^$important
 ||vmtwnkpskok.com^$important
 ||vmvhmwppcsvd.com^$important
+||vmweb.net^$important
 ||vmyvsltb.com^$important
 ||vnadjbcsxfyt.com^$important
 ||vncvownr.bid^$important
@@ -13525,6 +13519,7 @@
 ||yibrvxydm.bid^$important
 ||yicainjezma.com^$important
 ||yieldlab.net^$important
+||yieldoptimizer.com^$important
 ||yifuqtge.com^$important
 ||yigxdcmrgutrjl.com^$important
 ||yihibfmdq.bid^$important
@@ -13888,6 +13883,7 @@
 ||zansceeifcmm.com^$important
 ||zap.buzz^$important
 ||zapvzwydgiwz.com^$important
+||zarget.com^$important
 ||zarlomgog.com^$important
 ||zarpop.com^$important
 ||zatrlsov.com^$important
@@ -14134,6 +14130,7 @@
 ||zomsfhgj.com^$important
 ||zonement.com^$important
 ||zonhpljclov.com^$important
+||zoomanalytics.co^$important
 ||zoowknbw.com^$important
 ||zospzfvxkshe.com^$important
 ||zostofou.link^$important
