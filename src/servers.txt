@@ -1437,10 +1437,6 @@
 ||bmayhacntxax.com^$important
 ||bmbnpxxwxdt.com^$important
 ||bmcm.ml^$important
-||polyad.net^$important
-||popcap.com^$important
-||popin.cc^$important
-||popupads.net^$important
 ||bmcm.pw^$important
 ||bmhvaoxr.com^$important
 ||bmichkohfqtnvq.com^$important
@@ -8771,6 +8767,7 @@
 ||policester.info^$important
 ||policityseriod.info^$important
 ||politegoldfish.com^$important
+||polyad.net^$important
 ||pomerous.info^$important
 ||pondokiklan.com^$important
 ||poolgmsd.com^$important
@@ -8782,7 +8779,9 @@
 ||popadscdn.net^$important
 ||poparya.com^$important
 ||popcain.com^$important
+||popcap.com^$important
 ||popcash.net^$important
+||popin.cc^$important
 ||popmajor.com^$important
 ||popmonetizer.com^$important
 ||popmonetizer.net^$important
@@ -8791,6 +8790,7 @@
 ||popsoffer.com^$important
 ||popuexo.com^$important
 ||popunders.bid^$important
+||popupads.net^$important
 ||popupme.net^$important
 ||popzkvfimbox.com^$important
 ||poqqvnychl.com^$important
