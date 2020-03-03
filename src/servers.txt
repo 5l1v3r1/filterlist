@@ -2105,6 +2105,7 @@
 ||contentsfeed.com^$important
 ||contentza.com^$important
 ||contestandgiveaways.xyz^$important
+||conversantmedia.com^$important
 ||conviva.com^$important
 ||coocopop.com^$important
 ||coograma.net^$important
@@ -2185,8 +2186,6 @@
 ||crispadvertising.com^$important
 ||criteo.com^$important
 ||criteo.net^$important
-||dotomi.com^$important
-||conversantmedia.com^$important
 ||critictruck.com^$important
 ||crittercism.com^$important
 ||crjsrbyybipozq.com^$important
@@ -2702,14 +2701,14 @@
 ||dorbanise.pw^$important
 ||dosanrnlq.com^$important
 ||dot4mobi.club^$important
+||dotomi.com^$important
 ||douangvwl.com^$important
 ||doubleclick*.*^$important
-||doubleverify.com^$important
 ||doubledeepclick.com^$important
-||duapps.com^$important
 ||doublelimpup.com^$important
 ||doublepimp.com^$important
 ||doublepimpssl.com^$important
+||doubleverify.com^$important
 ||doubtfulrainstorm.com^$important
 ||douoblelimpup.com^$important
 ||dovltuzibsfs.com^$important
@@ -2799,6 +2798,7 @@
 ||dtvlalitvg.com^$important
 ||dtzlgtmqoj.bid^$important
 ||duamuprs.com^$important
+||duapps.com^$important
 ||dubijsirwtwq.com^$important
 ||dubzmzpdkddi.com^$important
 ||duchmcmpmqqu.com^$important

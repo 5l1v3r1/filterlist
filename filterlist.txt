@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-03 14:30:59
-! Version: 20200303143059
+! Last modified: 2020-03-03 15:04:27
+! Version: 20200303150427
 ! Expires: 3 hours
-! Number of filters: 14491
+! Number of filters: 14487
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -2246,6 +2246,7 @@ http*:*/vinos.js$important,script
 ||contentsfeed.com^$important
 ||contentza.com^$important
 ||contestandgiveaways.xyz^$important
+||conversantmedia.com^$important
 ||conviva.com^$important
 ||coocopop.com^$important
 ||coograma.net^$important
@@ -2843,20 +2844,14 @@ http*:*/vinos.js$important,script
 ||dorbanise.pw^$important
 ||dosanrnlq.com^$important
 ||dot4mobi.club^$important
+||dotomi.com^$important
 ||douangvwl.com^$important
-||doubleclick.com^$important
-||doubleclick.net^$important
-||doubleclick1.xyz^$important
-||doubleclick2.xyz^$important
-||doubleclick3.xyz^$important
-||doubleclick4.xyz^$important
-||doubleclick5.xyz^$important
-||doubleclick6.xyz^$important
-||doubleclickbygoogle.com^$important
+||doubleclick*.*^$important
 ||doubledeepclick.com^$important
 ||doublelimpup.com^$important
 ||doublepimp.com^$important
 ||doublepimpssl.com^$important
+||doubleverify.com^$important
 ||doubtfulrainstorm.com^$important
 ||douoblelimpup.com^$important
 ||dovltuzibsfs.com^$important
@@ -2946,6 +2941,7 @@ http*:*/vinos.js$important,script
 ||dtvlalitvg.com^$important
 ||dtzlgtmqoj.bid^$important
 ||duamuprs.com^$important
+||duapps.com^$important
 ||dubijsirwtwq.com^$important
 ||dubzmzpdkddi.com^$important
 ||duchmcmpmqqu.com^$important
