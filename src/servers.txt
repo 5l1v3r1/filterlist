@@ -1437,6 +1437,10 @@
 ||bmayhacntxax.com^$important
 ||bmbnpxxwxdt.com^$important
 ||bmcm.ml^$important
+||polyad.net^$important
+||popcap.com^$important
+||popin.cc^$important
+||popupads.net^$important
 ||bmcm.pw^$important
 ||bmhvaoxr.com^$important
 ||bmichkohfqtnvq.com^$important
@@ -10111,7 +10115,7 @@
 ||sagukjshgifebs.bid^$important
 ||sagulzuyvybu.com^$important
 ||sail-horizon.com^$important
-||sailthru.com^$important
+||sailthru.*^$important
 ||sailznsgbygz.com^$important
 ||saipuciruuja.com^$important
 ||saithaiy.com^$important
