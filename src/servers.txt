@@ -8,6 +8,8 @@
 /^https:\/\/69([a-z]{1,2})\.([a-z]{4})/$important
 /^https:\/\/mxcdn([0-9]{1,3})?\.now\.sh/$important
 /^https:\/\/npcdn([0-9]{1,3})?\.now\.sh/$important
+||asewlfjqwlflkew.com^$important
+||skylowhat.site^$important
 /^https:\/\/sxcdn([0-9]{1,3})?\.now\.sh/$important
 /^https?:\/\/(([a-zA-Z]{1})?[0-9]{1,4})?adserv\./$important
 /^https?:\/\/(syndication|analytics)\.twitter\.com/$important
