@@ -763,6 +763,7 @@
 ||albado.xyz^$important
 ||aldaobpuhvl.com^$important
 ||aleapeact.club^$important
+||alertafterthought.com^$important
 ||alexametrics.com^$important
 ||alflying.*^$important
 ||alfredean.com^$important
@@ -3030,14 +3031,6 @@
 ||egkkeahdzjqy.com^$important
 ||egouyziyto.bid^$important
 ||egqvfdht.bid^$important
-||soom.la^$important
-||soomla.com^$important
-||alertafterthought.com^$important
-||rusticprice.com^$important
-||spellsalsa.com^$important
-||thingsafterthought.com$important
-||waxtamnit.com^$important
-||ian029dkl3osl930sian.club^$important
 ||egrcoshpisdnn.com^$important
 ||egszpylvmclvf.bid^$important
 ||egtkhpkkfswf.com^$important
@@ -5060,6 +5053,7 @@
 ||iagsqudxpcfr.com^$important
 ||iagvkdeienla.com^$important
 ||iaimnsxepxdy.bid^$important
+||ian029dkl3osl930sian.club^$important
 ||iansucrovvzbi.bid^$important
 ||iaoisfnac.com^$important
 ||iaoyikwmocuvr.com^$important
@@ -10014,6 +10008,7 @@
 ||rusenov.com^$important
 ||rushhips.com^$important
 ||russia-lives.icu^$important
+||rusticprice.com^$important
 ||rustqlclwuebif.bid^$important
 ||rutarget.ru^$important
 ||rutheronwenonah.com^$important
@@ -10513,6 +10508,8 @@
 ||sombersurprise.com^$important
 ||sonobi.com^$important
 ||soodatmish.com^$important
+||soom.la^$important
+||soomla.com^$important
 ||soonbigo.com^$important
 ||soonyou123.com^$important
 ||sopzefqypxas.bid^$important
@@ -10535,6 +10532,7 @@
 ||spectacularsnail.com^$important
 ||speeder.biz^$important
 ||speedlinkdown.com^$important
+||spellsalsa.com^$important
 ||spendentaly.info^$important
 ||spfrlpjmvkmq.com^$important
 ||spgjtypydhdxl.com^$important
@@ -11000,6 +10998,7 @@
 ||thibzxxtotyqg.bid^$important
 ||thicktrucks.com^$important
 ||thiksikr.com^$important
+||thingsafterthought.com$important
 ||thinkablerice.com^$important
 ||thirdrespect.com^$important
 ||thirgoad.top^$important
@@ -12433,6 +12432,7 @@
 ||wawinamilmay.com^$important
 ||wawlfosfkdy.com^$important
 ||wawyxzfkab.com^$important
+||waxtamnit.com^$important
 ||waynsnuu.bid^$important
 ||wbejophctdunop.bid^$important
 ||wbfwyzatvqjbnf.com^$important
