@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-07 19:55:58
-! Version: 20200307195558
+! Last modified: 2020-03-08 00:16:29
+! Version: 20200308001629
 ! Expires: 3 hours
-! Number of filters: 14540
+! Number of filters: 14550
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -348,6 +348,7 @@ http*:*/vinos.js$important,script
 ||470d2b0f462.com^$important
 ||4736.in^$important
 ||47f624b2e6c6072e.com^$important
+||482e227db50cb2.com^$important
 ||48dc47c7234e5258.com^$important
 ||49be233434d0.com^$important
 ||49feqdpw.com^$important
@@ -359,6 +360,7 @@ http*:*/vinos.js$important,script
 ||4d2911e5a4e352.com^$important
 ||4dd887ed167b2.com^$important
 ||4dsply.com^$important
+||4e2bfb140f78.com^$important
 ||4ee395e5b8a076c7bd8592851ff8cad.com^$important
 ||4ef6b73abc9123.com^$important
 ||4fba771f87a0251.com^$important
@@ -417,6 +419,7 @@ http*:*/vinos.js$important,script
 ||6631f33cf2a1032b.com^$important
 ||66713dbe44.com^$important
 ||674309f93c1.com^$important
+||67959ed3ef4a3.com^$important
 ||67e0ffa991f1cb0.com^$important
 ||6868bbe42af8e518.com^$important
 ||6ce0a8be8375b.com^$important
@@ -434,6 +437,7 @@ http*:*/vinos.js$important,script
 ||713b037362f02.com^$important
 ||727709ccb24101c8.com^$important
 ||729dcbaa57e80c1e.com^$important
+||73c6ec666c4.com^$important
 ||73g509fk9a.com^$important
 ||746fyw2v.com^$important
 ||751c990ab4.com^$important
@@ -478,6 +482,7 @@ http*:*/vinos.js$important,script
 ||8fzyhamgc9.com^$important
 ||8mdphsb8fm.com^$important
 ||8yopdqidj2.com^$important
+||91087ef93a.com^$important
 ||919ba151b6f5.com^$important
 ||91aa46b949d20.com^$important
 ||91dyosn2.top^$important
@@ -1264,6 +1269,7 @@ http*:*/vinos.js$important,script
 ||azroydhgqcfv.com^$important
 ||b13481647cf775c5.com^$important
 ||b1img.com^$important
+||b3a1860bc38c63b.com^$important
 ||b3f17a21a3d.com^$important
 ||b3z29k1uxb.com^$important
 ||b42rracj.com^$important
@@ -1580,6 +1586,7 @@ http*:*/vinos.js$important,script
 ||bmbnpxxwxdt.com^$important
 ||bmcm.ml^$important
 ||bmcm.pw^$important
+||bmgo.life^$important
 ||bmhvaoxr.com^$important
 ||bmichkohfqtnvq.com^$important
 ||bmirhdkborr.bid^$important
@@ -4657,6 +4664,7 @@ http*:*/vinos.js$important,script
 ||gxuibhjxssnrol.bid^$important
 ||gxvbogvbcivs.com^$important
 ||gxwjkbxubfjd.com^$important
+||gxxcbj.com^$important
 ||gxxkrzrvy.com^$important
 ||gxxsqeqlepva.com^$important
 ||gxzfpusmd.com^$important
@@ -7807,6 +7815,7 @@ http*:*/vinos.js$important,script
 ||newjulads.com^$important
 ||newmail.support^$important
 ||newmayads.com^$important
+||newmedia.live^$important
 ||newmessage.support^$important
 ||newmonads.com^$important
 ||newnovads.com^$important
@@ -11660,6 +11669,7 @@ http*:*/vinos.js$important,script
 ||ucounter.ucoz.net^$important
 ||ucozssymgw.com^$important
 ||ucptqdmerltn.com^$important
+||ucurtatus.com^$important
 ||ucvrtwfh.com^$important
 ||ucxnfyadx.com^$important
 ||uczaqrjgkztxe.com^$important
