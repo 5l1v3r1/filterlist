@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-07 19:20:43
-! Version: 20200307192043
+! Last modified: 2020-03-07 19:35:23
+! Version: 20200307193523
 ! Expires: 3 hours
-! Number of filters: 14535
+! Number of filters: 14541
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -601,6 +601,8 @@ http*:*/vinos.js$important,script
 ||acwswfbyhtsf.com^$important
 ||acwyoynw.com^$important
 ||acxujxzdluum.com^$important
+||ad-balancer.at^$important
+||ad-brix.com^$important
 ||ad-miner.com^$important
 ||ad.mail.ru^$important
 ||ad2bitcoin.com^$important
@@ -632,9 +634,8 @@ http*:*/vinos.js$important,script
 ||adfill.me^$important
 ||adflazz.com^$important
 ||adfoitjumerzge.com^$important
-||adform.net^$important
-||adfox.ru^$important
-||adfox.yandex.ru^$important
+||adform.*^$important
+||adfox.*^$important
 ||adfpkxvaqeyj.com^$important
 ||adglare.net^$important
 ||adgsfoxoavmc.com^$important
@@ -649,6 +650,8 @@ http*:*/vinos.js$important,script
 ||adlogine.com^$important
 ||admantx.com^$important
 ||admarket.network^$important
+||admarketplace.net^$important
+||admarvel.com^$important
 ||admatic.com.tr^$important
 ||admedia.com^$important
 ||admessage.support^$important
@@ -656,7 +659,9 @@ http*:*/vinos.js$important,script
 ||admetrica.ru^$important
 ||admetricspro.com^$important
 ||admitad.com^$important
+||admixer.*^$important
 ||admixer.net^$important
+||admized.com^$important
 ||admlqqewbede.com^$important
 ||admo.tv^$important
 ||adnetworkperformance.com^$important
@@ -3913,6 +3918,7 @@ http*:*/vinos.js$important,script
 ||founehie.com^$important
 ||fourarithmetic.com^$important
 ||fourtesy.info^$important
+||foxmetrics.com^$important
 ||foxpush.net^$important
 ||foxypp.com^$important
 ||fpbmjwoebzby.com^$important

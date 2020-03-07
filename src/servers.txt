@@ -460,6 +460,8 @@
 ||acwswfbyhtsf.com^$important
 ||acwyoynw.com^$important
 ||acxujxzdluum.com^$important
+||ad-balancer.at^$important
+||ad-brix.com^$important
 ||ad-miner.com^$important
 ||ad.mail.ru^$important
 ||ad2bitcoin.com^$important
@@ -496,16 +498,6 @@
 ||adfpkxvaqeyj.com^$important
 ||adglare.net^$important
 ||adgsfoxoavmc.com^$important
-||ad-brix.com^$important
-||ad-balancer.at^$important
-||admarvel.com^$important
-||admized.com^$important
-||admarketplace.net^$important
-||admixer.*^$important
-||adverline.com^$important
-||advertising.com^$important
-||advertnative.com^$important
-||foxmetrics.com^$important
 ||adhese.com^$important
 ||adhitzads.com^$important
 ||adinfo.support^$important
@@ -517,6 +509,8 @@
 ||adlogine.com^$important
 ||admantx.com^$important
 ||admarket.network^$important
+||admarketplace.net^$important
+||admarvel.com^$important
 ||admatic.com.tr^$important
 ||admedia.com^$important
 ||admessage.support^$important
@@ -524,7 +518,9 @@
 ||admetrica.ru^$important
 ||admetricspro.com^$important
 ||admitad.com^$important
+||admixer.*^$important
 ||admixer.net^$important
+||admized.com^$important
 ||admlqqewbede.com^$important
 ||admo.tv^$important
 ||adnetworkperformance.com^$important
@@ -3777,6 +3773,7 @@
 ||founehie.com^$important
 ||fourarithmetic.com^$important
 ||fourtesy.info^$important
+||foxmetrics.com^$important
 ||foxpush.net^$important
 ||foxypp.com^$important
 ||fpbmjwoebzby.com^$important
