@@ -25,6 +25,7 @@ http*:*/vinos.js$important,script
 |http*:*/aj-cryptominer.$important,script
 |http*:*/ajcryptominer.$important,script
 |http*:*/atrk.js$important,script
+/^https?:\/\/[a-z]{6,9}\.(online|pw|xyz)\/[0-9a-zA-Z]{12,16}\/[0-9]{4,6}$/$important,script,third-party
 |http*:*/banger.js$important,script
 |http*:*/doubleclick.js$important,script
 |http*:*/edmonton.webp$important,script
