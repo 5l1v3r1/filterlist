@@ -10842,8 +10842,6 @@
 ||tamgrt.com^$important
 ||tammfmhtfhut.com^$important
 ||tamqqjgbvbps.com^$important
-||zestadz.com^$important
-||zestads.com^$important
 ||tamrczjeedauh.com^$important
 ||tangibleteam.com^$important
 ||taoclfxgf.com^$important
@@ -14003,6 +14001,8 @@
 ||zequspu.eu^$important
 ||zeroclan.net^$important
 ||zert.ovh^$important
+||zestads.com^$important
+||zestadz.com^$important
 ||zeuwuxfzvaoqp.bid^$important
 ||zevszinklxyf.com^$important
 ||zewkj.com^$important
