@@ -7,12 +7,6 @@
 /^(https?|ftp|wss?):\/\/([^\s]+\.)?ner\-de\-mi\-nis\-[0-9]{1,3}\.info/$important
 /^https:\/\/69([a-z]{1,2})\.([a-z]{4})/$important
 /^https:\/\/mxcdn([0-9]{1,3})?\.now\.sh/$important
-||gadsabs.com^$important
-||pixsense.net^$important
-||pushnotifications.click^$important
-||thichawheja.pro^$important
-||aj2073.online^$important
-||leoceran.pw^$important
 /^https:\/\/npcdn([0-9]{1,3})?\.now\.sh/$important
 /^https:\/\/sxcdn([0-9]{1,3})?\.now\.sh/$important
 /^https?:\/\/(([a-zA-Z]{1})?[0-9]{1,4})?adserv\./$important
@@ -729,6 +723,7 @@
 ||aizopowmtnho.com^$important
 ||aj1713.online^$important
 ||aj1907.online^$important
+||aj2073.online^$important
 ||ajaeihzlcwvn.com^$important
 ||ajcryptominer.com^$important
 ||ajfziqehnwvz.com^$important
@@ -6526,6 +6521,7 @@
 ||lemetri.info^$important
 ||lengejoberdak.pro^$important
 ||lenoramanning.com^$important
+||leoceran.pw^$important
 ||lepfj.site^$important
 ||lepyhlczldiuja.bid^$important
 ||lesmyjzc.com^$important
@@ -8682,6 +8678,7 @@
 ||pitduougk.com^$important
 ||piuhqbchk.com^$important
 ||pixjqfvlsqvu.com^$important
+||pixsense.net^$important
 ||piyzmkcxa.bid^$important
 ||pjbifjjtir.com^$important
 ||pjeledftjxfnd.com^$important
@@ -11014,6 +11011,7 @@
 ||thewhizproducts.com^$important
 ||thewise.com^$important
 ||thibzxxtotyqg.bid^$important
+||thichawheja.pro^$important
 ||thicktrucks.com^$important
 ||thiksikr.com^$important
 ||thingsafterthought.com$important
