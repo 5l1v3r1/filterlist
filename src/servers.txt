@@ -519,7 +519,6 @@
 ||admetricspro.com^$important
 ||admitad.com^$important
 ||admixer.*^$important
-||admixer.net^$important
 ||admized.com^$important
 ||admlqqewbede.com^$important
 ||admo.tv^$important
