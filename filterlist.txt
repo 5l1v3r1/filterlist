@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-08 22:17:20
-! Version: 20200308221720
+! Last modified: 2020-03-10 11:11:02
+! Version: 20200310111102
 ! Expires: 3 hours
-! Number of filters: 14550
+! Number of filters: 14557
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1407,6 +1407,7 @@ http*:*/vinos.js$important,script
 ||bekiruvppl.com^$important
 ||bektvxxfv.bid^$important
 ||bellevillelickingville.com^$important
+||beludicolor.com^$important
 ||bemobtrk.com^$important
 ||benthose.com^$important
 ||berateveng.ru^$important
@@ -1418,6 +1419,7 @@ http*:*/vinos.js$important,script
 ||bestfreesite2contents.info^$important
 ||bestgadgetoffers.icu^$important
 ||betboom.club^$important
+||betimbur.com^$important
 ||bettilt99.com^$important
 ||betweendigital.com^$important
 ||beufosew.bid^$important
@@ -5986,6 +5988,7 @@ http*:*/vinos.js$important,script
 ||jpwvdpvsmhow.com^$important
 ||jpxevzab.com^$important
 ||jpybcyxyepsc.bid^$important
+||jqamhmztnukb.com^$important
 ||jqanygfhqne.com^$important
 ||jqassets.download^$important
 ||jqcdn.download^$important
@@ -7069,6 +7072,7 @@ http*:*/vinos.js$important,script
 ||lxkqybzanzug.com^$important
 ||lxlisrvzz.com^$important
 ||lxnimmyikuekn.com^$important
+||lxoakdaejjryws.com^$important
 ||lxpgdkskkt.com^$important
 ||lxqoxgijpbmrg.bid^$important
 ||lxvuwsqp.bid^$important
@@ -7362,6 +7366,7 @@ http*:*/vinos.js$important,script
 ||mixturehopeful.com^$important
 ||mjckfsgogzcd.com^$important
 ||mjlkhnizufhmrt.bid^$important
+||mjpjjbbvct.com^$important
 ||mjquyspsrgybs.com^$important
 ||mjujcjfrgslf.com^$important
 ||mkalruavzrtmh.com^$important
@@ -7824,6 +7829,7 @@ http*:*/vinos.js$important,script
 ||newpush.support^$important
 ||newrelic.com^$important
 ||news-code.com^$important
+||newsadsppush.com^$important
 ||newsatads.com^$important
 ||newsfeed.support^$important
 ||newsforyoy.com^$important
@@ -14364,6 +14370,7 @@ http*:*/vinos.js$important,script
 ||zpfjfwbij.com^$important
 ||zpfoyfae.com^$important
 ||zpghmretcikhzs.com^$important
+||zpiqwngppibmf.com^$important
 ||zpkebyxabtsh.com^$important
 ||zpkobplsfnxf.com^$important
 ||zpkshggvjif.com^$important
