@@ -13133,7 +13133,8 @@
 ||xgxmhvcppp.bid^$important
 ||xgznkebnjme.com^$important
 ||xgzybmbwfmjd.com^$important
-||xhamsterpremium.*^$important,third-party
+||xhamsterpremium.*^$important
+||||collector*.xhamster.*^$important
 ||xhdzcofomosh.com^$important
 ||xhewunoklug.com^$important
 ||xhfosyfia.com^$important
@@ -13145,6 +13146,9 @@
 ||xhwqginopocs.com^$important
 ||xhyjlfbqnbr.com^$important
 ||xibnqcksoax.com^$important
+||fixchidie.com^$important
+||adtival.network^$important
+||g6zkzy0g2g.com^$important
 ||xicnoklyvgldzh.bid^$important
 ||xicuxxferbnn.com^$important
 ||xiebddgbseoxa.com^$important
