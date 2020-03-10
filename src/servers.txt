@@ -442,6 +442,7 @@
 ||abstractedamount.com^$important
 ||absurdapple.com^$important
 ||absurdwater.com^$important
+||abtasty.com^$important
 ||abunmrqsbfn.bid^$important
 ||abuuvohpzlcrp.bid^$important
 ||abxlmhllf.com^$important
@@ -468,6 +469,7 @@
 ||acrmbjkk6qc5utby.pro^$important
 ||acrsgxeah.com^$important
 ||actiflex.org^$important
+||actionteaser.ru^$important
 ||actoriends.info^$important
 ||actpx.com^$important
 ||actuallysheep.com^$important
@@ -477,9 +479,9 @@
 ||acwyoynw.com^$important
 ||acxujxzdluum.com^$important
 ||ad-balancer.at^$important
-||ad-score.com^$important
 ||ad-brix.com^$important
 ||ad-miner.com^$important
+||ad-score.com^$important
 ||ad.mail.ru^$important
 ||ad2bitcoin.com^$important
 ||ad4xh85llhcbfis8.com^$important
@@ -11318,7 +11320,6 @@
 ||trothko.com^$important
 ||trourted.pro^$important
 ||troutdalebrooks.com^$important
-||actionteaser.ru^$important
 ||trqbzsxnzxmf.com^$important
 ||truckstomatoes.com^$important
 ||truefilen32.com^$important
@@ -11327,7 +11328,6 @@
 ||trueredirect83.icu^$important
 ||trvposbevwxvo.bid^$important
 ||trwbkkxk.com^$important
-||abtasty.com^$important
 ||trydaytoday7.live^$important
 ||ts3t3w21-liquidwebsites.com^$important
 ||tsandycateup.com^$important
