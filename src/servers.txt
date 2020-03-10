@@ -78,10 +78,14 @@
 ||1ea1sley.com^$important
 ||1fbaa223d6945621f8d7.date^$important
 ||1fc4d6ccf2.com^$important
+||1mobile.com^$important
+||1mp.mobi^$important
 ||1paj4kmp.top^$important
+||1phads.com^$important
 ||1q2w3.*^$important
 ||1wkvvts8is.com^$important
 ||1wzfew7a.site^$important
+||1x1rank.com^$important
 ||1xbahisbuwv.com^$important
 ||1xbet.kz^$important
 ||1xbet53.com^$important
@@ -91,6 +95,7 @@
 ||2013b42f102806.com^$important
 ||2013sh.com^$important
 ||2060d16de8167ebba1f.com^$important
+||206ads.com^$important
 ||210189.com^$important
 ||21b666055c.com^$important
 ||220167981.world^$important
@@ -99,6 +104,8 @@
 ||23bab89b7cec31.com^$important
 ||23bab89b7cec318.com^$important
 ||23d3bef9eb2b.com^$important
+||247-inc.net^$important
+||247realmedia.com^$important
 ||24sovplzpowr.com^$important
 ||24vunvrv.com^$important
 ||258pct.com^$important
@@ -120,6 +127,7 @@
 ||2domeinold.ru^$important
 ||2e27bf1f09307aeb.com^$important
 ||2e91ddf5f5cc6dbfef88.date^$important
+||2easydroid.com^$important
 ||2ed354b39d61a.com^$important
 ||2edd6c0fea91f88494d1cc37672db524.com^$important
 ||2f37a122063b9591b3d67a49b6d93f7c.com^$important
@@ -181,10 +189,12 @@
 ||3b9eb5ed04721bef.com^$important
 ||3ba87e4828c5a95.com^$important
 ||3c06b86c4147745b.com^$important
+||3cinteractive.com^$important
 ||3d745b2a9ce52.com^$important
 ||3da86d9fe797f228.com^$important
 ||3f8mdusgyl3x.com^$important
 ||3fdf2a5f924760915ca68b5ad01cfdae.com^$important
+||3gl.net^$important
 ||3lift.com^$important
 ||3m7zwoqc.top^$important
 ||3phzb1pbij.com^$important
@@ -363,26 +373,6 @@
 ||9n2hupgl.top^$important
 ||9n68b4.top^$important
 ||9nwg9sib9e.com^$important
-||doublecklick.net^$important
-||doubleverify.com^$important
-||clickdimensions.com^$important
-||brucelead.com^$important
-||affiliatefuture.com^$important
-||adlooxtracking.com^$important
-||mobileapptracking.com^$important
-||1mobile.com^$important
-||1mp.mobi^$important
-||1phads.com^$important
-||1x1rank.com^$important
-||206ads.com^$important
-||247-inc.net^$important
-||247realmedia.com^$important
-||2easydroid.com^$important
-||2mdnsys.com^$important
-||3cinteractive.com^$important
-||3gl.net^$important
-||3lift.com^$important
-||aatkit.com^$important
 ||9purdfe9xg.com^$important
 ||a-ads.com^$important
 ||a0a28d3c97a4e566.com^$important
@@ -416,6 +406,7 @@
 ||aarwxotc.com^$important
 ||aaslmqzce.bid^$important
 ||aatfnptblbxpuy.bid^$important
+||aatkit.com^$important
 ||aaucwbe.com^$important
 ||aaxads.com^$important
 ||aayaknbn.com^$important
@@ -532,6 +523,7 @@
 ||adkontekst.pl^$important
 ||adlightning.com^$important
 ||adlogine.com^$important
+||adlooxtracking.com^$important
 ||admantx.com^$important
 ||admarket.network^$important
 ||admarketplace.net^$important
@@ -683,6 +675,7 @@
 ||afedispdljgb.com^$important
 ||afeeknuueaztxt.com^$important
 ||afeuvqrsswz.com^$important
+||affiliatefuture.com^$important
 ||afgbvhocfvpm.com^$important
 ||afgmyvid.com^$important
 ||aflcdijgmr.bid^$important
@@ -773,7 +766,6 @@
 ||ak0gsh40.com^$important
 ||akbiokbinnzh.com^$important
 ||akcdinzvcenhjh.com^$important
-||doubleclick-analytics.com^$important
 ||akdzimverrss.com^$important
 ||akgustnmy.com^$important
 ||akiyvjiy1z.com^$important
@@ -1588,6 +1580,7 @@
 ||brqrtgjklary.com^$important
 ||brrxmhuhyokw.bid^$important
 ||brtcmjchfyel.com^$important
+||brucelead.com^$important
 ||bruisebaseball.com^$important
 ||brwusdmjzv.bid^$important
 ||brycnuxoytuang.com^$important
@@ -2015,6 +2008,7 @@
 ||clickadu.com^$important
 ||clickandbuy.*^$important
 ||clickbigo.com^$important
+||clickdimensions.com^$important
 ||clickfuse.com^$important
 ||clickiocdn.com^$important
 ||clickmedia.co.id^$important
@@ -2733,7 +2727,9 @@
 ||dot4mobi.club^$important
 ||dotomi.com^$important
 ||douangvwl.com^$important
+||doublecklick.net^$important
 ||doubleclick*.*^$important
+||doubleclick-analytics.com^$important
 ||doubledeepclick.com^$important
 ||doublelimpup.com^$important
 ||doublepimp.com^$important
