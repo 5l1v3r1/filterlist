@@ -477,6 +477,7 @@
 ||acwyoynw.com^$important
 ||acxujxzdluum.com^$important
 ||ad-balancer.at^$important
+||ad-score.com^$important
 ||ad-brix.com^$important
 ||ad-miner.com^$important
 ||ad.mail.ru^$important
@@ -11317,6 +11318,7 @@
 ||trothko.com^$important
 ||trourted.pro^$important
 ||troutdalebrooks.com^$important
+||actionteaser.ru^$important
 ||trqbzsxnzxmf.com^$important
 ||truckstomatoes.com^$important
 ||truefilen32.com^$important
@@ -11325,7 +11327,7 @@
 ||trueredirect83.icu^$important
 ||trvposbevwxvo.bid^$important
 ||trwbkkxk.com^$important
-||try.abtasty.com^$important
+||abtasty.com^$important
 ||trydaytoday7.live^$important
 ||ts3t3w21-liquidwebsites.com^$important
 ||tsandycateup.com^$important
