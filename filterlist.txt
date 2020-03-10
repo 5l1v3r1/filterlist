@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-10 21:02:50
-! Version: 20200310210250
+! Last modified: 2020-03-10 22:26:32
+! Version: 20200310222632
 ! Expires: 3 hours
-! Number of filters: 14581
+! Number of filters: 14585
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -747,6 +747,7 @@ http*:*/vinos.js$important,script
 ||adtimaserver.vn^$important
 ||adtiming.com^$important
 ||adtival.com^$important
+||adtival.network^$important
 ||adtlgc.com^$important
 ||adtm.chip.de^$important
 ||adtng.com^$important
@@ -3833,6 +3834,7 @@ http*:*/vinos.js$important,script
 ||fiuazbmlycese.com^$important
 ||fiunfrafi.bid^$important
 ||fivskvc6ccgtrnl.ru^$important
+||fixchidie.com^$important
 ||fixfuturetype-restclicks.icu^$important
 ||fixingit.solutions^$important
 ||fixsirrod.site^$important
@@ -4207,6 +4209,7 @@ http*:*/vinos.js$important,script
 ||g3938452447.com^$important
 ||g4058683381.com^$important
 ||g4p1gtll.com^$important
+||g6zkzy0g2g.com^$important
 ||ga87z2o.com^$important
 ||gaaprokoduuyyn.bid^$important
 ||gabrielsmidfield.com^$important
@@ -13289,7 +13292,7 @@ http*:*/vinos.js$important,script
 ||xgxmhvcppp.bid^$important
 ||xgznkebnjme.com^$important
 ||xgzybmbwfmjd.com^$important
-||xhamsterpremium.*^$important,third-party
+||xhamsterpremium.*^$important
 ||xhdzcofomosh.com^$important
 ||xhewunoklug.com^$important
 ||xhfosyfia.com^$important
@@ -14589,3 +14592,4 @@ http*:*/vinos.js$important,script
 ||zzwajufm.com^$important
 ||zzwzjidz.bid^$important
 ||zzxosget.com^$important
+||||collector*.xhamster.*^$important

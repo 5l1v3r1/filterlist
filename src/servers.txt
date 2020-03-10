@@ -607,6 +607,7 @@
 ||adtimaserver.vn^$important
 ||adtiming.com^$important
 ||adtival.com^$important
+||adtival.network^$important
 ||adtlgc.com^$important
 ||adtm.chip.de^$important
 ||adtng.com^$important
@@ -3689,6 +3690,7 @@
 ||fiuazbmlycese.com^$important
 ||fiunfrafi.bid^$important
 ||fivskvc6ccgtrnl.ru^$important
+||fixchidie.com^$important
 ||fixfuturetype-restclicks.icu^$important
 ||fixingit.solutions^$important
 ||fixsirrod.site^$important
@@ -4063,6 +4065,7 @@
 ||g3938452447.com^$important
 ||g4058683381.com^$important
 ||g4p1gtll.com^$important
+||g6zkzy0g2g.com^$important
 ||ga87z2o.com^$important
 ||gaaprokoduuyyn.bid^$important
 ||gabrielsmidfield.com^$important
@@ -13134,7 +13137,6 @@
 ||xgznkebnjme.com^$important
 ||xgzybmbwfmjd.com^$important
 ||xhamsterpremium.*^$important
-||||collector*.xhamster.*^$important
 ||xhdzcofomosh.com^$important
 ||xhewunoklug.com^$important
 ||xhfosyfia.com^$important
@@ -13146,9 +13148,6 @@
 ||xhwqginopocs.com^$important
 ||xhyjlfbqnbr.com^$important
 ||xibnqcksoax.com^$important
-||fixchidie.com^$important
-||adtival.network^$important
-||g6zkzy0g2g.com^$important
 ||xicnoklyvgldzh.bid^$important
 ||xicuxxferbnn.com^$important
 ||xiebddgbseoxa.com^$important
@@ -14433,3 +14432,4 @@
 ||zzwajufm.com^$important
 ||zzwzjidz.bid^$important
 ||zzxosget.com^$important
+||||collector*.xhamster.*^$important
