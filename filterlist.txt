@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-10 20:19:14
-! Version: 20200310201914
+! Last modified: 2020-03-10 21:02:50
+! Version: 20200310210250
 ! Expires: 3 hours
-! Number of filters: 14575
+! Number of filters: 14581
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -623,6 +623,7 @@ http*:*/vinos.js$important,script
 ||ad-miner.com^$important
 ||ad-score.com^$important
 ||ad.mail.ru^$important
+||ad1.ru^$important
 ||ad2bitcoin.com^$important
 ||ad4xh85llhcbfis8.com^$important
 ||adakgpoi.com^$important
@@ -635,6 +636,8 @@ http*:*/vinos.js$important,script
 ||adbetnet.com^$important
 ||adbetnetwork.com^$important
 ||adbidgo.com^$important
+||adblade.com^$important
+||adblox.net^$important
 ||adcalm.com^$important
 ||adcash.ga^$important
 ||adcdnx.com^$important
@@ -1653,6 +1656,7 @@ http*:*/vinos.js$important,script
 ||bonnymansabanaseca.com^$important
 ||bonxsqstn.com^$important
 ||boperc.com^$important
+||bopohsage.com^$important
 ||boqdapoiv.com^$important
 ||boredcrown.com^$important
 ||boringcoat.com^$important
@@ -5982,6 +5986,7 @@ http*:*/vinos.js$important,script
 ||jorndvyzchaq.com^$important
 ||josxzdszqaivb.com^$important
 ||jotpybmcjvg.com^$important
+||jotskymay.club^$important
 ||jouzeeps.click^$important
 ||jovepjufhmmw.com^$important
 ||jovzikimk.com^$important
@@ -9191,6 +9196,7 @@ http*:*/vinos.js$important,script
 ||pushamir.com^$important
 ||pushance.com^$important
 ||pushanert.com^$important
+||pushassist.com^$important
 ||pushazam.com^$important
 ||pushbaddy.com^$important
 ||pushbasic.com^$important

@@ -483,6 +483,7 @@
 ||ad-miner.com^$important
 ||ad-score.com^$important
 ||ad.mail.ru^$important
+||ad1.ru^$important
 ||ad2bitcoin.com^$important
 ||ad4xh85llhcbfis8.com^$important
 ||adakgpoi.com^$important
@@ -495,6 +496,8 @@
 ||adbetnet.com^$important
 ||adbetnetwork.com^$important
 ||adbidgo.com^$important
+||adblade.com^$important
+||adblox.net^$important
 ||adcalm.com^$important
 ||adcash.ga^$important
 ||adcdnx.com^$important
@@ -1512,6 +1515,7 @@
 ||bonnymansabanaseca.com^$important
 ||bonxsqstn.com^$important
 ||boperc.com^$important
+||bopohsage.com^$important
 ||boqdapoiv.com^$important
 ||boredcrown.com^$important
 ||boringcoat.com^$important
@@ -3383,11 +3387,6 @@
 ||excqjoor.com^$important
 ||exdcbyzgwfvwa.com^$important
 ||exdynsrv.com^$important
-||ad1.ru^$important
-||adblox.net^$important
-||adblade.com^$important
-||bopohsage.com^$important
-||pushassist.com^$important
 ||exekiksakspujl.com^$important
 ||exelator.com^$important
 ||exercially.mobi^$important
@@ -3397,7 +3396,6 @@
 ||exikxnbxula.com^$important
 ||exioptyxiyoo.com^$important
 ||exjthrzliajfd.com^$important
-||jotskymay.club^$important
 ||exkruwviyy.com^$important
 ||exmubrgt.bid^$important
 ||exnyzdboihvi.com^$important
@@ -5842,6 +5840,7 @@
 ||jorndvyzchaq.com^$important
 ||josxzdszqaivb.com^$important
 ||jotpybmcjvg.com^$important
+||jotskymay.club^$important
 ||jouzeeps.click^$important
 ||jovepjufhmmw.com^$important
 ||jovzikimk.com^$important
@@ -9047,6 +9046,7 @@
 ||pushamir.com^$important
 ||pushance.com^$important
 ||pushanert.com^$important
+||pushassist.com^$important
 ||pushazam.com^$important
 ||pushbaddy.com^$important
 ||pushbasic.com^$important
