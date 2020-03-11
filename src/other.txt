@@ -19,7 +19,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?logs?([!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]?(ging|impressions?|g?ers?|[a-zA-Z0-9]{1,3}|collector))?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?m[io]nero?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?monitor([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?partners?(ads?)?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?partners?(ads?)?([0-9]{1,3})?\./$important,domain=~partners.yandex.ru|~partners.yandex.ua|~partners.yandex.by
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?pi?xe?l?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?ping([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?piwik([0-9]{1,3})?\./$important
