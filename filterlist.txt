@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-12 00:22:56
-! Version: 20200312002256
+! Last modified: 2020-03-13 18:03:43
+! Version: 20200313180344
 ! Expires: 3 hours
-! Number of filters: 14586
+! Number of filters: 14595
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -631,6 +631,7 @@ http*:*/vinos.js$important,script
 ||adalliance.io^$important
 ||adalso.com^$important
 ||adap.tv^$important
+||adaranth.com^$important
 ||adbe0806d1108c94bca.com^$important
 ||adbean.ru^$important
 ||adbetclickin.pink^$important
@@ -4012,6 +4013,7 @@ http*:*/vinos.js$important,script
 ||freephone.best^$important
 ||freeskreen.com^$important
 ||frefxzrmcdxdmi.com^$important
+||fres-news.com^$important
 ||freshrefresher.com^$important
 ||freshthings.online^$important
 ||fretfulfurniture.com^$important
@@ -4490,6 +4492,7 @@ http*:*/vinos.js$important,script
 ||goodbookbook.com^$important
 ||google-analytics.com^$important
 ||google.com^*/viewerimpressions?$important,xmlhttprequest
+||googleadservices.com^$important
 ||googletagmanager.com^$important
 ||googletagservices.com^$important
 ||googlo.co^$important
@@ -7275,6 +7278,7 @@ http*:*/vinos.js$important,script
 ||meetrics.net^$important
 ||meezauch.net^$important
 ||mefozykpcwuazw.com^$important
+||mega-prize-area*.live^$important
 ||megpacokjce.bid^$important
 ||meguanha.com^$important
 ||mehcpazsnzh.com^$important
@@ -7693,6 +7697,7 @@ http*:*/vinos.js$important,script
 ||mxxrzwibnlnmd.bid^$important
 ||mxzxeersjv.com^$important
 ||my-rigs.com^$important
+||my.com^$important
 ||myadstats.com^$important
 ||myawrthcsjc.com^$important
 ||mybestmv.com^$important
@@ -9079,6 +9084,7 @@ http*:*/vinos.js$important,script
 ||previouspotato.com^$important
 ||prgncwamr.com^$important
 ||pricefbcf.gq^$important
+||primechse*.live^$important
 ||printerplasma.com^$important
 ||prjywixf.bid^$important
 ||prlnfrzyx.com^$important
@@ -9864,6 +9870,7 @@ http*:*/vinos.js$important,script
 ||readgoldfish.com^$important
 ||readingguilt.com^$important
 ||readingopera.com^$important
+||readmenewz.com^$important
 ||readymoon.com^$important
 ||readysnails.com^$important
 ||realizerecess.com^$important
@@ -12708,6 +12715,7 @@ http*:*/vinos.js$important,script
 ||webmasterplan.com^$important
 ||webodu.com^$important
 ||weborama.fr^$important
+||webpushs.com^$important
 ||websnewsdate.com^$important
 ||webvisor.com^$important
 ||webvisor.org^$important
@@ -12837,6 +12845,7 @@ http*:*/vinos.js$important,script
 ||wiklweefcuorh.com^$important
 ||wilafhhbdyewgbd.xyz^$important
 ||wilburnkeithsburg.com^$important
+||wildblaster*.com^$important
 ||wildernesscamera.com^$important
 ||wildianing.ru^$important
 ||willacrit.com^$important

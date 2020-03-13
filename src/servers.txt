@@ -491,6 +491,7 @@
 ||adalliance.io^$important
 ||adalso.com^$important
 ||adap.tv^$important
+||adaranth.com^$important
 ||adbe0806d1108c94bca.com^$important
 ||adbean.ru^$important
 ||adbetclickin.pink^$important
@@ -3765,15 +3766,6 @@
 ||fmuxugcqucuu.com^$important
 ||fmxnlkoaf.com^$important
 ||fmztxzdrq.bid^$important
-||my.com^$important
-||googleadservices.com^$important
-||webpushs.com^$important
-||fres-news.com^$important
-||readmenewz.com^$important
-||adaranth.com^$important
-||mega-prize-area*.live^$important
-||primechse*.live^$important
-||wildblaster*.com^$important
 ||fmzxzkgmpmrx.com^$important
 ||fnacxthxbgmmmo.bid^$important
 ||fnaolgfubmlc.com^$important
@@ -3877,6 +3869,7 @@
 ||freephone.best^$important
 ||freeskreen.com^$important
 ||frefxzrmcdxdmi.com^$important
+||fres-news.com^$important
 ||freshrefresher.com^$important
 ||freshthings.online^$important
 ||fretfulfurniture.com^$important
@@ -4354,6 +4347,7 @@
 ||gooblesdd.com^$important
 ||goodbookbook.com^$important
 ||google-analytics.com^$important
+||googleadservices.com^$important
 ||googletagmanager.com^$important
 ||googletagservices.com^$important
 ||googlo.co^$important
@@ -7137,6 +7131,7 @@
 ||meetrics.net^$important
 ||meezauch.net^$important
 ||mefozykpcwuazw.com^$important
+||mega-prize-area*.live^$important
 ||megpacokjce.bid^$important
 ||meguanha.com^$important
 ||mehcpazsnzh.com^$important
@@ -7555,6 +7550,7 @@
 ||mxxrzwibnlnmd.bid^$important
 ||mxzxeersjv.com^$important
 ||my-rigs.com^$important
+||my.com^$important
 ||myadstats.com^$important
 ||myawrthcsjc.com^$important
 ||mybestmv.com^$important
@@ -8938,6 +8934,7 @@
 ||previouspotato.com^$important
 ||prgncwamr.com^$important
 ||pricefbcf.gq^$important
+||primechse*.live^$important
 ||printerplasma.com^$important
 ||prjywixf.bid^$important
 ||prlnfrzyx.com^$important
@@ -9723,6 +9720,7 @@
 ||readgoldfish.com^$important
 ||readingguilt.com^$important
 ||readingopera.com^$important
+||readmenewz.com^$important
 ||readymoon.com^$important
 ||readysnails.com^$important
 ||realizerecess.com^$important
@@ -12561,6 +12559,7 @@
 ||webmasterplan.com^$important
 ||webodu.com^$important
 ||weborama.fr^$important
+||webpushs.com^$important
 ||websnewsdate.com^$important
 ||webvisor.com^$important
 ||webvisor.org^$important
@@ -12690,6 +12689,7 @@
 ||wiklweefcuorh.com^$important
 ||wilafhhbdyewgbd.xyz^$important
 ||wilburnkeithsburg.com^$important
+||wildblaster*.com^$important
 ||wildernesscamera.com^$important
 ||wildianing.ru^$important
 ||willacrit.com^$important
