@@ -3765,6 +3765,15 @@
 ||fmuxugcqucuu.com^$important
 ||fmxnlkoaf.com^$important
 ||fmztxzdrq.bid^$important
+||my.com^$important
+||googleadservices.com^$important
+||webpushs.com^$important
+||fres-news.com^$important
+||readmenewz.com^$important
+||adaranth.com^$important
+||mega-prize-area*.live^$important
+||primechse*.live^$important
+||wildblaster*.com^$important
 ||fmzxzkgmpmrx.com^$important
 ||fnacxthxbgmmmo.bid^$important
 ||fnaolgfubmlc.com^$important
