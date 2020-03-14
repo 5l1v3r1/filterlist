@@ -15,8 +15,8 @@
 /^https?:\/\/[^\s]+\/cryptonight\.(js|wasm)/$important,script,xmlhttprequest
 /^https?:\/\/[^\s]+\/wasmminer\.(js|wasm)/$important,script,xmlhttprequest
 /^https?:\/\/turbobit\.net\/(.*\/fdlogger|pus\/|.*\/js\/brinpopup\.js|glx\_[0-9]{5}\.js$)/$important,script,xmlhttprequest
+|http*:*-pagead-id.js$important,object,script,xmlhttprequest
 |http*:*/amp.gif?$image,important,xmlhttprequest
 |http*:*/www/*&zoneid=$image,important,script,xmlhttprequest
 |http*:*/xti.php^$important,script,xmlhttprequest,domain=facebook.com|facebookcorewwwi.onion
 ||youtube.com/api/stats/$image,important,other,xmlhttprequest
-|http*:*-pagead-id.js$important,script,xmlhttprequest,object

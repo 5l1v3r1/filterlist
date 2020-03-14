@@ -3,6 +3,7 @@
 |http*:*/get_geoip?$important,xmlhttprequest
 |http*:*?type=pageview&$important,xmlhttprequest
 ||bing.com/fd/ls/$xmlhttprequest
+||google.com/async/*&async=encoded_cache_key$xmlhttprequest
 ||google.com^*/viewerimpressions?$important,xmlhttprequest
 ||hqq.tv/cdn-cgi/trace$important,xmlhttprequest
 ||ok.ru/dk?cmd=videostatnew$important,xmlhttprequest
@@ -15,4 +16,3 @@
 ||youtube.com/get_endscreen?$important,xmlhttprequest
 ||youtube.com/get_midroll_info^$important,xmlhttprequest
 ||youtube.com/get_video_info?*el=adunit$important,xmlhttprequest
-||google.com/async/*&async=encoded_cache_key$xmlhttprequest
