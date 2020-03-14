@@ -11,7 +11,6 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?bann?ers?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?beacons?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?cli?ck?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?sdk\-(diagnostics?|ads?)([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?count(ers?)?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?delivery([0-9]{1,3})?\./$important,third-party
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?events?([0-9]{1,3})?\./$important,domain=~webmoney.ru
@@ -26,6 +25,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?piwik([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?px-intl([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?re[ck](lam(?:a|s|er)?)?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?sdk\-(diagnostics?|ads?)([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?stat(s|istics?)?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?tags?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?telemetr(y|ics)?([0-9]{1,3})?\./$important

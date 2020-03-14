@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-14 14:28:47
-! Version: 20200314142848
+! Last modified: 2020-03-14 14:35:28
+! Version: 20200314143528
 ! Expires: 3 hours
-! Number of filters: 14596
+! Number of filters: 14598
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -35,6 +35,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?piwik([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?px-intl([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?re[ck](lam(?:a|s|er)?)?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?sdk\-(diagnostics?|ads?)([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?stat(s|istics?)?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?tags?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?telemetr(y|ics)?([0-9]{1,3})?\./$important
@@ -4621,6 +4622,7 @@ http*:*/vinos.js$important,script
 ||gtevyaeeiged.com^$important
 ||gtfbvxlmev.com^$important
 ||gthrdhxhwdt.bid^$important
+||gtihub.com^$important
 ||gtkikiwa.com^$important
 ||gtmonytxxglu.com^$important
 ||gtorsoxdh.com^$important
