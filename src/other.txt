@@ -50,8 +50,8 @@
 |http*:*/in.php?*&referer=$important
 |http*:*/pagead/$important
 |http*:*/pview?event$important
-|http*:*/tags?org_id=$important
 |http*:*/s/su.php?t=$important
+|http*:*/tags?org_id=$important
 |http*:*/wp-monero-miner-pro/$important
 |http*:*/wppas/$important
 |http*:*/www/delivery/$important

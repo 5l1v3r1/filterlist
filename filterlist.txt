@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-14 14:35:28
-! Version: 20200314143528
+! Last modified: 2020-03-14 14:56:36
+! Version: 20200314145636
 ! Expires: 3 hours
-! Number of filters: 14598
+! Number of filters: 14601
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -134,6 +134,7 @@ http*:*/vinos.js$important,script
 |http*:*/ezcl.webp$important,script
 |http*:*/ezcl.webp?$image,important
 |http*:*/ezoic/$important,script,~third-party
+|http*:*/fp/tags.js$important,script
 |http*:*/get_geoip?$important,xmlhttprequest
 |http*:*/greenoaks.gif?$image,important
 |http*:*/grstat?$image,important
@@ -150,6 +151,7 @@ http*:*/vinos.js$important,script
 |http*:*/pview?event$important
 |http*:*/rtrg?$image,important
 |http*:*/s/su.php?t=$important
+|http*:*/tags?org_id=$important
 |http*:*/uutils.fcg?$important,script
 |http*:*/wp-monero-miner-pro/$important
 |http*:*/wppas/$important
@@ -1871,6 +1873,7 @@ http*:*/vinos.js$important,script
 ||bzrsybcg.com^$important
 ||bzsbtfiz.com^$important
 ||bzyrhqbdldds.com^$important
+||c.microsoft.com^$important
 ||c.paypal.com^$important
 ||c02o3mpych.com^$important
 ||c05c3c084e7edd.com^$important
