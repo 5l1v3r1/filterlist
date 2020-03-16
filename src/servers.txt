@@ -481,6 +481,7 @@
 ||acxujxzdluum.com^$important
 ||ad-balancer.at^$important
 ||ad-brix.com^$important
+||ad-maven.com^$important
 ||ad-miner.com^$important
 ||ad-score.com^$important
 ||ad.mail.ru^$important
@@ -1506,6 +1507,7 @@
 ||bocksnabswdq.com^$important
 ||bocqmlgslzoo.com^$important
 ||bodelen.com^$important
+||bodyclick.net^$important
 ||boevznvrllm.bid^$important
 ||bogkmogzrvzf.com^$important
 ||boguaokxhdsa.com^$important
@@ -1729,6 +1731,7 @@
 ||bzqqaoeufrld.com^$important
 ||bzrsybcg.com^$important
 ||bzsbtfiz.com^$important
+||bzxmgyfae.com^$important
 ||bzyrhqbdldds.com^$important
 ||c.microsoft.com^$important
 ||c.paypal.com^$important
@@ -2763,6 +2766,7 @@
 ||dpoffxqjlgt.com^$important
 ||dpqytzwxohcd.bid^$important
 ||dprdhzofq.bid^$important
+||dpsbvcub.com^$important
 ||dpwmloknxtuw.com^$important
 ||dpwrhdzeqw.com^$important
 ||dpwsvrkmfxrt.com^$important
@@ -2871,6 +2875,7 @@
 ||dvpgijdm.com^$important
 ||dvprcchlzke.bid^$important
 ||dvsrlrnpyxwv.com^$important
+||dvuneqnrkukud.com^$important
 ||dvzyppnmfgtr.com^$important
 ||dwabissw.com^$important
 ||dwaceiiywjwcyf.com^$important
@@ -2954,18 +2959,6 @@
 ||e85440ec98f04725.com^$important
 ||e9fd3d63a0d429498f876a4e3f0542e.com^$important
 ||e9kv7bhnzt.com^$important
-||ozvxadosic.com^$important
-||hpeshwdwkzyz.com^$important
-||ad-maven.com^$important
-||bodyclick.net^$important
-||xmvoodgr.com^$important
-||lpoggqfdlmdsg.com^$important
-||dvuneqnrkukud.com^$important
-||dpsbvcub.com^$important
-||tinfunshe.club^$important
-||bzxmgyfae.com^$important
-||pldsafpulgnw.com^$important
-||layshyjar.com^$important
 ||eaaqsama.com^$important
 ||eab70defda7d.com^$important
 ||eabgoszdtq.com^$important
@@ -4927,6 +4920,7 @@
 ||hpbsyqsypxy.com^$important
 ||hpcniufqp.bid^$important
 ||hpdmnmehzcor.com^$important
+||hpeshwdwkzyz.com^$important
 ||hpkkzzyek.com^$important
 ||hpkwirncwvxo.com^$important
 ||hplgpoicsnea.com^$important
@@ -6535,6 +6529,7 @@
 ||lavanetwork.net^$important
 ||lavmeebdxwc.com^$important
 ||lawvcpqtapzsh.com^$important
+||layshyjar.com^$important
 ||lazkslkkmtpy.com^$important
 ||lbaybxwiklnfe.com^$important
 ||lbbfzsjmgm.com^$important
@@ -6828,6 +6823,7 @@
 ||lpiqwtsuduhh.com^$important
 ||lplqyocxmify.com^$important
 ||lplznzccvn.bid^$important
+||lpoggqfdlmdsg.com^$important
 ||lpohfjht.com^$important
 ||lppaepra.bid^$important
 ||lppyumumznf.bid^$important
@@ -8525,6 +8521,7 @@
 ||oztzipze.com^$important
 ||ozugzufdxniu.com^$important
 ||ozvncdlo.com^$important
+||ozvxadosic.com^$important
 ||ozvzmgvssaou.com^$important
 ||ozwjhdler.com^$important
 ||ozwtmmcdglos.com^$important
@@ -11146,6 +11143,7 @@
 ||timeinsnewsing.com^$important
 ||timesporn.fun^$important
 ||timonnbfad.bid^$important
+||tinfunshe.club^$important
 ||tingecatalogue.club^$important
 ||tinlgcmkslwio.bid^$important
 ||tinypass.com^$important,third-party
@@ -13261,6 +13259,7 @@
 ||xmrminingproxy.com^$important
 ||xmsgobwy.com^$important
 ||xmufoqjx.com^$important
+||xmvoodgr.com^$important
 ||xmwqbnrbvghq.bid^$important
 ||xmylgmmt.com^$important
 ||xn--80abmrinidrghe0b8e.xn--p1ai^$important

@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-14 23:49:22
-! Version: 20200314234922
+! Last modified: 2020-03-16 15:18:15
+! Version: 20200316151815
 ! Expires: 3 hours
-! Number of filters: 14608
+! Number of filters: 14619
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -625,6 +625,7 @@ http*:*/vinos.js$important,script
 ||acxujxzdluum.com^$important
 ||ad-balancer.at^$important
 ||ad-brix.com^$important
+||ad-maven.com^$important
 ||ad-miner.com^$important
 ||ad-score.com^$important
 ||ad.mail.ru^$important
@@ -1651,6 +1652,7 @@ http*:*/vinos.js$important,script
 ||bocksnabswdq.com^$important
 ||bocqmlgslzoo.com^$important
 ||bodelen.com^$important
+||bodyclick.net^$important
 ||boevznvrllm.bid^$important
 ||bogkmogzrvzf.com^$important
 ||boguaokxhdsa.com^$important
@@ -1874,6 +1876,7 @@ http*:*/vinos.js$important,script
 ||bzqqaoeufrld.com^$important
 ||bzrsybcg.com^$important
 ||bzsbtfiz.com^$important
+||bzxmgyfae.com^$important
 ||bzyrhqbdldds.com^$important
 ||c.microsoft.com^$important
 ||c.paypal.com^$important
@@ -2911,6 +2914,7 @@ http*:*/vinos.js$important,script
 ||dpoffxqjlgt.com^$important
 ||dpqytzwxohcd.bid^$important
 ||dprdhzofq.bid^$important
+||dpsbvcub.com^$important
 ||dpwmloknxtuw.com^$important
 ||dpwrhdzeqw.com^$important
 ||dpwsvrkmfxrt.com^$important
@@ -3019,6 +3023,7 @@ http*:*/vinos.js$important,script
 ||dvpgijdm.com^$important
 ||dvprcchlzke.bid^$important
 ||dvsrlrnpyxwv.com^$important
+||dvuneqnrkukud.com^$important
 ||dvzyppnmfgtr.com^$important
 ||dwabissw.com^$important
 ||dwaceiiywjwcyf.com^$important
@@ -5065,6 +5070,7 @@ http*:*/vinos.js$important,script
 ||hpbsyqsypxy.com^$important
 ||hpcniufqp.bid^$important
 ||hpdmnmehzcor.com^$important
+||hpeshwdwkzyz.com^$important
 ||hpkkzzyek.com^$important
 ||hpkwirncwvxo.com^$important
 ||hplgpoicsnea.com^$important
@@ -6674,6 +6680,7 @@ http*:*/vinos.js$important,script
 ||lavanetwork.net^$important
 ||lavmeebdxwc.com^$important
 ||lawvcpqtapzsh.com^$important
+||layshyjar.com^$important
 ||lazkslkkmtpy.com^$important
 ||lbaybxwiklnfe.com^$important
 ||lbbfzsjmgm.com^$important
@@ -6967,6 +6974,7 @@ http*:*/vinos.js$important,script
 ||lpiqwtsuduhh.com^$important
 ||lplqyocxmify.com^$important
 ||lplznzccvn.bid^$important
+||lpoggqfdlmdsg.com^$important
 ||lpohfjht.com^$important
 ||lppaepra.bid^$important
 ||lppyumumznf.bid^$important
@@ -8666,6 +8674,7 @@ http*:*/vinos.js$important,script
 ||oztzipze.com^$important
 ||ozugzufdxniu.com^$important
 ||ozvncdlo.com^$important
+||ozvxadosic.com^$important
 ||ozvzmgvssaou.com^$important
 ||ozwjhdler.com^$important
 ||ozwtmmcdglos.com^$important
@@ -11292,6 +11301,7 @@ http*:*/vinos.js$important,script
 ||timeinsnewsing.com^$important
 ||timesporn.fun^$important
 ||timonnbfad.bid^$important
+||tinfunshe.club^$important
 ||tingecatalogue.club^$important
 ||tinlgcmkslwio.bid^$important
 ||tinypass.com^$important,third-party
@@ -13410,6 +13420,7 @@ http*:*/vinos.js$important,script
 ||xmrminingproxy.com^$important
 ||xmsgobwy.com^$important
 ||xmufoqjx.com^$important
+||xmvoodgr.com^$important
 ||xmwqbnrbvghq.bid^$important
 ||xmylgmmt.com^$important
 ||xn--80abmrinidrghe0b8e.xn--p1ai^$important
