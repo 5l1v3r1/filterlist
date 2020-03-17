@@ -10,3 +10,5 @@
 |http*:*/ping.gif?$image,important
 |http*:*/rtrg?$image,important
 ||mail.yandex.*/monitoring_liza.txt$image,important
+|http*:*/xti.php?$image,important
+|http*:*/1pix.gif$image,important
