@@ -1,7 +1,7 @@
-# bogachenko's Filter List
+## bogachenko's Filter List
 
-A block list of malicious domains.
+A black list of malicious domains and trackers.
 
-### RAW
+#### RAW
 
 `https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt`
