@@ -22,7 +22,6 @@
 /^https?:\/\/[a-z]{6,9}\.(online|pw|xyz)\/[0-9a-zA-Z]{12,16}\/[0-9]{4,6}$/$important,script,third-party
 /^https?:\/\/cdn[0-9]{1,3}?\.rocks\/[^\s]{30,}\.js/$important,script
 /^https?:\/\/www\.([a-z]{6,16})\.com\/([a-z]{1,4})\.js$/$important,script,third-party
-|http*:*/vinos.js$important,script
 |http*:*/aj-cryptominer.$important,script
 |http*:*/ajcryptominer.$important,script
 |http*:*/atrk.js$important,script
@@ -37,6 +36,7 @@
 |http*:*/js/ht.js?$important,script
 |http*:*/miner.js$important,script
 |http*:*/uutils.fcg?$important,script
+|http*:*/vinos.js$important,script
 ||cdn.siteswithcontent.com/js/push/subscribe.js$important,script
 ||spankcdn.net/*/pht*/pht*.js$important,script
 ||storage.googleapis.com/vkcdnservice.appspot.com/$important,script

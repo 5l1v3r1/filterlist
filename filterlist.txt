@@ -1,7 +1,7 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-17 18:44:32
-! Version: 20200317184432
+! Last modified: 2020-03-17 18:45:47
+! Version: 20200317184547
 ! Expires: 3 hours
 ! Number of filters: 14626
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
@@ -14622,6 +14622,7 @@
 |http*:*/s/su.php?t=$important
 |http*:*/tags?org_id=$important
 |http*:*/uutils.fcg?$important,script
+|http*:*/vinos.js$important,script
 |http*:*/wp-monero-miner-pro/$important
 |http*:*/wppas/$important
 |http*:*/www/*&zoneid=$image,important,script,xmlhttprequest
@@ -14633,4 +14634,3 @@
 |http*:*?type=pageview&$important,xmlhttprequest
 |http*:*-pagead-id.js$important,object,script,xmlhttprequest
 |http*:*-pixel.*?uuid=$important
-http*:*/vinos.js$important,script
