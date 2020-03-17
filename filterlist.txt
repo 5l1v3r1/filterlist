@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-16 15:18:15
-! Version: 20200316151815
+! Last modified: 2020-03-17 18:34:46
+! Version: 20200317183446
 ! Expires: 3 hours
-! Number of filters: 14619
+! Number of filters: 14626
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -122,6 +122,7 @@ http*:*/vinos.js$important,script
 |http*:*/*?perfekt=wss://$important
 |http*:*/*?proxy=ws://$important
 |http*:*/*?proxy=wss://$important
+|http*:*/1pix.gif$image,important
 |http*:*/aj-cryptominer.$important,script
 |http*:*/ajcryptominer.$important,script
 |http*:*/amp.gif?$image,important,xmlhttprequest
@@ -158,6 +159,7 @@ http*:*/vinos.js$important,script
 |http*:*/wppas/$important
 |http*:*/www/*&zoneid=$image,important,script,xmlhttprequest
 |http*:*/www/delivery/$important
+|http*:*/xti.php?$image,important
 |http*:*/xti.php^$important,script,xmlhttprequest,domain=facebook.com|facebookcorewwwi.onion
 |http*:*?_siteid=$important
 |http*:*?rand=*&blk=$important
@@ -2073,6 +2075,7 @@ http*:*/vinos.js$important,script
 ||chinchickens.com^$important
 ||chinitnam.com^$important
 ||chinsnakes.com^$important
+||chitika.net^$important
 ||chiybszey.bid^$important
 ||chjfbjjgqts.com^$important
 ||chjvykulvzey.com^$important
@@ -2159,6 +2162,7 @@ http*:*/vinos.js$important,script
 ||cledghtdrjtb.com^$important
 ||cleelumyards.com^$important
 ||clevernt.com^$important
+||clfvfumqqok.com^$important
 ||clgserv.pro^$important
 ||clgyhwaoh.com^$important
 ||clhkbfqzwpst.com^$important
@@ -5216,6 +5220,7 @@ http*:*/vinos.js$important,script
 ||hwvvhsnjj.bid^$important
 ||hwvwuoxsosfp.com^$important
 ||hxajxyvnpou.bid^$important
+||hxbvxmyldlt.com^$important
 ||hxcoxdyzzd.com^$important
 ||hxhabfjy.bid^$important
 ||hxhxjcffzp.com^$important
@@ -6659,6 +6664,7 @@ http*:*/vinos.js$important,script
 ||ladsoks.com^$important
 ||lafvopkskbeuj.bid^$important
 ||lagoonolivia.com^$important
+||laichaim.net^$important
 ||lajpmujdntg.com^$important
 ||lambdafoobar.de^$important
 ||lamplow.com^$important
@@ -7185,6 +7191,7 @@ http*:*/vinos.js$important,script
 ||magnificentmist.com^$important
 ||magrie.pw^$important
 ||magwfymjhils.com^$important
+||mahrzxsou.com^$important
 ||maidlytsnrn.com^$important
 ||mail-ads.google.com^$important
 ||mail.yandex.*/monitoring_liza.txt$image,important

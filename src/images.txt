@@ -1,4 +1,5 @@
 /^https?:\/\/[^\s]+\/sponsor(s|ing)?\//$image,important
+|http*:*/1pix.gif$image,important
 |http*:*/clear.gif$image,important
 |http*:*/drstat?$image,important
 |http*:*/ezcl.webp?$image,important
@@ -9,6 +10,5 @@
 |http*:*/pic.gif?m=$image,important
 |http*:*/ping.gif?$image,important
 |http*:*/rtrg?$image,important
-||mail.yandex.*/monitoring_liza.txt$image,important
 |http*:*/xti.php?$image,important
-|http*:*/1pix.gif$image,important
+||mail.yandex.*/monitoring_liza.txt$image,important
