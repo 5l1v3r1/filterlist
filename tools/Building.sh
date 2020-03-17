@@ -45,7 +45,6 @@ cat > $TEMP/headers.txt <<EOF
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
 
 EOF
-perl ./Sorting.pl $TEMP/filterlist.txt
 cat $TEMP/headers.txt $TEMP/filterlist.txt > ../filterlist.txt
 echo 'Delete temporary files...'
 rm -rf $TEMP
