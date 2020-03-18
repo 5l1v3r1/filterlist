@@ -14466,4 +14466,4 @@
 ||zzwajufm.com^$important
 ||zzwzjidz.bid^$important
 ||zzxosget.com^$important
-||||collector*.xhamster.*^$important
+||collector*.xhamster.*^$important
