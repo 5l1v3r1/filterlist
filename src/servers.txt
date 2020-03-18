@@ -2112,6 +2112,7 @@
 ||colchesi.info^$important
 ||colerainefaunsdale.com^$important
 ||collamps.com^$important
+||collector*.xhamster.*^$important
 ||collector.schibsted.io^$important
 ||colleduny.info^$important
 ||colossalchance.com^$important
@@ -14466,4 +14467,3 @@
 ||zzwajufm.com^$important
 ||zzwzjidz.bid^$important
 ||zzxosget.com^$important
-||collector*.xhamster.*^$important

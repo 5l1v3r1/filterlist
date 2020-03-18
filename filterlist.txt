@@ -1,7 +1,7 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-17 18:45:47
-! Version: 20200317184547
+! Last modified: 2020-03-18 15:24:47
+! Version: 20200318152447
 ! Expires: 3 hours
 ! Number of filters: 14626
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
@@ -85,7 +85,7 @@
 /^https?:\/\/[^\s]+\.(cc\/$|club|com|online|ru)/$important,xmlhttprequest,domain=hdgo.cc|vio.to
 /^https?:\/\/[^\s]+\.[A-Za-z]{2,6}\/[A-Za-z]{1}\?tag\=[^\s]+\&site\=[A-Za-z0-9]{1,}\&ads?\=/$important,popup,script
 /^https?:\/\/[^\s]+\.com\/[0-9a-z]{8}\.js#spot\=[0-9]{5}$/$important,script
-/^https?:\/\/[^\s]+\/(([a-zA-Z]{1,5})?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-])?track(ers?|ing)?([0-9a-zA-Z-_.]{1,12})?\.js/$image,important,script,xmlhttprequest,domain=~music.yandex.by|~music.yandex.com|~music.yandex.ru|~music.yandex.ua
+/^https?:\/\/[^\s]+\/(([a-zA-Z]{1,5})?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-])?track(ers?|ing)?([0-9a-zA-Z-_.]{1,12})?\.js/$image,important,script,xmlhttprequest,domain=~github.com|~gitlab.com|~music.yandex.by|~music.yandex.com|~music.yandex.ru|~music.yandex.ua
 /^https?:\/\/[^\s]+\/(([a-zA-Z]{1,7})?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]?)?track(ers?|ing)[?/]/$image,important,other,script,xmlhttprequest
 /^https?:\/\/[^\s]+\/([^\s]{4})?tag\.min\.([a-z0-9]{30,}\.)?js/$important,script
 /^https?:\/\/[^\s]+\/(ntfc|afu|apu)\.(hh|php)\?/$important
@@ -111,7 +111,6 @@
 /^https?:\/\/turbobit\.net\/(.*\/fdlogger|pus\/|.*\/js\/brinpopup\.js|glx\_[0-9]{5}\.js$)/$important,script,xmlhttprequest
 /^https?:\/\/www\.([a-z]{6,16})\.com\/([a-z]{1,4})\.js$/$important,script,third-party
 /^https?:\/\/zmctrack\.(com|net)/$important
-||||collector*.xhamster.*^$important
 ||00e46b7f53.com^$important
 ||00f31156f051fdf.com^$important
 ||01ced816b84.com^$important
@@ -2208,6 +2207,7 @@
 ||colchesi.info^$important
 ||colerainefaunsdale.com^$important
 ||collamps.com^$important
+||collector*.xhamster.*^$important
 ||collector.schibsted.io^$important
 ||colleduny.info^$important
 ||colossalchance.com^$important
