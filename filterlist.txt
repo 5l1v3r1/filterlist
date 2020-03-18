@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-18 15:27:08
-! Version: 20200318152708
+! Last modified: 2020-03-18 17:16:03
+! Version: 20200318171603
 ! Expires: 3 hours
-! Number of filters: 14630
+! Number of filters: 14644
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -545,6 +545,7 @@
 ||acbrupozabmdc.com^$important
 ||accesstrade.co.id^$important
 ||acdektqffm.com^$important
+||acdnpro.com^$important
 ||acduswfvyjylzq.com^$important
 ||ace2three.com^$important
 ||achiname.info^$important
@@ -638,6 +639,7 @@
 ||ad-miner.com^$important
 ||admitad.com^$important
 ||admixer.*^$important
+||admixer-st.cdn.ngenix.net^$important
 ||admized.com^$important
 ||admlqqewbede.com^$important
 ||admo.tv^$important
@@ -960,6 +962,7 @@
 ||anasjdzutdmv.com^$important
 ||andinizaments.com^$important
 ||andlache.com^$important
+||andria-loft.ru^$important
 ||aneqmscervl.com^$important
 ||anfjrxbxbar.bid^$important
 ||angtqemchz.bid^$important
@@ -2890,6 +2893,7 @@
 ||dqusbshqrtv.bid^$important
 ||dqyczunj.com^$important
 ||drabsize.com^$important
+||dragonsmobile.com^$important
 ||dragzebra.com^$important
 ||drawservant.com^$important
 ||drbwugautcgh.com^$important
@@ -4281,6 +4285,7 @@
 ||getpdaiddaily.com^$important
 ||getstream.space^$important
 ||gettate.*^$important
+||gettraff.com^$important
 ||geudyhlxmbj.bid^$important
 ||gevrsbmqvp.bid^$important
 ||gezkddgdbliip.bid^$important
@@ -6158,6 +6163,7 @@
 ||jzvuglclkdnb.bid^$important
 ||jzxlkhaugzuaqm.bid^$important
 ||kacfofrcndc.com^$important
+||kadam.ru^$important
 ||kadjwdpzxdxd.com^$important
 ||kahbkhlb.bid^$important
 ||kaktokualscgea.com^$important
@@ -7600,6 +7606,7 @@
 ||mtnreztslx.com^$important
 ||mtnysmosgmp.bid^$important
 ||mtpjldykpuhnmg.bid^$important
+||mtrcdn.com^$important
 ||mtrcss.com^$important
 ||mttyfwtvyumc.com^$important
 ||mtuorcpzomut.bid^$important
@@ -7841,6 +7848,7 @@
 ||newsatads.com^$important
 ||news-code.com^$important
 ||newsfeed.support^$important
+||news-first.com^$important
 ||newsforyoy.com^$important
 ||newspolovb.info^$important
 ||newsportalssl1.top^$important
@@ -8190,6 +8198,7 @@
 ||o0e.ru^$important
 ||o1o6tadz5p.com^$important
 ||o333o.com^$important
+||o3fy684faxh8o.ru^$important
 ||o3sndvzo25.com^$important
 ||o4uxrk33.com^$important
 ||o8q80l1z.top^$important
@@ -8670,6 +8679,7 @@
 ||parcelcreature.com^$important
 ||parchedangle.com^$important
 ||parentelement.ml^$important
+||parimatchru.com^$important
 ||parkingcrew.net^$important
 ||parmelecumbola.com^$important
 ||parsely.com^$important
@@ -11431,6 +11441,7 @@
 ||tracksrv.zdf.de^$important
 ||tradedoubler.com^$important
 ||tradelab.fr^$important
+||traff-1.ru^$important
 ||traffdaq.com^$important
 ||trafficfactory.biz^$important
 ||trafficforce.com^$important
@@ -11654,6 +11665,7 @@
 ||uanomwcxixed.com^$important
 ||uaofcvzlhhh.com^$important
 ||uaolighevmjy.com^$important
+||uaservers.net^$important
 ||uavqdzorwish.com^$important
 ||uaxdkesuxtvu.com^$important
 ||uazyqjztrhi.bid^$important
@@ -12163,6 +12175,7 @@
 ||vbxrcekqkmrzyd.com^$important
 ||vbyefnnrswpn.com^$important
 ||vcavpwzzx.bid^$important
+||vcdn.biz^$important
 ||vcdtowafqibekr.com^$important
 ||vcegsisugrwd.bid^$important
 ||vcfnspbgztl.com^$important
@@ -14272,6 +14285,7 @@
 ||zipshift.com^$important
 ||ziqdunppuzjd.com^$important
 ||zirhuqksdqeyg.com^$important
+||zirkabet.com^$important
 ||zisbrygtluib.com^$important
 ||zitbvxrbai.bid^$important
 ||ziumnfnltbu.bid^$important

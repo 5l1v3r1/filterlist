@@ -451,6 +451,7 @@
 ||acbrupozabmdc.com^$important
 ||accesstrade.co.id^$important
 ||acdektqffm.com^$important
+||acdnpro.com^$important
 ||acduswfvyjylzq.com^$important
 ||ace2three.com^$important
 ||achiname.info^$important
@@ -544,6 +545,7 @@
 ||admetrica.ru^$important
 ||admetricspro.com^$important
 ||admitad.com^$important
+||admixer-st.cdn.ngenix.net^$important
 ||admixer.*^$important
 ||admized.com^$important
 ||admlqqewbede.com^$important
@@ -866,6 +868,7 @@
 ||anasjdzutdmv.com^$important
 ||andinizaments.com^$important
 ||andlache.com^$important
+||andria-loft.ru^$important
 ||aneqmscervl.com^$important
 ||anfjrxbxbar.bid^$important
 ||angtqemchz.bid^$important
@@ -2792,6 +2795,7 @@
 ||dqusbshqrtv.bid^$important
 ||dqyczunj.com^$important
 ||drabsize.com^$important
+||dragonsmobile.com^$important
 ||dragzebra.com^$important
 ||drawservant.com^$important
 ||drbwugautcgh.com^$important
@@ -4183,6 +4187,7 @@
 ||getpdaiddaily.com^$important
 ||getstream.space^$important
 ||gettate.*^$important
+||gettraff.com^$important
 ||geudyhlxmbj.bid^$important
 ||gevrsbmqvp.bid^$important
 ||gezkddgdbliip.bid^$important
@@ -6057,6 +6062,7 @@
 ||jzvuglclkdnb.bid^$important
 ||jzxlkhaugzuaqm.bid^$important
 ||kacfofrcndc.com^$important
+||kadam.ru^$important
 ||kadjwdpzxdxd.com^$important
 ||kahbkhlb.bid^$important
 ||kaktokualscgea.com^$important
@@ -6776,20 +6782,6 @@
 ||lnwqvhcqw.com^$important
 ||loakfiiggz.bid^$important
 ||loamauji.com^$important
-||acdnpro.com^$important
-||traff-1.ru^$important
-||gettraff.com^$important
-||mtrcdn.com^$important
-||zirkabet.com^$important
-||andria-loft.ru^$important
-||news-first.com^$important
-||kadam.ru^$important
-||o3fy684faxh8o.ru^$important
-||dragonsmobile.com^$important
-||vcdn.biz^$important
-||uaservers.net^$important
-||parimatchru.com^$important
-||admixer-st.cdn.ngenix.net^$important
 ||loaphizu.com^$important
 ||loasdfn.xyz^$important
 ||localytics.com^$important
@@ -7512,6 +7504,7 @@
 ||mtnreztslx.com^$important
 ||mtnysmosgmp.bid^$important
 ||mtpjldykpuhnmg.bid^$important
+||mtrcdn.com^$important
 ||mtrcss.com^$important
 ||mttyfwtvyumc.com^$important
 ||mtuorcpzomut.bid^$important
@@ -7750,6 +7743,7 @@
 ||newpush.support^$important
 ||newrelic.com^$important
 ||news-code.com^$important
+||news-first.com^$important
 ||newsadsppush.com^$important
 ||newsatads.com^$important
 ||newsfeed.support^$important
@@ -8103,6 +8097,7 @@
 ||o0e.ru^$important
 ||o1o6tadz5p.com^$important
 ||o333o.com^$important
+||o3fy684faxh8o.ru^$important
 ||o3sndvzo25.com^$important
 ||o4uxrk33.com^$important
 ||o8q80l1z.top^$important
@@ -8581,6 +8576,7 @@
 ||parcelcreature.com^$important
 ||parchedangle.com^$important
 ||parentelement.ml^$important
+||parimatchru.com^$important
 ||parkingcrew.net^$important
 ||parmelecumbola.com^$important
 ||parsely.com^$important
@@ -11337,6 +11333,7 @@
 ||tracksrv.zdf.de^$important
 ||tradedoubler.com^$important
 ||tradelab.fr^$important
+||traff-1.ru^$important
 ||traffdaq.com^$important
 ||traffic-gate-service.info^$important
 ||traffic-info-service.info^$important
@@ -11557,6 +11554,7 @@
 ||uanomwcxixed.com^$important
 ||uaofcvzlhhh.com^$important
 ||uaolighevmjy.com^$important
+||uaservers.net^$important
 ||uavqdzorwish.com^$important
 ||uaxdkesuxtvu.com^$important
 ||uazyqjztrhi.bid^$important
@@ -12066,6 +12064,7 @@
 ||vbxrcekqkmrzyd.com^$important
 ||vbyefnnrswpn.com^$important
 ||vcavpwzzx.bid^$important
+||vcdn.biz^$important
 ||vcdtowafqibekr.com^$important
 ||vcegsisugrwd.bid^$important
 ||vcfnspbgztl.com^$important
@@ -14171,6 +14170,7 @@
 ||zipshift.com^$important
 ||ziqdunppuzjd.com^$important
 ||zirhuqksdqeyg.com^$important
+||zirkabet.com^$important
 ||zisbrygtluib.com^$important
 ||zitbvxrbai.bid^$important
 ||ziumnfnltbu.bid^$important
