@@ -2112,8 +2112,6 @@
 ||colchesi.info^$important
 ||colerainefaunsdale.com^$important
 ||collamps.com^$important
-||collector*.xhamster.*^$important
-||collector.schibsted.io^$important
 ||colleduny.info^$important
 ||colossalchance.com^$important
 ||com-gift-winner-lucky-day.vip^$important
@@ -2122,6 +2120,11 @@
 ||com-mac-optimizer.xyz^$important
 ||com-shield-device.live^$important
 ||com-shield.live^$important
+||flloczhqdkn.com^$important
+||lkhqosglqas.com^$important
+||yepsobtax.com^$important
+||cawsodpet.club^$important
+||suggestvideos.xyz^$important
 ||combinaticy.info^$important
 ||comfortablecheese.com^$important
 ||comgnnyx.com^$important
