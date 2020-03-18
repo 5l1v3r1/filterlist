@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-18 20:06:18
-! Version: 20200318200618
+! Last modified: 2020-03-18 22:57:02
+! Version: 20200318225702
 ! Expires: 3 hours
-! Number of filters: 14648
+! Number of filters: 14655
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -6199,6 +6199,7 @@
 ||kbqebfcubeiaa.com^$important
 ||kbrnfzgglehh.com^$important
 ||kbsceyleonkq.com^$important
+||kbugxeslbjc8.com^$important
 ||kbwortdqjbns.com^$important
 ||kbxkcmpd.bid^$important
 ||kbzmhlsg.com^$important
@@ -6910,6 +6911,7 @@
 ||lopdogmltbnbc.com^$important
 ||lopsidedspoon.com^$important
 ||loralana.com^$important
+||lorenzourban.com^$important
 ||lorhamnvukws.bid^$important
 ||lorpidlfpbu.bid^$important
 ||lorybnfh.com^$important
@@ -8302,6 +8304,7 @@
 ||offerreality.com^$important
 ||ofgapiydisrw.com^$important
 ||ofghrodsrqkg.com^$important
+||ofgogoatan.com^$important
 ||ofhwyutlckjuul.bid^$important
 ||ofjampfenbwv.com^$important
 ||ofjpzeoygigtlq.com^$important
@@ -8659,6 +8662,7 @@
 ||p3.interestingz.pw^$important
 ||p9oqu.com^$important
 ||paddleangle.com^$important
+||padsanz.com^$important
 ||padsats.com^$important
 ||padsblue.com^$important
 ||padsbrown.com^$important
@@ -9515,6 +9519,7 @@
 ||qknuubmfneib.com^$important
 ||qkpwdakgxynv.com^$important
 ||qksihowyv.com^$important
+||qkspafpgg.com^$important
 ||qkurtnucn.com^$important
 ||qkwbygfsbfmj.com^$important
 ||qkyzjwhyeh.com^$important
@@ -10426,6 +10431,7 @@
 ||seaxhrqc.bid^$important
 ||sebadu.com^$important
 ||sebariklanbaris.com^$important
+||sebeagnjowtg.com^$important
 ||seceive.pro^$important
 ||secfpgpqx.com^$important
 ||secretivecub.com^$important
@@ -13682,6 +13688,7 @@
 ||yctquwjbbkfa.com^$important
 ||ycuuzufqwsk.com^$important
 ||ycxpmdwail.bid^$important
+||ycxtpbfcsl.com^$important
 ||ycyrgutjregkw.com^$important
 ||yczdebjfskegsd.com^$important
 ||yczvwlqexzhtf.bid^$important
