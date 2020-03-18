@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-18 17:16:03
-! Version: 20200318171603
+! Last modified: 2020-03-18 20:06:18
+! Version: 20200318200618
 ! Expires: 3 hours
-! Number of filters: 14644
+! Number of filters: 14648
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -15,7 +15,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?(fingerprint|fp)([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?(metri[ck]?[asx]?|mtrcs?)([0-9]{1,3})?\./$important,domain=~metrica.yandex.com|~metrica.yandex.ru|~metrika.yandex.com|~metrika.yandex.ru
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?ad[svbxo]?(er(ver?)?t?(ise|ising|isement)?)?\./$important,domain=~ad.nl|~ads.google.com
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?ads?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]?(bb|by|logs?|[rs]v[rs]?|sdk)([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?ads?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]?(serve|bb|by|logs?|[rs]v[rs]?|sdk)([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?advisor([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?aff(iliat(es?|ion))([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?bann?ers?([0-9]{1,3})?\./$important
@@ -519,6 +519,7 @@
 ||abekjzzhfbr.com^$important
 ||abfcfxfkzmiqht.com^$important
 ||abgclk.club^$important
+||abgligarchan.com^$important
 ||ablehed.pro^$important
 ||ablen*.tk^$important
 ||ablenctionalle.info^$important
@@ -2043,6 +2044,7 @@
 ||chqspuonctkgz.com^$important
 ||chqulqxfghdz.com^$important
 ||christingel.com^$important
+||chromeum.ru^$important
 ||chtpcjezorlo.com^$important
 ||chunkycactus.com^$important
 ||chuvzwxbpf.bid^$important
@@ -3723,6 +3725,7 @@
 ||fepzygektdt.com^$important
 ||feqlklwaafgc.com^$important
 ||feqyuubaixe.bid^$important
+||ferdarius.com^$important
 ||fevgukzwvjam.com^$important
 ||fevrbniqa.com^$important
 ||feyl4mh5to.com^$important
@@ -4810,6 +4813,7 @@
 ||hehraybryciyls.com^$important
 ||hehyqqqxzndwia.com^$important
 ||heikwwkqy.com^$important
+||heldervenis.com^$important
 ||hellcategy.info^$important
 ||helpclause.com^$important
 ||hemnes.win^$important
