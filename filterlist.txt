@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-18 15:24:47
-! Version: 20200318152447
+! Last modified: 2020-03-18 15:27:08
+! Version: 20200318152708
 ! Expires: 3 hours
-! Number of filters: 14626
+! Number of filters: 14630
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -21,6 +21,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?bann?ers?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?beacons?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?cli?ck?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?collectors?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?count(ers?)?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?delivery([0-9]{1,3})?\./$important,third-party
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?events?([0-9]{1,3})?\./$important,domain=~webmoney.ru
@@ -1889,6 +1890,7 @@
 ||caucqpoeg.com^$important
 ||cavdzowr.com^$important
 ||cawcwpvmpcje.com^$important
+||cawsodpet.club^$important
 ||cayaaebmb.com^$important
 ||cayqecxokz.com^$important
 ||cbbabemymc.com^$important
@@ -2207,8 +2209,6 @@
 ||colchesi.info^$important
 ||colerainefaunsdale.com^$important
 ||collamps.com^$important
-||collector*.xhamster.*^$important
-||collector.schibsted.io^$important
 ||colleduny.info^$important
 ||colossalchance.com^$important
 ||combinaticy.info^$important
@@ -3851,6 +3851,7 @@
 ||flirteenew.info^$important
 ||fljgsht.ru^$important
 ||flkyhwjhp.com^$important
+||flloczhqdkn.com^$important
 ||flmditew.com^$important
 ||flnqkhnqjcmvp.com^$important
 ||flntdbwafec.com^$important
@@ -6812,6 +6813,7 @@
 ||lkfuihubbros.com^$important
 ||lkgcdedbklfse.com^$important
 ||lkhkeviyctneka.com^$important
+||lkhqosglqas.com^$important
 ||lkksbzcslmeefw.com^$important
 ||lklasoo.xyz^$important
 ||lkmoqyzfv.com^$important
@@ -10897,6 +10899,7 @@
 ||sufjqebhmfo.bid^$important
 ||sufzmohljbgw.com^$important
 ||sugarcurtain.com^$important
+||suggestvideos.xyz^$important
 ||suhprdfb.bid^$important
 ||suhunsoo.uk^$important
 ||sukgtuksypr.com^$important
@@ -13701,6 +13704,7 @@
 ||yeonenukejm.bid^$important
 ||yeouakimhubraf.com^$important
 ||yepiafsrxffl.com^$important
+||yepsobtax.com^$important
 ||yes4biz.net^$important
 ||yescounter.com^$important
 ||yesteam.org.in^$important
