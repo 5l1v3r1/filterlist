@@ -1,7 +1,7 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-18 23:16:50
-! Version: 20200318231650
+! Last modified: 2020-03-19 21:01:23
+! Version: 20200319210123
 ! Expires: 3 hours
 ! Number of filters: 14776
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
@@ -87,7 +87,7 @@
 /^https?:\/\/[^\s]+\.[A-Za-z]{2,6}\/[A-Za-z]{1}\?tag\=[^\s]+\&site\=[A-Za-z0-9]{1,}\&ads?\=/$important,popup,script
 /^https?:\/\/[^\s]+\.com\/[0-9a-z]{8}\.js#spot\=[0-9]{5}$/$important,script
 /^https?:\/\/[^\s]+\/(([a-zA-Z]{1,5})?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-])?track(ers?|ing)?([0-9a-zA-Z-_.]{1,12})?\.js/$image,important,script,xmlhttprequest,domain=~github.com|~gitlab.com|~music.yandex.by|~music.yandex.com|~music.yandex.ru|~music.yandex.ua
-/^https?:\/\/[^\s]+\/(([a-zA-Z]{1,7})?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]?)?track(ers?|ing)[?/]/$image,important,other,script,xmlhttprequest
+/^https?:\/\/[^\s]+\/(([a-zA-Z]{1,7})?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]?)?track(ers?|ing)[?/]/$image,important,other,script,xmlhttprequest,domain=~github.com|~gitlab.com
 /^https?:\/\/[^\s]+\/([^\s]{4})?tag\.min\.([a-z0-9]{30,}\.)?js/$important,script
 /^https?:\/\/[^\s]+\/(ntfc|afu|apu)\.(hh|php)\?/$important
 /^https?:\/\/[^\s]+\/(popundr|punder|pu)\/(script|license|custom)\./$important,script
