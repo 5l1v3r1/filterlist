@@ -11,7 +11,7 @@
 /^https?:\/\/[^\s]+[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]videoads?[0-9]{1,3}\./$important,script,xmlhttprequest
 /^https?:\/\/[^\s]+\.[A-Za-z]{2,6}\/[A-Za-z]{1}\?tag\=[^\s]+\&site\=[A-Za-z0-9]{1,}\&ads?\=/$important,popup,script
 /^https?:\/\/[^\s]+\/(([a-zA-Z]{1,5})?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-])?track(ers?|ing)?([0-9a-zA-Z-_.]{1,12})?\.js/$image,important,script,xmlhttprequest,domain=~github.com|~gitlab.com|~music.yandex.by|~music.yandex.com|~music.yandex.ru|~music.yandex.ua
-/^https?:\/\/[^\s]+\/(([a-zA-Z]{1,7})?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]?)?track(ers?|ing)[?/]/$image,important,other,script,xmlhttprequest
+/^https?:\/\/[^\s]+\/(([a-zA-Z]{1,7})?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]?)?track(ers?|ing)[?/]/$image,important,other,script,xmlhttprequest,domain=~github.com|~gitlab.com
 /^https?:\/\/[^\s]+\/cryptonight\.(js|wasm)/$important,script,xmlhttprequest
 /^https?:\/\/[^\s]+\/wasmminer\.(js|wasm)/$important,script,xmlhttprequest
 /^https?:\/\/turbobit\.net\/(.*\/fdlogger|pus\/|.*\/js\/brinpopup\.js|glx\_[0-9]{5}\.js$)/$important,script,xmlhttprequest
