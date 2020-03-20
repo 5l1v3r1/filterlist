@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-20 16:36:03
-! Version: 20200320163603
+! Last modified: 2020-03-20 16:54:54
+! Version: 20200320165454
 ! Expires: 3 hours
-! Number of filters: 15184
+! Number of filters: 15187
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1055,7 +1055,6 @@
 ||amqcdbles.com^$important
 ||amrfscxvdvfvpa.com^$important
 ||amrnhiqy.com^$important
-||a-msedge.net^$important
 ||amung.us^$important
 ||amwupsihqfewgr.com^$important
 ||an.yandex.ru^$important
@@ -1170,6 +1169,7 @@
 ||arcticamber.com^$important
 ||arda0hylt58g4wg0.pro^$important
 ||areandarm.com^$important
+||areapebeg.club^$important
 ||arearmark.club^$important
 ||areary.com^$important
 ||areyouabot.net^$important
@@ -2482,6 +2482,7 @@
 ||crkliqlyabacgt.bid^$important
 ||crllmzsy.top^$important
 ||crnxueioe.bid^$important
+||crocopop.com^$important
 ||crownclam.com^$important
 ||croxdfrdjfnt.com^$important
 ||crpiucewddag.com^$important
@@ -7614,6 +7615,7 @@
 ||mengchengbao.com^$important
 ||menjyhvs.bid^$important
 ||menomonierolette.com^$important
+||menuladshy.life^$important
 ||mepirtedic.com^$important
 ||mercadoclics.com^$important
 ||mercusuar.uzone.id^$important
@@ -8670,6 +8672,7 @@
 ||oeppesfmzlbpa.com^$important
 ||oertmxfsryji.com^$important
 ||oetwplgu.com^$important
+||oevqxivhquovq.com^$important
 ||oexupdqy.bid^$important
 ||oezgivtasc.com^$important
 ||ofajzowbwzzi.com^$important
