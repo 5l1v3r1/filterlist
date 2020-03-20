@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-20 16:28:09
-! Version: 20200320162809
+! Last modified: 2020-03-20 16:36:03
+! Version: 20200320163603
 ! Expires: 3 hours
-! Number of filters: 15122
+! Number of filters: 15184
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -122,6 +122,7 @@
 ||024xuyisheng.com^$important
 ||0377shujuhuifu.top^$important
 ||0452jhw.com^$important
+||04v70ab.com^$important
 ||05a7946eef5d.com^$important
 ||05y2dxmr.top^$important
 ||0632qyw.com^$important
@@ -170,6 +171,7 @@
 ||15jiaju.com^$important
 ||16yp1ji92a.com^$important
 ||172ipkuobc.com^$important
+||173js173.com^$important
 ||190282.xyz^$important
 ||197c3b10bab3c1.com^$important
 ||19bk5lo5q2.com^$important
@@ -188,6 +190,7 @@
 ||1paj4kmp.top^$important
 ||1phads.com^$important
 ||1q2w3.*^$important
+||1tj7k84.com^$important
 ||1wkvvts8is.com^$important
 ||1wzfew7a.site^$important
 ||1x1rank.com^$important
@@ -198,6 +201,7 @@
 ||1xbet95.com^$important
 ||1xbkbet5.com^$important
 ||1xeemc.host^$important
+||1yme78h.com^$important
 ||1zv9jakhux.com^$important
 ||2013b42f102806.com^$important
 ||2013sh.com^$important
@@ -221,6 +225,7 @@
 ||27d6aovb.top^$important
 ||280asnlnr7.com^$important
 ||28f77rd30e.ru^$important
+||28l8o.com^$important
 ||2a12be6140880286.com^$important
 ||2am0yc33wt2e.ru^$important
 ||2bbb1fdde3f864152.com^$important
@@ -314,6 +319,7 @@
 ||3f8mdusgyl3x.com^$important
 ||3fdf2a5f924760915ca68b5ad01cfdae.com^$important
 ||3gl.net^$important
+||3jmcwio.com^$important
 ||3lift.com^$important
 ||3m7zwoqc.top^$important
 ||3npsgv2sx5.com^$important
@@ -361,11 +367,13 @@
 ||4ij4g22t67.com^$important
 ||4jnzhl0d0.com^$important
 ||4l7wg5kf3z.com^$important
+||4o64flb.com^$important
 ||4ojwnsgub2.com^$important
 ||4onqfs7iv4.com^$important
 ||4roxllpf6f.com^$important
 ||4th3d48.com^$important
 ||4ukqzi8d7l.com^$important
+||4v9wp.com^$important
 ||4xxxvideostube.com^$important
 ||50h6v79p.top^$important
 ||51nlno7cgy.com^$important
@@ -388,10 +396,12 @@
 ||576digital.hu^$important
 ||57e3ascxh1.com^$important
 ||58b291f917728a2.com^$important
+||59cn7.com^$important
 ||5bir9vuqcq.com^$important
 ||5c1deabe3202c11c1.com^$important
 ||5db8d92zi2.com^$important
 ||5edeb195868e2195.com^$important
+||5g9quwq.com^$important
 ||5gvlvuebyjl6.com^$important
 ||5h5d8lt8me.com^$important
 ||5hmmm1mk.top^$important
@@ -407,6 +417,7 @@
 ||5t59uw2iuh.com^$important
 ||5vcl2z9la7.com^$important
 ||5vul2bdy.store^$important
+||5yfi7sy.com^$important
 ||5z8museor8.com^$important
 ||6066bd8aab9d73e3.com^$important
 ||615b68cc9c8528e.com^$important
@@ -423,6 +434,7 @@
 ||6530868523e6.com^$important
 ||65u0tvf9l4.com^$important
 ||65vk1fba34.com^$important
+||65xps.com^$important
 ||6631f33cf2a1032b.com^$important
 ||66713dbe44.com^$important
 ||674309f93c1.com^$important
@@ -509,6 +521,7 @@
 ||8kegwpjw50.com^$important
 ||8mdphsb8fm.com^$important
 ||8s32e590un.com^$important
+||8ue9q7i.com^$important
 ||8v8afxt8lg.com^$important
 ||8wey4x0c.com^$important
 ||8yopdqidj2.com^$important
@@ -534,8 +547,10 @@
 ||99hucfypkq.com^$important
 ||9a505e446b3cbc49ba0.com^$important
 ||9amq5z4y1y.com^$important
+||9c51vda.com^$important
 ||9df4mz2kpm.com^$important
 ||9ehy8a8u6b.com^$important
+||9h7n8.com^$important
 ||9ib5cxi9e0.com^$important
 ||9jogo.top^$important
 ||9jwas.top^$important
@@ -940,6 +955,7 @@
 ||ajizjpjkrnh.com^$important
 ||ajjhtetv87.com^$important
 ||ajkjnofeqrra.bid^$important
+||ajkzd9h.com^$important
 ||ajmggjgrardn.com^$important
 ||ajmwuweeif.com^$important
 ||ajmyrtdiwvg.bid^$important
@@ -1291,6 +1307,7 @@
 ||axbpixbcucv.bid^$important
 ||axbsdoysiogrrc.bid^$important
 ||axcqasdiots.com^$important
+||axdxmdv.com^$important
 ||axeobgnsk.com^$important
 ||axfihweksrgor.com^$important
 ||axfkfstrbacx.com^$important
@@ -1533,6 +1550,7 @@
 ||bftmphbwpwnnt.com^$important
 ||bfxachbubcki.com^$important
 ||bfzuuuuhvexxs.com^$important
+||bg6s0.com^$important
 ||bgbdzfeeoko.com^$important
 ||bgbmtqzoc.bid^$important
 ||bgchxhhzdee.com^$important
@@ -1571,6 +1589,7 @@
 ||bhyqllgtzjee.com^$important
 ||bhyyevhmha.com^$important
 ||bhzejltg.info^$important
+||bi2n4.com^$important
 ||biberukalap.com^$important
 ||bicacxo5go.com^$important
 ||bictxzszwkwghn.com^$important
@@ -1704,6 +1723,7 @@
 ||bnserving.com^$important
 ||bnsjb1ab1e.com^$important
 ||bnstnhto.com^$important
+||bnutuin.com^$important
 ||bnwjoqkudmh.bid^$important
 ||boaawvdg.com^$important
 ||boacheeb.com^$important
@@ -1826,6 +1846,7 @@
 ||btcwkbqojiyg.com^$important
 ||btez8.xyz^$important
 ||btgovcuviqor.com^$important
+||btig3di.com^$important
 ||btjxbwiehrm.bid^$important
 ||btkaoblylg.bid^$important
 ||btkcdqrzmqca.com^$important
@@ -1897,6 +1918,7 @@
 ||bxejeqyudkgum.com^$important
 ||bxexufifrsfr.com^$important
 ||bxfsdzpffy.bid^$important
+||bxic0ho.com^$important
 ||bxknvtbmzsqc.com^$important
 ||bxniyvvxufxyoy.com^$important
 ||bxnvdau.com^$important
@@ -3205,6 +3227,7 @@
 ||e553bcf717698d33.com^$important
 ||e5a87pq.com^$important
 ||e6081b73afec581f.com^$important
+||e65ew88.com^$important
 ||e6cfmdmo81.com^$important
 ||e7393e33565ce805.com^$important
 ||e7d7772dd865.com^$important
@@ -3224,6 +3247,7 @@
 ||eagerse.com^$important
 ||eahkxyuezqvx.com^$important
 ||eaidabmuxbqy.com^$important
+||eap7gcb.com^$important
 ||eaqxjz6bra.com^$important
 ||earnbigo.com^$important
 ||earnify.com^$important
@@ -3379,6 +3403,7 @@
 ||eivikmwwrqtb.bid^$important
 ||eiwcqowbowqo.com^$important
 ||eiwdnygfwl.com^$important
+||eiwrwjc.com^$important
 ||eizzndhkvl.bid^$important
 ||ejbvrgespr.bid^$important
 ||ejdcjjcqcnzhre.bid^$important
@@ -3497,6 +3522,7 @@
 ||enzyxtdcacde.com^$important
 ||eo62cocntx.com^$important
 ||eociaoqs.bid^$important
+||eocjw.com^$important
 ||eocnpszthsf.com^$important
 ||eoecdsfvceebrv.com^$important
 ||eoepqqkg.com^$important
@@ -3747,6 +3773,7 @@
 ||f754f81e3b6.com^$important
 ||f79f94b4ddc625aa0f4.com^$important
 ||f7f38d8e641296a0a75.com^$important
+||f7oddtr.com^$important
 ||f9c6cdb754b7.com^$important
 ||fa04089b99473e2ffd6dccb10cfd6d18.com^$important
 ||faayojxf.com^$important
@@ -4359,6 +4386,7 @@
 ||g3938452447.com^$important
 ||g4058683381.com^$important
 ||g4p1gtll.com^$important
+||g5fzq2l.com^$important
 ||g6zkzy0g2g.com^$important
 ||ga87z2o.com^$important
 ||gaaprokoduuyyn.bid^$important
@@ -4468,6 +4496,7 @@
 ||gevrsbmqvp.bid^$important
 ||gezkddgdbliip.bid^$important
 ||gfamqlcmymxbeu.com^$important
+||gfbnr.com^$important
 ||gfchcxin.com^$important
 ||gfdeapuaymd.bid^$important
 ||gffupsrgds.com^$important
@@ -4738,6 +4767,7 @@
 ||grfqrhqlzvjl.com^$important
 ||grgxptjsgl.com^$important
 ||grhqitjkih.bid^$important
+||gri98.com^$important
 ||gridiogrid.com^$important
 ||grkrkurbyykok.com^$important
 ||grlehzdbzmstb.com^$important
@@ -4895,6 +4925,7 @@
 ||h83zvgrg29.com^$important
 ||h8bjfdcu.com^$important
 ||h8vzwpv.com^$important
+||h92ir5s.com^$important
 ||h92zbpn4zcv1.com^$important
 ||haezawhdumz.bid^$important
 ||hafbezbemwwd.com^$important
@@ -5415,10 +5446,12 @@
 ||hzyxaqdr.bid^$important
 ||i.imedia.cz^$important
 ||i027m.top^$important
+||i0ri625.com^$important
 ||i0s26ol9.com^$important
 ||i4rsrcj6.top^$important
 ||i4yfew0k6j.com^$important
 ||i5iog3mlrw.com^$important
+||i5rl5lf.com^$important
 ||i62e2b4mfy.com^$important
 ||i62po37g.com^$important
 ||i7ujq4gg.top^$important
@@ -5640,6 +5673,7 @@
 ||ilupcgzhagwb.com^$important
 ||iluwjbuwm.com^$important
 ||ilvibsabwuza.com^$important
+||ilxhsgd.com^$important
 ||ilxwlsnzhzukj.com^$important
 ||imagetopng.club^$important
 ||imayjubge.com^$important
@@ -5920,6 +5954,7 @@
 ||izxdpodiowdgp.bid^$important
 ||j4a73n7v5k.com^$important
 ||j93557g.com^$important
+||j94kp2o.com^$important
 ||j9eup6o5os.top^$important
 ||jabcdkwmwnek.com^$important
 ||jackettrain.com^$important
@@ -5955,6 +5990,7 @@
 ||jbgehhqvfppf.com^$important
 ||jbgzahhyhen.com^$important
 ||jbhrcrhbiyshoz.bid^$important
+||jbjcv.com^$important
 ||jbonews.com^$important
 ||jboovenoenkh.com^$important
 ||jbpyqajzwbh.bid^$important
@@ -6181,6 +6217,7 @@
 ||joheeptaicat.com^$important
 ||johnsburgclarksville.com^$important
 ||johonmtpyv.com^$important
+||jolic2.com^$important
 ||jollqxplkz.bid^$important
 ||jomys.xyz^$important
 ||jomznuefrw.com^$important
@@ -6225,6 +6262,7 @@
 ||jqanygfhqne.com^$important
 ||jqassets.download^$important
 ||jqcdn.download^$important
+||jqcv28q.com^$important
 ||jqdfakgwsxvccl.bid^$important
 ||jqdwgguusof.bid^$important
 ||jqfkitrkhpxl.com^$important
@@ -6274,6 +6312,7 @@
 ||jscdndel.com^$important
 ||jscoinminer.com^$important
 ||jsecoin.com^$important
+||jsg7mdk.com^$important
 ||jshjrozmwmyj.com^$important
 ||jshosting.*^$important
 ||jssdk.beetv.net^$important
@@ -6400,6 +6439,7 @@
 ||jzxlkhaugzuaqm.bid^$important
 ||k5rlzvkzwy.com^$important
 ||k77hof1z7k.com^$important
+||ka04b.com^$important
 ||kacfofrcndc.com^$important
 ||kadam.ru^$important
 ||kadjwdpzxdxd.com^$important
@@ -6549,6 +6589,7 @@
 ||kiodudldzmzwr.com^$important
 ||kiohmgklwi.com^$important
 ||kioxprngouirqu.com^$important
+||kip5j.com^$important
 ||kipnobwbyz.bid^$important
 ||kippbeak.cf^$important
 ||kiqsynap.com^$important
@@ -6556,6 +6597,7 @@
 ||kistutch.net^$important
 ||kisvtclf.bid^$important
 ||kizpkvkdfm.bid^$important
+||kj2hy.com^$important
 ||kjabglumgwbsvq.bid^$important
 ||kjbfpptjlhxh.com^$important
 ||kjbqzbiteubt.com^$important
@@ -6796,6 +6838,7 @@
 ||kwjglwybtlhm.com^$important
 ||kwkxvbjz.com^$important
 ||kwnq4hg2n9.com^$important
+||kwnrtj8.com^$important
 ||kwomkjjoajcyyt.com^$important
 ||kwovwwkevyu.bid^$important
 ||kwshmdfgijgu.com^$important
@@ -6854,11 +6897,13 @@
 ||kzws02uffs.com^$important
 ||kzyiepouyib.bid^$important
 ||kzzqkhxjeytu.com^$important
+||l161c.com^$important
 ||l33tsite.info^$important
 ||l4oecosq.com^$important
 ||l6b587txj1.com^$important
 ||l7wfu866ki.com^$important
 ||l9kfxu1c5x.com^$important
+||l9tdhe6.com^$important
 ||labdwkqyavb.com^$important
 ||lacrxqvydzlan.bid^$important
 ||ladhyjqqgerr.com^$important
@@ -6926,6 +6971,7 @@
 ||lbtifiprfzy.com^$important
 ||lburmovcjefv.com^$important
 ||lbytagcqxefsn.com^$important
+||lc0pyfn.com^$important
 ||lceihiuarfqbn.bid^$important
 ||lcmkcvisyynkw.com^$important
 ||lcmwchhybzik.bid^$important
@@ -7435,6 +7481,7 @@
 ||madsokz.com^$important
 ||madspms.com^$important
 ||madspmz.com^$important
+||maebtjn.com^$important
 ||mafndqbvdgkm.com^$important
 ||magnificentmist.com^$important
 ||magrie.pw^$important
@@ -7556,6 +7603,7 @@
 ||mega-prize-area*.live^$important
 ||megpacokjce.bid^$important
 ||meguanha.com^$important
+||meh0f1b.com^$important
 ||mehcpazsnzh.com^$important
 ||mekmrcgtmuvv.bid^$important
 ||mel-bet.xyz^$important
@@ -7914,6 +7962,7 @@
 ||mttyfwtvyumc.com^$important
 ||mtuorcpzomut.bid^$important
 ||mtveughs.com^$important
+||mtvp05j.com^$important
 ||mtyqtczr.bid^$important
 ||mtysahmkqqdo.com^$important
 ||mtzenhigqg.com^$important
@@ -8028,6 +8077,7 @@
 ||mzzouiciajems.com^$important
 ||n13x4nfw8frika.com^$important
 ||n1g459ky7y.com^$important
+||n2gk4jw.com^$important
 ||n2sq3jfrun.com^$important
 ||naaifqdqsnxtsp.com^$important
 ||naavxddd.com^$important
@@ -8280,6 +8330,7 @@
 ||nlteopgkeb.com^$important
 ||nltzieywjkfb.com^$important
 ||nlujbqmtgv.com^$important
+||nlwy0.com^$important
 ||nlyqwlyykvjl.com^$important
 ||nmaafswoiecv.com^$important
 ||nmayxdwzhaus.com^$important
@@ -8866,6 +8917,7 @@
 ||ossdqciz.com^$important
 ||osskanger.com^$important
 ||osunrrhwhf.com^$important
+||osuq4jc.com^$important
 ||oswegocanastota.com^$important
 ||oszelwsbb.bid^$important
 ||otarrxci.bid^$important
@@ -9609,6 +9661,7 @@
 ||puzzlingfall.com^$important
 ||pvclouds.com^$important
 ||pvdrlztojkd.bid^$important
+||pvgfdgv.com^$important
 ||pviztjecuczh.com^$important
 ||pvjhglgpil.bid^$important
 ||pvoplkodbxra.com^$important
@@ -9633,6 +9686,7 @@
 ||pwynoympqwgg.com^$important
 ||pwzffpolfs.bid^$important
 ||pwzjsujf.bid^$important
+||pwzn9ze.com^$important
 ||px1alsry.com^$important
 ||pxbugrgwy.com^$important
 ||pxc.otto.de^$important
@@ -11039,11 +11093,13 @@
 ||slkwhwontxavyt.bid^$important
 ||slmmjkkvbkyp.com^$important
 ||sloaltbyucrg.com^$important
+||sloi1.com^$important
 ||slotforjoy.net^$important
 ||slotsforluck.com^$important
 ||slotsvictory.net^$important
 ||slurolen.com^$important
 ||slutsnearby.com^$important
+||slvv9.com^$important
 ||slwclrwmruuxav.com^$important
 ||smapohsnoww.com^$important
 ||smartadserver.com^$important
@@ -12062,6 +12118,7 @@
 ||u25u2bqn.top^$important
 ||u2bmco.com^$important
 ||u39chju32a.com^$important
+||u4ghzfb.com^$important
 ||u595sebqih.com^$important
 ||u8vysb7s2v.com^$important
 ||u9oxdnxk8b.com^$important
@@ -12408,6 +12465,7 @@
 ||usuanyzr.bid^$important
 ||usvgzajftrzkr.com^$important
 ||uswgkadyika.com^$important
+||usxsp7v.com^$important
 ||usymycvrilyt.com^$important
 ||uszpxpcoflkl.com^$important
 ||utarget.pro^$important
@@ -12527,6 +12585,7 @@
 ||uzrrqqzlktpymn.com^$important
 ||uzsywcdthqplzv.bid^$important
 ||uzvjymcnwngwau.bid^$important
+||uzvoj.com^$important
 ||uzvuhhyymmkc.com^$important
 ||uzwcfbi.com^$important
 ||uzwweczttqlayd.com^$important
@@ -12537,6 +12596,7 @@
 ||uzzhylmprb.bid^$important
 ||v0hs81ev3vepjr.ru^$important
 ||v15xzmxmdi.com^$important
+||v1n7c.com^$important
 ||v3.fstats.xyz^$important
 ||v3rjvtt.com^$important
 ||vacnuuitxqot.com^$important
@@ -13613,6 +13673,7 @@
 ||wznupnxp.com^$important
 ||wzueqhwf.com^$important
 ||wzyagambcfn.bid^$important
+||x107nqa.com^$important
 ||x1euvzgv.world^$important
 ||x1kbioti.world^$important
 ||x1tckrty.world^$important
@@ -14050,6 +14111,7 @@
 ||xzywlbgldmpi.com^$important
 ||xzzcasiospbn.com^$important
 ||xzzxjly.com^$important
+||y1i69.com^$important
 ||y1jxiqds7v.com^$important
 ||y2rmo576.top^$important
 ||y4jtnergka.com^$important
