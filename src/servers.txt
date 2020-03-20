@@ -467,7 +467,6 @@
 ||9purdfe9xg.com^$important
 ||9ws3wutazo.com^$important
 ||a-ads.com^$important
-||a-msedge.net^$important
 ||a0a28d3c97a4e566.com^$important
 ||a1a5ab31bcd1bc68.com^$important
 ||a1fafile.com^$important
@@ -482,6 +481,11 @@
 ||aa53df329975c325.com^$important
 ||aaaaaco.com^$important
 ||aab-check.me^$important
+||gadsips.com^$important
+||crocopop.com^$important
+||oevqxivhquovq.com^$important
+||areapebeg.club^$important
+||menuladshy.life^$important
 ||aabmxezph.com^$important
 ||aacgeuvaoqbw.com^$important
 ||aadfd566c0ebfe9b9f48ea3742db5e1d.com^$important
