@@ -1035,6 +1035,7 @@
 ||applesupportofficial.com^$important
 ||applicalled.club^$important
 ||applovin.com^$important
+||applvn.com^$important
 ||appsee.com^$important
 ||appsflyer.com^$important
 ||aprddnfuzc.bid^$important
@@ -1540,18 +1541,6 @@
 ||bjfxcvebjrcuce.bid^$important
 ||bjgavencynifm.bid^$important
 ||bjgaxcstxlvm.bid^$important
-||zwaar.org^$important
-||ewerhodub.com^$important
-||psma02.com^$important
-||lc2ads.ru^$important
-||videoroll.net^$important
-||heroesdom.com^$important
-||thevtk.com^$important
-||hwcdn.net^$important
-||mailboxmeeting.com^$important
-||spongesalt.com^$important
-||verifyvegetable.com^$important
-||applvn.com^$important
 ||bjjjbwexvkotj.com^$important
 ||bjkejdex.com^$important
 ||bjkfmvhygpub.com^$important
@@ -3580,6 +3569,7 @@
 ||ewaosdzofcsy.bid^$important
 ||ewbejjirdygik.com^$important
 ||ewccxwve.bid^$important
+||ewerhodub.com^$important
 ||ewgnexykqnyoun.com^$important
 ||ewgtanybkkch.com^$important
 ||ewlnukukkca.com^$important
@@ -4953,6 +4943,7 @@
 ||heqcvweqvqf.com^$important
 ||heracgjcuqmk.com^$important
 ||hereonline.online^$important
+||heroesdom.com^$important
 ||heroesofrpg.com^$important
 ||hesftig.site^$important
 ||hettwksj.bid^$important
@@ -5299,6 +5290,7 @@
 ||hvvhxzdps.com^$important
 ||hvvxxszxslome.bid^$important
 ||hvwagkmgef.com^$important
+||hwcdn.net^$important
 ||hwcgnavycq.com^$important
 ||hwekl8dz1d.com^$important
 ||hwfcdqnvovij.com^$important
@@ -6884,6 +6876,7 @@
 ||lburmovcjefv.com^$important
 ||lbytagcqxefsn.com^$important
 ||lc0pyfn.com^$important
+||lc2ads.ru^$important
 ||lceihiuarfqbn.bid^$important
 ||lcmkcvisyynkw.com^$important
 ||lcmwchhybzik.bid^$important
@@ -7402,6 +7395,7 @@
 ||mahrzxsou.com^$important
 ||maidlytsnrn.com^$important
 ||mail-ads.google.com^$important
+||mailboxmeeting.com^$important
 ||mailinfo.support^$important
 ||mailmessage.support^$important
 ||mailwithcash.com^$important
@@ -9451,6 +9445,7 @@
 ||psgdjmtpvey.com^$important
 ||psh.one^$important
 ||pshcqtizgdlm.com^$important
+||psma02.com^$important
 ||psmlgjalddqu.com^$important
 ||psmxlnkovf.com^$important
 ||psourdat.com^$important
@@ -11117,6 +11112,7 @@
 ||splityndomets.pro^$important
 ||spolecznosci.net^$important
 ||spomwstrgood.com^$important
+||spongesalt.com^$important
 ||spookyslope.com^$important
 ||spotscenered.info^$important
 ||spottednoise.com^$important
@@ -11581,6 +11577,7 @@
 ||theremovembera.info^$important
 ||thermosthahiti.website^$important
 ||thersprens.com^$important
+||thevtk.com^$important
 ||thewebsitetofindplayersbest.info^$important
 ||thewhizmarketing.com^$important
 ||thewhizproducts.com^$important
@@ -12623,6 +12620,7 @@
 ||verified-extensions.com^$important
 ||verifier.live^$important
 ||verifypow.com^$important
+||verifyvegetable.com^$important
 ||veritrol.com^$important
 ||verresof.com^$important
 ||vertvshonf.com^$important
@@ -14963,6 +14961,7 @@
 ||zvttlvbclihk.com^$important
 ||zvuespzsdgdq.com^$important
 ||zw52.ru^$important
+||zwaar.org^$important
 ||zwbiaekgsx.com^$important
 ||zwbyxaojzxc.bid^$important
 ||zwcuvwssfydj.com^$important
