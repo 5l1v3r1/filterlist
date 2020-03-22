@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
-! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-22 03:15:25
-! Version: 20200322031525
+! Description: A black list of malicious domains and trackers.
+! Last modified: 2020-03-22 22:58:54
+! Version: 20200322225854
 ! Expires: 3 hours
-! Number of filters: 15198
+! Number of filters: 15200
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -16,8 +16,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?(metri[ck]?[asx]?|mtrcs?)([0-9]{1,3})?\./$important,domain=~metrica.yandex.com|~metrica.yandex.ru|~metrika.yandex.com|~metrika.yandex.ru
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?69([a-z]{1,2})\.([a-z]{4})/$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?ad[svbxo]?(er(ver?)?t?(ise|ising|isement)?)?\./$important,domain=~ad.nl|~ads.google.com
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?ads?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]?(serve|bb|by|logs?|[rs]v[rs]?|sdk)([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?advisor([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?ads?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]?(visor|serve|bb|by|logs?|[rs]v[rs]?|sdk)([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?aff(iliat(es?|ion))([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?bann?ers?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?beacons?([0-9]{1,3})?\./$important
@@ -41,6 +40,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?px-intl([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?re[ck](lam(?:a|s|er)?)?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?sdk\-(diagnostics?|ads?)([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?snippets?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?stat(s|istics?)?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?sxcdn([0-9]{1,3})?\.now\.sh/$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?tags?([0-9]{1,3})?\./$important
@@ -12810,6 +12810,7 @@
 ||videonow.ru^$important
 ||videoplayer2.xyz^$important
 ||videoroll.net^$important
+||video-stats.video.google.com^$important
 ||vidora.com^$important
 ||vidroll.ru^$important
 ||vidsizee.com^$important
@@ -15189,6 +15190,7 @@
 |http*:*/pagead/$important
 |http*:*/pic.gif?m=$image,important
 |http*:*/ping.gif?$image,important
+|http*:*/promo-banner.js|$important,script
 |http*:*/pview?event$important
 |http*:*/rtrg?$image,important
 |http*:*/s/su.php?t=$important
