@@ -35,7 +35,7 @@ echo 'Creating a header for the list...'
 LINES=$(grep -c '' $TEMP/filterlist.txt)
 cat > $TEMP/headers.txt <<EOF
 ! Title: bogachenko's Filter List
-! Description: Yet another anti-bullshit filter list.
+! Description: A black list of malicious domains and trackers.
 ! Last modified: ${DATE}
 ! Version: ${VERSION}
 ! Expires: 3 hours
