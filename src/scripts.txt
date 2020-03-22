@@ -29,6 +29,7 @@
 |http*:*/doubleclick.js$important,script
 |http*:*/edmonton.webp$important,script
 |http*:*/ezcl.webp$important,script
+|http*:*/promo-banner.js|$script,important
 |http*:*/ezoic/$important,script,~third-party
 |http*:*/fp/tags.js$important,script
 |http*:*/inc/ezcl.$important,script
