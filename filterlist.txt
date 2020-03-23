@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
-! Description: A black list of malicious domains and trackers.
-! Last modified: 2020-03-22 22:58:54
-! Version: 20200322225854
+! Description: Yet another anti-bullshit filter list.
+! Last modified: 2020-03-23 21:59:47
+! Version: 20200323215947
 ! Expires: 3 hours
-! Number of filters: 15200
+! Number of filters: 15199
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -5391,7 +5391,6 @@
 ||hvvhxzdps.com^$important
 ||hvvxxszxslome.bid^$important
 ||hvwagkmgef.com^$important
-||hwcdn.net^$important
 ||hwcgnavycq.com^$important
 ||hwekl8dz1d.com^$important
 ||hwfcdqnvovij.com^$important
