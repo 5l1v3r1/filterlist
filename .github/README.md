@@ -1,6 +1,6 @@
 ## bogachenko's Filter List
 
-A black list of malicious domains and trackers.
+Yet another anti-bullshit filter list.
 
 #### RAW
 
