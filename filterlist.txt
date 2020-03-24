@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-23 21:59:47
-! Version: 20200323215947
+! Last modified: 2020-03-24 13:45:41
+! Version: 20200324134541
 ! Expires: 3 hours
-! Number of filters: 15199
+! Number of filters: 15200
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -3298,7 +3298,6 @@
 ||ed98512111bb19e5.in.net^$important
 ||ed9wkbpy.com^$important
 ||edfthzanlsyse.com^$important
-||edgekey.net^$important
 ||edgsscofljhc.com^$important
 ||edigitalsurvey.com^$important
 ||ednnpxhjsqyd.com^$important
@@ -7507,6 +7506,7 @@
 ||malgyhuytbnjb.bid^$important
 ||maloupperville.com^$important
 ||mament.co^$important
+||manila947bi.xyz^$important
 ||mannela.info^$important
 ||mappealist.club^$important
 ||mardjxrw.club^$important
@@ -9045,6 +9045,7 @@
 ||ozwtmmcdglos.com^$important
 ||ozyjicurrutehe.bid^$important
 ||ozymwqsycimr.com^$important
+||p.imgur.com^$important
 ||p1.assetscdn.stream^$important
 ||p1.gnrdomimplementation.com^$important
 ||p1.interestingz.pw^$important
