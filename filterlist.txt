@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-26 01:01:53
-! Version: 20200326010153
+! Last modified: 2020-03-26 20:41:46
+! Version: 20200326204146
 ! Expires: 3 hours
-! Number of filters: 15206
+! Number of filters: 15208
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1885,6 +1885,7 @@
 ||burnbubble.com^$important
 ||burobtnbpgkh.com^$important
 ||burvyzqwfqg.bid^$important
+||busfarmum.com^$important
 ||businessbells.com^$important
 ||bustlinganimal.com^$important
 ||butcalve.com^$important
@@ -3253,6 +3254,7 @@
 ||eaidabmuxbqy.com^$important
 ||eap7gcb.com^$important
 ||eaqxjz6bra.com^$important
+||eardewova.com^$important
 ||earnbigo.com^$important
 ||earnify.com^$important
 ||earthquakescarf.com^$important
@@ -9337,6 +9339,7 @@
 ||play-best-games-2k18.xyz^$important
 ||playe.vidto.se^$important
 ||playermailer.net^$important
+||playerseo.club^$important
 ||plcsedkinoul.com^$important
 ||pldsafpulgnw.com^$important
 ||pleboxviting.pro^$important
@@ -12673,7 +12676,6 @@
 ||vbxrcekqkmrzyd.com^$important
 ||vbyefnnrswpn.com^$important
 ||vcavpwzzx.bid^$important
-||vcdn.biz^$important
 ||vcdtowafqibekr.com^$important
 ||vcegsisugrwd.bid^$important
 ||vcfnspbgztl.com^$important
