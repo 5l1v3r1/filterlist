@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-29 18:07:08
-! Version: 20200329180708
+! Last modified: 2020-03-29 19:19:08
+! Version: 20200329191908
 ! Expires: 3 hours
-! Number of filters: 15213
+! Number of filters: 15223
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -151,7 +151,9 @@
 ||1.fembed.com^$important
 ||1063bac0d855f4e67bd4.date^$important
 ||110380d053f716c4.com^$important
+||11a581bbb5038e.com^$important
 ||1-1ads.com^$important
+||11ccda709b5cdf5.com^$important
 ||11hrcnll.com^$important
 ||123mdw.com^$important
 ||123sheying.com^$important
@@ -284,6 +286,7 @@
 ||3322.org^$important
 ||340ca71c.space^$important
 ||3412bf88fc05a986e55.com^$important
+||34667c8ece5.com^$important
 ||34pavouhj7.com^$important
 ||35.186.249.84^$important
 ||35.190.91.111^$important
@@ -384,6 +387,7 @@
 ||535447ed91a7b31514021d69bb3ee1b3.com^$important
 ||537c7cefec855.com^$important
 ||53b6a307827e19.com^$important
+||542fe1b0002a.com^$important
 ||544c27b3f0aae2.com^$important
 ||5483bbc5758.com^$important
 ||549a499e1e.com^$important
@@ -444,6 +448,7 @@
 ||67e0ffa991f1cb0.com^$important
 ||67frzna9e9.com^$important
 ||6868bbe42af8e518.com^$important
+||6942f24115b63.com^$important
 ||6ce0a8be8375b.com^$important
 ||6d47c1118927cf53ba9654931df80e8d.com^$important
 ||6d79qh7j.com^$important
@@ -543,6 +548,7 @@
 ||97d73lsi.com^$important
 ||97f37f3df0b9.com^$important
 ||98bf9h8jbg.com^$important
+||98ca4c0baf.com^$important
 ||990b424f659e4e27.com^$important
 ||993es3uxpz.com^$important
 ||995db2642d3d852b.com^$important
@@ -1523,6 +1529,7 @@
 ||bestgadgetoffers.icu^$important
 ||betboom.club^$important
 ||betimbur.com^$important
+||betrad.com^$important
 ||bettilt99.com^$important
 ||betweendigital.com^$important
 ||beufosew.bid^$important
@@ -3663,6 +3670,7 @@
 ||evhvoeqfrlsb.com^$important
 ||eviclick.pro^$important
 ||evideorun.com^$important
+||evidon.com^$important
 ||evimfftxa.com^$important
 ||evlvaulglzpu.com^$important
 ||evntcmetzefbv.bid^$important
@@ -5234,6 +5242,7 @@
 ||holexknw.loan^$important
 ||hollandaleresaca.com^$important
 ||hollowshake.com^$important
+||honeybadger.io^$important
 ||honeybulb.com^$important
 ||honeygoldfish.com^$important
 ||honorablehall.com^$important
@@ -14834,6 +14843,7 @@
 ||zidqkapwgnsh.com^$important
 ||zief.pl^$important
 ||ziejpzrv.cz.cc^$important
+||ziffdavis.com^$important
 ||ziffstatic.com^$important
 ||ziglpcxcxetsi.com^$important
 ||zijkalirgmyzj.bid^$important
