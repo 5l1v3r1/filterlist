@@ -2691,9 +2691,7 @@
 ||delegatediscussion.com^$important
 ||delightdriving.com^$important
 ||delightfulhour.com^$important
-||deliver.ptgncdn.com^$important
 ||deliverimp.com^$important
-||delivery.vidible.tv^$important
 ||deloplen.com^$important
 ||deloplenn.com^$important
 ||deloton.com^$important
