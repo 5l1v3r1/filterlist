@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-29 19:19:08
-! Version: 20200329191908
+! Last modified: 2020-03-30 15:03:12
+! Version: 20200330150312
 ! Expires: 3 hours
-! Number of filters: 15223
+! Number of filters: 15236
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -793,6 +793,7 @@
 ||adsrvr.org^$important
 ||adstarsmedia.co.id^$important
 ||ads-twitter.com^$important
+||adsvolume.com^$important
 ||adswizz.com^$important
 ||adswrapme.click^$important
 ||adsymptotic.com^$important
@@ -1038,6 +1039,7 @@
 ||amadagasca.com^$important
 ||amaecylce.com^$important
 ||amaqcgrrmedi.bid^$important
+||amarceusan.com^$important
 ||amauzaqp.com^$important
 ||amavirgin.pro^$important
 ||amazon-adsystem.com^$important
@@ -1066,6 +1068,7 @@
 ||amung.us^$important
 ||amwupsihqfewgr.com^$important
 ||an.yandex.ru^$important
+||analytic.press^$important
 ||analytics.blue^$important
 ||analytics.facebook.com^$important
 ||anasjdzutdmv.com^$important
@@ -1146,6 +1149,7 @@
 ||aptaeabkg.com^$important
 ||aptalebow.site^$important
 ||apuorlaqiscu.bid^$important
+||apus.tech^$important
 ||apwtlkkd.bid^$important
 ||apzbwicuuujw.bid^$important
 ||apzzvvztziqex.bid^$important
@@ -1196,6 +1200,7 @@
 ||aromamirror.com^$important
 ||arprijxrml.bid^$important
 ||arqxpopcywrr.bid^$important
+||artapeare.site^$important
 ||artelled.com^$important
 ||artnbnbam.com^$important
 ||artpever.com^$important
@@ -2784,6 +2789,7 @@
 ||delegatediscussion.com^$important
 ||delightdriving.com^$important
 ||delightfulhour.com^$important
+||deliver.ptgncdn.com^$important
 ||deliverimp.com^$important
 ||delivery.vidible.tv^$important
 ||deloplen.com^$important
@@ -5616,6 +5622,7 @@
 ||ihflwxrsptqz.com^$important
 ||ihghcmznlp.com^$important
 ||ihgkmgwfhjam.com^$important
+||ihjtrncfoha.com^$important
 ||ihmevshz.bid^$important
 ||ihosetch.com^$important
 ||ihqmycsct.bid^$important
@@ -7873,7 +7880,9 @@
 ||moocauby.com^$important
 ||mookie1.com^$important
 ||moomoopop.com^$important
+||moonads.net^$important
 ||moonbit.co.in^$important
+||moonicorn.network^$important
 ||moonsade.com^$important
 ||mopedisods.com^$important
 ||mopub.com^$important
@@ -8160,6 +8169,7 @@
 ||ncitwacpa.com^$important
 ||ncjjybttngffe.com^$important
 ||nclfwbnmcrci.com^$important
+||ncmfck.com^$important
 ||ncoibhdzttozh.com^$important
 ||ncouqiwjjaot.com^$important
 ||ncqlobobtqc.com^$important
@@ -9142,6 +9152,7 @@
 ||pasoherb.gq^$important
 ||passeura.com^$important
 ||pastoupt.com^$important
+||patgsrv.com^$important
 ||patroposalun.pro^$important
 ||patuarioahzaen.bid^$important
 ||paujoawa.top^$important
@@ -11619,6 +11630,7 @@
 ||tehkvecryl.com^$important
 ||teipgupp.com^$important
 ||tektbzadrceqje.com^$important
+||tempest.services.disqus.com^$important
 ||template-download.top^$important
 ||temtaifu.com^$important
 ||tendertest.com^$important
@@ -12919,6 +12931,7 @@
 ||vmmphpamtigpbi.com^$important
 ||vmojhghwpsuy.com^$important
 ||vmqbifesgqs.com^$important
+||vmraahnmspzy.com^$important
 ||vmrsmnrvzh.com^$important
 ||vmtaqxsf.bid^$important
 ||vmtjybwfb.com^$important

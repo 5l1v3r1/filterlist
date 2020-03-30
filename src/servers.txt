@@ -699,6 +699,7 @@
 ||adsrv.eacdn.com^$important
 ||adsrvr.org^$important
 ||adstarsmedia.co.id^$important
+||adsvolume.com^$important
 ||adswizz.com^$important
 ||adswrapme.click^$important
 ||adsymptotic.com^$important
@@ -944,6 +945,7 @@
 ||amadagasca.com^$important
 ||amaecylce.com^$important
 ||amaqcgrrmedi.bid^$important
+||amarceusan.com^$important
 ||amauzaqp.com^$important
 ||amavirgin.pro^$important
 ||amazon-adsystem.com^$important
@@ -972,6 +974,7 @@
 ||amung.us^$important
 ||amwupsihqfewgr.com^$important
 ||an.yandex.ru^$important
+||analytic.press^$important
 ||analytics.blue^$important
 ||analytics.facebook.com^$important
 ||anasjdzutdmv.com^$important
@@ -1052,6 +1055,7 @@
 ||aptaeabkg.com^$important
 ||aptalebow.site^$important
 ||apuorlaqiscu.bid^$important
+||apus.tech^$important
 ||apwtlkkd.bid^$important
 ||apzbwicuuujw.bid^$important
 ||apzzvvztziqex.bid^$important
@@ -1102,6 +1106,7 @@
 ||aromamirror.com^$important
 ||arprijxrml.bid^$important
 ||arqxpopcywrr.bid^$important
+||artapeare.site^$important
 ||artelled.com^$important
 ||artnbnbam.com^$important
 ||artpever.com^$important
@@ -1971,22 +1976,6 @@
 ||cbxadrwlccrky.bid^$important
 ||cbxqceuuwnaz.com^$important
 ||cbyjjheawrcfq.com^$important
-||exoclick.com^$important
-||analytic.press^$important
-||deliver.ptgncdn.com^$important
-||ncmfck.com^$important
-||moonads.net^$important
-||moonicorn.network^$important
-||adsvolume.com^$important
-||patgsrv.com^$important
-||vdo.ai^$important
-||i4rsrcj6.top^$important
-||vmraahnmspzy.com^$important
-||ihjtrncfoha.com^$important
-||tempest.services.disqus.com^$important
-||artapeare.site^$important
-||apus.tech^$important
-||amarceusan.com^$important
 ||cbzkrwjdskg.com^$important
 ||ccabzumewfk.bid^$important
 ||ccaypkuiauizuh.bid^$important
@@ -2702,6 +2691,7 @@
 ||delegatediscussion.com^$important
 ||delightdriving.com^$important
 ||delightfulhour.com^$important
+||deliver.ptgncdn.com^$important
 ||deliverimp.com^$important
 ||delivery.vidible.tv^$important
 ||deloplen.com^$important
@@ -5532,6 +5522,7 @@
 ||ihflwxrsptqz.com^$important
 ||ihghcmznlp.com^$important
 ||ihgkmgwfhjam.com^$important
+||ihjtrncfoha.com^$important
 ||ihmevshz.bid^$important
 ||ihosetch.com^$important
 ||ihqmycsct.bid^$important
@@ -7788,7 +7779,9 @@
 ||moocauby.com^$important
 ||mookie1.com^$important
 ||moomoopop.com^$important
+||moonads.net^$important
 ||moonbit.co.in^$important
+||moonicorn.network^$important
 ||moonsade.com^$important
 ||mopedisods.com^$important
 ||mopub.com^$important
@@ -8074,6 +8067,7 @@
 ||ncitwacpa.com^$important
 ||ncjjybttngffe.com^$important
 ||nclfwbnmcrci.com^$important
+||ncmfck.com^$important
 ||ncoibhdzttozh.com^$important
 ||ncouqiwjjaot.com^$important
 ||ncqlobobtqc.com^$important
@@ -9055,6 +9049,7 @@
 ||pasoherb.gq^$important
 ||passeura.com^$important
 ||pastoupt.com^$important
+||patgsrv.com^$important
 ||patroposalun.pro^$important
 ||patuarioahzaen.bid^$important
 ||paujoawa.top^$important
@@ -11527,6 +11522,7 @@
 ||tehkvecryl.com^$important
 ||teipgupp.com^$important
 ||tektbzadrceqje.com^$important
+||tempest.services.disqus.com^$important
 ||template-download.top^$important
 ||temtaifu.com^$important
 ||tendertest.com^$important
@@ -12824,6 +12820,7 @@
 ||vmmphpamtigpbi.com^$important
 ||vmojhghwpsuy.com^$important
 ||vmqbifesgqs.com^$important
+||vmraahnmspzy.com^$important
 ||vmrsmnrvzh.com^$important
 ||vmtaqxsf.bid^$important
 ||vmtjybwfb.com^$important
