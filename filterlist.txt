@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-30 15:06:19
-! Version: 20200330150619
+! Last modified: 2020-03-30 20:17:11
+! Version: 20200330201711
 ! Expires: 3 hours
-! Number of filters: 15234
+! Number of filters: 15237
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -4625,6 +4625,7 @@
 ||glhqdfmcchhk.bid^$important
 ||glhxoawgunlame.bid^$important
 ||glispa.com^$important
+||glitter.services.disqus.com^$important
 ||gljanrsxz.com^$important
 ||gllkdkxygckb.com^$important
 ||globalentrycard.site^$important
@@ -11964,6 +11965,7 @@
 ||traffic-service.info^$important
 ||traffic-tech-service.info^$important
 ||trafforsrv.com^$important
+||trahes.site^$important
 ||traneranium.com^$important
 ||tranquilside.com^$important
 ||trappush.com^$important
@@ -13514,6 +13516,7 @@
 ||worrybutter.com^$important
 ||worthathousandwords.com^$important
 ||wotilhqoftvl.com^$important
+||wowjogsot.com^$important
 ||wowlucky.net^$important
 ||woxvgdtje.com^$important
 ||wozltvfxtntaqk.com^$important

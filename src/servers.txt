@@ -8,9 +8,6 @@
 /^(https?|ftp|wss?):\/\/([^\s]+\.)?de\-mi\-nis\-ner([0-9]{1,3})?\.info/$important
 /^(https?|ftp|wss?):\/\/([^\s]+\.)?de\-ner\-mi\-nis([0-9]{1,3})?\.info/$important
 /^(https?|ftp|wss?):\/\/([^\s]+\.)?de\-nis\-ner\-mi\-[0-9]{1,3}\.info/$important
-||trahes.site^$important
-||wowjogsot.com^$important
-||glitter.services.disqus.com^$important
 /^(https?|ftp|wss?):\/\/([^\s]+\.)?mi\-de\-ner\-nis([0-9]{1,3})?\.info/$important
 /^(https?|ftp|wss?):\/\/([^\s]+\.)?ner\-de\-mi\-nis\-[0-9]{1,3}\.info/$important
 /^https?:\/\/(([a-zA-Z]{1})?[0-9]{1,4})?adserv\./$important
@@ -4530,6 +4527,7 @@
 ||glhqdfmcchhk.bid^$important
 ||glhxoawgunlame.bid^$important
 ||glispa.com^$important
+||glitter.services.disqus.com^$important
 ||gljanrsxz.com^$important
 ||gllkdkxygckb.com^$important
 ||globalentrycard.site^$important
@@ -11859,6 +11857,7 @@
 ||trafficjunky.com^$important
 ||trafficjunky.net^$important
 ||trafforsrv.com^$important
+||trahes.site^$important
 ||traneranium.com^$important
 ||tranquilside.com^$important
 ||trappush.com^$important
@@ -13406,6 +13405,7 @@
 ||worrybutter.com^$important
 ||worthathousandwords.com^$important
 ||wotilhqoftvl.com^$important
+||wowjogsot.com^$important
 ||wowlucky.net^$important
 ||woxvgdtje.com^$important
 ||wozltvfxtntaqk.com^$important
