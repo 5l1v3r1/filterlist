@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-04-01 14:38:53
-! Version: 20200401143853
+! Last modified: 2020-04-01 14:43:54
+! Version: 20200401144355
 ! Expires: 3 hours
-! Number of filters: 15266
+! Number of filters: 15263
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -2097,7 +2097,6 @@
 ||cdhzxcwuibzk.com^$important
 ||cdjchpojgifwc.ru^$important
 ||cdmjjvqzurn.com^$important
-||cdn.siteswithcontent.com/js/push/subscribe.js$important,script
 ||cdn7.rocks^$important
 ||cdnasiaclub.com^$important
 ||cdn-code.host^$important
@@ -15237,8 +15236,7 @@
 |http*:*/ga-google-analytics/$important,script
 |http*:*/get_geoip?$important,xmlhttprequest
 |http*:*/google-analyticator/$important,script
-|http*:*/google-analytics-dashboard-for-wp/$important,script
-|http*:*/google-analytics-for-wordpress/$important,script
+|http*:*/google-analytics-$important,script
 |http*:*/greenoaks.gif?$image,important
 |http*:*/grstat?$image,important
 |http*:*/hads-ak-prn*/*.png$image,important
@@ -15263,7 +15261,6 @@
 |http*:*/vinos.js$important,script
 |http*:*/woo-altcoin-payment-gateway$important,script
 |http*:*/wp-monero-miner-$important,script
-|http*:*/wp-monero-miner-using-coin-hive/$important,script
 |http*:*/wppas/$important
 |http*:*/www/*&zoneid=$image,important,script,xmlhttprequest
 |http*:*/www/delivery/$important
