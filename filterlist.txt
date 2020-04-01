@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-03-30 20:17:11
-! Version: 20200330201711
+! Last modified: 2020-04-01 14:31:14
+! Version: 20200401143114
 ! Expires: 3 hours
-! Number of filters: 15237
+! Number of filters: 15247
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -18,7 +18,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?ad[svbxo]?(er(ver?)?t?(ise|ising|isement)?)?\./$important,domain=~ad.nl|~ads.google.com
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?ads?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]?(visor|serve|bb|by|logs?|[rs]v[rs]?|sdk)([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?aff(iliat(es?|ion))([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?bann?ers?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?bann?i?er[se]?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?beacons?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?cli?ck?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?collectors?([0-9]{1,3})?\./$important
@@ -1058,6 +1058,7 @@
 ||amnpmitevuxx.com^$important
 ||amnrbviujof.com^$important
 ||amountinue.info^$important
+||ampallall.site^$important
 ||amplifypixel.outbrain.com^$important
 ||amplitude.com^$important
 ||ampnkoudpnd.bid^$important
@@ -1223,6 +1224,7 @@
 ||asgclickpp.com^$important
 ||ashaidart.site^$important
 ||ashaidbit.club^$important
+||ashamparm.site^$important
 ||ashwlrtiazee.com^$important
 ||asjdfasas.xyz^$important
 ||askallalb.club^$important
@@ -4073,6 +4075,7 @@
 ||flighty.*^$important
 ||flightzy.*^$important
 ||flimsycircle.com^$important
+||flimsythought.com^$important
 ||flirteenew.info^$important
 ||fljgsht.ru^$important
 ||fljozww19f.com^$important
@@ -4949,6 +4952,7 @@
 ||h8vzwpv.com^$important
 ||h92ir5s.com^$important
 ||h92zbpn4zcv1.com^$important
+||hadsanz.com^$important
 ||haezawhdumz.bid^$important
 ||hafbezbemwwd.com^$important
 ||hafksvqiir.com^$important
@@ -7670,6 +7674,7 @@
 ||mffurrpzbum.com^$important
 ||mfigasff.com^$important
 ||mfiksyuanw.bid^$important
+||mfio.cf^$important
 ||mfjegjqb.com^$important
 ||mflkgrgxadij.com^$important
 ||mfnjkgzqhoipe.bid^$important
@@ -8853,6 +8858,7 @@
 ||onclasrv.com^$important
 ||onclickmega.com^$important
 ||onclicksuper.com^$important
+||onemboaran.com^$important
 ||onesignal.com^$important
 ||ongkidcasarv.com^$important
 ||onhxejzm.bid^$important
@@ -9004,6 +9010,7 @@
 ||ovczxzkfkfbb.com^$important
 ||overconfidentfood.com^$important
 ||overely.com^$important
+||overratedchalk.com^$important
 ||ovfbwavekglf.com^$important
 ||ovgepsxx.com^$important
 ||ovgzbnjj.com^$important
@@ -9462,12 +9469,14 @@
 ||possibleboats.com^$important
 ||postaffiliatepro.com^$important
 ||postback.info^$important
+||postlnk.com^$important
 ||postrelease.com^$important
 ||postrsyk.com^$important
 ||potmbbqbaqxwp.com^$important
 ||potpourrichordataoscilloscope.com^$important
 ||povqrvsoljy.com^$important
 ||powerad.ai^$important
+||powerapp.download^$important
 ||poxwphidbuedh.com^$important
 ||ppbvmesssyacij.com^$important
 ||ppc.buzz^$important
@@ -9623,6 +9632,7 @@
 ||ptzbgvqpwnxg.com^$important
 ||ptzljkufu.com^$important
 ||pub.javwide.com^$important
+||pubdirecte.com^$important
 ||publish.web.id^$important
 ||pubmatic.com^$important
 ||pudptxanhspld.bid^$important

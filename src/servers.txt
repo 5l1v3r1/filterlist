@@ -964,6 +964,7 @@
 ||amnpmitevuxx.com^$important
 ||amnrbviujof.com^$important
 ||amountinue.info^$important
+||ampallall.site^$important
 ||amplifypixel.outbrain.com^$important
 ||amplitude.com^$important
 ||ampnkoudpnd.bid^$important
@@ -1129,6 +1130,7 @@
 ||asgclickpp.com^$important
 ||ashaidart.site^$important
 ||ashaidbit.club^$important
+||ashamparm.site^$important
 ||ashwlrtiazee.com^$important
 ||asjdfasas.xyz^$important
 ||askallalb.club^$important
@@ -3769,23 +3771,6 @@
 ||faultyfowl.com^$important
 ||favourity.pro^$important
 ||fawenys.xyz^$important
-||flimsythought.com^$important
-||overratedchalk.com^$important
-||ashaidbit.club^$important
-||ashamparm.site^$important
-||olineman.pro^$important
-||15257dddaccde96.com^$important
-||badspads.com^$important
-||areyouabot.net^$important
-||pushmejs.com^$important
-||pteefoak.com^$important
-||powerapp.download^$important
-||postlnk.com^$important
-||ampallall.site^$important
-||mfio.cf^$important
-||onemboaran.com^$important
-||hadsanz.com^$important
-||pubdirecte.com^$important
 ||fawhiybzs.bid^$important
 ||faxqaaawyb.com^$important
 ||faykdrhpo.com^$important
@@ -3992,6 +3977,7 @@
 ||flighty.*^$important
 ||flightzy.*^$important
 ||flimsycircle.com^$important
+||flimsythought.com^$important
 ||flirteenew.info^$important
 ||fljgsht.ru^$important
 ||fljozww19f.com^$important
@@ -4866,6 +4852,7 @@
 ||h8vzwpv.com^$important
 ||h92ir5s.com^$important
 ||h92zbpn4zcv1.com^$important
+||hadsanz.com^$important
 ||haezawhdumz.bid^$important
 ||hafbezbemwwd.com^$important
 ||hafksvqiir.com^$important
@@ -7586,6 +7573,7 @@
 ||mffurrpzbum.com^$important
 ||mfigasff.com^$important
 ||mfiksyuanw.bid^$important
+||mfio.cf^$important
 ||mfjegjqb.com^$important
 ||mflkgrgxadij.com^$important
 ||mfnjkgzqhoipe.bid^$important
@@ -8768,6 +8756,7 @@
 ||onclasrv.com^$important
 ||onclickmega.com^$important
 ||onclicksuper.com^$important
+||onemboaran.com^$important
 ||onesignal.com^$important
 ||ongkidcasarv.com^$important
 ||onhxejzm.bid^$important
@@ -8918,6 +8907,7 @@
 ||ovczxzkfkfbb.com^$important
 ||overconfidentfood.com^$important
 ||overely.com^$important
+||overratedchalk.com^$important
 ||ovfbwavekglf.com^$important
 ||ovgepsxx.com^$important
 ||ovgzbnjj.com^$important
@@ -9375,12 +9365,14 @@
 ||possibleboats.com^$important
 ||postaffiliatepro.com^$important
 ||postback.info^$important
+||postlnk.com^$important
 ||postrelease.com^$important
 ||postrsyk.com^$important
 ||potmbbqbaqxwp.com^$important
 ||potpourrichordataoscilloscope.com^$important
 ||povqrvsoljy.com^$important
 ||powerad.ai^$important
+||powerapp.download^$important
 ||poxwphidbuedh.com^$important
 ||ppbvmesssyacij.com^$important
 ||ppc.buzz^$important
@@ -9535,6 +9527,7 @@
 ||ptzbgvqpwnxg.com^$important
 ||ptzljkufu.com^$important
 ||pub.javwide.com^$important
+||pubdirecte.com^$important
 ||publish.web.id^$important
 ||pubmatic.com^$important
 ||pudptxanhspld.bid^$important
