@@ -43,8 +43,7 @@
 |http*:*/fp/tags.js$important,script
 |http*:*/ga-google-analytics/$important,script
 |http*:*/google-analyticator/$important,script
-|http*:*/google-analytics-dashboard-for-wp/$important,script
-|http*:*/google-analytics-for-wordpress/$important,script
+|http*:*/google-analytics-$important,script
 |http*:*/inc/ezcl.$important,script
 |http*:*/jellyfish.webp$important,script
 |http*:*/js/ht.js?$important,script
@@ -57,7 +56,5 @@
 |http*:*/vinos.js$important,script
 |http*:*/woo-altcoin-payment-gateway$important,script
 |http*:*/wp-monero-miner-$important,script
-|http*:*/wp-monero-miner-using-coin-hive/$important,script
-||cdn.siteswithcontent.com/js/push/subscribe.js$important,script
 ||spankcdn.net/*/pht*/pht*.js$important,script
 ||storage.googleapis.com/vkcdnservice.appspot.com/$important,script
