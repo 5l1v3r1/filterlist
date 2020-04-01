@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-04-01 14:31:14
-! Version: 20200401143114
+! Last modified: 2020-04-01 14:37:20
+! Version: 20200401143720
 ! Expires: 3 hours
-! Number of filters: 15247
+! Number of filters: 15267
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -15215,7 +15215,17 @@
 |http*:*/amp.gif?$image,important,xmlhttprequest
 |http*:*/atrk.js$important,script
 |http*:*/banger.js$important,script
+|http*:*/bitcoin-faucet/$important,script
+|http*:*/block-ads-to-bitcoin/$important,script
 |http*:*/clear.gif$image,important
+|http*:*/coin-miner/$important,script
+|http*:*/coinremitter-crypto-payment-gateway/$important,script
+|http*:*/cointent/$important,script
+|http*:*/crypto-coin-ticker/$important,script
+|http*:*/crypto-com-pay-checkout-for-woocommerce/$important,script
+|http*:*/cryptocurrency-coin-prices/$important,script
+|http*:*/cryptocurrency-donation-box/$important,script
+|http*:*/cryptocurrency-widgets-using-coingecko-api/$important,script
 |http*:*/doubleclick.js$important,script
 |http*:*/drstat?$image,important
 |http*:*/edmonton.webp$important,script
@@ -15224,7 +15234,11 @@
 |http*:*/ezcl.webp?$image,important
 |http*:*/ezoic/$important,script,~third-party
 |http*:*/fp/tags.js$important,script
+|http*:*/ga-google-analytics/$important,script
 |http*:*/get_geoip?$important,xmlhttprequest
+|http*:*/google-analyticator/$important,script
+|http*:*/google-analytics-dashboard-for-wp/$important,script
+|http*:*/google-analytics-for-wordpress/$important,script
 |http*:*/greenoaks.gif?$image,important
 |http*:*/grstat?$image,important
 |http*:*/hads-ak-prn*/*.png$image,important
@@ -15241,10 +15255,16 @@
 |http*:*/pview?event$important
 |http*:*/rtrg?$image,important
 |http*:*/s/su.php?t=$important
+|http*:*/simple-monero-miner-coin-hive/$important,script
 |http*:*/tags?org_id=$important
+|http*:*/top-coin/$important,script
+|http*:*/total-cryptos/$important,script
 |http*:*/uutils.fcg?$important,script
 |http*:*/vinos.js$important,script
+|http*:*/woo-altcoin-payment-gateway$important,script
+|http*:*/wp-monero-miner-$important,script
 |http*:*/wp-monero-miner-pro/$important
+|http*:*/wp-monero-miner-using-coin-hive/$important,script
 |http*:*/wppas/$important
 |http*:*/www/*&zoneid=$image,important,script,xmlhttprequest
 |http*:*/www/delivery/$important
