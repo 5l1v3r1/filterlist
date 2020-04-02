@@ -22,12 +22,6 @@
 ||0--e.info^$important
 ||00e46b7f53.com^$important
 ||00f31156f051fdf.com^$important
-||entitlements.jwplayer.com^$important
-||gwpjvfqeui.com^$important
-||tdeilxkjxgdedb.com^$important
-||hearstnp.com^$important
-||gigya.com^$important
-||moengage.com^$important
 ||01ced816b84.com^$important
 ||01counter.com^$important
 ||01jud3v55z.com^$important
@@ -3441,6 +3435,7 @@
 ||ensighten.com^$important
 ||enteder.com^$important
 ||enthusiasticdad.com^$important
+||entitlements.jwplayer.com^$important
 ||entlydazhcmlgx.com^$important
 ||enviousshape.com^$important
 ||enviousthread.com^$important
@@ -4477,6 +4472,7 @@
 ||giftdomain.site^$important
 ||gigphdgtszus.bid^$important
 ||gigvyvqe.com^$important
+||gigya.com^$important
 ||gimxqltq.bid^$important
 ||giphylee.com^$important
 ||gipmaxxp.bid^$important
@@ -4791,6 +4787,7 @@
 ||gvyliqny.bid^$important
 ||gwasavfgelbuah.bid^$important
 ||gwovohvkzay.com^$important
+||gwpjvfqeui.com^$important
 ||gwqkliacsn.bid^$important
 ||gwquuagkjxbq.com^$important
 ||gwudu.com^$important
@@ -4950,6 +4947,7 @@
 ||hdxfyoziizy.com^$important
 ||heaaizwhm.com^$important
 ||headyhook.com^$important
+||hearstnp.com^$important
 ||heatonnikolski.com^$important
 ||heavyplayground.com^$important
 ||heawnqbmsi.bid^$important
@@ -7761,6 +7759,7 @@
 ||modkehkcihvzi.bid^$important
 ||modulepush.com^$important
 ||moe.video^$important
+||moengage.com^$important
 ||moevideo.biz^$important
 ||mofrupteeuqnvc.bid^$important
 ||mofvrnbngcern.bid^$important
@@ -11510,6 +11509,7 @@
 ||tcyeyccspxod.com^$important
 ||tczvikamowfjte.com^$important
 ||tczzzlwpss.com^$important
+||tdeilxkjxgdedb.com^$important
 ||tdgysmmdru.bid^$important
 ||tdjfxeavusdpci.com^$important
 ||tdjoaosibes.com^$important
