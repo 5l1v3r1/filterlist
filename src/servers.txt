@@ -22,6 +22,12 @@
 ||0--e.info^$important
 ||00e46b7f53.com^$important
 ||00f31156f051fdf.com^$important
+||entitlements.jwplayer.com^$important
+||gwpjvfqeui.com^$important
+||tdeilxkjxgdedb.com^$important
+||hearstnp.com^$important
+||gigya.com^$important
+||moengage.com^$important
 ||01ced816b84.com^$important
 ||01counter.com^$important
 ||01jud3v55z.com^$important
