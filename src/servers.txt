@@ -861,6 +861,7 @@
 ||aiwhebey.com^$important
 ||aiypulgy.com^$important
 ||aizopowmtnho.com^$important
+||aj1110.online^$important
 ||aj1713.online^$important
 ||aj1907.online^$important
 ||aj2073.online^$important
@@ -2863,11 +2864,6 @@
 ||dlpgebxqq.com^$important
 ||dlpypwmo.com^$important
 ||dlsear.com^$important
-||onemboaran.com^$important
-||jads.co^$important
-||rdr3.xyz^$important
-||popmajor.com^$important
-||punosy.top^$important
 ||dlsgjkayn.com^$important
 ||dlwmksxohvw.com^$important
 ||dlwssyqp.com^$important
@@ -2878,10 +2874,6 @@
 ||dmatquyckwtu.com^$important
 ||dmbjbgiifpfo.com^$important
 ||dmgcxznqmmiek.com^$important
-||aj1110.online^$important
-||padspms.com^$important
-||receita.store^$important
-||sdkfjxjertertry.com^$important
 ||dmgexalrtsqrvx.com^$important
 ||dmjcabavsraf.com^$important
 ||dmkadnohjoqh.com^$important
@@ -5904,6 +5896,7 @@
 ||jacmnkcusf.com^$important
 ||jacroxrssmme.bid^$important
 ||jadeitite.com^$important
+||jads.co^$important
 ||jaihowgr.com^$important
 ||jairtejvkqiux.com^$important
 ||jaizouji.com^$important
@@ -9559,6 +9552,7 @@
 ||punksgotoserver21.live^$important
 ||punlkhusprgw.com^$important
 ||punosy.com^$important
+||punosy.top^$important
 ||puntoenun.site^$important
 ||punvqjsvnmubxb.com^$important
 ||puogotzrsvtg.com^$important
@@ -10234,6 +10228,7 @@
 ||rdpqiqlirf.com^$important
 ||rdqyasdstllr.com^$important
 ||rdr-friday39.life^$important
+||rdr3.xyz^$important
 ||rdrkxlmlqpqns.com^$important
 ||rdthuvynnwgind.com^$important
 ||rdvrxbxwxspxd.com^$important
@@ -10259,6 +10254,7 @@
 ||reaster.info^$important
 ||reauthenticator.com^$important
 ||rebelsubway.com^$important
+||receita.store^$important
 ||receptiveink.com^$important
 ||receptivereaction.com^$important
 ||reconditerake.com^$important
@@ -10813,6 +10809,7 @@
 ||sdeadbqsjam.com^$important
 ||sdemctwaiazt.com^$important
 ||sdfmxhdj.bid^$important
+||sdkfjxjertertry.com^$important
 ||sdmfzlswxgzl.com^$important
 ||sdmhsxlp.bid^$important
 ||sdqspuyipbof.com^$important

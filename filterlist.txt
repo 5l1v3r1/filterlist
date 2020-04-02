@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-04-02 22:09:39
-! Version: 20200402220939
+! Last modified: 2020-04-03 03:57:26
+! Version: 20200403035726
 ! Expires: 3 hours
-! Number of filters: 15269
+! Number of filters: 15275
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -955,6 +955,7 @@
 ||aiwhebey.com^$important
 ||aiypulgy.com^$important
 ||aizopowmtnho.com^$important
+||aj1110.online^$important
 ||aj1713.online^$important
 ||aj1907.online^$important
 ||aj2073.online^$important
@@ -5995,6 +5996,7 @@
 ||jacmnkcusf.com^$important
 ||jacroxrssmme.bid^$important
 ||jadeitite.com^$important
+||jads.co^$important
 ||jaihowgr.com^$important
 ||jairtejvkqiux.com^$important
 ||jaizouji.com^$important
@@ -9654,6 +9656,7 @@
 ||punksgotoserver21.live^$important
 ||punlkhusprgw.com^$important
 ||punosy.com^$important
+||punosy.top^$important
 ||puntoenun.site^$important
 ||punvqjsvnmubxb.com^$important
 ||puogotzrsvtg.com^$important
@@ -10328,6 +10331,7 @@
 ||rdooybwcuyg.com^$important
 ||rdpqiqlirf.com^$important
 ||rdqyasdstllr.com^$important
+||rdr3.xyz^$important
 ||rdr-friday39.life^$important
 ||rdrkxlmlqpqns.com^$important
 ||rdthuvynnwgind.com^$important
@@ -10354,6 +10358,7 @@
 ||reaster.info^$important
 ||reauthenticator.com^$important
 ||rebelsubway.com^$important
+||receita.store^$important
 ||receptiveink.com^$important
 ||receptivereaction.com^$important
 ||reconditerake.com^$important
@@ -10908,6 +10913,7 @@
 ||sdeadbqsjam.com^$important
 ||sdemctwaiazt.com^$important
 ||sdfmxhdj.bid^$important
+||sdkfjxjertertry.com^$important
 ||sdmfzlswxgzl.com^$important
 ||sdmhsxlp.bid^$important
 ||sdqspuyipbof.com^$important
