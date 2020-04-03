@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-04-03 17:23:12
-! Version: 20200403172312
+! Last modified: 2020-04-03 20:31:27
+! Version: 20200403203127
 ! Expires: 3 hours
-! Number of filters: 15279
+! Number of filters: 15275
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -529,6 +529,7 @@
 ||8kegwpjw50.com^$important
 ||8mdphsb8fm.com^$important
 ||8s32e590un.com^$important
+||8ue4.xyz^$important
 ||8ue9q7i.com^$important
 ||8v8afxt8lg.com^$important
 ||8wey4x0c.com^$important
@@ -1301,7 +1302,6 @@
 ||avyrpwvm.com^$important
 ||awaeswvqd.bid^$important
 ||awakebird.com^$important
-||awaps.yandex.*^$important
 ||awcpmsaiv.com^$important
 ||awfjqdhcuftd.com^$important
 ||awgdgpawhwgi.bid^$important
@@ -1620,6 +1620,7 @@
 ||bigdown27.icu^$important
 ||bigdown34.life^$important
 ||bigdown6.agency^$important
+||bigoff.info^$important
 ||bigreal.org^$important
 ||bihzqdflxeelc.com^$important
 ||biijdpauyvf.com^$important
@@ -1855,6 +1856,7 @@
 ||bs-meta.yandex.ru^$important
 ||bsmryjou.com^$important
 ||bsnbfufjgxrb.com^$important
+||bsoswwiwzs.com^$important
 ||bspjagxietut.com^$important
 ||bsqliktzudq.bid^$important
 ||bsrmcmvdoeyzib.com^$important
@@ -3034,7 +3036,6 @@
 ||dotomi.com^$important
 ||douangvwl.com^$important
 ||doublecklick.net^$important
-||doubleclick*.*^$important
 ||doubleclick-analytics.com^$important
 ||doubledeepclick.com^$important
 ||doublelimpup.com^$important
@@ -4699,11 +4700,6 @@
 ||goodbookbook.com^$important
 ||google.com/async/*&async=encoded_cache_key$xmlhttprequest
 ||google.com^*/viewerimpressions?$important,xmlhttprequest
-||googleadservices.com^$important
-||googleanalytics.com^$important
-||google-analytics.com^$important
-||googletagmanager.com^$important
-||googletagservices.com^$important
 ||googlo.co^$important
 ||goonline13.online^$important
 ||goowurzdotcom.bid^$important
