@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-04-03 17:19:07
-! Version: 20200403171907
+! Last modified: 2020-04-03 17:23:12
+! Version: 20200403172312
 ! Expires: 3 hours
-! Number of filters: 15280
+! Number of filters: 15279
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -948,7 +948,6 @@
 ||aionvpexcmm.com^$important
 ||aioxvilwpg.bid^$important
 ||aiprvqqnhm.com^$important
-||airartapt.site^$$important
 ||airartapt.site^$important
 ||airfhtyo.bid^$important
 ||aitdwhmcvlm.com^$important
