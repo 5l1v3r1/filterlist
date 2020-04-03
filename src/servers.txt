@@ -1206,7 +1206,6 @@
 ||avyrpwvm.com^$important
 ||awaeswvqd.bid^$important
 ||awakebird.com^$important
-||awaps.yandex.*^$important
 ||awcpmsaiv.com^$important
 ||awfjqdhcuftd.com^$important
 ||awgdgpawhwgi.bid^$important
@@ -2936,7 +2935,6 @@
 ||dotomi.com^$important
 ||douangvwl.com^$important
 ||doublecklick.net^$important
-||doubleclick*.*^$important
 ||doubleclick-analytics.com^$important
 ||doubledeepclick.com^$important
 ||doublelimpup.com^$important
@@ -4599,11 +4597,6 @@
 ||goo4anywhere.com^$important
 ||gooblesdd.com^$important
 ||goodbookbook.com^$important
-||google-analytics.com^$important
-||googleadservices.com^$important
-||googleanalytics.com^$important
-||googletagmanager.com^$important
-||googletagservices.com^$important
 ||googlo.co^$important
 ||goonline13.online^$important
 ||goowurzdotcom.bid^$important
@@ -5455,6 +5448,10 @@
 ||idcoyhwzthhjv.com^$important
 ||idcwp6j6sm.com^$important
 ||iddgzongegt.com^$important
+||bigoff.info^$important
+||xjijqczj.com^$important
+||bsoswwiwzs.com^$important
+||8ue4.xyz^$important
 ||iddjpop.com^$important
 ||iddpop.com^$important
 ||iddvmkxme.com^$important
