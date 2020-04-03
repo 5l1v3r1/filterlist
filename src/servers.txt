@@ -40,10 +40,6 @@
 ||09fee6914d1b6450885.com^$important
 ||0azx1.com^$important
 ||0byv9mgbn0.com^$important
-||passtechusa.com^$important
-||hnlsyandeos.com^$important
-||iiripeedqfj.com^$important
-||souvlatraffic.com^$important
 ||0d96a0971a04071.com^$important
 ||0eijh8996i.com^$important
 ||0f81i8zmcp.com^$important
@@ -5133,6 +5129,7 @@
 ||hnitbiubtg.bid^$important
 ||hnivikwwypcv.com^$important
 ||hnkbivnten.com^$important
+||hnlsyandeos.com^$important
 ||hnnp4ixxkl.com^$important
 ||hnntopkvrsivwc.com^$important
 ||hnoajsaivjsg.com^$important
@@ -5554,6 +5551,7 @@
 ||iinkhwsh.bid^$important
 ||iipivevueme.com^$important
 ||iipkiyju.bid^$important
+||iiripeedqfj.com^$important
 ||iisfpzkkxkz.com^$important
 ||iisksudks.xyz^$important
 ||iitfqholnpud.com^$important
@@ -9065,6 +9063,7 @@
 ||pascal5.science^$important
 ||pasoherb.gq^$important
 ||passeura.com^$important
+||passtechusa.com^$important
 ||pastoupt.com^$important
 ||patgsrv.com^$important
 ||patroposalun.pro^$important
@@ -11144,6 +11143,7 @@
 ||soszgtvox.bid^$important
 ||soujoobafoo.com^$important
 ||southening.info^$important
+||souvlatraffic.com^$important
 ||sovcbhem.bid^$important
 ||sovqylkbucid.com^$important
 ||soyzsnaivas.com^$important

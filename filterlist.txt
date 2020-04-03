@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-04-03 03:57:26
-! Version: 20200403035726
+! Last modified: 2020-04-03 17:19:07
+! Version: 20200403171907
 ! Expires: 3 hours
-! Number of filters: 15275
+! Number of filters: 15280
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -16,7 +16,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?(metri[ck]?[asx]?|mtrcs?)([0-9]{1,3})?\./$important,domain=~metrica.yandex.com|~metrica.yandex.ru|~metrika.yandex.com|~metrika.yandex.ru
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?69([a-z]{1,2})\.([a-z]{4})/$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?ad[svbxo]?(er(ver?)?t?(ise|ising|isement)?)?\./$important,domain=~ad.nl|~ads.google.com
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?ads?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]?(visor|serve|bb|by|logs?|[rs]v[rs]?|sdk)([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?ads?[!"#$%&'()*+.,:;<=>?@\/\^_`{|}~-]?(visor|serve|bb|by|logs?|[rs]v[rs]?|sdk|delivery)([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?aff(iliat(es?|ion))([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?bann?i?er[se]?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?beacons?([0-9]{1,3})?\./$important
@@ -38,13 +38,14 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?piwik([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?puss[0-9]{2,3}\.com/$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?px-intl([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?re[ck](lam(?:a|s|er)?)?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?re[ck]l?(am[as]?)?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?sdk\-(diagnostics?|ads?)([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?snippets?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?stat(s|istics?)?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?sxcdn([0-9]{1,3})?\.now\.sh/$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?tags?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?telemetr(y|ics)?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?tizers?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?tr([a-zA-Z0-9]{1})?ck([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?track(ers?|ing|cli?ck?)?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?vast([a-z]{1})?([0-9]{1,3})?\./$important
@@ -5228,6 +5229,7 @@
 ||hnitbiubtg.bid^$important
 ||hnivikwwypcv.com^$important
 ||hnkbivnten.com^$important
+||hnlsyandeos.com^$important
 ||hnnp4ixxkl.com^$important
 ||hnntopkvrsivwc.com^$important
 ||hnoajsaivjsg.com^$important
@@ -5649,6 +5651,7 @@
 ||iinkhwsh.bid^$important
 ||iipivevueme.com^$important
 ||iipkiyju.bid^$important
+||iiripeedqfj.com^$important
 ||iisfpzkkxkz.com^$important
 ||iisksudks.xyz^$important
 ||iitfqholnpud.com^$important
@@ -9163,6 +9166,7 @@
 ||pascal5.science^$important
 ||pasoherb.gq^$important
 ||passeura.com^$important
+||passtechusa.com^$important
 ||pastoupt.com^$important
 ||patgsrv.com^$important
 ||patroposalun.pro^$important
@@ -11244,6 +11248,7 @@
 ||soszgtvox.bid^$important
 ||soujoobafoo.com^$important
 ||southening.info^$important
+||souvlatraffic.com^$important
 ||sovcbhem.bid^$important
 ||sovqylkbucid.com^$important
 ||soyzsnaivas.com^$important
