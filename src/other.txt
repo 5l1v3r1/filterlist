@@ -50,7 +50,6 @@
 |http*:*/*?proxy=wss://$important
 |http*:*/empty.php$important
 |http*:*/in.php?*&referer=$important
-|http*:*/pagead/$important
 |http*:*/pview?event$important
 |http*:*/s/su.php?t=$important
 |http*:*/tags?org_id=$important
