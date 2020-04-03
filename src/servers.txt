@@ -2939,7 +2939,6 @@
 ||douangvwl.com^$important
 ||doublecklick.net^$important
 ||doubleclick-analytics.com^$important
-||doubleclick.net^$important
 ||doubledeepclick.com^$important
 ||doublelimpup.com^$important
 ||doublepimp.com^$important
@@ -4601,11 +4600,6 @@
 ||goo4anywhere.com^$important
 ||gooblesdd.com^$important
 ||goodbookbook.com^$important
-||google-analytics.com^$important
-||googleadservices.com^$important
-||googleanalytics.com^$important
-||googletagmanager.com^$important
-||googletagservices.com^$important
 ||googlo.co^$important
 ||goonline13.online^$important
 ||goowurzdotcom.bid^$important
@@ -4619,6 +4613,7 @@
 ||gostats.com^$important
 ||gostats.ru^$important
 ||gosvhpsc.com^$important
+||mediametrics.ru^$important
 ||gotourls.bid^$important
 ||gouowkjmewn.com^$important
 ||gouytrujxuhkzk.bid^$important
