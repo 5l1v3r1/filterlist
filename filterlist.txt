@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-04-03 20:56:42
-! Version: 20200403205642
+! Last modified: 2020-04-03 21:13:57
+! Version: 20200403211357
 ! Expires: 3 hours
-! Number of filters: 15280
+! Number of filters: 15275
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -3036,7 +3036,6 @@
 ||dotomi.com^$important
 ||douangvwl.com^$important
 ||doublecklick.net^$important
-||doubleclick.net^$important
 ||doubleclick-analytics.com^$important
 ||doubledeepclick.com^$important
 ||doublelimpup.com^$important
@@ -4701,11 +4700,6 @@
 ||goodbookbook.com^$important
 ||google.com/async/*&async=encoded_cache_key$xmlhttprequest
 ||google.com^*/viewerimpressions?$important,xmlhttprequest
-||googleadservices.com^$important
-||googleanalytics.com^$important
-||google-analytics.com^$important
-||googletagmanager.com^$important
-||googletagservices.com^$important
 ||googlo.co^$important
 ||goonline13.online^$important
 ||goowurzdotcom.bid^$important
@@ -7634,6 +7628,7 @@
 ||mecounxmawn.bid^$important
 ||mecsjjkomehyv.com^$important
 ||mediadisclose.com^$important
+||mediametrics.ru^$important
 ||mediaoaktree.com^$important
 ||mediatoday.ru^$important
 ||medic-informator-a.ru^$important

@@ -4613,7 +4613,6 @@
 ||gostats.com^$important
 ||gostats.ru^$important
 ||gosvhpsc.com^$important
-||mediametrics.ru^$important
 ||gotourls.bid^$important
 ||gouowkjmewn.com^$important
 ||gouytrujxuhkzk.bid^$important
@@ -7528,6 +7527,7 @@
 ||mecounxmawn.bid^$important
 ||mecsjjkomehyv.com^$important
 ||mediadisclose.com^$important
+||mediametrics.ru^$important
 ||mediaoaktree.com^$important
 ||mediatoday.ru^$important
 ||medic-informator-a.ru^$important
