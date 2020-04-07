@@ -16,3 +16,4 @@
 ||youtube.com/get_endscreen?$important,xmlhttprequest
 ||youtube.com/get_midroll_info^$important,xmlhttprequest
 ||youtube.com/get_video_info?*el=adunit$important,xmlhttprequest
+||alloha.tv/index.php?ref=*&domain=$important,xmlhttprequest
