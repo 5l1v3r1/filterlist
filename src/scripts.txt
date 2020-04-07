@@ -22,8 +22,7 @@
 /^https?:\/\/[a-z]{6,9}\.(online|pw|xyz)\/[0-9a-zA-Z]{12,16}\/[0-9]{4,6}$/$important,script,third-party
 /^https?:\/\/cdn[0-9]{1,3}?\.rocks\/[^\s]{30,}\.js/$important,script
 /^https?:\/\/www\.([a-z]{6,16})\.com\/([a-z]{1,4})\.js$/$important,script,third-party
-|http*:*/aj-cryptominer.$important,script
-|http*:*/ajcryptominer.$important,script
+/^https?:\/\/[^\s]+\/aj\-?cryptominer\./$important,script
 |http*:*/atrk.js$important,script
 |http*:*/banger.js$important,script
 |http*:*/bitcoin-faucet/$important,script
@@ -33,9 +32,7 @@
 |http*:*/cointent/$important,script
 |http*:*/crypto-coin-ticker/$important,script
 |http*:*/crypto-com-pay-checkout-for-woocommerce/$important,script
-|http*:*/cryptocurrency-coin-prices/$important,script
-|http*:*/cryptocurrency-donation-box/$important,script
-|http*:*/cryptocurrency-widgets-using-coingecko-api/$important,script
+|http*:*/cryptocurrency-$important,script
 |http*:*/doubleclick.js$important,script
 |http*:*/edmonton.webp$important,script
 |http*:*/ezcl.webp$important,script
