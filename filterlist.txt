@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-04-06 23:53:38
-! Version: 20200406235338
+! Last modified: 2020-04-07 17:10:43
+! Version: 20200407171043
 ! Expires: 3 hours
-! Number of filters: 15289
+! Number of filters: 15295
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1029,6 +1029,7 @@
 ||allmygreatlife.com^$important
 ||allmyverygreatlife.com^$important
 ||allnvbtrtpku.com^$important
+||alloha.tv/index.php?ref=*&domain=$important,xmlhttprequest
 ||allstat-pp.ru^$important
 ||allsubscribes.com^$important
 ||almeusciu.site^$important
@@ -4628,6 +4629,7 @@
 ||glcgytymbp.bid^$important
 ||glcpzwihisagw.bid^$important
 ||gld35wndkn.com^$important
+||gleaminist.info^$important
 ||glenviewexcello.com^$important
 ||glfiivzom.com^$important
 ||glfnjyzix.bid^$important
@@ -7759,6 +7761,7 @@
 ||minr.pw^$important
 ||miovsibmkpy.com^$important
 ||miquonearlham.com^$important
+||mirando.de^$important
 ||mirox23.biz^$important
 ||mirrordrive.net^$important
 ||misdem.pro^$important
@@ -9030,6 +9033,7 @@
 ||ovjlgvapqhmpy.com^$important
 ||ovkihcbxsbfeo.com^$important
 ||ovmeaxabvfor.com^$important
+||ovmzlptjfci.com^$important
 ||ovoczhahelca.com^$important
 ||ovqsyawrm.com^$important
 ||ovrdkhamiljt.com^$important
@@ -9729,6 +9733,7 @@
 ||pvgfdgv.com^$important
 ||pviztjecuczh.com^$important
 ||pvjhglgpil.bid^$important
+||pvmkyvtt.com^$important
 ||pvoplkodbxra.com^$important
 ||pvpqgjkgvszq.com^$important
 ||pvptwhhkfmog.com^$important
@@ -10429,6 +10434,7 @@
 ||revbigo.com^$important
 ||revcontent.com^$important
 ||reviewnotifyfriends.info^$important
+||revrtb.net^$important
 ||reyden-x.com^$important
 ||rezbzvrbemeb.bid^$important
 ||rezfubngrzdet.bid^$important
