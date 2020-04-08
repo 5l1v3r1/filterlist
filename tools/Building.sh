@@ -24,13 +24,9 @@ else
 echo 'Directory already exists'  
 fi
 python FOP.py $SRC
-cp $SRC/combined.txt $TEMP
-cp $SRC/images.txt $TEMP
 cp $SRC/other.txt $TEMP
-cp $SRC/scripts.txt $TEMP
 cp $SRC/servers.txt $TEMP
-cp $SRC/xmlhttprequest.txt $TEMP
-sort --output=$TEMP/filterlist.txt $TEMP/combined.txt $TEMP/images.txt $TEMP/other.txt $TEMP/scripts.txt $TEMP/servers.txt $TEMP/xmlhttprequest.txt
+sort --output=$TEMP/filterlist.txt $TEMP/other.txt $TEMP/servers.txt
 echo 'Creating a header for the list...'
 LINES=$(grep -c '' $TEMP/filterlist.txt)
 cat > $TEMP/headers.txt <<EOF
