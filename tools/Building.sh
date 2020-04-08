@@ -9,6 +9,8 @@ SRC='../src/'
 DATE=$(date '+%Y-%m-%d %H:%M:%S')
 VERSION=$(date '+%Y%m%d%H%M%S')
 
+if [ -e "$SRC" ]
+then
 echo 'Updating the filter lists...'
 git pull
 git status
@@ -62,3 +64,7 @@ select yn in "Yes" "No"; do
 done
 echo 'Upload finished'
 sleep 1
+else
+        echo "There is no SRC root directory, check your data."
+		read -n 1 -s -r -p 'Press any key to exit.'
+fi
