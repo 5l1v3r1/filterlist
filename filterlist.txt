@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-04-09 02:06:11
-! Version: 20200409020611
+! Last modified: 2020-04-10 18:48:08
+! Version: 20200410184808
 ! Expires: 3 hours
-! Number of filters: 15146
+! Number of filters: 15150
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -272,6 +272,7 @@
 ||3rpagb7k11.com^$important
 ||3t53ambeaq.com^$important
 ||3wdf4.xyz^$important
+||3wr110.xyz^$important
 ||3z6hirxo24.com^$important
 ||40dcbbc601.com^$important
 ||41944cecfb85.com^$important
@@ -778,6 +779,7 @@
 ||advmaiotg.com^$important
 ||advmaker.su^$important
 ||advmusic.net^$important
+||advon.net^$important
 ||adwidgets.ru^$important
 ||adworkmedia.net^$important
 ||adworldmedia.com^$important
@@ -1084,7 +1086,6 @@
 ||applicalled.club^$important
 ||applovin.com^$important
 ||applvn.com^$important
-||app-measurement.com^$important
 ||appsee.com^$important
 ||appsflyer.com^$important
 ||aprddnfuzc.bid^$important
@@ -4004,6 +4005,7 @@
 ||fkvjntfj.com^$important
 ||fkwwhndzjlqrm.com^$important
 ||flakyfeast.com^$important
+||flare-analytics.com^$important
 ||flash-searchfor-find.icu^$important
 ||flashx.*^$important
 ||flavordecision.com^$important
@@ -4172,6 +4174,7 @@
 ||frtkblgbqc.bid^$important
 ||frxgmxkg.bid^$important
 ||frxohovv.com^$important
+||fryawlauk.com^$important
 ||fsapltvckyb.bid^$important
 ||fscslwmvbadncb.com^$important
 ||fsddidfmmzvw.com^$important
@@ -14851,6 +14854,7 @@
 ||zjjcsdfqewqqi.bid^$important
 ||zjkdrqtjowihn.com^$important
 ||zjlinkwell.cn^$important
+||zjllvkfa.com^$important
 ||zjncvhnkh.com^$important
 ||zjnmgmidmx.com^$important
 ||zjo0tjqpm1.com^$important
