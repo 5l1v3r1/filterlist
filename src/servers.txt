@@ -1030,7 +1030,6 @@
 ||aplfkrppjsutf.com^$important
 ||apmgzzaej.bid^$important
 ||apmkcdsnv.bid^$important
-||app-measurement.com^$important
 ||appared.online^$important
 ||appbaqend.com^$important
 ||appearch.info^$important
@@ -1051,6 +1050,12 @@
 ||aptaeabkg.com^$important
 ||aptalebow.site^$important
 ||apuorlaqiscu.bid^$important
+||fryawlauk.com^$important
+||advon.net^$important
+||zjllvkfa.com^$important
+||qkspafpgg.com^$important
+||flare-analytics.com^$important
+||3wr110.xyz^$important
 ||apus.tech^$important
 ||apwtlkkd.bid^$important
 ||apzbwicuuujw.bid^$important
