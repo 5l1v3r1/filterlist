@@ -20,19 +20,6 @@
 ||01mspmd5yalky8.com^$important
 ||024xuyisheng.com^$important
 ||0377shujuhuifu.top^$important
-||6bgaput9ullc.com^$important
-||fundingchoices.google.com^$important
-||xyz0k4gfs.xyz^$important
-||mk1lyl406xmp.com^$important
-||zop381q5o0q1.com^$important
-||jqk72ugyl2pz.com^$important
-||alfmk.ru^$important
-||leads.su^$important
-||ruuwkftrtegqj.com^$important
-||zlluzejac.com^$important
-||ampugi334f.com^$important
-||bo4news.biz^$important
-||checking-your-browser.com^$important
 ||0452jhw.com^$important
 ||04v70ab.com^$important
 ||05a7946eef5d.com^$important
@@ -362,6 +349,7 @@
 ||67frzna9e9.com^$important
 ||6868bbe42af8e518.com^$important
 ||6942f24115b63.com^$important
+||6bgaput9ullc.com^$important
 ||6ce0a8be8375b.com^$important
 ||6d47c1118927cf53ba9654931df80e8d.com^$important
 ||6d79qh7j.com^$important
@@ -920,6 +908,7 @@
 ||alertafterthought.com^$important
 ||alexametrics.com^$important
 ||alflying.*^$important
+||alfmk.ru^$important
 ||alfredean.com^$important
 ||algkebjdgafa.com^$important
 ||algnnojsdr.com^$important
@@ -1657,6 +1646,7 @@
 ||bnstnhto.com^$important
 ||bnutuin.com^$important
 ||bnwjoqkudmh.bid^$important
+||bo4news.biz^$important
 ||boaawvdg.com^$important
 ||boacheeb.com^$important
 ||bobwjhcuavqklk.com^$important
@@ -2091,6 +2081,7 @@
 ||chaumontbalko.com^$important
 ||check-now.net^$important
 ||checkaccusefriends.info^$important
+||checking-your-browser.com^$important
 ||checkyofeed.com^$important
 ||cheerfulrange.com^$important
 ||chemicalcoach.com^$important
@@ -4203,6 +4194,7 @@
 ||fun520.fun^$important
 ||functionalclam.com^$important
 ||functionalcrown.com^$important
+||fundingchoices.google.com^$important
 ||funnyairplane.com^$important
 ||funysmile93.agency^$important
 ||fupgvldb.com^$important
@@ -6217,6 +6209,7 @@
 ||jqgblwjfvox.com^$important
 ||jqibqqxghcfk.com^$important
 ||jqinqsrmygeu.com^$important
+||jqk72ugyl2pz.com^$important
 ||jqkxaejcijfz.com^$important
 ||jqleeknw.com^$important
 ||jqmcbepfjgks.com^$important
@@ -6949,6 +6942,7 @@
 ||ldxdpitoeox.com^$important
 ||ldybupeeeoq.bid^$important
 ||ldyiuvdoahxz.com^$important
+||leads.su^$important
 ||leanplum.com^$important
 ||leaplunchroom.com^$important
 ||learndex.ic38exam^$important
@@ -7686,6 +7680,7 @@
 ||mjpjjbbvct.com^$important
 ||mjquyspsrgybs.com^$important
 ||mjujcjfrgslf.com^$important
+||mk1lyl406xmp.com^$important
 ||mka8vaj2ru.com^$important
 ||mkalruavzrtmh.com^$important
 ||mkattqhvcikx.bid^$important
@@ -10631,6 +10626,7 @@
 ||ruthlessdegree.com^$important
 ||ruthlessrobin.com^$important
 ||rutrk.org^$important
+||ruuwkftrtegqj.com^$important
 ||ruvuryua.ru^$important
 ||ruzttiecdedv.com^$important
 ||ruzwwrkgthfobd.com^$important
@@ -14857,6 +14853,7 @@
 ||zlfttgbmzk.bid^$important
 ||zlgokeby.com^$important
 ||zlkrhsbkdf.bid^$important
+||zlluzejac.com^$important
 ||zlmbspplqvftur.com^$important
 ||zlonearus.info^$important
 ||zlp6s.pw^$important
@@ -14914,6 +14911,7 @@
 ||zonhpljclov.com^$important
 ||zoomanalytics.co^$important
 ||zoowknbw.com^$important
+||zop381q5o0q1.com^$important
 ||zospzfvxkshe.com^$important
 ||zostofou.link^$important
 ||zoszujvvlu.com^$important
