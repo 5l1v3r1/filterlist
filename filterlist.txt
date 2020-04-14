@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-04-14 18:22:10
-! Version: 20200414182210
+! Last modified: 2020-04-14 22:17:36
+! Version: 20200414221736
 ! Expires: 3 hours
-! Number of filters: 15186
+! Number of filters: 15199
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -50,6 +50,7 @@
 /^https?:\/\/(syndication|analytics)\.twitter\.com/$important
 /^https?:\/\/(www\.)?(client\-event\-reporter|countess|mp|polyfill|sentinel|spade|trowel|fan)\.twitch(svc)?\.(com|net|tv)/$important
 /^https?:\/\/(www\.)?facebook(corewwwi)?\.(com|net|onion)\/tr\D/$important
+/^https?:\/\/(www\.)?sunnimiq([0-9]{1,3})?\.cf/$important
 /^https?:\/\/1x[a-z]{3}\.world/$important
 /^https?:\/\/aj[0-9]{3}\.online/$important
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important
@@ -1046,6 +1047,7 @@
 ||anvagsqctxsaz.bid^$important
 ||anvskelwpvvmtg.bid^$important
 ||anxiousapples.com^$important
+||anybest.*^$important
 ||anyonemyth.com^$important
 ||anypbbervqig.com^$important
 ||anyuwksovtwv.com^$important
@@ -1390,6 +1392,7 @@
 ||bawdypets.com^$important
 ||bayfieldharleysville.com^$important
 ||baysidethorntown.com^$important
+||baywttgdhe.download^$important
 ||bbackcssmwam.com^$important
 ||bbbrhcxtdkfui.bid^$important
 ||bbelements.com^$important
@@ -1808,6 +1811,7 @@
 ||bsrmcmvdoeyzib.com^$important
 ||bsupflnjmuzn.com^$important
 ||bsxctkajqdp.com^$important
+||bsyauqwerd.party^$important
 ||btbapoifsphl.com^$important
 ||btcunleashed.com^$important
 ||btcwkbqojiyg.com^$important
@@ -2034,6 +2038,7 @@
 ||ccscpyeeiqhs.bid^$important
 ||ccumhss.com^$important
 ||ccvewygyjqbq.bid^$important
+||ccvwtdtwyu.trade^$important
 ||ccyttdkwntyhx.com^$important
 ||cd8iw9mh.cricket^$important
 ||cdaywwdyicf.com^$important
@@ -2320,6 +2325,7 @@
 ||coinhive-proxy.party^$important
 ||coinimp.*^$important
 ||coinmedia.co^$important
+||coinminingonline.com^$important
 ||cointraffic.io^$important
 ||coinwebmining.com^$important
 ||coinzillatag.com^$important
@@ -2875,6 +2881,7 @@
 ||djbnmqdawodm.com^$important
 ||djcbhuwplfpui.bid^$important
 ||djeoxopgw.com^$important
+||djfhwosjck.bid^$important
 ||djhqkoikovr.bid^$important
 ||djiufagozzla.com^$important
 ||djjckavq.com^$important
@@ -3082,6 +3089,7 @@
 ||dtzlgtmqoj.bid^$important
 ||duamuprs.com^$important
 ||duapps.com^$important
+||dubester.*^$important
 ||dubijsirwtwq.com^$important
 ||dubzmzpdkddi.com^$important
 ||duchmcmpmqqu.com^$important
@@ -5222,6 +5230,7 @@
 ||hosiioyx.com^$important
 ||hosmermurdock.com^$important
 ||hosqkmnjt.com^$important
+||hostcontent.live^$important
 ||hostingcloud.*^$important
 ||hostpush.info^$important
 ||hotdzbtmngof.bid^$important
@@ -5446,6 +5455,7 @@
 ||iafqqcsw.com^$important
 ||iagsqudxpcfr.com^$important
 ||iagvkdeienla.com^$important
+||iaheyftbsn.review^$important
 ||iaimnsxepxdy.bid^$important
 ||ialmzfj.com^$important
 ||ian029dkl3osl930sian.club^$important
@@ -7497,6 +7507,7 @@
 ||makumuvgxfogq.com^$important
 ||malakoffrockholds.com^$important
 ||malgyhuytbnjb.bid^$important
+||malictuiar.com^$important
 ||maloupperville.com^$important
 ||mament.co^$important
 ||manila947bi.xyz^$important
@@ -7692,6 +7703,7 @@
 ||midkerci.bid^$important
 ||midzwwrcrril.bid^$important
 ||miegpokitjxm.com^$important
+||mighbest.*^$important
 ||mightyspiders.com^$important
 ||mihqbmugg.com^$important
 ||miisdhpqsp.bid^$important
@@ -14948,6 +14960,7 @@
 ||zmytwgfd.com^$important
 ||znbokxhkwx.com^$important
 ||znckkjdguw.com^$important
+||zndaowjdnf.stream^$important
 ||znfnwozd.com^$important
 ||zngnfdmxsfnf.bid^$important
 ||znjo3h2m.top^$important
