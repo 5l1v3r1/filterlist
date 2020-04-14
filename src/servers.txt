@@ -18,25 +18,6 @@
 ||01counter.com^$important
 ||01jud3v55z.com^$important
 ||01mspmd5yalky8.com^$important
-||mobbahjug.com^$important
-||yoytube.com^$important
-||ficbook.com^$important
-||seasonvar.net^$important
-||tele-geo.com^$important
-||feeohmchi.com^$important
-||yonatefin.site^$important
-||robspabah.com^$important
-||cogleapad.com^$important
-||dryzapsol.com^$important
-||surgermystem.site^$important
-||dumbpop.com^$important
-||qzgbhuelut.com^$important
-||jmykbogg.com^$important
-||0oaqgsk54hm5.com^$important
-||5875b75704b5.com^$important
-||surfe.pro^$important
-||madratesforall.com^$important
-||mahimeta.com^$important
 ||024xuyisheng.com^$important
 ||0377shujuhuifu.top^$important
 ||0452jhw.com^$important
@@ -58,6 +39,7 @@
 ||0fficial.info^$important
 ||0h6djpk8fn.com^$important
 ||0n55f9zgy7.com^$important
+||0oaqgsk54hm5.com^$important
 ||0oviy0ub.top^$important
 ||0pixl.com^$important
 ||0pyn37dv3m.com^$important
@@ -2285,6 +2267,7 @@
 ||coazuthu.net^$important
 ||cobalten.com^$important
 ||cofybuwuc.com^$important
+||cogleapad.com^$important
 ||cogxsnvqesph.com^$important
 ||cohhcaahxxcf.com^$important
 ||coin-cube.com^$important
@@ -3024,6 +3007,7 @@
 ||drupalupdates.tk^$important
 ||drwfixovzqdcs.com^$important
 ||drydrum.com^$important
+||dryzapsol.com^$important
 ||drzndwmqrgra.com^$important
 ||ds-aksb-a.akamaihd.net^$important
 ||dsdiztki.bid^$important
@@ -3068,6 +3052,7 @@
 ||duklamznlrn.com^$important
 ||dulcetcgvcxr.com^$important
 ||dulfweycnqfoka.com^$important
+||dumbpop.com^$important
 ||dunsmuirdeferiet.com^$important
 ||dupinpu.com^$important
 ||dur6g49t7u.com^$important
@@ -3854,6 +3839,7 @@
 ||fed2nkspbdnr.info^$important
 ||fedsit.com^$important
 ||feebleshock.com^$important
+||feeohmchi.com^$important
 ||feesocrald.com^$important
 ||fefzohgedqp.com^$important
 ||fehsnwiem.com^$important
@@ -3925,6 +3911,7 @@
 ||fhylnqzxwsbo.com^$important
 ||fhzgapsfnlsvx.bid^$important
 ||fiarnvygamgpqf.com^$important
+||ficbook.com^$important
 ||fiechaev.com^$important
 ||fieejwanbrv.com^$important
 ||fifnonxntvaszg.com^$important
@@ -6150,6 +6137,7 @@
 ||jmqxufpbikzk.bid^$important
 ||jmvjmgofvxnu.com^$important
 ||jmxjwyqnelvzwu.com^$important
+||jmykbogg.com^$important
 ||jnchbwtzbrrf.com^$important
 ||jncjzdohkgic.com^$important
 ||jndclagxkvpn.com^$important
@@ -7428,6 +7416,7 @@
 ||maboflgkaxqn.com^$important
 ||mackeeper.com^$important
 ||madcpms.com^$important
+||madratesforall.com^$important
 ||madsabs.com^$important
 ||madsabz.com^$important
 ||madsans.com^$important
@@ -7453,6 +7442,7 @@
 ||magnificentmist.com^$important
 ||magrie.pw^$important
 ||magwfymjhils.com^$important
+||mahimeta.com^$important
 ||mahrzxsou.com^$important
 ||maidlytsnrn.com^$important
 ||mail-ads.google.com^$important
@@ -7778,6 +7768,7 @@
 ||moadlbgojatn.com^$important
 ||moatads.com^$important
 ||mob1ledev1ces.com^$important
+||mobbahjug.com^$important
 ||mobdisc.net^$important
 ||mobdisc.org^$important
 ||mobibiobi.com^$important
@@ -10173,6 +10164,7 @@
 ||qzcdbhrkif.com^$important
 ||qzcpotzdkfyn.com^$important
 ||qzfnuwdc.com^$important
+||qzgbhuelut.com^$important
 ||qzhaqsxb.com^$important
 ||qzismxssqf.com^$important
 ||qzizjjyvsa.com^$important
@@ -10510,6 +10502,7 @@
 ||rnzgebpy.com^$important
 ||rnzzrylopa.bid^$important
 ||roarmyng.bid^$important
+||robspabah.com^$important
 ||rocks.io^$important
 ||rogwmjvlqdfngw.bid^$important
 ||roibwbjaclwgg.com^$important
@@ -10862,6 +10855,7 @@
 ||sdzxojlt.com^$important
 ||searchdimension.com^$important
 ||seasonaloffers.club^$important
+||seasonvar.net^$important
 ||seaxhrqc.bid^$important
 ||sebadu.com^$important
 ||sebariklanbaris.com^$important
@@ -11376,6 +11370,7 @@
 ||supersalegiveaways.club^$important
 ||supersonicads.com^$important
 ||suqufucjzffhay.bid^$important
+||surfe.pro^$important
 ||surfearner.com^$important
 ||surgermystem.site^$important
 ||surveys-zone.online^$important
@@ -11589,6 +11584,7 @@
 ||tehkvecryl.com^$important
 ||teipgupp.com^$important
 ||tektbzadrceqje.com^$important
+||tele-geo.com^$important
 ||tempest.services.disqus.com^$important
 ||template-download.top^$important
 ||temtaifu.com^$important
@@ -14416,6 +14412,7 @@
 ||yojxoefvnyrc.com^$important
 ||yololike.space^$important
 ||yonashbin.com^$important
+||yonatefin.site^$important
 ||yondental.co.kr^$important
 ||yoorjlleqtquez.bid^$important
 ||yoqvnnkdmqfk.com^$important
@@ -14447,6 +14444,7 @@
 ||yovqbcixogwc.com^$important
 ||yoxlrphhmphq.com^$important
 ||yoxrhwtvyqt.com^$important
+||yoytube.com^$important
 ||yoywgmzjgtfl.com^$important
 ||ypbfrhlgquaj.com^$important
 ||ypcuhmevrq.bid^$important
