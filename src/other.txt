@@ -21,7 +21,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?ping([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?piwik([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?px\-intl([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?re[ck]l?(am[as]?)?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?re[ck]l?(am[asy]?)?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?snippets?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?tags?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?telemetr(y|ics)?([0-9]{1,3})?\./$important
