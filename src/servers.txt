@@ -33,11 +33,6 @@
 ||09fee6914d1b6450885.com^$important
 ||0azx1.com^$important
 ||0byv9mgbn0.com^$important
-||uvscqwzysqm.com^$important
-||qbkzvophvva.com^$important
-||sloeri.com^$important
-||sdhfbvd.com^$important
-||mooaleoat.com^$important
 ||0d96a0971a04071.com^$important
 ||0eijh8996i.com^$important
 ||0f81i8zmcp.com^$important
@@ -7826,6 +7821,7 @@
 ||monkeyminer.net^$important
 ||monklerm.pro^$important
 ||monlscalmows.bid^$important
+||mooaleoat.com^$important
 ||moocauby.com^$important
 ||mookie1.com^$important
 ||moomoopop.com^$important
@@ -9755,6 +9751,7 @@
 ||qbfibmzxaqtfi.com^$important
 ||qbhcfxxivcdfm.com^$important
 ||qbjnwjtbfrxceq.com^$important
+||qbkzvophvva.com^$important
 ||qbldzsktv.com^$important
 ||qblpxxcjusgmq.bid^$important
 ||qblttqtvn.bid^$important
@@ -10861,6 +10858,7 @@
 ||sdeadbqsjam.com^$important
 ||sdemctwaiazt.com^$important
 ||sdfmxhdj.bid^$important
+||sdhfbvd.com^$important
 ||sdkfjxjertertry.com^$important
 ||sdmfzlswxgzl.com^$important
 ||sdmhsxlp.bid^$important
@@ -11104,6 +11102,7 @@
 ||slkwhwontxavyt.bid^$important
 ||slmmjkkvbkyp.com^$important
 ||sloaltbyucrg.com^$important
+||sloeri.com^$important
 ||sloi1.com^$important
 ||slotforjoy.net^$important
 ||slotsforluck.com^$important
@@ -12531,6 +12530,7 @@
 ||uvniygdwmoojfm.com^$important
 ||uvomthuqsqx.com^$important
 ||uvppdseel.com^$important
+||uvscqwzysqm.com^$important
 ||uvstluoomeys.bid^$important
 ||uvsxjyokgfz.com^$important
 ||uvxaafcozjgh.com^$important
