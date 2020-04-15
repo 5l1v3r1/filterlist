@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-04-15 17:49:51
-! Version: 20200415174951
+! Last modified: 2020-04-15 21:49:15
+! Version: 20200415214915
 ! Expires: 3 hours
-! Number of filters: 15208
+! Number of filters: 15215
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -3508,6 +3508,7 @@
 ||eoepqqkg.com^$important
 ||eofaplocyrcxhq.com^$important
 ||eojrldtucqsf.com^$important
+||eonwayaha.com^$important
 ||eopbflgmxcr.com^$important
 ||eoredi.com^$important
 ||eoruxpqn.com^$important
@@ -4664,6 +4665,8 @@
 ||goo4anywhere.com^$important
 ||gooblesdd.com^$important
 ||goodbookbook.com^$important
+||google-analytics.com^$important
+||googletagmanager.com^$important
 ||googlo.co^$important
 ||goonline13.online^$important
 ||goowurzdotcom.bid^$important
@@ -7861,6 +7864,7 @@
 ||moneysavingexpertcarinsurance.icu^$important
 ||moneysavingexpertsavings.world^$important
 ||money-slots.net^$important
+||monit.limehd.tv^$important
 ||monkeyminer.net^$important
 ||monklerm.pro^$important
 ||monlscalmows.bid^$important
@@ -10943,6 +10947,7 @@
 ||selectivesummer.com^$important
 ||selfishsea.com^$important
 ||selltrafficfor.me^$important
+||semantiqo.com^$important
 ||semi-cod.com^$important
 ||semvdooatmd.bid^$important
 ||sendmepush.com^$important
@@ -11342,6 +11347,8 @@
 ||standingnest.com^$important
 ||start1999.com^$important
 ||startappservice.com^$important
+||stat*.1internet.tv^$important
+||stat.teleport.media^$important
 ||statcounter.com^$important,third-party
 ||statdynamic.com^$important
 ||stathat.com^$important

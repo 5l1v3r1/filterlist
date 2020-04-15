@@ -2132,14 +2132,6 @@
 ||cibmcziio.bid^$important
 ||cifipkbu.com^$important
 ||cifwsaufnalvh.com^$important
-||eonwayaha.com^$important
-||fryawlauk.com^$important
-||stat.teleport.media^$important
-||semantiqo.com^$important
-||monit.limehd.tv^$important
-||stat*.1internet.tv^$important
-||google-analytics.com^$important
-||googletagmanager.com^$important
 ||cijfsxtsjpx.bid^$important
 ||cijwskfvye.com^$important
 ||cijzoindd.com^$important
@@ -3474,6 +3466,7 @@
 ||eoepqqkg.com^$important
 ||eofaplocyrcxhq.com^$important
 ||eojrldtucqsf.com^$important
+||eonwayaha.com^$important
 ||eopbflgmxcr.com^$important
 ||eoredi.com^$important
 ||eoruxpqn.com^$important
@@ -4630,6 +4623,8 @@
 ||goo4anywhere.com^$important
 ||gooblesdd.com^$important
 ||goodbookbook.com^$important
+||google-analytics.com^$important
+||googletagmanager.com^$important
 ||googlo.co^$important
 ||goonline13.online^$important
 ||goowurzdotcom.bid^$important
@@ -7828,6 +7823,7 @@
 ||moneymakercdn.com^$important
 ||moneysavingexpertcarinsurance.icu^$important
 ||moneysavingexpertsavings.world^$important
+||monit.limehd.tv^$important
 ||monkeyminer.net^$important
 ||monklerm.pro^$important
 ||monlscalmows.bid^$important
@@ -10909,6 +10905,7 @@
 ||selectivesummer.com^$important
 ||selfishsea.com^$important
 ||selltrafficfor.me^$important
+||semantiqo.com^$important
 ||semi-cod.com^$important
 ||semvdooatmd.bid^$important
 ||sen-to-zdrowie.ml^$important
@@ -11308,6 +11305,8 @@
 ||standingnest.com^$important
 ||start1999.com^$important
 ||startappservice.com^$important
+||stat*.1internet.tv^$important
+||stat.teleport.media^$important
 ||statcounter.com^$important,third-party
 ||statdynamic.com^$important
 ||stathat.com^$important
