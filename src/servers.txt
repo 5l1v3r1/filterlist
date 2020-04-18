@@ -16,8 +16,6 @@
 ||0000000000000000.com^$important
 ||00e46b7f53.com^$important
 ||00f31156f051fdf.com^$important
-||ttspikbeglki.com^$important
-||shermore.info^$important
 ||0101010101010101.com^$important
 ||01ced816b84.com^$important
 ||01counter.com^$important
@@ -11006,6 +11004,7 @@
 ||shasnvadkustw.com^$important
 ||shelterstraw.com^$important
 ||shemeejo.com^$important
+||shermore.info^$important
 ||shesubscriptions.com^$important
 ||shftscdisov.com^$important
 ||shgvuhvf.com^$important
@@ -12033,6 +12032,7 @@
 ||ttoc8ok.com^$important
 ||ttomktasfnqlg.com^$important
 ||ttqdlwzgpml.bid^$important
+||ttspikbeglki.com^$important
 ||ttulyfbkatyzp.com^$important
 ||ttwiehwr.bid^$important
 ||ttxqfeuiakgn.bid^$important
