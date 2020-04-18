@@ -16,6 +16,8 @@
 ||0000000000000000.com^$important
 ||00e46b7f53.com^$important
 ||00f31156f051fdf.com^$important
+||ttspikbeglki.com^$important
+||shermore.info^$important
 ||0101010101010101.com^$important
 ||01ced816b84.com^$important
 ||01counter.com^$important
