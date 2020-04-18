@@ -13,18 +13,13 @@
 /^https?:\/\/aj[0-9]{3}\.online/$important
 /^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important
 ||0--e.info^$important
+||0000000000000000.com^$important
 ||00e46b7f53.com^$important
 ||00f31156f051fdf.com^$important
+||0101010101010101.com^$important
 ||01ced816b84.com^$important
 ||01counter.com^$important
 ||01jud3v55z.com^$important
-||volyze.com^$important
-||petchesa.net^$important
-||swesomepop.com^$important
-||ladsanz.com^$important
-||bopvetgel.com^$important
-||0101010101010101.com^$important
-||0000000000000000.com^$important
 ||01mspmd5yalky8.com^$important
 ||024xuyisheng.com^$important
 ||0377shujuhuifu.top^$important
@@ -1680,6 +1675,7 @@
 ||bonxsqstn.com^$important
 ||boperc.com^$important
 ||bopohsage.com^$important
+||bopvetgel.com^$important
 ||boqdapoiv.com^$important
 ||boredcrown.com^$important
 ||boringcoat.com^$important
@@ -9215,6 +9211,7 @@
 ||perzonalization.com^$important
 ||pesbqkopdm.com^$important
 ||petametrics.com^$important
+||petchesa.net^$important
 ||peterboroughapalachicola.com^$important
 ||petiteumbrella.com^$important
 ||petsarlaaafru.com^$important
@@ -11444,6 +11441,7 @@
 ||swahobrjdddri.com^$important
 ||swclpfypife.bid^$important
 ||swcuxrfitmjfee.com^$important
+||swesomepop.com^$important
 ||swezbddhwcz.com^$important
 ||swfqsfewk.bid^$important
 ||swgvpkwmojcv.com^$important
@@ -12969,6 +12967,7 @@
 ||volleqgoafcb.com^$important
 ||volvejudgetneig.info^$important
 ||volyncftzhw.bid^$important
+||volyze.com^$important
 ||vomhhsovuu.bid^$important
 ||voodoo.com^$important
 ||voradu.com^$important
