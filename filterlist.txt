@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-04-19 02:55:57
-! Version: 20200419025557
+! Last modified: 2020-04-19 20:08:27
+! Version: 20200419200827
 ! Expires: 3 hours
-! Number of filters: 15233
+! Number of filters: 15240
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -707,6 +707,7 @@
 ||adplexo.com^$important
 ||adplus.co.id^$important
 ||adpop-1.com^$important
+||adprofits.ru^$important
 ||adqy6rzwcs.com^$important
 ||adram.media^$important
 ||adreactor.com^$important
@@ -3582,6 +3583,7 @@
 ||esrpxyahzna.bid^$important
 ||estat.com^$important
 ||estcontentdelivery.info^$important
+||esterlonder.com^$important
 ||esundpxbixeqgu.com^$important
 ||eszkrcviokckfb.com^$important
 ||esznfpbro.com^$important
@@ -3910,6 +3912,7 @@
 ||feqlklwaafgc.com^$important
 ||feqyuubaixe.bid^$important
 ||ferdarius.com^$important
+||fernomius.com^$important
 ||fevgukzwvjam.com^$important
 ||fevrbniqa.com^$important
 ||feyl4mh5to.com^$important
@@ -5018,6 +5021,7 @@
 ||hdxfyoziizy.com^$important
 ||heaaizwhm.com^$important
 ||headyhook.com^$important
+||healte.de^$important
 ||hearstnp.com^$important
 ||heatonnikolski.com^$important
 ||heavyplayground.com^$important
@@ -9468,6 +9472,7 @@
 ||popzkvfimbox.com^$important
 ||poqqvnychl.com^$important
 ||poredii.com^$important
+||portal.mail.ru^$important
 ||portal-xiva.yandex.net^$important
 ||possessivebucket.com^$important
 ||possibleboats.com^$important
@@ -11368,6 +11373,7 @@
 ||stati.bid^$important
 ||stati.in^$important
 ||staticsfs.host^$important
+||stat-rock.com^$important
 ||statserv.net^$important
 ||statsforads.com^$important
 ||statsy.net^$important
@@ -12482,6 +12488,7 @@
 ||uoxbotvrs.bid^$important
 ||uoypqskiemf.bid^$important
 ||up.gtorrent.ru^$important
+||upapi.net^$important
 ||upckrtagwpwk.com^$important
 ||upcokvzuupn.bid^$important
 ||update-your-pc.info

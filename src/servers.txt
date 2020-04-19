@@ -16,13 +16,6 @@
 ||0000000000000000.com^$important
 ||00e46b7f53.com^$important
 ||00f31156f051fdf.com^$important
-||adprofits.ru^$important
-||portal.mail.ru^$important
-||fernomius.com^$important
-||esterlonder.com^$important
-||stat-rock.com^$important
-||healte.de^$important
-||upapi.net^$important
 ||0101010101010101.com^$important
 ||01ced816b84.com^$important
 ||01counter.com^$important
@@ -673,6 +666,7 @@
 ||adplexo.com^$important
 ||adplus.co.id^$important
 ||adpop-1.com^$important
+||adprofits.ru^$important
 ||adqy6rzwcs.com^$important
 ||adram.media^$important
 ||adreactor.com^$important
@@ -3547,6 +3541,7 @@
 ||esrpxyahzna.bid^$important
 ||estat.com^$important
 ||estcontentdelivery.info^$important
+||esterlonder.com^$important
 ||esundpxbixeqgu.com^$important
 ||eszkrcviokckfb.com^$important
 ||esznfpbro.com^$important
@@ -3875,6 +3870,7 @@
 ||feqlklwaafgc.com^$important
 ||feqyuubaixe.bid^$important
 ||ferdarius.com^$important
+||fernomius.com^$important
 ||fevgukzwvjam.com^$important
 ||fevrbniqa.com^$important
 ||feyl4mh5to.com^$important
@@ -4983,6 +4979,7 @@
 ||hdxfyoziizy.com^$important
 ||heaaizwhm.com^$important
 ||headyhook.com^$important
+||healte.de^$important
 ||hearstnp.com^$important
 ||heatonnikolski.com^$important
 ||heavyplayground.com^$important
@@ -9434,6 +9431,7 @@
 ||poqqvnychl.com^$important
 ||poredii.com^$important
 ||portal-xiva.yandex.net^$important
+||portal.mail.ru^$important
 ||possessivebucket.com^$important
 ||possibleboats.com^$important
 ||postaffiliatepro.com^$important
@@ -11326,6 +11324,7 @@
 ||start1999.com^$important
 ||startappservice.com^$important
 ||stat*.1internet.tv^$important
+||stat-rock.com^$important
 ||stat.teleport.media^$important
 ||statcounter.com^$important,third-party
 ||statdynamic.com^$important
@@ -12447,6 +12446,7 @@
 ||uoxbotvrs.bid^$important
 ||uoypqskiemf.bid^$important
 ||up.gtorrent.ru^$important
+||upapi.net^$important
 ||upckrtagwpwk.com^$important
 ||upcokvzuupn.bid^$important
 ||update-your-pc.info
