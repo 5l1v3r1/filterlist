@@ -16,6 +16,13 @@
 ||0000000000000000.com^$important
 ||00e46b7f53.com^$important
 ||00f31156f051fdf.com^$important
+||adprofits.ru^$important
+||portal.mail.ru^$important
+||fernomius.com^$important
+||esterlonder.com^$important
+||stat-rock.com^$important
+||healte.de^$important
+||upapi.net^$important
 ||0101010101010101.com^$important
 ||01ced816b84.com^$important
 ||01counter.com^$important
