@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-04-19 20:08:27
-! Version: 20200419200827
+! Last modified: 2020-04-22 23:24:07
+! Version: 20200422232407
 ! Expires: 3 hours
-! Number of filters: 15240
+! Number of filters: 15249
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -3818,6 +3818,7 @@
 ||famousquarter.com^$important
 ||famztplbta.bid^$important
 ||fanaticalfly.com^$important
+||fandmo.com^$important
 ||fantasticsmash.com^$important
 ||faoxietqwbmu.com^$important
 ||faptitans.com^$important
@@ -3905,6 +3906,7 @@
 ||fefzohgedqp.com^$important
 ||fehsnwiem.com^$important
 ||fejbkpidkkwts.com^$important
+||fejla.com^$important
 ||fembsflungod.com^$important
 ||fencemiracle.com^$important
 ||fengrtnoxuwwe.com^$important
@@ -4036,6 +4038,7 @@
 ||fkrrvhoierty.com^$important
 ||fkvjntfj.com^$important
 ||fkwwhndzjlqrm.com^$important
+||flagcounter.com^$important
 ||flakyfeast.com^$important
 ||flare-analytics.com^$important
 ||flash-searchfor-find.icu^$important
@@ -6371,6 +6374,7 @@
 ||juuwyyvjecnvps.com^$important
 ||juvqtttkhz.com^$important
 ||juvyntuqtku.bid^$important
+||jux9ms4vc7.ru^$important
 ||juyfhwxcvzft.com^$important
 ||jvdrscohwxopj.bid^$important
 ||jvepcgbq.bid^$important
@@ -10673,6 +10677,7 @@
 ||rsvxipjqyvfs.com^$important
 ||rswgoccwzs.com^$important
 ||rszzpjttufuw.bid^$important
+||rtb.com.ru^$important
 ||rtbvideobox.com^$important
 ||rtctxxxvdq.com^$important
 ||rtdogcdkovndho.com^$important
@@ -12571,6 +12576,7 @@
 ||utlpwxdt.com^$important
 ||utmcttmdaoqd.com^$important
 ||utnkeaqurjca.com^$important
+||utraff.com^$important
 ||uttermosthobbies.com^$important
 ||utubedelivery.com^$important
 ||utuqrzwg.com^$important
@@ -13352,6 +13358,7 @@
 ||wggnmbmedlmo.com^$important
 ||wghmgbjpxmlxa.com^$important
 ||wghscopehrcafp.bid^$important
+||wgimuuqvlumvyy.com^$important
 ||wgkurvzvd.com^$important
 ||wglbionuopeh.com^$important
 ||wgrbdqucfoieha.com^$important
@@ -14369,6 +14376,7 @@
 ||ygngaqihz.com^$important
 ||ygrtbssc.com^$important
 ||ygsgfzydhdgd.com^$important
+||yguuoibdsscki.com^$important
 ||ygyymhfstzuen.com^$important
 ||yhasbgva.com^$important
 ||yhatwlkdbeewdd.bid^$important
@@ -15150,6 +15158,7 @@
 ||zumzumsrv75.live^$important
 ||zunjxpwiztqgt.bid^$important
 ||zupeaoohmntp.com^$important
+||zusbzr.com^$important
 ||zutnlpnzxtt.com^$important
 ||zuuwfrphdgxk.com^$important
 ||zuwaodorkyrrp.com^$important

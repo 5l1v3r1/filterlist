@@ -21,15 +21,6 @@
 ||01counter.com^$important
 ||01jud3v55z.com^$important
 ||01mspmd5yalky8.com^$important
-||utraff.com^$important
-||rtb.com.ru^$important
-||wgimuuqvlumvyy.com^$important
-||yguuoibdsscki.com^$important
-||fandmo.com^$important
-||jux9ms4vc7.ru^$important
-||fejla.com^$important
-||zusbzr.com^$important
-||flagcounter.com^$important
 ||024xuyisheng.com^$important
 ||0377shujuhuifu.top^$important
 ||0452jhw.com^$important
@@ -3785,6 +3776,7 @@
 ||famousquarter.com^$important
 ||famztplbta.bid^$important
 ||fanaticalfly.com^$important
+||fandmo.com^$important
 ||fantasticsmash.com^$important
 ||faoxietqwbmu.com^$important
 ||faptitans.com^$important
@@ -3872,6 +3864,7 @@
 ||fefzohgedqp.com^$important
 ||fehsnwiem.com^$important
 ||fejbkpidkkwts.com^$important
+||fejla.com^$important
 ||fembsflungod.com^$important
 ||fencemiracle.com^$important
 ||fengrtnoxuwwe.com^$important
@@ -4003,6 +3996,7 @@
 ||fkrrvhoierty.com^$important
 ||fkvjntfj.com^$important
 ||fkwwhndzjlqrm.com^$important
+||flagcounter.com^$important
 ||flakyfeast.com^$important
 ||flare-analytics.com^$important
 ||flash-searchfor-find.icu^$important
@@ -6338,6 +6332,7 @@
 ||juuwyyvjecnvps.com^$important
 ||juvqtttkhz.com^$important
 ||juvyntuqtku.bid^$important
+||jux9ms4vc7.ru^$important
 ||juyfhwxcvzft.com^$important
 ||jvdrscohwxopj.bid^$important
 ||jvepcgbq.bid^$important
@@ -10640,6 +10635,7 @@
 ||rsvxipjqyvfs.com^$important
 ||rswgoccwzs.com^$important
 ||rszzpjttufuw.bid^$important
+||rtb.com.ru^$important
 ||rtbvideobox.com^$important
 ||rtctxxxvdq.com^$important
 ||rtdogcdkovndho.com^$important
@@ -12538,6 +12534,7 @@
 ||utlpwxdt.com^$important
 ||utmcttmdaoqd.com^$important
 ||utnkeaqurjca.com^$important
+||utraff.com^$important
 ||uttermosthobbies.com^$important
 ||utubedelivery.com^$important
 ||utuqrzwg.com^$important
@@ -13319,6 +13316,7 @@
 ||wggnmbmedlmo.com^$important
 ||wghmgbjpxmlxa.com^$important
 ||wghscopehrcafp.bid^$important
+||wgimuuqvlumvyy.com^$important
 ||wgkurvzvd.com^$important
 ||wglbionuopeh.com^$important
 ||wgrbdqucfoieha.com^$important
@@ -14336,6 +14334,7 @@
 ||ygngaqihz.com^$important
 ||ygrtbssc.com^$important
 ||ygsgfzydhdgd.com^$important
+||yguuoibdsscki.com^$important
 ||ygyymhfstzuen.com^$important
 ||yhasbgva.com^$important
 ||yhatwlkdbeewdd.bid^$important
@@ -15117,6 +15116,7 @@
 ||zumzumsrv75.live^$important
 ||zunjxpwiztqgt.bid^$important
 ||zupeaoohmntp.com^$important
+||zusbzr.com^$important
 ||zutnlpnzxtt.com^$important
 ||zuuwfrphdgxk.com^$important
 ||zuwaodorkyrrp.com^$important
