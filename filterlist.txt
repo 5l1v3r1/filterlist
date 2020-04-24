@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-04-23 04:20:48
-! Version: 20200423042048
+! Last modified: 2020-04-25 01:28:16
+! Version: 20200425012816
 ! Expires: 3 hours
-! Number of filters: 15253
+! Number of filters: 15265
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -354,6 +354,7 @@
 ||5c1deabe3202c11c1.com^$important
 ||5db8d92zi2.com^$important
 ||5edeb195868e2195.com^$important
+||5f6dmzflgqso.com^$important
 ||5g9quwq.com^$important
 ||5gvlvuebyjl6.com^$important
 ||5h5d8lt8me.com^$important
@@ -1139,6 +1140,7 @@
 ||areapebeg.club^$important
 ||arearmark.club^$important
 ||areary.com^$important
+||arejoysew.com^$important
 ||areyouabot.net^$important
 ||arfttojxv.com^$important
 ||argetz.fun^$important
@@ -2993,6 +2995,7 @@
 ||doorbrazil.com^$important
 ||dorbanise.pw^$important
 ||dosanrnlq.com^$important
+||dostophog.com^$important
 ||dot4mobi.club^$important
 ||dotomi.com^$important
 ||douangvwl.com^$important
@@ -5133,6 +5136,7 @@
 ||himselvet.info^$important
 ||hipercerolding.info^$important
 ||hirdchyngnn.bid^$important
+||hisfryyes.com^$important
 ||histats.com^$important
 ||histingood.info^$important
 ||historem.com^$important
@@ -6259,6 +6263,7 @@
 ||jovepjufhmmw.com^$important
 ||jovzikimk.com^$important
 ||joxocqrbxe.bid^$important
+||joyvowdig.com^$important
 ||jozfwcmrxkwva.com^$important
 ||jozxoq42.com^$important
 ||jpabviwck.com^$important
@@ -7282,6 +7287,8 @@
 ||lowgraveleron.com^$important
 ||lowlocket.com^$important
 ||lowqnzsxtmvb.bid^$important
+||lowtyroguer.com^$important
+||loxbeelid.com^$important
 ||loxmetwdjrmh.com^$important
 ||lp3tdqle.com^$important
 ||lp4.io^$important
@@ -7582,6 +7589,7 @@
 ||mbtalhkebpbpwb.com^$important
 ||mbyponflbv.bid^$important
 ||mbyrgeoizdid.com^$important
+||mbzl-pro.xyz^$important
 ||mc.webvisor.org^$important
 ||mc.yandex.ru^$important
 ||mcagbtdcwklf.com^$important
@@ -10198,6 +10206,7 @@
 ||qweewmtey.com^$important
 ||qwepop.site^$important
 ||qwerfdx.com^$important
+||qwerq133.xyz^$important
 ||qwfwimquecfw.bid^$important
 ||qwgafzaujn.bid^$important
 ||qwhkndqqxxbq.com^$important
@@ -11575,6 +11584,7 @@
 ||tadaeizih.com^$important
 ||tadkozdgbyw.com^$important
 ||tadozqgv.com^$important
+||tadviser.ru^$important
 ||taeadsnmbbkvpw.bid^$important
 ||taelsfdgtmka.com^$important
 ||tagbucket.cc^$important
@@ -13240,6 +13250,7 @@
 ||wakefulcook.com^$important
 ||walftgaqiemcx.com^$important
 ||wanchesegarvin.com^$important
+||wandara113.xyz^$important
 ||wanrtqneiissrb.com^$important
 ||wanuqtwwpvglcr.bid^$important
 ||wapnrjqhtmm.bid^$important
@@ -14064,6 +14075,7 @@
 ||xqtymopje.com^$important
 ||xqygrmkga.bid^$important
 ||xqzkpmrgcpsw.com^$important
+||xr8wv50k1daj.com^$important
 ||xray.mail.ru^$important
 ||xrdutkydekqpxu.bid^$important
 ||xrgqermbslvg.com^$important
