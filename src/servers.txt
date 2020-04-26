@@ -35,18 +35,6 @@
 ||09fee6914d1b6450885.com^$important
 ||0azx1.com^$important
 ||0byv9mgbn0.com^$important
-||axwxrnk5ydzy.com^$important
-||cjf25jklrwqt.com^$important
-||legerikath.com^$important
-||ads2-adnow.com^$important
-||g3j2wzmon8b.com^$important
-||abonmgghehh.com^$important
-||sqpgncbm.com^$important
-||tarawerap.com^$important
-||automatad.com^$important
-||normugtog.com^$important
-||advinci.co^$important
-||5t59uw2iuh.com^$important
 ||0d96a0971a04071.com^$important
 ||0eijh8996i.com^$important
 ||0f81i8zmcp.com^$important
@@ -545,6 +533,7 @@
 ||aboardamusement.com^$important
 ||aboardlevel.com^$important
 ||abodealley.com^$important
+||abonmgghehh.com^$important
 ||abourself.com^$important
 ||abrsamar.com^$important
 ||abruptroad.com^$important
@@ -692,6 +681,7 @@
 ||ads*-adnow.com^$important
 ||ads-twitter.com^$important
 ||ads.com^$important
+||ads2-adnow.com^$important
 ||adsafeprotected.com^$important
 ||adsafety.net^$important
 ||adsame.com^$important
@@ -753,6 +743,7 @@
 ||advertur.ru^$important
 ||advg.agency^$important
 ||advideo.ru^$important
+||advinci.co^$important
 ||advmaiotg.com^$important
 ||advmaker.su^$important
 ||advmusic.net^$important
@@ -1199,6 +1190,7 @@
 ||austery.info^$important
 ||authmoumrl.com^$important
 ||autkmgrbdlbj.com^$important
+||automatad.com^$important
 ||automaticflock.com^$important
 ||auwqdpbyl.com^$important
 ||auyyklnpj.com^$important
@@ -1263,6 +1255,7 @@
 ||axmxarqxbkc.com^$important
 ||axsczaklngkxx.com^$important
 ||axvabgnr.com^$important
+||axwxrnk5ydzy.com^$important
 ||axxak8gg.com^$important
 ||axzrxkkklakka.com^$important
 ||ayc0zsm69431gfebd.xyz^$important
@@ -2167,6 +2160,7 @@
 ||cizemeshbbc.com^$important
 ||cjbaeegayainxl.bid^$important
 ||cjdomdjyvble.com^$important
+||cjf25jklrwqt.com^$important
 ||cjgpifztileh.com^$important
 ||cjhdmrcv.com^$important
 ||cjkjeyjbl.com^$important
@@ -4362,6 +4356,7 @@
 ||g36525192.com^$important
 ||g383912402.com^$important
 ||g3938452447.com^$important
+||g3j2wzmon8b.com^$important
 ||g4058683381.com^$important
 ||g4p1gtll.com^$important
 ||g5fzq2l.com^$important
@@ -7011,6 +7006,7 @@
 ||ledvqaldtf.com^$important
 ||lefopost.com^$important
 ||leftliquid.com^$important
+||legerikath.com^$important
 ||legistrike.pro^$important
 ||legkiy-zarabotoki.xyz^$important
 ||lemetri.info^$important
@@ -8422,6 +8418,7 @@
 ||noqukjy.com^$important
 ||norepeal.org^$important
 ||norespar.ru^$important
+||normugtog.com^$important
 ||normygvd.bid^$important
 ||norteevu.com^$important
 ||nostalgicknot.com^$important
@@ -11291,6 +11288,7 @@
 ||sqnezuqjdbhe.com^$important
 ||sqnkkpba.com^$important
 ||sqopuafrwvnouz.bid^$important
+||sqpgncbm.com^$important
 ||sqsdyfgyjdjbx.com^$important
 ||sqtsuzrfefwy.com^$important
 ||squeakzinc.com^$important
@@ -11581,6 +11579,7 @@
 ||taplytics.com^$important
 ||taqesyqne.com^$important
 ||taqyljgaqsaz.com^$important
+||tarawerap.com^$important
 ||target.smi2.net^$important
 ||tarttendency.com^$important
 ||tarxjwdkx.com^$important
