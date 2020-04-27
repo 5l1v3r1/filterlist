@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-04-27 19:16:17
-! Version: 20200427191617
+! Last modified: 2020-04-28 03:38:25
+! Version: 20200428033825
 ! Expires: 3 hours
-! Number of filters: 15293
+! Number of filters: 15296
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -181,6 +181,7 @@
 ||2bd3c9da116ed2907.com^$important
 ||2cbisyjaae.com^$important
 ||2chicksathome.com^$important
+||2cnjuh34jbhub.com^$important
 ||2cuknh50ef.com^$important
 ||2d52156c065481.com^$important
 ||2d7bd9e6eb370143.com^$important
@@ -1090,7 +1091,6 @@
 ||aplfkrppjsutf.com^$important
 ||apmgzzaej.bid^$important
 ||apmkcdsnv.bid^$important
-||app.link^$important
 ||appared.online^$important
 ||appbaqend.com^$important
 ||appearch.info^$important
@@ -1432,6 +1432,7 @@
 ||bckwfsvdgfjw.com^$important
 ||bclizbwet.com^$important
 ||bcloudhost.com^$important
+||bcnewltd.club^$important
 ||bcnhnekodmdniu.com^$important
 ||bcnikicdi.bid^$important
 ||bcoavtimgn.bid^$important
@@ -1685,6 +1686,7 @@
 ||bmnccwprdrszpj.bid^$important
 ||bmnr.pw^$important
 ||bmoshyiypks.com^$important
+||bmrdrct.info^$important
 ||bmsmhlpkdvajeo.bid^$important
 ||bmst.pw^$important
 ||bmsusqt94u.com^$important
@@ -10407,6 +10409,7 @@
 ||recreativ.ru^$important
 ||redads.biz^$important
 ||redarianman.com^$important
+||redisa.host^$important
 ||redlele.com^$important
 ||redorange.website^$important
 ||redouwhy.link^$important

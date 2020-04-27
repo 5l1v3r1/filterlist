@@ -137,6 +137,7 @@
 ||2bd3c9da116ed2907.com^$important
 ||2cbisyjaae.com^$important
 ||2chicksathome.com^$important
+||2cnjuh34jbhub.com^$important
 ||2cuknh50ef.com^$important
 ||2d52156c065481.com^$important
 ||2d7bd9e6eb370143.com^$important
@@ -1042,12 +1043,6 @@
 ||apfmwcktbj.com^$important
 ||aphjbgth.com^$important
 ||api.content-ad.net^$important
-||sqpgncbm.com^$important
-||wxspfkln.com^$important
-||bcnewltd.club^$important
-||redisa.host^$important
-||bmrdrct.info^$important
-||2cnjuh34jbhub.com^$important
 ||apiryrkxkhil.com^$important
 ||aplfkrppjsutf.com^$important
 ||apmgzzaej.bid^$important
@@ -1393,6 +1388,7 @@
 ||bckwfsvdgfjw.com^$important
 ||bclizbwet.com^$important
 ||bcloudhost.com^$important
+||bcnewltd.club^$important
 ||bcnhnekodmdniu.com^$important
 ||bcnikicdi.bid^$important
 ||bcoavtimgn.bid^$important
@@ -1646,6 +1642,7 @@
 ||bmnccwprdrszpj.bid^$important
 ||bmnr.pw^$important
 ||bmoshyiypks.com^$important
+||bmrdrct.info^$important
 ||bmsmhlpkdvajeo.bid^$important
 ||bmst.pw^$important
 ||bmsusqt94u.com^$important
@@ -10368,6 +10365,7 @@
 ||recreativ.ru^$important
 ||redads.biz^$important
 ||redarianman.com^$important
+||redisa.host^$important
 ||redlele.com^$important
 ||redorange.website^$important
 ||redouwhy.link^$important
