@@ -21,10 +21,6 @@
 ||01counter.com^$important
 ||01jud3v55z.com^$important
 ||01mspmd5yalky8.com^$important
-||app.link^$important
-||8xkr.xyz^$important
-||wxspfkln.com^$important
-||sqpgncbm.com^$important
 ||024xuyisheng.com^$important
 ||0377shujuhuifu.top^$important
 ||0452jhw.com^$important
@@ -442,6 +438,7 @@
 ||8ue9q7i.com^$important
 ||8v8afxt8lg.com^$important
 ||8wey4x0c.com^$important
+||8xkr.xyz^$important
 ||8yopdqidj2.com^$important
 ||91087ef93a.com^$important
 ||919ba151b6f5.com^$important
@@ -1049,6 +1046,7 @@
 ||aplfkrppjsutf.com^$important
 ||apmgzzaej.bid^$important
 ||apmkcdsnv.bid^$important
+||app.link^$important
 ||appared.online^$important
 ||appbaqend.com^$important
 ||appearch.info^$important
@@ -13738,6 +13736,7 @@
 ||wxmzfxthsnrgpu.bid^$important
 ||wxnuobpxkjgk.bid^$important
 ||wxonmzkkldhu.com^$important
+||wxspfkln.com^$important
 ||wxtrzeizpnp.com^$important
 ||wxupwyabry.com^$important
 ||wxvejfvmfwl.com^$important
