@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-04-28 03:38:25
-! Version: 20200428033825
+! Last modified: 2020-04-28 22:54:54
+! Version: 20200428225454
 ! Expires: 3 hours
-! Number of filters: 15296
+! Number of filters: 15304
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -123,6 +123,7 @@
 ||190282.xyz^$important
 ||197c3b10bab3c1.com^$important
 ||19bk5lo5q2.com^$important
+||1aogoh1j81g3.com^$important
 ||1b8d89551340a.com^$important
 ||1b969cef84d93b43.com^$important
 ||1bcde.com^$important
@@ -4256,6 +4257,7 @@
 ||ftgfmbxqkjda.com^$important
 ||ftisvrpsfu.bid^$important
 ||ftjrekbpjkwe.com^$important
+||ftkbsddgbqt.com^$important
 ||ftodxdoolvdm.com^$important
 ||ftqgkcmbkptohh.com^$important
 ||ftqhgapqugv.bid^$important
@@ -4436,6 +4438,7 @@
 ||gadspms.com^$important
 ||gadspmz.com^$important
 ||gafoswegc.com^$important
+||gaftaums.com^$important
 ||gahhlbxdgw.com^$important
 ||gambigambiwinwin.com^$important
 ||game168.com.tw^$important
@@ -4985,6 +4988,7 @@
 ||hattifkklbo.bid^$important
 ||haupsoti.net^$important
 ||hauvkkwrbme.com^$important
+||hayfatduh.com^$important
 ||hayxktgbqpmult.com^$important
 ||hazelcrestcoxsackie.com^$important
 ||hbbgrhzqezz.com^$important
@@ -8450,6 +8454,7 @@
 ||nodvmmtniokbz.bid^$important
 ||nofhtrsaz.com^$important
 ||nofoxnalt.com^$important
+||noglolra.com^$important
 ||nogxucpaktrya.com^$important
 ||nohsshsxpv.club^$important
 ||noiaifyednjt.com^$important
@@ -9072,6 +9077,7 @@
 ||owlsheadcoalwood.com^$important
 ||owlsr.us^$important
 ||owmldgrzsc.bid^$important
+||owncutone.com^$important
 ||ownlocal.com^$important
 ||owodfrquhqui.com^$important
 ||owoeaicjtds.com^$important
@@ -10446,6 +10452,7 @@
 ||repetitish.com^$important
 ||replaceroute.com^$important
 ||reportantu.info^$important
+||repruggob.com^$important
 ||rereegny.net^$important
 ||rereghpaz.com^$important
 ||rertazmgduxp.com^$important
@@ -11147,6 +11154,7 @@
 ||similarsabine.com^$important
 ||simpleco.in^$important
 ||simplisticnose.com^$important
+||simrubwan.com^$important
 ||sincerebuffalo.com^$important
 ||sinceresofa.com ^$important
 ||sinceresofa.com^$important
