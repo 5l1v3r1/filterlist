@@ -835,6 +835,7 @@
 ||afraidlanguage.com^$important
 ||afshanthough.pro^$important
 ||afssdmin.com^$important
+||aftv-serving.bid^$important
 ||afxtcajgtzcugb.com^$important
 ||afyqzjxzuupmz.bid^$important
 ||afzfzhbk.com^$important
@@ -1473,6 +1474,7 @@
 ||beholder.xyz^$important
 ||behybmunweid.com^$important
 ||beigeiros.pw^$important
+||beiven.pw^$important
 ||bekiruvppl.com^$important
 ||bektvxxfv.bid^$important
 ||bellevillelickingville.com^$important
@@ -2871,6 +2873,7 @@
 ||digxmr.com^$important
 ||dijutbdzbv.com^$important
 ||dillweqbducwi.com^$important
+||dimfarlow.com^$important
 ||dinmbegj.bid^$important
 ||dipladoks.org^$important
 ||diplomahawaii.com^$important
@@ -4377,6 +4380,7 @@
 ||fzcyyqvrbrpk.com^$important
 ||fzgitqrqrsyyiv.com^$important
 ||fzhwvlpnqg.bid^$important
+||fzhxi.com^$important
 ||fzorwhus.com^$important
 ||fzpseyhkanhopd.com^$important
 ||fzqxefkbjzwiqa.com^$important
@@ -6367,6 +6371,7 @@
 ||jsg7mdk.com^$important
 ||jshjrozmwmyj.com^$important
 ||jshosting.*^$important
+||jsonip.com^$important
 ||jssdk.beetv.net^$important
 ||jstqcal.com^$important
 ||jstracer.yandex.ru^$important
@@ -10993,6 +10998,7 @@
 ||sdtqotoe.com^$important
 ||sdvgglhp.bid^$important
 ||sdzxojlt.com^$important
+||seaboblit.com^$important
 ||searchdimension.com^$important
 ||seasonaloffers.club^$important
 ||seasonvar.net^$important
@@ -14607,6 +14613,7 @@
 ||youngyear.com^$important
 ||youpig.passas.us^$important
 ||your-mobi-security.com^$important
+||your-notice.com^$important
 ||your-server.de^$important
 ||yourbestway.cn^$important
 ||yourblenderparts.ru^$important
@@ -15335,10 +15342,3 @@
 ||zzwajufm.com^$important
 ||zzwzjidz.bid^$important
 ||zzxosget.com^$important
-||jsonip.com^$important
-||your-notice.com^$important
-||seaboblit.com^$important
-||dimfarlow.com^$important
-||beiven.pw^$important
-||fzhxi.com^$important
-||aftv-serving.bid^$important
