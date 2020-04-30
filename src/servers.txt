@@ -30,18 +30,6 @@
 ||0632qyw.com^$important
 ||06f24f3d0b.com^$important
 ||080jxrab.top^$important
-||523c579923fd35aa.com^$important
-||815e8fa24ebb8686.com^$important
-||c50021876c67fd14.com^$important
-||4656e696665646e6574656e696665646e6574656e696665646e6574656e696665646e6574656e696665646e6574656e696665646e6574656e696665646e6574656e696665646e657.com^$important
-||5657274756572747565727475657274756572747565727475657274756572747.com^$important
-||5637c616665637c616665637c616665637c616665637c616665637c616665637c616665637c61666.com^$important
-||adtival.network^$important
-||7472756574727565747275657472756574727565747275657472756574727565.com^$important
-||66616c736566616c736566616c736566616c736566616c736566616c736566616c736566616c7365.com^$important
-||756e646566696e6564756e646566696e6564756e646566696e6564756e646566696e6564756e646566696e6564756e646566696e6564756e646566696e6564756e646566696e6564.com^$important
-||banicywan.com^$important
-||dadskis.com^$important
 ||0879dbbeb31e0c83d.com^$important
 ||09cd.co.kr^$important
 ||09fee6914d1b6450885.com^$important
@@ -268,6 +256,7 @@
 ||44f29447f575c41.com^$important
 ||45eijvhgj2.com^$important
 ||4615cccc9a6e470dc33a438ca9c0ad38.com^$important
+||4656e696665646e6574656e696665646e6574656e696665646e6574656e696665646e6574656e696665646e6574656e696665646e6574656e696665646e6574656e696665646e657.com^$important
 ||470d2b0f462.com^$important
 ||4736.in^$important
 ||47f624b2e6c6072e.com^$important
@@ -303,6 +292,7 @@
 ||508ec56533e3937e.com^$important
 ||50h6v79p.top^$important
 ||51nlno7cgy.com^$important
+||523c579923fd35aa.com^$important
 ||52b7d78514f3cb9d.com^$important
 ||534fd36740e66ca9c.com^$important
 ||535447ed91a7b31514021d69bb3ee1b3.com^$important
@@ -317,7 +307,9 @@
 ||54a2c2e3c325.com^$important
 ||550b3ikb9j.com^$important
 ||555dfbd5425347beab45.date^$important
+||5637c616665637c616665637c616665637c616665637c616665637c616665637c616665637c61666.com^$important
 ||564d28256cddaeba.com^$important
+||5657274756572747565727475657274756572747565727475657274756572747.com^$important
 ||565an8qpws.com^$important
 ||568vovhs6ekbupjo.pro^$important
 ||576digital.hu^$important
@@ -366,6 +358,7 @@
 ||65vk1fba34.com^$important
 ||65xps.com^$important
 ||6631f33cf2a1032b.com^$important
+||66616c736566616c736566616c736566616c736566616c736566616c736566616c736566616c7365.com^$important
 ||66713dbe44.com^$important
 ||674309f93c1.com^$important
 ||67959ed3ef4a3.com^$important
@@ -398,10 +391,12 @@
 ||73c6ec666c4.com^$important
 ||73g509fk9a.com^$important
 ||746fyw2v.com^$important
+||7472756574727565747275657472756574727565747275657472756574727565.com^$important
 ||74im4p7xq6.com^$important
 ||751c990ab4.com^$important
 ||754daf9cd396259.com^$important
 ||755f8823d5ca4c7f07a.com^$important
+||756e646566696e6564756e646566696e6564756e646566696e6564756e646566696e6564756e646566696e6564756e646566696e6564756e646566696e6564756e646566696e6564.com^$important
 ||75ce0f054e9abc.com^$important
 ||764d5e2f9a6e.com^$important
 ||76674bdad304297eda3d325f449f6f49.com^$important
@@ -432,6 +427,7 @@
 ||7wtic7ru.com^$important
 ||7xc4n.com^$important
 ||802b4bb54f0fc.com^$important
+||815e8fa24ebb8686.com^$important
 ||81p5b.top^$important
 ||82o9v830.com^$important
 ||8387334b12ae7d.com^$important
@@ -1363,6 +1359,7 @@
 ||balancebreath.com^$important
 ||balloonbit.com^$important
 ||balloontexture.com^$important
+||banicywan.com^$important
 ||bannersnack.com^$important
 ||banuhqxbc.com^$important
 ||baommitouduxo.bid^$important
@@ -1943,6 +1940,7 @@
 ||c4bafc1c8a3278.com^$important
 ||c4bafc1c8a32783.com^$important
 ||c4f02bcd67d2e5.com^$important
+||c50021876c67fd14.com^$important
 ||c52llumx.com^$important
 ||c545d86c18d22.com^$important
 ||c5b39ff13b3259df.com^$important
@@ -2637,6 +2635,7 @@
 ||dadsims.com^$important
 ||dadsimz.com^$important
 ||dadsipz.com^$important
+||dadskis.com^$important
 ||dadskiz.com^$important
 ||dadslimz.com^$important
 ||dadsoks.com^$important
