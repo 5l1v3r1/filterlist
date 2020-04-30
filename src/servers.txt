@@ -22,16 +22,6 @@
 ||01jud3v55z.com^$important
 ||01mspmd5yalky8.com^$important
 ||024xuyisheng.com^$important
-||adjust.com^$important
-||bidgear.com^$important
-||waynagmay.com^$important
-||sf9yvla26s5t.com^$important
-||jdwxjtwue.com^$important
-||hzzevwlmjji.com^$important
-||supercounters.com^$important
-||gagpetwet.com^$important
-||q0yxfvuo32.ru^$important
-||bezelbuzz13.live^$important
 ||0377shujuhuifu.top^$important
 ||0452jhw.com^$important
 ||04v70ab.com^$important
@@ -1483,6 +1473,7 @@
 ||bexogxapbqict.bid^$important
 ||beyaek3.top^$important
 ||bezcmsrzx.com^$important
+||bezelbuzz13.live^$important
 ||bezoglasa.online^$important
 ||bezqvpliexxtfw.com^$important
 ||bf-ad.net^$important
@@ -1545,6 +1536,7 @@
 ||biberukalap.com^$important
 ||bicacxo5go.com^$important
 ||bictxzszwkwghn.com^$important
+||bidgear.com^$important
 ||bidmachine.io^$important
 ||bidswitch.net^$important
 ||biftbtajfs.bid^$important
@@ -4405,6 +4397,7 @@
 ||gadspmz.com^$important
 ||gafoswegc.com^$important
 ||gaftaums.com^$important
+||gagpetwet.com^$important
 ||gahhlbxdgw.com^$important
 ||gambigambiwinwin.com^$important
 ||game168.com.tw^$important
@@ -5446,6 +5439,7 @@
 ||hzxtamstwecry.bid^$important
 ||hzyvjghy.bid^$important
 ||hzyxaqdr.bid^$important
+||hzzevwlmjji.com^$important
 ||i-mobile.co.jp^$important
 ||i.imedia.cz^$important
 ||i027m.top^$important
@@ -6043,6 +6037,7 @@
 ||jdskyjntuhea.com^$important
 ||jdtufqcyumvb.com^$important
 ||jducqfnxeypyw.com^$important
+||jdwxjtwue.com^$important
 ||jdzmcidlajwwzi.bid^$important
 ||jdzw3frs.com^$important
 ||jeakofzseo.com^$important
@@ -9796,6 +9791,7 @@
 ||pzpdxayohfdc.com^$important
 ||pzpwjawqbmei.com^$important
 ||pzzmqjrp.com^$important
+||q0yxfvuo32.ru^$important
 ||q0zsp5e3dv.com^$important
 ||q64a9ris0j.com^$important
 ||q8eqh.top^$important
@@ -11466,6 +11462,7 @@
 ||sumvztfze.com^$important
 ||sundhopen.site^$important
 ||suonvyzivnfy.com^$important
+||supercounters.com^$important
 ||superfastcdn.com^$important
 ||superficialsink.com^$important
 ||superficialsquare.com^$important
@@ -13274,6 +13271,7 @@
 ||wawlfosfkdy.com^$important
 ||wawyxzfkab.com^$important
 ||waxtamnit.com^$important
+||waynagmay.com^$important
 ||waynsnuu.bid^$important
 ||wbejophctdunop.bid^$important
 ||wbfwyzatvqjbnf.com^$important

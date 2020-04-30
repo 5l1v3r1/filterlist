@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-04-28 22:54:54
-! Version: 20200428225454
+! Last modified: 2020-04-30 20:10:57
+! Version: 20200430201057
 ! Expires: 3 hours
-! Number of filters: 15304
+! Number of filters: 15312
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -36,7 +36,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?piwik([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?puss[0-9]{2,3}\.com/$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?px\-intl([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?re[ck]l?(am[asy]?)?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?re([ck]l?(am[asy]?)?)?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?snippets?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?tags?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?telemetr(y|ics)?([0-9]{1,3})?\./$important
@@ -1517,6 +1517,7 @@
 ||bexogxapbqict.bid^$important
 ||beyaek3.top^$important
 ||bezcmsrzx.com^$important
+||bezelbuzz13.live^$important
 ||bezoglasa.online^$important
 ||bezqvpliexxtfw.com^$important
 ||bf3c1229dc6f28b2.com^$important
@@ -1579,6 +1580,7 @@
 ||biberukalap.com^$important
 ||bicacxo5go.com^$important
 ||bictxzszwkwghn.com^$important
+||bidgear.com^$important
 ||bidmachine.io^$important
 ||bidswitch.net^$important
 ||biftbtajfs.bid^$important
@@ -4439,6 +4441,7 @@
 ||gadspmz.com^$important
 ||gafoswegc.com^$important
 ||gaftaums.com^$important
+||gagpetwet.com^$important
 ||gahhlbxdgw.com^$important
 ||gambigambiwinwin.com^$important
 ||game168.com.tw^$important
@@ -5480,6 +5483,7 @@
 ||hzxtamstwecry.bid^$important
 ||hzyvjghy.bid^$important
 ||hzyxaqdr.bid^$important
+||hzzevwlmjji.com^$important
 ||i.imedia.cz^$important
 ||i027m.top^$important
 ||i0ri625.com^$important
@@ -6077,6 +6081,7 @@
 ||jdskyjntuhea.com^$important
 ||jdtufqcyumvb.com^$important
 ||jducqfnxeypyw.com^$important
+||jdwxjtwue.com^$important
 ||jdzmcidlajwwzi.bid^$important
 ||jdzw3frs.com^$important
 ||jeakofzseo.com^$important
@@ -9830,6 +9835,7 @@
 ||pzpdxayohfdc.com^$important
 ||pzpwjawqbmei.com^$important
 ||pzzmqjrp.com^$important
+||q0yxfvuo32.ru^$important
 ||q0zsp5e3dv.com^$important
 ||q64a9ris0j.com^$important
 ||q8eqh.top^$important
@@ -11500,6 +11506,7 @@
 ||sumvztfze.com^$important
 ||sundhopen.site^$important
 ||suonvyzivnfy.com^$important
+||supercounters.com^$important
 ||superfastcdn.com^$important
 ||superficialsink.com^$important
 ||superficialsquare.com^$important
@@ -13308,6 +13315,7 @@
 ||wawlfosfkdy.com^$important
 ||wawyxzfkab.com^$important
 ||waxtamnit.com^$important
+||waynagmay.com^$important
 ||waynsnuu.bid^$important
 ||wbejophctdunop.bid^$important
 ||wbfwyzatvqjbnf.com^$important
