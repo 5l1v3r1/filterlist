@@ -31,10 +31,6 @@
 ||06f24f3d0b.com^$important
 ||080jxrab.top^$important
 ||0879dbbeb31e0c83d.com^$important
-||subendorse.com^$important
-||zeegreen.net^$important
-||caithamo.net^$important
-||exosrv.com^$important
 ||09cd.co.kr^$important
 ||09fee6914d1b6450885.com^$important
 ||0azx1.com^$important
@@ -1990,6 +1986,7 @@
 ||cafvzpusl.com^$important
 ||cah9ooy.bid^$important
 ||cahepysgenpb.com^$important
+||caithamo.net^$important
 ||calculatingcircle.com^$important
 ||calculatingtoothbrush.com^$important
 ||calculatorcamera.com^$important
@@ -11493,6 +11490,7 @@
 ||subdo.torrentlocura.com^$important
 ||subdo.torrentrapid.com^$important
 ||subdo.tumejortorrent.com^$important
+||subendorse.com^$important
 ||subscribers.click^$important
 ||subsequentswim.com^$important
 ||substantialcarpenter.com^$important
@@ -14923,6 +14921,7 @@
 ||zealousfield.com^$important
 ||zeantqrix.bid^$important
 ||zedo.com^$important
+||zeegreen.net^$important
 ||zefirgood1.ru^$important
 ||zehwjplnopevjt.bid^$important
 ||zekert.com^$important

@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-05-01 03:00:13
-! Version: 20200501030013
+! Last modified: 2020-05-01 03:00:45
+! Version: 20200501030045
 ! Expires: 3 hours
-! Number of filters: 15368
+! Number of filters: 15371
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -2030,6 +2030,7 @@
 ||cafvzpusl.com^$important
 ||cah9ooy.bid^$important
 ||cahepysgenpb.com^$important
+||caithamo.net^$important
 ||calculatingcircle.com^$important
 ||calculatingtoothbrush.com^$important
 ||calculatorcamera.com^$important
@@ -11533,6 +11534,7 @@
 ||subdo.torrentlocura.com^$important
 ||subdo.torrentrapid.com^$important
 ||subdo.tumejortorrent.com^$important
+||subendorse.com^$important
 ||subscribers.click^$important
 ||subsequentswim.com^$important
 ||substantialcarpenter.com^$important
@@ -14963,6 +14965,7 @@
 ||zealousfield.com^$important
 ||zeantqrix.bid^$important
 ||zedo.com^$important
+||zeegreen.net^$important
 ||zefirgood1.ru^$important
 ||zehwjplnopevjt.bid^$important
 ||zekert.com^$important
