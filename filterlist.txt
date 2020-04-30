@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-04-30 23:51:43
-! Version: 20200430235143
+! Last modified: 2020-05-01 01:57:07
+! Version: 20200501015707
 ! Expires: 3 hours
-! Number of filters: 15352
+! Number of filters: 15368
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -224,6 +224,7 @@
 ||2ypmo2nhgf.com^$important
 ||2znp09oa.com^$important
 ||300ca0d0.space^$important
+||308775e1f95.com^$important
 ||309d5f826829f8c6.com^$important
 ||30dfa2c5b2c5ca53ee73.date^$important
 ||310ca263.space^$important
@@ -238,6 +239,7 @@
 ||341073be6e9db7d2.com^$important
 ||3412bf88fc05a986e55.com^$important
 ||34667c8ece5.com^$important
+||34ed5da2977d1ace.com^$important
 ||34pavouhj7.com^$important
 ||35.186.249.84^$important
 ||35.190.91.111^$important
@@ -257,6 +259,7 @@
 ||384756783900.cn^$important
 ||38zu.cn^$important
 ||392439sf934990.online^$important
+||394b8b41ac5305d.com^$important
 ||398c874c5e7b36.com^$important
 ||39irqwnzlv.com^$important
 ||3aeeenmpdb.com^$important
@@ -343,6 +346,7 @@
 ||537c7cefec855.com^$important
 ||53b6a307827e19.com^$important
 ||542fe1b0002a.com^$important
+||544bd1e82a9c8c39.com^$important
 ||544c27b3f0aae2.com^$important
 ||5483bbc5758.com^$important
 ||549a499e1e.com^$important
@@ -361,10 +365,12 @@
 ||5875b75704b5.com^$important
 ||58b291f917728a2.com^$important
 ||59cn7.com^$important
+||5aa8f31e2f5d.com^$important
 ||5bir9vuqcq.com^$important
 ||5c1deabe3202c11c1.com^$important
 ||5c577fc74618431b.com^$important
 ||5db8d92zi2.com^$important
+||5e131ddb9a.com^$important
 ||5edeb195868e2195.com^$important
 ||5f6dmzflgqso.com^$important
 ||5g9quwq.com^$important
@@ -416,6 +422,8 @@
 ||6d79qh7j.com^$important
 ||6dbac32rsl.com^$important
 ||6eez7ouig7gwguf6.pro^$important
+||6f2bdffd6587d.com^$important
+||6f363e072e82206b.com^$important
 ||6fa5633abf4b53a1.com^$important
 ||6kauqbszb9.com^$important
 ||6kr4ccy1.com^$important
@@ -446,6 +454,7 @@
 ||76674bdad304297eda3d325f449f6f49.com^$important
 ||7667bab1751ff777.com^$important
 ||7713gsefc0.com^$important
+||777ff1571bab7667.com^$important
 ||7937584337b8.com^$important
 ||79ucic4ss8.com^$important
 ||79zgycmr.com^$important
@@ -473,6 +482,7 @@
 ||802b4bb54f0fc.com^$important
 ||815e8fa24ebb8686.com^$important
 ||81p5b.top^$important
+||822f797ef9d68ad3.com^$important
 ||82o9v830.com^$important
 ||8387334b12ae7d.com^$important
 ||83a26bd3df29eb57.com^$important
@@ -1361,6 +1371,7 @@
 ||b3z29k1uxb.com^$important
 ||b42rracj.com^$important
 ||b4e12976c052bbd91c3e.date^$important
+||b56f9c50130def4d.com^$important
 ||b60228e270e363f6.com^$important
 ||b84pharkhv.com^$important
 ||b8pfulzbyj7h.com^$important
@@ -1980,6 +1991,7 @@
 ||c0f3235774d3ee.com^$important
 ||c11ff582fa2fd7dc.com^$important
 ||c26c8951ef23f.com^$important
+||c26e9ccd4e063b.com^$important
 ||c2bb06c45a5.com^$important
 ||c4bafc1c8a327.com^$important
 ||c4bafc1c8a3278.com^$important
@@ -3244,6 +3256,7 @@
 ||dzzawlkmtvug.com^$important
 ||dzztjcbt.com^$important
 ||e09f3e4ceda.com^$important
+||e21b1642db801b2a.com^$important
 ||e2706c6e2b426f74.com^$important
 ||e2b9jbowv7.com^$important
 ||e347bb14dc71778.com^$important
@@ -3798,6 +3811,7 @@
 ||f23y4td4.com^$important
 ||f2e49d1328846ec.com^$important
 ||f2q1u44h4m.com^$important
+||f3551539d6565853.com^$important
 ||f369a60bf483bcc9.com^$important
 ||f3c1cc473b337ded.com^$important
 ||f4ceb8490e0d.com^$important
@@ -3941,6 +3955,7 @@
 ||fe8abdee64d5ea.com^$important
 ||feacamnliz.bid^$important
 ||fearfulfish.com^$important
+||feb12740de5be9b3.com^$important
 ||febadu.com^$important
 ||febalwby.com^$important
 ||fed2nkspbdnr.info^$important
@@ -13653,6 +13668,7 @@
 ||woetwakv.bid^$important
 ||woghqyjpiwddme.com^$important
 ||wohuuwfektlppp.bid^$important
+||wokfirsax.com^$important
 ||wolhopys.bid^$important
 ||wollckpay.com^$important
 ||wolqstldvfkuhp.com^$important
