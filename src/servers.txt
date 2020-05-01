@@ -4062,7 +4062,6 @@
 ||flakyfeast.com^$important
 ||flare-analytics.com^$important
 ||flash-searchfor-find.icu^$important
-||flashx.*^$important
 ||flavordecision.com^$important
 ||flbecoidmt.com^$important
 ||flcfstbzncsim.com^$important
@@ -4075,6 +4074,11 @@
 ||flimsycircle.com^$important
 ||flimsythought.com^$important
 ||flirteenew.info^$important
+||intelligenceadx.com^$important
+||infoblog.today^$important
+||grubsoan.com^$important
+||arkbuyarm.club^$important
+||ailawlani.club^$important
 ||fljgsht.ru^$important
 ||fljozww19f.com^$important
 ||flkyhwjhp.com^$important
