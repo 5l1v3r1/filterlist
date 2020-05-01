@@ -1141,6 +1141,7 @@
 ||arizona-miner.tk^$important
 ||arjgnqlsdo.com^$important
 ||arkairbuy.site^$important
+||arkbuyarm.club^$important
 ||arkhamxojvr.com^$important
 ||arllvzkoh.com^$important
 ||arloxpiosxzjw.bid^$important
@@ -4074,11 +4075,6 @@
 ||flimsycircle.com^$important
 ||flimsythought.com^$important
 ||flirteenew.info^$important
-||intelligenceadx.com^$important
-||infoblog.today^$important
-||grubsoan.com^$important
-||arkbuyarm.club^$important
-||ailawlani.club^$important
 ||fljgsht.ru^$important
 ||fljozww19f.com^$important
 ||flkyhwjhp.com^$important
@@ -4813,6 +4809,7 @@
 ||grsnseuoispsco.com^$important
 ||grtduutw.bid^$important
 ||grubpbrmek.com^$important
+||grubsoan.com^$important
 ||grunkav.online^$important
 ||grushashuka.pro^$important
 ||grvoflsctenq.bid^$important
@@ -5759,6 +5756,7 @@
 ||influads.com^$important
 ||info.web.de^$important
 ||infobizyours.info^$important
+||infoblog.today^$important
 ||infocenter.support^$important
 ||infolinks.com^$important
 ||infomail.support^$important
@@ -5786,6 +5784,7 @@
 ||instreamatic.com^$important
 ||instrumentsponge.com^$important
 ||intellecthosting.net^$important
+||intelligenceadx.com^$important
 ||intelligentscissors.com^$important
 ||intellitxt.com^$important
 ||intercom.com^$important

@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-05-01 06:30:48
-! Version: 20200501063048
+! Last modified: 2020-05-01 23:17:14
+! Version: 20200501231714
 ! Expires: 3 hours
-! Number of filters: 15378
+! Number of filters: 15381
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1185,6 +1185,7 @@
 ||arizona-miner.tk^$important
 ||arjgnqlsdo.com^$important
 ||arkairbuy.site^$important
+||arkbuyarm.club^$important
 ||arkhamxojvr.com^$important
 ||arllvzkoh.com^$important
 ||arloxpiosxzjw.bid^$important
@@ -4106,7 +4107,6 @@
 ||flakyfeast.com^$important
 ||flare-analytics.com^$important
 ||flash-searchfor-find.icu^$important
-||flashx.*^$important
 ||flavordecision.com^$important
 ||flbecoidmt.com^$important
 ||flcfstbzncsim.com^$important
@@ -4853,6 +4853,7 @@
 ||grsnseuoispsco.com^$important
 ||grtduutw.bid^$important
 ||grubpbrmek.com^$important
+||grubsoan.com^$important
 ||grunkav.online^$important
 ||grushashuka.pro^$important
 ||grvoflsctenq.bid^$important
@@ -5799,6 +5800,7 @@
 ||influads.com^$important
 ||info.web.de^$important
 ||infobizyours.info^$important
+||infoblog.today^$important
 ||infocenter.support^$important
 ||infolinks.com^$important
 ||infomail.support^$important
@@ -5826,6 +5828,7 @@
 ||instreamatic.com^$important
 ||instrumentsponge.com^$important
 ||intellecthosting.net^$important
+||intelligenceadx.com^$important
 ||intelligentscissors.com^$important
 ||intellitxt.com^$important
 ||intercom.com^$important
