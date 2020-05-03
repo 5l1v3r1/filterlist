@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-05-01 23:17:14
-! Version: 20200501231714
+! Last modified: 2020-05-03 15:18:59
+! Version: 20200503151859
 ! Expires: 3 hours
-! Number of filters: 15381
+! Number of filters: 15387
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -366,6 +366,7 @@
 ||58b291f917728a2.com^$important
 ||59cn7.com^$important
 ||5aa8f31e2f5d.com^$important
+||5advertise.com^$important
 ||5bir9vuqcq.com^$important
 ||5c1deabe3202c11c1.com^$important
 ||5c577fc74618431b.com^$important
@@ -1261,6 +1262,7 @@
 ||augvtjtnsfnxg.ru^$important
 ||auiehechoulh.ru^$important
 ||auiviilbp2.com^$important
+||aukalerim.com^$important
 ||aultemeztokc.com^$important
 ||aurbidpos.com^$important
 ||austery.info^$important
@@ -6481,6 +6483,7 @@
 ||jwjztdbakqqk.com^$important
 ||jwnlqtdvnm.bid^$important
 ||jwpltx.com^$important
+||jwpsrv.com^$important
 ||jwt8e5vzc1.com^$important
 ||jwwhsqz.ru^$important
 ||jwwlyiicjkuh.com^$important
@@ -8040,6 +8043,7 @@
 ||mrdbkfyaxsig.bid^$important
 ||mrdiehhk.bid^$important
 ||mrds.mail.ru^$important
+||mrelko.com^$important
 ||mrepqeyednht.club^$important
 ||mrfveznetjtp.com^$important
 ||mrjzfzwey.com^$important
@@ -8187,6 +8191,7 @@
 ||mylovesister.gq^$important
 ||mylslrkbn.com^$important
 ||mynativeplatform.com^$important
+||mynunu.net^$important
 ||myoffers.*^$important
 ||myogwiwjlfrngo.com^$important
 ||myqvhpjyd.com^$important
@@ -9558,6 +9563,7 @@
 ||popcain.com^$important
 ||popcap.com^$important
 ||popcash.net^$important
+||pophahwot.com^$important
 ||popin.cc^$important
 ||popmajor.com^$important
 ||popmonetizer.com^$important
