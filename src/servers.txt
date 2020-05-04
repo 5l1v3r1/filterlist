@@ -95,7 +95,6 @@
 ||1mp.mobi^$important
 ||1paj4kmp.top^$important
 ||1phads.com^$important
-||1q2w3.*^$important
 ||1tj7k84.com^$important
 ||1wkvvts8is.com^$important
 ||1wzfew7a.site^$important
@@ -913,7 +912,6 @@
 ||ajmyrtdiwvg.bid^$important
 ||ajoaorexnieym.com^$important
 ||ajocbplhzcvr.bid^$important
-||ajplugins.com^$important
 ||ajrwmjdbey.com^$important
 ||ajtctiiiaz.com^$important
 ||ajttqxeqg.com^$important
@@ -948,6 +946,9 @@
 ||aleapeact.club^$important
 ||alertafterthought.com^$important
 ||alexametrics.com^$important
+||33across.com^$important
+||emxdgt.com^$important
+||servenobid.com^$important
 ||alflying.*^$important
 ||alfmk.ru^$important
 ||alfredean.com^$important
@@ -11454,7 +11455,7 @@
 ||stat*.1internet.tv^$important
 ||stat-rock.com^$important
 ||stat.teleport.media^$important
-||statcounter.com^$important,third-party
+||statcounter.com^$important
 ||statdynamic.com^$important
 ||stathat.com^$important
 ||stati.bid^$important
@@ -11917,7 +11918,7 @@
 ||tinfunshe.club^$important
 ||tingecatalogue.club^$important
 ||tinlgcmkslwio.bid^$important
-||tinypass.com^$important,third-party
+||tinypass.com^$important
 ||tiosmqhuuzb.bid^$important
 ||tiouqzubepuy.com^$important
 ||tiphkuloov.com^$important
@@ -13009,7 +13010,7 @@
 ||virgbmkmear.com^$important
 ||viriepak.com^$important
 ||visitstats.com^$important
-||visitstats.com^$important,third-party
+||visitstats.com^$important
 ||viunypnvhcw.com^$important
 ||vivcdctagoij.com^$important
 ||vivetivcuggz.com^$important
