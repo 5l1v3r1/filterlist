@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-05-04 17:32:51
-! Version: 20200504173251
+! Last modified: 2020-05-04 19:54:54
+! Version: 20200504195454
 ! Expires: 3 hours
-! Number of filters: 15394
+! Number of filters: 15397
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1086,6 +1086,7 @@
 ||anqnimezkdjm.com^$important
 ||antburape.club^$important
 ||antinuef.info^$important
+||antirgiocub.com^$important
 ||anvagsqctxsaz.bid^$important
 ||anvskelwpvvmtg.bid^$important
 ||anxiousapples.com^$important
@@ -2416,6 +2417,7 @@
 ||completecabbage.com^$important
 ||completeexecutor.com^$important
 ||complextoad.com^$important
+||composivel.pro^$important
 ||com-shield.live^$important
 ||com-shield-device.live^$important
 ||comwgi.com^$important
@@ -3753,6 +3755,7 @@
 ||exi8ef83z9.com^$important
 ||exikxnbxula.com^$important
 ||exioptyxiyoo.com^$important
+||exjozegvbaresw.com^$important
 ||exjthrzliajfd.com^$important
 ||exkruwviyy.com^$important
 ||exmubrgt.bid^$important
