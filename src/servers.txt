@@ -192,6 +192,7 @@
 ||32tsdgseg.co.cc^$important
 ||330ca589.space^$important
 ||3322.org^$important
+||33across.com^$important
 ||340ca71c.space^$important
 ||341073be6e9db7d2.com^$important
 ||3412bf88fc05a986e55.com^$important
@@ -946,9 +947,6 @@
 ||aleapeact.club^$important
 ||alertafterthought.com^$important
 ||alexametrics.com^$important
-||33across.com^$important
-||emxdgt.com^$important
-||servenobid.com^$important
 ||alflying.*^$important
 ||alfmk.ru^$important
 ||alfredean.com^$important
@@ -3495,6 +3493,7 @@
 ||emszbghugzw.bid^$important
 ||emvdlnwph.com^$important
 ||emxbuugvudofbc.bid^$important
+||emxdgt.com^$important
 ||emxfructugey.com^$important
 ||emxwkunx.bid^$important
 ||emxztiidh.com^$important
@@ -11071,6 +11070,7 @@
 ||serie-vostfr.com^$important
 ||serv1swork.com^$important
 ||servedbyadbutler.com^$important
+||servenobid.com^$important
 ||service4refresh.info^$important
 ||serving-sys.com^$important
 ||seskeu3zk7.com^$important
@@ -13009,7 +13009,6 @@
 ||viqmadjqndqkm.com^$important
 ||virgbmkmear.com^$important
 ||viriepak.com^$important
-||visitstats.com^$important
 ||visitstats.com^$important
 ||viunypnvhcw.com^$important
 ||vivcdctagoij.com^$important

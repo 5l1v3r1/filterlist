@@ -1,7 +1,7 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-05-04 19:54:54
-! Version: 20200504195454
+! Last modified: 2020-05-04 21:06:35
+! Version: 20200504210635
 ! Expires: 3 hours
 ! Number of filters: 15397
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
@@ -139,7 +139,6 @@
 ||1mp.mobi^$important
 ||1paj4kmp.top^$important
 ||1phads.com^$important
-||1q2w3.*^$important
 ||1tj7k84.com^$important
 ||1wkvvts8is.com^$important
 ||1wzfew7a.site^$important
@@ -236,6 +235,7 @@
 ||32tsdgseg.co.cc^$important
 ||330ca589.space^$important
 ||3322.org^$important
+||33across.com^$important
 ||340ca71c.space^$important
 ||341073be6e9db7d2.com^$important
 ||3412bf88fc05a986e55.com^$important
@@ -957,7 +957,6 @@
 ||ajmyrtdiwvg.bid^$important
 ||ajoaorexnieym.com^$important
 ||ajocbplhzcvr.bid^$important
-||ajplugins.com^$important
 ||ajrwmjdbey.com^$important
 ||ajtctiiiaz.com^$important
 ||ajttqxeqg.com^$important
@@ -3538,6 +3537,7 @@
 ||emszbghugzw.bid^$important
 ||emvdlnwph.com^$important
 ||emxbuugvudofbc.bid^$important
+||emxdgt.com^$important
 ||emxfructugey.com^$important
 ||emxwkunx.bid^$important
 ||emxztiidh.com^$important
@@ -11114,6 +11114,7 @@
 ||serie-vostfr.com^$important
 ||serv1swork.com^$important
 ||servedbyadbutler.com^$important
+||servenobid.com^$important
 ||service4refresh.info^$important
 ||serving-sys.com^$important
 ||seskeu3zk7.com^$important
@@ -11497,7 +11498,7 @@
 ||startappservice.com^$important
 ||stat*.1internet.tv^$important
 ||stat.teleport.media^$important
-||statcounter.com^$important,third-party
+||statcounter.com^$important
 ||statdynamic.com^$important
 ||stathat.com^$important
 ||stati.bid^$important
@@ -11961,7 +11962,7 @@
 ||tinfunshe.club^$important
 ||tingecatalogue.club^$important
 ||tinlgcmkslwio.bid^$important
-||tinypass.com^$important,third-party
+||tinypass.com^$important
 ||tiosmqhuuzb.bid^$important
 ||tiouqzubepuy.com^$important
 ||tiphkuloov.com^$important
@@ -13053,7 +13054,6 @@
 ||virgbmkmear.com^$important
 ||viriepak.com^$important
 ||visitstats.com^$important
-||visitstats.com^$important,third-party
 ||viunypnvhcw.com^$important
 ||vivcdctagoij.com^$important
 ||vivetivcuggz.com^$important
