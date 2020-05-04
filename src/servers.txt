@@ -19,7 +19,6 @@
 ||0101010101010101.com^$important
 ||01ced816b84.com^$important
 ||01counter.com^$important
-||geojs.io^$important
 ||01jud3v55z.com^$important
 ||01mspmd5yalky8.com^$important
 ||024xuyisheng.com^$important
@@ -4521,6 +4520,7 @@
 ||geniusonclick.com^$important
 ||genqrabot.com^$important
 ||geo.yahoo.com^$important
+||geojs.io^$important
 ||georganish.info^$important
 ||gersairg.net^$important
 ||get1trightn0w.com^$important
