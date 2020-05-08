@@ -32,22 +32,6 @@
 ||080jxrab.top^$important
 ||0879dbbeb31e0c83d.com^$important
 ||09cd.co.kr^$important
-||flashtalking.com^$important
-||s2w3.space^$important
-||reichelcormier.bid^$important
-||pjstat.com^$important
-||nativeroll.tv^$important
-||partnetcoll.github.io^$important
-||skwstat.ru^$important
-||seedr.com^$important
-||adhigh.net^$important
-||vrtzads.com^$important
-||uuidksinc.net^$important
-||yvysgncv.com^$important
-||lf1.mail.ru^$important
-||combitly.com^$important
-||eqoivockikaue.com^$important
-||popnc.com^$important
 ||09fee6914d1b6450885.com^$important
 ||0azx1.com^$important
 ||0byv9mgbn0.com^$important
@@ -674,6 +658,7 @@
 ||adglare.net^$important
 ||adgsfoxoavmc.com^$important
 ||adhese.com^$important
+||adhigh.net^$important
 ||adhitzads.com^$important
 ||adinfo.support^$important
 ||adition.com^$important
@@ -2381,6 +2366,7 @@
 ||com-shield-device.live^$important
 ||com-shield.live^$important
 ||combinaticy.info^$important
+||combitly.com^$important
 ||comfortablecheese.com^$important
 ||comgnnyx.com^$important
 ||commandwalk.com^$important
@@ -3585,6 +3571,7 @@
 ||eqezqqdpjmxbpb.com^$important
 ||eqhawyidkdug.com^$important
 ||eqkccjinroye.bid^$important
+||eqoivockikaue.com^$important
 ||eqonwbgcqi.bid^$important
 ||eqqhbzmaf.bid^$important
 ||eqqhiwfjcfx.bid^$important
@@ -4087,6 +4074,7 @@
 ||flakyfeast.com^$important
 ||flare-analytics.com^$important
 ||flash-searchfor-find.icu^$important
+||flashtalking.com^$important
 ||flavordecision.com^$important
 ||flbecoidmt.com^$important
 ||flcfstbzncsim.com^$important
@@ -7119,6 +7107,7 @@
 ||levjirsqbtjhif.bid^$important
 ||lexcyehlniruu.bid^$important
 ||lexwdqnzmkdr.com^$important
+||lf1.mail.ru^$important
 ||lfclktkwnc.com^$important
 ||lfcnzhcnzded.com^$important
 ||lffyoomtjjhvc.com^$important
@@ -8221,6 +8210,7 @@
 ||nathetsof.com^$important
 ||nativeads.com^$important
 ||nativepu.sh^$important
+||nativeroll.tv^$important
 ||nativespot.com^$important
 ||nativesubscribe.pro^$important
 ||naucmjbzmymdzr.bid^$important
@@ -9234,6 +9224,7 @@
 ||parsimoniouspolice.com^$important
 ||partlepool.com^$important
 ||partnerfeed.ru^$important
+||partnetcoll.github.io^$important
 ||partplanes.com^$important
 ||party-nngvitbizn.now.sh^$important
 ||party-vqgdyvoycc.now.sh^$important
@@ -9551,6 +9542,7 @@
 ||popmonetizer.com^$important
 ||popmonetizer.net^$important
 ||popmyads.com^$important
+||popnc.com^$important
 ||popruexo.com^$important
 ||popsoffer.com^$important
 ||popuexo.com^$important
@@ -10482,6 +10474,7 @@
 ||refunevent.com^$important
 ||regbigltd.bid^$important
 ||regqrfuvncqcm.com^$important
+||reichelcormier.bid^$important
 ||reiqwxxd.com^$important
 ||reiseeget.com^$important
 ||rejbqhagczm.com^$important
@@ -10893,6 +10886,7 @@
 ||s20dh7e9dh.com^$important
 ||s24hc8xzag.com^$important
 ||s2block.com^$important
+||s2w3.space^$important
 ||s4-megafunn.info^$important
 ||s4block.com^$important
 ||s4yxaqyq95.com^$important
@@ -11053,6 +11047,7 @@
 ||sedalianoctor.com^$important
 ||sedoparking.com^$important
 ||see-work.info^$important
+||seedr.com^$important
 ||seedtag.com^$important
 ||seeneralrespan.info^$important
 ||segment.com^$important
@@ -11257,6 +11252,7 @@
 ||skspurybnv.com^$important
 ||sksytkvnvnmz.com^$important
 ||sktmonpbfgxamj.bid^$important
+||skwstat.ru^$important
 ||skylowhat.site^$important
 ||skzhfyqozkic.com^$important
 ||skzpsnpp.com^$important
@@ -13189,6 +13185,7 @@
 ||vrrupikcfcf.com^$important
 ||vrsceilj.bid^$important
 ||vrsngcuwiiiho.com^$important
+||vrtzads.com^$important
 ||vrvyearwxo.com^$important
 ||vrwfujmni.bid^$important
 ||vrzparvhipmo.com^$important
@@ -14789,6 +14786,7 @@
 ||yvsymvjzk.com^$important
 ||yvvafcqddpmd.com^$important
 ||yvyfyuacwz.com^$important
+||yvysgncv.com^$important
 ||yvzgazds6d.com^$important
 ||yw9f088h61.com^$important
 ||ywbfhuofnvuk.com^$important
