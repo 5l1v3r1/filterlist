@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-05-08 18:18:54
-! Version: 20200508181855
+! Last modified: 2020-05-08 23:27:16
+! Version: 20200508232716
 ! Expires: 3 hours
-! Number of filters: 15413
+! Number of filters: 15422
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -130,6 +130,7 @@
 ||1bcde.com^$important
 ||1bfc228b50a902db.com^$important
 ||1cb70f6b7aab4c70819a.date^$important
+||1dmp.io^$important
 ||1ea1sley.com^$important
 ||1fbaa223d6945621f8d7.date^$important
 ||1fc4d6ccf2.com^$important
@@ -1407,6 +1408,7 @@
 ||badspads.com^$important
 ||badstairs.com^$important
 ||badsways.com^$important
+||badumtsium.com^$important
 ||bae093b2b20fde784.com^$important
 ||baerxupsjjegb.com^$important
 ||bagoojzsqygg.com^$important
@@ -3049,6 +3051,7 @@
 ||dolohen.com^$important
 ||dolphincdn.xyz^$important
 ||dolphindispute.com^$important
+||dolweerum.com^$important
 ||domaintmt.tumejortorrent.com^$important
 ||domaintrp.torrentrapid.com^$important
 ||domdtvbhgg.com^$important
@@ -6814,6 +6817,7 @@
 ||koofysojwb.com^$important
 ||koradu.com^$important
 ||korocbbktnw.bid^$important
+||kost.tv^$important
 ||koten.zone^$important
 ||kovglrrlpqum.com^$important
 ||kovykpybtuylq.bid^$important
@@ -8231,6 +8235,7 @@
 ||n1g459ky7y.com^$important
 ||n2gk4jw.com^$important
 ||n2sq3jfrun.com^$important
+||n3x7.xyz^$important
 ||naaifqdqsnxtsp.com^$important
 ||naavxddd.com^$important
 ||nabaza.com^$important
@@ -11336,6 +11341,8 @@
 ||smazvhjn.com^$important
 ||smhqmrxplvnx.com^$important
 ||smhyvyvnpzigir.com^$important
+||smi2.net^$important
+||smi2.ru^$important
 ||smilingwaves.com ^$important
 ||smilingwaves.com^$important
 ||smjdypbxapigu.bid^$important
@@ -11744,7 +11751,6 @@
 ||taqesyqne.com^$important
 ||taqyljgaqsaz.com^$important
 ||tarawerap.com^$important
-||target.smi2.net^$important
 ||tarttendency.com^$important
 ||tarxjwdkx.com^$important
 ||taskolding.info^$important
@@ -12151,6 +12157,7 @@
 ||tradelab.fr^$important
 ||traff-1.ru^$important
 ||traffdaq.com^$important
+||trafficbass.com^$important
 ||trafficfactory.biz^$important
 ||trafficforce.com^$important
 ||traffic-gate-service.info^$important
@@ -12877,6 +12884,7 @@
 ||vasfxpribls.com^$important
 ||vaslssynz.com^$important
 ||vasoelv.xyz^$important
+||vastroll.ru^$important
 ||vatytxdw.com^$important
 ||vauwjladxhpx.bid^$important
 ||vavcashpop.com^$important
@@ -13455,6 +13463,7 @@
 ||webair.com^$important
 ||webassembly.stream^$important
 ||webcompon.info^$important
+||weblion777.github.io^$important
 ||webmasterplan.com^$important
 ||webodu.com^$important
 ||weborama.fr^$important
