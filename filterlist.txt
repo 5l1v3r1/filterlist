@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-05-09 20:50:30
-! Version: 20200509205030
+! Last modified: 2020-05-10 03:27:17
+! Version: 20200510032717
 ! Expires: 3 hours
-! Number of filters: 15440
+! Number of filters: 15443
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -2944,6 +2944,7 @@
 ||dirto.life^$important
 ||discreetfield.com^$important
 ||dispensablestranger.com^$important
+||displayvertising.com^$important
 ||disqusads.com^$important
 ||distinctday.com^$important
 ||distoryrussion.info^$important
@@ -9688,6 +9689,7 @@
 ||presssensor.com^$important
 ||previousplayground.com^$important
 ||previouspotato.com^$important
+||prfctmney.com^$important
 ||prgncwamr.com^$important
 ||pricefbcf.gq^$important
 ||primechse*.live^$important
@@ -15018,6 +15020,7 @@
 ||zcwjasfrog.com^$important
 ||zd2i6k4qi1.com^$important
 ||zdafkehcmdcphi.com^$important
+||zdajdudqfq.com^$important
 ||zdbzkrphx.bid^$important
 ||zddxlih.com^$important
 ||zdesestvareznezahodi.com^$important

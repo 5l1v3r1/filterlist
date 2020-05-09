@@ -20,11 +20,6 @@
 ||01ced816b84.com^$important
 ||01counter.com^$important
 ||01jud3v55z.com^$important
-||bcnewltd.club^$important
-||prfctmney.com^$important
-||displayvertising.com^$important
-||exjozegvbaresw.com^$important
-||zdajdudqfq.com^$important
 ||01mspmd5yalky8.com^$important
 ||024xuyisheng.com^$important
 ||0377shujuhuifu.top^$important
@@ -2904,6 +2899,7 @@
 ||dirto.life^$important
 ||discreetfield.com^$important
 ||dispensablestranger.com^$important
+||displayvertising.com^$important
 ||disqusads.com^$important
 ||distinctday.com^$important
 ||distoryrussion.info^$important
@@ -9647,6 +9643,7 @@
 ||presssensor.com^$important
 ||previousplayground.com^$important
 ||previouspotato.com^$important
+||prfctmney.com^$important
 ||prgncwamr.com^$important
 ||pricefbcf.gq^$important
 ||primechse*.live^$important
@@ -14977,6 +14974,7 @@
 ||zcwjasfrog.com^$important
 ||zd2i6k4qi1.com^$important
 ||zdafkehcmdcphi.com^$important
+||zdajdudqfq.com^$important
 ||zdbzkrphx.bid^$important
 ||zddxlih.com^$important
 ||zdesestvareznezahodi.com^$important
