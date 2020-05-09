@@ -36,22 +36,6 @@
 ||0azx1.com^$important
 ||0byv9mgbn0.com^$important
 ||0d96a0971a04071.com^$important
-||ufpcdn.com^$important
-||hadslimz.com^$important
-||videoplayerhub.com^^$important
-||d-ughwashes.ru^^$important
-||vifog.com^^$important
-||webcontentassessor.com^$important
-||nile.works^$important
-||xg4ken.com^$important
-||liadm.com^$important
-||igodigital.com^$important
-||bisiraczyxbu.com^$important
-||courselfnorter.site^$important
-||sayfibhat.club^$important
-||boayipids.com^$important
-||fastdlr.com^$important
-||blueparrot.media^$important
 ||0eijh8996i.com^$important
 ||0f81i8zmcp.com^$important
 ||0fees.net^$important
@@ -1615,6 +1599,7 @@
 ||binullxzwnsqws.com^$important
 ||birpidnl.com^$important
 ||birslhmnnc.com^$important
+||bisiraczyxbu.com^$important
 ||bisvljlzmai.com^$important
 ||bit-admin.xyz^$important
 ||bita-bit.xyz^$important
@@ -1678,6 +1663,7 @@
 ||blrdumgvqkmq.com^$important
 ||blrqeqn.com^$important
 ||blueconic.net^$important
+||blueparrot.media^$important
 ||blukavsup.online^$important
 ||blushingbeast.com^$important
 ||blushingboundary.com^$important
@@ -1728,6 +1714,7 @@
 ||bo4news.biz^$important
 ||boaawvdg.com^$important
 ||boacheeb.com^$important
+||boayipids.com^$important
 ||bobwjhcuavqklk.com^$important
 ||bocksnabswdq.com^$important
 ||bocqmlgslzoo.com^$important
@@ -2428,6 +2415,7 @@
 ||coshfgpgab.com^$important
 ||cosmosjackson.com^$important
 ||count.ly^$important
+||courselfnorter.site^$important
 ||covjoecuzyss.com^$important
 ||cowmslkltc.com^$important
 ||coxgtwdios.bid^$important
@@ -2647,6 +2635,7 @@
 ||czx5eyk0exbhwp43ya.biz^$important
 ||czxzpabxb.ovh^$important
 ||czzzwuvvc.com^$important
+||d-ughwashes.ru^^$important
 ||d0f85db8ee56f5c6.com^$important
 ||d0p21g2fep.com^$important
 ||d0v5g1vb.top^$important
@@ -3879,6 +3868,7 @@
 ||fascinatedfeather.com^$important
 ||fastclick.net^$important
 ||fastcounter.de^$important
+||fastdlr.com^$important
 ||fastly-insights.com^$important
 ||fastpopclick.com^$important
 ||fastpopunder.com^$important
@@ -4991,6 +4981,7 @@
 ||h92ir5s.com^$important
 ||h92zbpn4zcv1.com^$important
 ||hadsanz.com^$important
+||hadslimz.com^$important
 ||haezawhdumz.bid^$important
 ||hafbezbemwwd.com^$important
 ||hafksvqiir.com^$important
@@ -5660,6 +5651,7 @@
 ||iggukjfuylwyv.com^$important
 ||igifhnkw.com^$important
 ||igmsjgadiz.com^$important
+||igodigital.com^$important
 ||igsxvpghnamnsz.com^$important
 ||igutgembqnw.bid^$important
 ||igvcpjsyk.bid^$important
@@ -7179,6 +7171,7 @@
 ||lhxgdmcyropacl.bid^$important
 ||lhytmylpwfzuzm.com^$important
 ||liadlzantv.com^$important
+||liadm.com^$important
 ||liakiadlbs.com^$important
 ||libanyelm.com^$important
 ||libedgolart.com^$important
@@ -8408,6 +8401,7 @@
 ||nijksigqjzalcf.com^$important
 ||nikxhdrys.com^$important
 ||nil.naver.com^$important
+||nile.works^$important
 ||niltutch.com^$important
 ||nimiq.watch^$important
 ||nimiqpool.com^$important
@@ -10977,6 +10971,7 @@
 ||sauispjbeisl.com^$important
 ||sawdfbwxqcpcs.com^$important
 ||saybfmfptfjlv.bid^$important
+||sayfibhat.club^$important
 ||saylbisqotwixm.bid^$important
 ||saysidewalk.com^$important
 ||sbdedksgqu.com^$important
@@ -12444,6 +12439,7 @@
 ||ufmnicckqyru.com^$important
 ||ufnozeotbqsn.com^$important
 ||ufnzapqvrbyx.com^$important
+||ufpcdn.com^$important
 ||ufptmejous.com^$important
 ||ufrbfvelweoy.com^$important
 ||ufrzvzpympib.com^$important
@@ -13028,6 +13024,7 @@
 ||videolol007.com^$important
 ||videonow.ru^$important
 ||videoplayer2.xyz^$important
+||videoplayerhub.com^^$important
 ||videoroll.net^$important
 ||vidora.com^$important
 ||vidroll.ru^$important
@@ -13035,6 +13032,7 @@
 ||vidto.se^$important
 ||vidtok.ru^$important
 ||vidzi.tv^$important
+||vifog.com^^$important
 ||viglink.com^$important
 ||vigrjuksi.bid^$important
 ||viliaff.com^$important
@@ -13435,6 +13433,7 @@
 ||webair.com^$important
 ||webassembly.stream^$important
 ||webcompon.info^$important
+||webcontentassessor.com^$important
 ||weblion777.github.io^$important
 ||webmasterplan.com^$important
 ||webodu.com^$important
@@ -14027,6 +14026,7 @@
 ||xfwwhapm.com^$important
 ||xfwwyoxut.com^$important
 ||xfxjdoot.com^$important
+||xg4ken.com^$important
 ||xgaethsnmbzi.com^$important
 ||xgefmxd.ru^$important
 ||xghfi97mk6.com^$important
