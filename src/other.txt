@@ -11,7 +11,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?count(s|ers?)?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?delivery?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?events?([0-9]{1,3})?\./$important,domain=~webmoney.ru
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?geo([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?geo([0-9]{1,3})?\./$important,domain=~office.com
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?informers?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?log[sx]?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?m[io]nero?([0-9]{1,3})?\./$important
