@@ -18,6 +18,7 @@
 ||006a039c957c142bb.com^$important
 ||00aaa2d81c1d174.com^$important
 ||00ae8b5a9c1d597.com^$important
+||eveteaemo.com^$important
 ||00e46b7f53.com^$important
 ||00f31156f051fdf.com^$important
 ||0101010101010101.com^$important
@@ -1196,7 +1197,7 @@
 ||ad-miner.com^$important
 ||ad-recommend.com^$important
 ||ad-score.com^$important
-||ad-server.co.za^$important
+||ad-server.*^$important
 ||ad-serverparc.nl^$important
 ||ad-sponsor.com^$important
 ||ad-srv.net^$important
