@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-05-13 01:17:26
-! Version: 20200513011726
+! Last modified: 2020-05-13 01:35:00
+! Version: 20200513013500
 ! Expires: 3 hours
-! Number of filters: 17977
+! Number of filters: 17978
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1362,7 +1362,7 @@
 ||adsdk.yandex.ru^$important
 ||adsensecustomsearchads.com^$important
 ||adser.io^$important
-||ad-server.co.za^$important
+||ad-server.*^$important
 ||adserver.com^$important
 ||ad-serverparc.nl^$important
 ||adserversolutions.com^$important
@@ -4624,6 +4624,7 @@
 ||evengparme.com^$important
 ||eventurypol.site^$important
 ||eversely.com^$important
+||eveteaemo.com^$important
 ||evfatcuv.com^$important
 ||evfwfkwufbjtd.com^$important
 ||evfzqbbdif.bid^$important
