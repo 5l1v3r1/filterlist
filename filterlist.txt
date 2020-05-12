@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-05-13 01:35:00
-! Version: 20200513013500
+! Last modified: 2020-05-13 02:11:24
+! Version: 20200513021124
 ! Expires: 3 hours
-! Number of filters: 17978
+! Number of filters: 17984
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -4014,6 +4014,7 @@
 ||duchmcmpmqqu.com^$important
 ||duchoono.com^$important
 ||dueybqnkkhzdh.bid^$important
+||d-ughwashes.ru^$important
 ||d-ughwashes.ru^^$important
 ||duginamis.com^$important
 ||dugqbllwslqrlj.com^$important
@@ -4196,6 +4197,7 @@
 ||ecflhhxp.bid^$important
 ||echoazou.com^$important
 ||eckelsonmoro.com^$important
+||eclkmpbn.com^$important
 ||econdardseeg.site^$important
 ||economicpizzas.com^$important
 ||ecpms.net^$important
@@ -5764,6 +5766,7 @@
 ||gouytrujxuhkzk.bid^$important
 ||govbusi.info^$important
 ||goverua.com^$important
+||goyetteconnelly.bid^$important
 ||gozfsvoqn.com^$important
 ||gozmioancm.bid^$important
 ||gpacwxynxluey.bid^$important
@@ -7138,6 +7141,7 @@
 ||japveny.ru^$important
 ||jareiulyg.bid^$important
 ||jasaiklan.com^$important
+||jaskolski.biz^$important
 ||jatkcmpxhbba.com^$important
 ||jauftivogtho.com^$important
 ||jaugloup.com^$important
@@ -14312,6 +14316,7 @@
 ||tougaloocolerain.com^$important
 ||touraadhdnfgsa.com^$important
 ||tovkhtekzrlu.com^$important
+||toxy9ikenenxtf0f.com^$important
 ||toyhxqjgqcjo.com^$important
 ||tpdowdhhn.com^$important
 ||tperkulpflry.bid^$important
@@ -15913,6 +15918,7 @@
 ||wiresurequezer.pro^$important
 ||wirfpvmoblpa.com^$important
 ||wisdementive.info^$important
+||wisokykulas.bid^$important
 ||witalfieldt.com^$important
 ||withingol.info^$important
 ||witholiced.info^$important
