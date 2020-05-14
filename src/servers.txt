@@ -27,6 +27,11 @@
 ||01counter.com^$important
 ||01dbf3a452b6.com^$important
 ||01jud3v55z.com^$important
+||an.mail.ru^$important
+||stats.redditmedia.com^$important
+||trafficdok.com^$important
+||freegeoip.app^$important
+||truepush.com^$important
 ||01mspmd5yalky8.com^$important
 ||024xuyisheng.com^$important
 ||02aa19117f396e9.com^$important
