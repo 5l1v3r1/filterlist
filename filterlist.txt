@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-05-13 02:11:24
-! Version: 20200513021124
+! Last modified: 2020-05-14 22:47:31
+! Version: 20200514224731
 ! Expires: 3 hours
-! Number of filters: 17984
+! Number of filters: 17989
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1692,6 +1692,7 @@
 ||amrnhiqy.com^$important
 ||amung.us^$important
 ||amwupsihqfewgr.com^$important
+||an.mail.ru^$important
 ||an.yandex.ru^$important
 ||analytic.press^$important
 ||analytics.blue^$important
@@ -5212,6 +5213,7 @@
 ||frcznmfu.com^$important
 ||frddujheozns.com^$important
 ||freecontent.*^$important
+||freegeoip.app^$important
 ||freelandvillalba.com^$important
 ||freephone.best^$important
 ||freeskreen.com^$important
@@ -13676,6 +13678,7 @@
 ||stati.in^$important
 ||staticsfs.host^$important
 ||stat-rock.com^$important
+||stats.redditmedia.com^$important
 ||statserv.net^$important
 ||statsforads.com^$important
 ||statsy.net^$important
@@ -14370,6 +14373,7 @@
 ||traff6.com^$important
 ||traffdaq.com^$important
 ||trafficbass.com^$important
+||trafficdok.com^$important
 ||trafficfactory.biz^$important
 ||trafficforce.com^$important
 ||traffic-gate-service.info^$important
@@ -14423,6 +14427,7 @@
 ||truefilen32.com^$important
 ||truemine.org^$important
 ||truenat.bid^$important
+||truepush.com^$important
 ||trueredirect83.icu^$important
 ||truestioncarefore.site^$important
 ||trvposbevwxvo.bid^$important
