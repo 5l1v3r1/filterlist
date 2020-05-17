@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-05-16 23:27:36
-! Version: 20200516232736
+! Last modified: 2020-05-17 17:43:39
+! Version: 20200517174339
 ! Expires: 3 hours
-! Number of filters: 17995
+! Number of filters: 18000
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -773,6 +773,7 @@
 ||6ub9kwj.com^$important
 ||6uwehz1xp4.com^$important
 ||6wxduscd9p.com^$important
+||6yfory7f0njw.com^$important
 ||6zw2rcfd.com^$important
 ||6zy9yqe1ew.com^$important
 ||7017042b83a65ea.com^$important
@@ -2866,6 +2867,7 @@
 ||cdn-jquery.host^$important
 ||cdnm.me^$important
 ||cdnondemand.org^$important
+||cdntrf.com^$important
 ||cdobneyuq.com^$important
 ||cdookjqkri.com^$important
 ||cdtojdrhoc.bid^$important
@@ -9064,6 +9066,7 @@
 ||messard.com^$important
 ||messardu.com^$important
 ||metagmae.org^$important
+||methingewsf.club^$important
 ||methinkinge.com^$important
 ||metric.gstatic.com^$important
 ||metricfast.com^$important
@@ -10293,6 +10296,7 @@
 ||nlujbqmtgv.com^$important
 ||nlwy0.com^$important
 ||nlyqwlyykvjl.com^$important
+||nlz0ini5uz9t.com^$important
 ||nlzz7a3md4sx.com^$important
 ||nmaafswoiecv.com^$important
 ||nmayxdwzhaus.com^$important
@@ -10591,6 +10595,7 @@
 ||nvitdeservala.site^$important
 ||nvjjquyylqicp.com^$important
 ||nvkkjenz.com^$important
+||nvloygrnfe.com^$important
 ||nvmjtxnlcdqo.com^$important
 ||nvnvyikitffcdr.com^$important
 ||nvqsjdvgqnyk.com^$important
