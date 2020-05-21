@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-05-17 17:43:39
-! Version: 20200517174339
+! Last modified: 2020-05-21 18:52:35
+! Version: 20200521185235
 ! Expires: 3 hours
-! Number of filters: 18000
+! Number of filters: 18002
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -5622,6 +5622,7 @@
 ||giphylee.com^$important
 ||gipmaxxp.bid^$important
 ||giqvmjiccwwys.bid^$important
+||giraff.io^$important
 ||giraffepiano.com^$important
 ||girrjaqgjb.com^$important
 ||gisiwdcqte.com^$important
@@ -10919,6 +10920,7 @@
 ||onawaykeeline.com^$important
 ||onclasrv.com^$important
 ||onclickgenius.com^$important
+||onclickmax.com^$important
 ||onclickmega.com^$important
 ||onclicksuper.com^$important
 ||onemboaran.com^$important
