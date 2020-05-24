@@ -1,15 +1,14 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-05-21 18:52:35
-! Version: 20200521185235
+! Last modified: 2020-05-24 22:31:47
+! Version: 20200524223147
 ! Expires: 3 hours
-! Number of filters: 18002
+! Number of filters: 18007
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
 
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?(fingerpr[ie]nt|fp)([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?(metri[ck]?[asx]?|mtrcs?)([0-9]{1,3})?\./$important,domain=~metrica.yandex.com|~metrica.yandex.ru|~metrika.yandex.com|~metrika.yandex.ru
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?(sx|np|mx)cdn([0-9]{1,3})?\.now\.sh/$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?69([a-z]{1,2})\.([a-z]{4})/$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?ad[svbxo]?(er(ver?)?t?(ise|ising|isement)?)?\./$important,domain=~ad.nl|~ads.google.com
@@ -28,6 +27,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?log[sx]?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?m[io]nero?([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?marketing([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?me?tr[ie]?[ck][asx]?([0-9]{1,3})?\./$important,domain=~metrica.yandex.com|~metrica.yandex.ru|~metrika.yandex.com|~metrika.yandex.ru
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?mine([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?monitor([0-9]{1,3})?\./$important,domain=~monitor.firefox.com
 /^(https?|ftp|wss?):\/\/((www|wap)\.)?partners?([0-9]{1,3})?\./$important,domain=~partners.yandex.by|~partners.yandex.ru|~partners.yandex.ua
@@ -138,6 +138,7 @@
 ||0s9dxlr07huu.com^$important
 ||0sntp7dnrr.com^$important
 ||0sywjs4r1x.com^$important
+||0vsgqxbxk66w.com^$important
 ||0wner24f.top^$important
 ||0x1f4b0.com^$important
 ||1.fembed.com^$important
@@ -3241,6 +3242,7 @@
 ||counevan.pro^$important
 ||count.ly^$important
 ||countertrck.com^$important
+||countess.twitch.tv^$important
 ||courselfnorter.site^$important
 ||covjoecuzyss.com^$important
 ||cowmslkltc.com^$important
@@ -13927,6 +13929,7 @@
 ||taljdzwer.com^$important
 ||tamechangekn.info^$important
 ||tamgrt.com^$important
+||tamhdxkh.com^$important
 ||tammfmhtfhut.com^$important
 ||tamqqjgbvbps.com^$important
 ||tamrczjeedauh.com^$important
@@ -14123,6 +14126,7 @@
 ||themselvebu.site^$important
 ||theonecdn.com^$important
 ||theremovembera.info^$important
+||theridgeatdanbury.com^$important
 ||thermosthahiti.website^$important
 ||thersprens.com^$important
 ||thevtk.com^$important
@@ -14801,6 +14805,7 @@
 ||ukvkloytfaw.bid^$important
 ||ukxeudykhgdi.com^$important
 ||ukxpwwdnnbmqzu.bid^$important
+||ukyyjicbqdx.com^$important
 ||ulbriabm.com^$important
 ||ulffbcunqnpv.com^$important
 ||ulhokncmea.bid^$important

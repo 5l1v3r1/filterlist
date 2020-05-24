@@ -26,11 +26,6 @@
 ||01ced816b84.com^$important
 ||01counter.com^$important
 ||01dbf3a452b6.com^$important
-||countess.twitch.tv^$important
-||ukyyjicbqdx.com^$important
-||tamhdxkh.com^$important
-||theridgeatdanbury.com^$important
-||0vsgqxbxk66w.com^$important
 ||01jud3v55z.com^$important
 ||01mspmd5yalky8.com^$important
 ||024xuyisheng.com^$important
@@ -97,6 +92,7 @@
 ||0s9dxlr07huu.com^$important
 ||0sntp7dnrr.com^$important
 ||0sywjs4r1x.com^$important
+||0vsgqxbxk66w.com^$important
 ||0wner24f.top^$important
 ||0x1f4b0.com^$important
 ||1-1ads.com^$important
@@ -3200,6 +3196,7 @@
 ||counevan.pro^$important
 ||count.ly^$important
 ||countertrck.com^$important
+||countess.twitch.tv^$important
 ||courselfnorter.site^$important
 ||covjoecuzyss.com^$important
 ||cowmslkltc.com^$important
@@ -13886,6 +13883,7 @@
 ||taljdzwer.com^$important
 ||tamechangekn.info^$important
 ||tamgrt.com^$important
+||tamhdxkh.com^$important
 ||tammfmhtfhut.com^$important
 ||tamqqjgbvbps.com^$important
 ||tamrczjeedauh.com^$important
@@ -14082,6 +14080,7 @@
 ||themselvebu.site^$important
 ||theonecdn.com^$important
 ||theremovembera.info^$important
+||theridgeatdanbury.com^$important
 ||thermosthahiti.website^$important
 ||thersprens.com^$important
 ||thevtk.com^$important
@@ -14760,6 +14759,7 @@
 ||ukvkloytfaw.bid^$important
 ||ukxeudykhgdi.com^$important
 ||ukxpwwdnnbmqzu.bid^$important
+||ukyyjicbqdx.com^$important
 ||ulbriabm.com^$important
 ||ulffbcunqnpv.com^$important
 ||ulhokncmea.bid^$important
