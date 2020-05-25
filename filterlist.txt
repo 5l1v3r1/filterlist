@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-05-24 22:31:47
-! Version: 20200524223147
+! Last modified: 2020-05-25 18:01:34
+! Version: 20200525180134
 ! Expires: 3 hours
-! Number of filters: 18007
+! Number of filters: 18010
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -3140,6 +3140,7 @@
 ||cnpntmju.com^$important
 ||cnqanzdb.com^$important
 ||cnsnoljocc.com^$important
+||cnt.promodj.com^$important
 ||cnuxnqgjkjqmky.bid^$important
 ||cnyblliqyhcs.bid^$important
 ||cnygzgurqpwop.bid^$important
@@ -13049,6 +13050,7 @@
 ||s2block.com^$important
 ||s2w3.space^$important
 ||s4block.com^$important
+||s4d.xyz^$important
 ||s4-megafunn.info^$important
 ||s4yxaqyq95.com^$important
 ||s5prou7ulr.com^$important
@@ -14806,6 +14808,7 @@
 ||ukxeudykhgdi.com^$important
 ||ukxpwwdnnbmqzu.bid^$important
 ||ukyyjicbqdx.com^$important
+||ul8seok7w5al.com^$important
 ||ulbriabm.com^$important
 ||ulffbcunqnpv.com^$important
 ||ulhokncmea.bid^$important
