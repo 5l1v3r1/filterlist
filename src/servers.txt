@@ -25,6 +25,9 @@
 ||017e689c749.com^$important
 ||01ced816b84.com^$important
 ||01counter.com^$important
+||cnt.promodj.com^$important
+||s4d.xyz^$important
+||ul8seok7w5al.com^$important
 ||01dbf3a452b6.com^$important
 ||01jud3v55z.com^$important
 ||01mspmd5yalky8.com^$important
