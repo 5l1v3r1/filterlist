@@ -80,6 +80,7 @@
 ||0fmm.com^$important
 ||0gctp5ht.top^$important
 ||0h6djpk8fn.com^$important
+||0i0i0i0.com^$important
 ||0icep80f.com^$important
 ||0j7z9aw6.top^$important
 ||0klxjejyxak3.com^$important
@@ -330,6 +331,7 @@
 ||2seo8.com^$important
 ||2sh8fouhk84h.com^$important
 ||2simple.ru^$important
+||2solo.biz^$important
 ||2ssltome.ga^$important
 ||2taa9ib4ib.com^$important
 ||2tpwcqot22mb.com^$important
@@ -951,6 +953,7 @@
 ||9de40afd8952279e2e.com^$important
 ||9df4mz2kpm.com^$important
 ||9dffa299bbc098481e6a.com^$important
+||9dmnv9z0gtoh.com^$important
 ||9e5420f6be48ccc.com^$important
 ||9eb10b7a3d04a.com^$important
 ||9ehy8a8u6b.com^$important
@@ -9314,13 +9317,6 @@
 ||mng-ads.com^$important
 ||mniyaeikxozlts.bid^$important
 ||mnkwxsjxp.bid^$important
-||9dmnv9z0gtoh.com^$important
-||nibzitgas.com^$important
-||wgat5ln2wly8.com^$important
-||0i0i0i0.com^$important
-||u29qnuav3i6p.com^$important
-||tracktraf.com^$important
-||2solo.biz^$important
 ||mnnanyddolwf.com^$important
 ||mnnsjudnfgalyx.com^$important
 ||mnoa6ez1eq.com^$important
@@ -10162,6 +10158,7 @@
 ||niacretaryfrience.info^$important
 ||niaqaltky.com^$important
 ||niazlhvok.com^$important
+||nibzitgas.com^$important
 ||nicequest.com^$important
 ||nicevideos.xyz^$important
 ||nicheads.com^$important
@@ -14357,6 +14354,7 @@
 ||trackpush.com^$important
 ||trackspeeder.com^$important
 ||tracksrv.zdf.de^$important
+||tracktraf.com^$important
 ||tradedoubler.com^$important
 ||tradelab.fr^$important
 ||traff-1.ru^$important
@@ -14585,6 +14583,7 @@
 ||tzyvolvenvyim.com^$important
 ||u21drwj6mp.com^$important
 ||u25u2bqn.top^$important
+||u29qnuav3i6p.com^$important
 ||u2bmco.com^$important
 ||u39chju32a.com^$important
 ||u4ghzfb.com^$important
@@ -15807,6 +15806,7 @@
 ||wfzpkmduyvx.com^$important
 ||wfzvjbdicihe.com^$important
 ||wg-aff.com^$important
+||wgat5ln2wly8.com^$important
 ||wgaycnmfz.com^$important
 ||wgclurzhgrjoq.bid^$important
 ||wgefjuno.com^$important
