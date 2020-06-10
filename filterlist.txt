@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-06-05 21:13:54
-! Version: 20200605211354
+! Last modified: 2020-06-10 22:16:49
+! Version: 20200610221649
 ! Expires: 3 hours
-! Number of filters: 18028
+! Number of filters: 18037
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -190,6 +190,7 @@
 ||1rxntv.io^$important
 ||1sen-pit-fan.com^$important
 ||1tj7k84.com^$important
+||1uno1xkktau4.com^$important
 ||1web.me^$important
 ||1wkvvts8is.com^$important
 ||1wzfew7a.site^$important
@@ -7248,6 +7249,7 @@
 ||jeqixokniyny.com^$important
 ||jerredsite.pro^$important
 ||jertwakjcaym.com^$important
+||jetsowilk.com^$important
 ||jeuqrslzoxdcz.com^$important
 ||jevijshpvnwm.com^$important
 ||jevxjcdnrd.com^$important
@@ -10239,6 +10241,7 @@
 ||nimsepee.net^$important
 ||ningtoldrop.ru^$important
 ||ninxcwcwgvr.com^$important
+||nirostyhe.pro^$important
 ||nirqmbrzplvtjr.com^$important
 ||nirzzfseiwkq.com^$important
 ||nishathlessharr.info^$important
@@ -10938,6 +10941,7 @@
 ||onclickmax.com^$important
 ||onclickmega.com^$important
 ||onclicksuper.com^$important
+||onegalact.com^$important
 ||onemboaran.com^$important
 ||onesegreativec.site^$important
 ||onesignal.com^$important
@@ -11422,6 +11426,7 @@
 ||pgfxwbgema.com^$important
 ||pgh76i5ya5.com^$important
 ||pgkdyhdhul.com^$important
+||pgmrko89prom.com^$important
 ||pgndlooirt.com^$important
 ||pgnjgjiwomgdmn.com^$important
 ||pgpfdravejq.com^$important
@@ -13370,6 +13375,7 @@
 ||shoomsie.uk^$important
 ||shopbreakfast.com^$important
 ||shorteh.com^$important
+||shqbsdjatunl.com^$important
 ||shrink-service.it^$important
 ||shthbopqoz.bid^$important
 ||shuhahom.net^$important
@@ -13921,6 +13927,7 @@
 ||t1d8ee13pf.com^$important
 ||t2f9pn3m7w.com^$important
 ||t2ualmnw.com^$important
+||t5lxz7dtq4iz.com^$important
 ||t6yyk48.com^$important
 ||t7479e4d.com^$important
 ||taboola.com^$important
@@ -14541,6 +14548,7 @@
 ||tuzutvisi.com^$important
 ||tuzvjlqrpzpugj.com^$important
 ||tuzyaezlaoju.bid^$important
+||tv1s4d6klh4n.com^$important
 ||tvammzkprvuv.com^$important
 ||tvbuqvjgqdrfb.bid^$important
 ||tvesvlvse.com^$important
@@ -14728,6 +14736,7 @@
 ||uerladwdpkge.com^$important
 ||uescuqejoirsh.com^$important
 ||uetqkude.com^$important
+||ueuodgnrhb.com^$important
 ||ueutwxdypf.bid^$important
 ||uewejiuqwqx.com^$important
 ||uezxmehb.com^$important
