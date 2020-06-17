@@ -1,13 +1,67 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-06-10 22:16:49
-! Version: 20200610221649
+! Last modified: 2020-06-18 04:54:05
+! Version: 20200618045405
 ! Expires: 3 hours
-! Number of filters: 18037
+! Number of filters: 18046
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
 
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?(fingerpr[ie]nt|fp)([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?(sx|np|mx)cdn([0-9]{1,3})?\.now\.sh/$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?69([a-z]{1,2})\.([a-z]{4})/$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?ad[svbxo]?(er(ver?)?t?(ise|ising|isement)?)?\./$important,domain=~ad.nl|~ads.google.com
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?ads?[!"#$%&'()*+.,:;<=>?@/\^_`{|}~-]?(visor|serve|bb|by|logs?|[rs]v[rs]?|sdk|delivery|engine)([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?aff(iliat(es?|ion)?)([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?analy(ti([\W\w]+)?)?([0-9]{1,3})?\./$important,domain=~google.ad|~google.ae|~google.al|~google.am|~google.as|~google.at|~google.az|~google.ba|~google.be|~google.bf|~google.bg|~google.bi|~google.bj|~google.bs|~google.bt|~google.by|~google.ca|~google.cat|~google.cd|~google.cf|~google.cg|~google.ch|~google.ci|~google.cl|~google.cm|~google.cn|~google.co.ao|~google.co.bw|~google.co.ck|~google.co.cr|~google.co.id|~google.co.il|~google.co.in|~google.co.jp|~google.co.ke|~google.co.kr|~google.co.ls|~google.co.ma|~google.co.mz|~google.co.nz|~google.co.th|~google.co.tz|~google.co.ug|~google.co.uk|~google.co.uz|~google.co.ve|~google.co.vi|~google.co.za|~google.co.zm|~google.co.zw|~google.com|~google.com.af|~google.com.ag|~google.com.ai|~google.com.ar|~google.com.au|~google.com.bd|~google.com.bh|~google.com.bn|~google.com.bo|~google.com.br|~google.com.bz|~google.com.co|~google.com.cu|~google.com.cy|~google.com.do|~google.com.ec|~google.com.eg|~google.com.et|~google.com.fj|~google.com.gh|~google.com.gi|~google.com.gt|~google.com.hk|~google.com.jm|~google.com.kh|~google.com.kw|~google.com.lb|~google.com.ly|~google.com.mm|~google.com.mt|~google.com.mx|~google.com.my|~google.com.na|~google.com.nf|~google.com.ng|~google.com.ni|~google.com.np|~google.com.om|~google.com.pa|~google.com.pe|~google.com.pg|~google.com.ph|~google.com.pk|~google.com.pr|~google.com.py|~google.com.qa|~google.com.sa|~google.com.sb|~google.com.sg|~google.com.sl|~google.com.sv|~google.com.tj|~google.com.tr|~google.com.tw|~google.com.ua|~google.com.uy|~google.com.vc|~google.com.vn|~google.cv|~google.cz|~google.de|~google.dj|~google.dk|~google.dm|~google.dz|~google.ee|~google.es|~google.fi|~google.fm|~google.fr|~google.ga|~google.ge|~google.gg|~google.gl|~google.gm|~google.gp|~google.gr|~google.gy|~google.hn|~google.hr|~google.ht|~google.hu|~google.ie|~google.im|~google.iq|~google.is|~google.it|~google.je|~google.jo|~google.kg|~google.ki|~google.kz|~google.la|~google.li|~google.lk|~google.lt|~google.lu|~google.lv|~google.md|~google.me|~google.mg|~google.mk|~google.ml|~google.mn|~google.ms|~google.mu|~google.mv|~google.mw|~google.ne|~google.nl|~google.no|~google.nr|~google.nu|~google.pl|~google.pn|~google.ps|~google.pt|~google.ro|~google.rs|~google.ru|~google.rw|~google.sc|~google.se|~google.sh|~google.si|~google.sk|~google.sm|~google.sn|~google.so|~google.sr|~google.st|~google.td|~google.tg|~google.tk|~google.tl|~google.tm|~google.tn|~google.to|~google.tt|~google.vg|~google.vu|~google.ws|~yandex.by|~yandex.com|~yandex.ru|~yandex.ua
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?bann?i?er[se]?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?beacons?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?cli?ck?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?collectors?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?count(s|ers?)?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?delivery?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?events?([0-9]{1,3})?\./$important,domain=~webmoney.ru
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?geo([0-9]{1,3})?\./$important,domain=~office.com
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?informers?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?log[sx]?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?m[io]nero?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?marketing([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?me?tr[ie]?[ck][asx]?([0-9]{1,3})?\./$important,domain=~metrica.yandex.com|~metrica.yandex.ru|~metrika.yandex.com|~metrika.yandex.ru
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?mine([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?monitor([0-9]{1,3})?\./$important,domain=~monitor.firefox.com
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?partners?([0-9]{1,3})?\./$important,domain=~partners.yandex.by|~partners.yandex.ru|~partners.yandex.ua
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?pi?xe?l?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?ping([0-9]{1,3})?\./$important,domain=~hydrax.net|~playhydrax.com
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?piwik([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?preroll([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?puss[0-9]{2,3}\.com/$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?px\-intl([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?re([ck]l?(am[asy]?)?)?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?snippets?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?syndication([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?tags?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?telemetr(y|ics)?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?tizers?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?tr([a-zA-Z0-9]{1})?ck([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?track(ers?|ing|cli?ck?)?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?vast([a-z]{1})?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)\.)?worker([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/([^\s]+\.)?(de|mi|ner|nis)\-(de|mi|ner|nis)\-(de|mi|ner|nis)\-(de|mi|ner|nis)\-?([0-9]{1,3})?\.info/$important
+/^(https?|ftp|wss?):\/\/([^\s]+\.)?ablen[0-9]{2}\.tk/$important
+/^https?:\/\/(d3v3bqdndm4erx|ddvfoj5yrl2oi|d2r1yp2w7bby2u|d1lxhc4jvstzrp|d3g5ovfngjw9bw|dlne6myudrxi1|d261u4g5nqprix|d3c3uihon9kmp|d18g6t7whf8ejf|ds88pc0kw6cvc|d1uvhm532ipx9t|d2z51a9spn09cw|d2k7b1tjy36ro0|d1ks8roequxbwa|d1mbihpm2gncx7|d141wsrw9m4as6|d3ddidv77grh0f|d1e1rbybdt265x|d3125zvx5yi5sj|d10lv7w3g0jvk9|d18mealirgdbbz|d3hs51abvkuanv|d1qggq1at2gusn|d1hi41nc56pmug|d3e1078hs60k37|d1r90st78epsag|d1r90st78epsag|d31mxuhvwrofft|d3d52lhoy0sh2w|dkm6b5q0h53z4|d8rk54i4mohrb|d3t5ngjixpjdho|doo6pwib3qngu|d2glav2919q4cw|d22sfab2t5o9bq|dgw7ae5vrovs7|d2c8v52ll5s99u|desgao1zt7irn|d30wo2lffetbp8|d1v9u0bgi1uimx|d3a42c7xs4vn3|d29i6o40xcgdai|d31xqmzex8ubh8|d14qd3he45186l|dsh7ky7308k4b|d2kyy9hvbrzkgn|d2yh8t8mdj4l9x|d1fc8wv8zag5ca|d2v02itv0y9u9t|d2wy8f7a9ursnm|d24n15hnbwhuhn|d31j93rd8oukbv|d10lpsik1i8c69|d10lumateci472|d11eq81k50lwgi|d12tr1cdjbyzav|d12ulf131zb0yj|d138am4hd4ke4y|d13czkep7ax7nj|d13dhn7ldhrcf6|d13im3ek7neeqp|d140sbu1b1m3h0|d1447tq2m68ekg|d15565yqt7pv7r|d158nafix8anfs|d15cjcet1djbmv|d15gt9gwxw5wu0|d15qhc0lu1ghnk|d160mt023h8h3d|d162nnmwf9bggr|d1635hfcvs8ero|d169bbxks24g2u|d173vqb05g6hza|d17f2fxw547952|d17rlarvg2khuc|d18q5nc9wflibl|d19182vyfoustz|d19972r8wdpby8|d19uh5b0umbjrr|d1ade4ciw4bqyc|d1aezk8tun0dhm|d1af033869koo7|d1ar5xirbydtuc|d1bevsqehy4npt|d1byvlfiet2h9q|d1cdnlzf6usiff|d1cerpgff739r9|d1cl1sqtf3o420|d1clfvuu2240eh|d1clufhfw8sswh|d1czd1q73kbu32|d1d43ayl08oaq2|d1d8vn0fpluuz7|d1d95giojjkirt|d1dli2tyorled9|d1dnmhdhg9vg1d|d1ebha2k07asm5|d1eoo1tco6rr5e|d1ep3cn6qx0l3z|d1ewpr7kbabyrj|d1ey3fksimezm4|d1f5rbi95y1icu|d1fo96xm8fci0r|d1gojtoka5qi10|d1gp8joe0evc8s|d1gp9nlx229wzz|d1grtyyel8f1mh|d1gyluhoxet66h|d1i2v9a8xom2hy|d1i9kr6k34lyp|d1ivexoxmp59q7|d1izbwxtc3f9ue|d1jl096lp4cce0|d1k0glcmk0b5rb|d1k29rhvz38kg5|d1k74lgicilrr3|d1ksyxj9xozc2j|d1l6p2sc9645hc|d1lm7kd3bd3yo9|d1m6l9dfulcyw7|d1mbgf0ge24riu|d1mib12jcgwmnv|d1mroptkfdxko5|d1mub3aw743hsf|d1mxvenloqrqmu|d1n7ypf85zfej7|d1nh2vjpqpfnin|d1nkcqm1nusqof|d1nmxiiewlx627|d1noellhv8fksc|d1p2zvpeuweyai|d1p7elpjrt6qav|d1pcttwib15k25|d1pdpbxj733bb1|d1piupybsgr6dr|d1pozdfelzfhyt|d1qc76gneygidm|d1qk9ujrmkucbl|d1qpxk1wfeh8v1|d1qtf1avwa1wvl|d1r27qvpjiaqj3|d1rdh3xxuqlqfo|d1rgnfh960lz2b|d1rguclfwp7nc8|d1rkf0bq85yx06|d1ros97qkrwjf5|d1spb7fplenrp4|d1tprjo2w7krrh|d1uwd25yvxu96k|d1uy7uzra011au|d1v6js7bjzmhoa|d1vbm0eveofcle|d1vh0xkmncek4z|d1vrcwxei1aj0g|d1vwpe7grtcv9d|d1wa9546y9kg0n|d1wi563t0137vz|d1wscoizcbxzhp|d1xfq2052q7thw|d1yu5hbtu8mng9|d1z2jf7jlzjs58|d1zatounuylvwg|d1zfhhmz4n1jvq|d1zgderxoe1a|d20duyjzb7cuoc|d20je219bs8hnq|d21aw2xov4zz0i|d21j20wsoewvjq|d21o24qxwf7uku|d22lo5bcpq2fif|d22v2nmahyeg2a|d23guct4biwna6|d23nyyb6dc29z6|d23p9gffjvre9v|d240937yockcdo|d24w6bsrhbeh9d|d258hxk86e2ixw|d258j801nsw1p7|d25ruj6ht8bs1|d25xkbr68qqtcn|d269y12mnftu9c|d26b395fwzu5fz|d26c6kzavi5zwd|d26dzd2k67we08|d26j9bp9bq4uhd|d26r15y2ken1t9|d26wy0pxd3qqpv|d27jt7xr4fq3e8|d27x580xb9ao1l|d287x05ve9a63s|d28ethi6slcjbm|d28g1fhp6rn9w3|d28g9g3vb08y70|d28k9nkt2spnp|d29p64779x43zo|d29r6igjpnoykg|d2a0bnlkc0czvp|d2anfhdgjxf8s1|d2b2x1ywompm1b|d2b560qq58menv|d2b65ihpmocv7w|d2b7n13v8adl6f|d2bgg7rjywcwsy|d2bj2texxib1qg|d2bw638ufki166|d2cgumzzqhgmdu|d2cxkkxhecdzsq|d2d2lbvq8xirbs|d2d8qsxiai9qwj|d2dq2ahtl5zl1z|d2dxgm96wvaa5j|d2fhjyz3dwdx87|d2focgxak1cn74|d2g9nmtuil60cb|d2gfdmu30u15x7|d2gfi8ctn6kki7|d2ghscazvn398x|d2gi7ultltnc2u|d2gpgaupalra1d|d2gt9oovykfp1z|d2gtlljtkeiyzd|d2gz6iop9uxobu|d2hap2bsh1k9lw|d2hcjk8asp3td7|d2hluuq2g8gwrv|d2i54aseqwhx68|d2ipklohrie3lo|d2jn12r3o7an7z|d2kbaqwa2nt57l|d2kmrmwhq7wkvs|d2kz60b0gq4lg|d2l8bbn629wykr|d2lv4zbk7v5f93|d2lxztepvo7ma1|d2mic0r0bo3i6z|d2mq0uzafv8ytp|d2muzdhs7lpmo0|d2nlytvx51ywh9|d2nn3xyicdpsrf|d2nq0f8d9ofdwv|d2nrdy2pg3k168|d2nxi61n77zqpl|d2nz8k4xyoudsx|d2nzjxafm0iowq|d2o307dm5mqftz|d2oallm7wrqvmi|d2oh4tlt9mrke9|d2omcicc3a4zlg|d2pc0q32fod0ha|d2pgy8h4i30on1|d2plxos94peuwp|d2pppxxtaciku9|d2pxb4n3f9klsc|d2pxbld8wrqyrk|d2q7mvwub8tmwf|d2qmp7jjpd79k7|d2qz7ofajpstv5|d2r359adnh3sfn|d2ry9vue95px0b|d2s64zaa9ua7uv|d2so4705rl485y|d2szg1g41jt3pq|d2t2on23g4lty1|d2tgev5wuprbqq|d2tgfbvjf3q6hn|d2tnimpzlb191i|d2ubicnllnnszy|d2ue9k1rhsumed|d2uevgmgh16uk4|d2ugaifelwk06r|d2uzdrx7k4koxz|d2v4glj2m8yzg5|d2v9ajh2eysdau|d2vig74li2resi|d2vt6q0n0iy66w|d2wl3qmk54t3ha|d2xgf76oeu9pbh|d2xkqxdy6ewr93|d2xsy1lxezptdm|d2yhukq7vldf1u|d2ymkpxi1rgldj|d2z0gqc8sv0l7p|d2z1smm3i01tnr|d2zah9y47r7bi2|d30zrwt3s044zr|d3135glefggiep|d31807xkria1x4|d31bfnnwekbny6|d31qbv1cthcecs|d32ffatx74qnju|d32pxqbknuxsuy|d32r49xyei4vz6|d32r9jwgeu9dzx|d32z5ni8t5127x|d33f10u0pfpplc|d33im0067v833a|d33j9ks96yd6fm|d33otidwg56k90|d33t3vvu2t2yu5|d34ko97cxuv4p7|d34obr29voew8l|d34rdvn2ky3gnm|d35r45qhjmgs3g|d36lvucg9kzous|d36mpcpuzc4ztk|d36sxvmjoflc2i|d36wtdrdo22bqa|d37dzu39aqhuxu|d37h3y471q0lt2|d37kzqe5knnh6t|d37s9vd5t6mov7|d37sfqor0g25ph|d38cp5x90nxyo0|d38pxm3dmrdu6d|d38r21vtgndgb1|d396ihyrqc81w|d39hdzmeufnl50|d39xqloz8t5a6x|d3a2okcloueqyx|d3aa0ztdn3oibi|d3ahinqqx1dy5v|d3al52d8cojds7|d3alqb8vzo7fun|d3anogn3pbtk4v|d3aq14vri881or|d3avqv6zaxegeu|d3ax6xygyb5hn9|d3bvcf24wln03d|d3c3cq33003psk|d3cesrg5igdcgt|d3cv4a9a9wh0bt|d3cxv97fi8q177|d3dc2aopftfkeo|d3dcugpvnepf41|d3dphmosjk9rot|d3dytsf4vrjn5x|d3elm8wezzwg42|d3emsmln8xfj03|d3ezl4ajpp2zy8|d3f9mcik999dte|d3fqhkmofpujs3|d3fzrm6pcer44x|d3h1v5cflrhzi4|d3hlizmpi4g3v9|d3hmb5h5qngs7g|d3hr5gm0wlxm5h|d3i1asoswufp5k|d3id4jppiyyek8|d3irruagotonpp|d3iwjrnl4m67rd|d3iz6lralvg77g|d3l3lkinz3f56t|d3l4qa0kmel7is|d3laygk9zni6hc|d3lc9zmxv46zr|d3lvr7yuk4uaui|d3lzezfa753mqu|d3m41swuqq4sv5|d3m79ugzs2d8im|d3m83gvgzupli|d3mj0pkbugdjcn|d3mvnvhjmkxpjz|d3n6ab9lij5r0c|d3nb4kk262p6sf|d3noqwmgo39at7|d3nslu0hdya83q|d3nvrqlo8rj1kw|d3oep4gb91kpuv|d3ojzyhbolvoi5|d3oltyb66oj2v8|d3p2b5qewrnsyv|d3p9ql8flgemg7|d3pe8wzpurrzss|d3phbp7p78bdk9|d3pkae9owd2lcf|d3pkntwtp2ukl5|d3pkrll6is44dx|3q2dpprdsteo|d3q33rbmdkxzj|d3q6px0y2suh5n|d3qszud4qdthr8|d3qxef4rp70elm|d3qxwzhswv93jk|d3r7h55ola878c|d3rhktq8uy839j|d3rmnwi2tssrfx|d3rp5jatom3eyn|d3s6ctxr1rpcpt|d3s7ggfq1s6jlj|d3t2wca0ou3lqz|d3t9ip55bsuxrf|d3t9nyds4ufoqz|d3td6g0k30g56f|d3tdefw8pwfkbk|d3tglifpd8whs6|d3u5zn5k9864p0|d3ud741uvs727m|d3uemyw1e5n0jw|d3ujids68p6xmq|d3uqm14ppr8tkw|d3v1lb83psg9di|d3v27wwd40f0xu|d3vc1nm9xbncz5|d3von6il1wr7wo|d3vpf6i51y286p|d47xnnr8b1rki|d4ax0r5detcsu|d4ngwggzm3w7j|d5i9o0tpq9sa1|d5nxst8fruw4z|d5ou3dytze6uf|d5pb47xzjz3fc|d5pvnbpawsaav|d60y8cj1tje2a|d6bdy3eto8fyu|d6jkenny8w8yo|d6sav80kktzcx|d6swopgiplmy0|d6ummfe8aubt5|d81mfvml8p5ml|d830x8j3o1b2k|d8qy7md4cj3gz|d8rk54i4mohrb|d985a9d2clzq5|d9lq0o81skkdj|d9rj2sdxjer5v|d9shvcd294i4o|d9tnvwv7i2n85|da3uf5ucdz00u|da5w2k479hyx2|dal9hkyfi0m0n|daq0d0aotgq0f|daw76z57propz|dbjnwpbqx5a6o|dc08i221b0n8a|dc44qjwal3p07|dc5ig2fc8lg83|dc8na2hxrj29i|dc8xl0ndzn2cb|dcjg1gv1px1h|ddfnmo6ev4fd|ddwht76d9jvfl|ddyv8sl7ewq1w|de8of677fyt0b|debojuagug1sf|demkc32bq01ah|desv383oqqc0|df0pmigc8xs70|dfdbz2tdq3k01|dff7tx5c2qbxc|dfrs12kz9qye2|dgkytklfjrqkb|dgqxhburlt16t|dh0uktvqfaomb|disy2s34euyqm|djlf5xdlz7m8m|djtflbt20bdde|djwf0dl2q9i99|dk2mvwe4uw0z3|dk45agakx3yfl|dk7rftbivnkgr|dkd69bwkvrht1|dkdwv3lcby5zi|dkj2m377b0yzw|dl1d2m8ri9v3j|dl392qndlveq0|dlupv9uqtjlie|dm0acvguygm9h|dm8ojo46iwxm2|dm8srf206hien|dmtw0i4zln92b|dn3y71tq7jf07|dnhgz729v27ca|dnn506yrbagrg|do67etikr7pwz|dohs95d6tfj19|doug1izaerwt3|dp1fzft1fdb84|dp51h10v6ggpa|dpidudyah7i0b|dpp750yjcl65g|dpz55hrzd89zs|dq2tgxnc2knif|dqqulesm3pfse|dr3k6qonw2kee|dr8pk6ovub897|drp60gfj3y9kn|dsh1ct2zrfakt|dsms0mj1bbhn4|dssja7qsifeak|dtkm4pd19nw6z|dtlilztwypawv|dtxtngytz5im1|dtym7iokkjlif|du8783wkf05yr|dufue2m4sondk|dv2m1uumnsgtu|dv4uxy777adjt|dvdsm0rlx65fo|dviixeyykyqjv|dwf6crl4raal7|dwxmyiyf7jg6|dx5qvhwg92mjd|dxq6c0tx3v6mm|dxqd86uz345mg|dy48bnzanqw0v|dycpc40hvg4ki|dyl3p6so5yozo|dz2fz0bgyq9tn|dzbx8qv1at614|dzpu6za66svjl|dzs55b7slwyx|d24cze5sab2jwg|d2va1d0hpla18n|du4rq1xqh3i1k|d3r6awv9ysiyn4|d63a3au5lqmtu|d2c7xlmseob604|djv99sxoqpv11|d1b0fk9ns6n0w9|d2na2p72vtqyok|d1n3tk65esqc4k|d2wpknqle9nuv8|d3l320urli0p1u|dc5k8fg5ioc8s|drda5yf9kgz5p|d3rxqouo2bn71j)\.cloudfront\.net/$important
+/^https?:\/\/(syndication|analytics)\.twitter\.com/$important
+/^https?:\/\/(www\.)?(client\-event\-reporter|countess|mp|polyfill|sentinel|deviceidshare|mp|pubster|spade|trowel|fan)\.twitch(svc)?\.(com|net|tv)/$important
+/^https?:\/\/(www\.)?facebook(corewwwi)?\.(com|net|onion)\/tr\D/$important
+/^https?:\/\/(www\.)?sunnimiq([0-9]{1,3})?\.cf/$important
+/^https?:\/\/[abcde]j[0-9]{4}\.online/$important
+/^https?:\/\/1x[a-z]{3}\.world/$important
+/^https?:\/\/a?n[0-9]{3,4}adserv\.[a-z]+/$important
+/^https?:\/\/aj[0-9]{3}\.online/$important
+/^https?:\/\/ajgc[0-9]{4}\.online/$important
+/^https?:\/\/ajxx?[0-9]{2,3}\.online/$important
+/^https?:\/\/arsenal[0-9]+\.xyz/$important
+/^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important
 ||0000000000000000.com^$important
 ||0026645142c89aeb1.com^$important
 ||006a039c957c142bb.com^$important
@@ -65,9 +119,9 @@
 ||0d847862199.com^$important
 ||0d96a0971a04071.com^$important
 ||0dbcf515975d.com^$important
+||0--e.info^$important
 ||0e6fc55ed3d4c2c2ba0.com^$important
 ||0eijh8996i.com^$important
-||0--e.info^$important
 ||0emn.com^$important
 ||0f461325bf56c3e1b9.com^$important
 ||0f81i8zmcp.com^$important
@@ -92,6 +146,7 @@
 ||0vsgqxbxk66w.com^$important
 ||0wner24f.top^$important
 ||0x1f4b0.com^$important
+||1.fembed.com^$important
 ||1010101010101010.com^$important
 ||101m3.com^$important
 ||103092804.com^$important
@@ -172,12 +227,11 @@
 ||1f7de8569ea97f0614.com^$important
 ||1fbaa223d6945621f8d7.date^$important
 ||1fc4d6ccf2.com^$important
-||1.fembed.com^$important
 ||1fwjpdwguvqs.com^$important
 ||1getbestf1le3.xyz^$important
 ||1gkjk1ms15.com^$important
-||1han-rit-ten.com^$important
 ||1hanritten.com^$important
+||1han-rit-ten.com^$important
 ||1jvd7f7w.top^$important
 ||1kk5l1khv03jj6v8r6.com^$important
 ||1mobile.com^$important
@@ -197,9 +251,9 @@
 ||1x1rank.com^$important
 ||1x96klcdpn.com^$important
 ||1xbahisbuwv.com^$important
+||1xbet.kz^$important
 ||1xbet53.com^$important
 ||1xbet95.com^$important
-||1xbet.kz^$important
 ||1xbkbet5.com^$important
 ||1xeemc.host^$important
 ||1yk851od.com^$important
@@ -226,9 +280,9 @@
 ||23205523023daea6.com^$important
 ||2334ea708ab6d79.com^$important
 ||238662ae03bb.com^$important
-||23bab89b7cec318.com^$important
-||23bab89b7cec31.com^$important
 ||23bab89b7cec3.com^$important
+||23bab89b7cec31.com^$important
+||23bab89b7cec318.com^$important
 ||23d3bef9eb2b.com^$important
 ||2444efc8cd8e.com^$important
 ||247-inc.net^$important
@@ -375,11 +429,11 @@
 ||34c2f22e9503ace.com^$important
 ||34ed5da2977d1ace.com^$important
 ||34pavouhj7.com^$important
-||350media.com^$important
 ||35.186.249.84^$important
 ||35.190.91.111^$important
 ||35.201.103.212^$important
 ||35.201.98.64^$important
+||350media.com^$important
 ||3-559.blog.jp^$important
 ||3585656d9351553f.com^$important
 ||35d59588f15966.com^$important
@@ -490,9 +544,9 @@
 ||442d9f2ac50ca502.com^$important
 ||4465ef53c8ffded.com^$important
 ||4481bff8825.com^$important
-||44f29447f575c41.com^$important
-||44f29447f575c4.com^$important
 ||44f29447f575c.com^$important
+||44f29447f575c4.com^$important
+||44f29447f575c41.com^$important
 ||456c11816f.com^$important
 ||459517eb349739b.com^$important
 ||45eijvhgj2.com^$important
@@ -576,8 +630,8 @@
 ||544c27b3f0aae2.com^$important
 ||5483bbc5758.com^$important
 ||549a499e1e.com^$important
-||549a499e1ef8.com^$important
 ||549a499e1ef.com^$important
+||549a499e1ef8.com^$important
 ||54a2c2e3c325.com^$important
 ||550b3ikb9j.com^$important
 ||551f044b1a3f4ef.com^$important
@@ -665,8 +719,8 @@
 ||64uq73u7ug.webcam^$important
 ||651b4ee436b8cdae.com^$important
 ||6530868523.com^$important
-||6530868523e6.com^$important
 ||6530868523e.com^$important
+||6530868523e6.com^$important
 ||6548579f50dc08be9.com^$important
 ||65a29ceed813bbca61.com^$important
 ||65e750617ae8f0421.com^$important
@@ -820,8 +874,8 @@
 ||7t15ny0f4f.top^$important
 ||7u8a8i88.com^$important
 ||7wtic7ru.com^$important
-||7x749.xyz^$important
 ||7x7.fun^$important
+||7x749.xyz^$important
 ||7xc4n.com^$important
 ||7y6.xyz^$important
 ||800d24d61daea3c.com^$important
@@ -970,6 +1024,9 @@
 ||9ts3tpia.com^$important
 ||9utwbj08.top^$important
 ||9ws3wutazo.com^$important
+||a.adroll.com^$important
+||a.ligatus.com^$important
+||a.raasnet.com^$important
 ||a02d0adbca0.com^$important
 ||a0675c1160de6c6.com^$important
 ||a06bbd98194c252.com^$important
@@ -1021,6 +1078,7 @@
 ||a940db0846408b2.com^$important
 ||a9d7c19f0282.com^$important
 ||a9nf3hg5c2.com^$important
+||aa.voice2page.com^$important
 ||aa24h.com^$important
 ||aa53df329975c325.com^$important
 ||aaaaaco.com^$important
@@ -1031,7 +1089,6 @@
 ||aadajnnn133.xyz^$important
 ||aaddcount.com^$important
 ||aadfd566c0ebfe9b9f48ea3742db5e1d.com^$important
-||a.adroll.com^$important
 ||a-ads.com^$important
 ||aaeqlxdgx.bid^$important
 ||aagmbroxruno.com^$important
@@ -1058,7 +1115,6 @@
 ||aatfnptblbxpuy.bid^$important
 ||aatkit.com^$important
 ||aaucwbe.com^$important
-||aa.voice2page.com^$important
 ||aaxads.com^$important
 ||aaxtuhit.com^$important
 ||aayaknbn.com^$important
@@ -1085,8 +1141,8 @@
 ||abgligarchan.com^$important
 ||abjusouft.com^$important
 ||ablehed.pro^$important
-||ablenctionalle.info^$important
 ||ablen*.tk^$important
+||ablenctionalle.info^$important
 ||abnad.net^$important
 ||aboardamusement.com^$important
 ||aboardlevel.com^$important
@@ -1097,13 +1153,13 @@
 ||abroadlynijiz.site^$important
 ||abrsamar.com^$important
 ||abruptroad.com^$important
+||abs.proxistore.com^$important
 ||absentstream.com^$important
 ||abserv123.com^$important
 ||absolubleldan.site^$important
 ||absorbingband.com^$important
 ||absorbingcorn.com^$important
 ||absorbingprison.com^$important
-||abs.proxistore.com^$important
 ||abstractedamount.com^$important
 ||absurdapple.com^$important
 ||absurdwater.com^$important
@@ -1176,6 +1232,8 @@
 ||acwswfbyhtsf.com^$important
 ||acwyoynw.com^$important
 ||acxujxzdluum.com^$important
+||ad.mail.ru^$important
+||ad1.ru^$important
 ||ad120m.com^$important
 ||ad123m.com^$important
 ||ad127m.com^$important
@@ -1184,7 +1242,6 @@
 ||ad132m.com^$important
 ||ad1data.com^$important
 ||ad1rtb.com^$important
-||ad1.ru^$important
 ||ad20.net^$important
 ||ad2adnetwork.biz^$important
 ||ad2bitcoin.com^$important
@@ -1255,19 +1312,18 @@
 ||adlightning.com^$important
 ||adlogine.com^$important
 ||adlooxtracking.com^$important
-||ad.mail.ru^$important
+||ad-m.asia^$important
 ||admantx.com^$important
 ||ad-mapps.com^$important
 ||admarket.network^$important
 ||admarketplace.net^$important
 ||admarvel.com^$important
-||ad-m.asia^$important
 ||admatic.com.tr^$important
 ||ad-maven.com^$important
 ||admedia.com^$important
 ||admessage.support^$important
-||admetrica.ru^$important
 ||admetric.io^$important
+||admetrica.ru^$important
 ||admetricspro.com^$important
 ||ad-miner.com^$important
 ||admitad.com^$important
@@ -1303,13 +1359,13 @@
 ||adroll.com^$important
 ||adrtgbebgd.bid^$important
 ||adrunnr.com^$important
-||ads2-adnow.com^$important
 ||ads*-adnow.com^$important
+||ads.com^$important
+||ads2-adnow.com^$important
 ||adsafeprotected.com^$important
 ||adsafety.net^$important
 ||adsame.com^$important
 ||adscale.de^$important
-||ads.com^$important
 ||adsco.re^$important
 ||ad-score.com^$important
 ||adscpm.site^$important
@@ -1346,8 +1402,8 @@
 ||adthrive.com^$important
 ||adtikimdtfbb.com^$important
 ||adtilt.com^$important
-||adtimaserver.vn^$important
 ||adtima.vn^$important
+||adtimaserver.vn^$important
 ||adtiming.com^$important
 ||adtival.com^$important
 ||adtival.network^$important
@@ -1581,7 +1637,6 @@
 ||alhistoriousg.info^$important
 ||aliadvert.ru^$important
 ||alidnquxirv.bid^$important
-||a.ligatus.com^$important
 ||alikeaddition.com^$important
 ||alikuvxxwy.com^$important
 ||aliru1.ru^$important
@@ -1648,6 +1703,8 @@
 ||amrnhiqy.com^$important
 ||amung.us^$important
 ||amwupsihqfewgr.com^$important
+||an.mail.ru^$important
+||an.yandex.ru^$important
 ||analytic.press^$important
 ||analytics.blue^$important
 ||analytics.facebook.com^$important
@@ -1668,7 +1725,6 @@
 ||anlcld.com^$important
 ||anleqthwxxns.com^$important
 ||anluecyopslm.com^$important
-||an.mail.ru^$important
 ||annoyedfifth.com^$important
 ||anogjkubvdfe.com^$important
 ||anotherederi.site^$important
@@ -1685,7 +1741,6 @@
 ||anvagsqctxsaz.bid^$important
 ||anvskelwpvvmtg.bid^$important
 ||anxiousapples.com^$important
-||an.yandex.ru^$important
 ||anybagant.club^$important
 ||anybest.*^$important
 ||anycadark.site^$important
@@ -1722,6 +1777,7 @@
 ||apmgzzaej.bid^$important
 ||apmkcdsnv.bid^$important
 ||apologixopyr.site^$important
+||app.link^$important
 ||appared.online^$important
 ||appbaqend.com^$important
 ||appboy.com^$important
@@ -1733,7 +1789,6 @@
 ||applesarmy.com^$important
 ||applesupportofficial.com^$important
 ||applicalled.club^$important
-||app.link^$important
 ||applovin.com^$important
 ||applvn.com^$important
 ||appropolyfunt.site^$important
@@ -1770,7 +1825,6 @@
 ||aqussxtpjfelp.com^$important
 ||aqyhsqhggq.com^$important
 ||ar1nvz5.com^$important
-||a.raasnet.com^$important
 ||aragvjeosjdx.com^$important
 ||arawegnvvufy.com^$important
 ||arcentred.info^$important
@@ -2519,8 +2573,8 @@
 ||broaddoor.com^$important
 ||brochloemus.info^$important
 ||broomboxmain.com^$important
-||browsermine.com^$important
 ||browser.pipe.aria.microsoft.com^$important
+||browsermine.com^$important
 ||browserr.top^$important
 ||browser-ru.site^$important
 ||browsers.support^$important
@@ -2538,6 +2592,7 @@
 ||bryvvdtek.com^$important
 ||brzmefeoqwdakc.bid^$important
 ||brztxamj.com^$important
+||bs.yandex.ru^$important
 ||bsbrxl7znz.com^$important
 ||bsepyppitmkkf.com^$important
 ||bsfnvvxjcisif.com^$important
@@ -2553,7 +2608,6 @@
 ||bsrmcmvdoeyzib.com^$important
 ||bsupflnjmuzn.com^$important
 ||bsxctkajqdp.com^$important
-||bs.yandex.ru^$important
 ||bsyauqwerd.party^$important
 ||btbapoifsphl.com^$important
 ||btcunleashed.com^$important
@@ -2680,6 +2734,8 @@
 ||bzsbtfiz.com^$important
 ||bzxmgyfae.com^$important
 ||bzyrhqbdldds.com^$important
+||c.microsoft.com^$important
+||c.paypal.com^$important
 ||c02o3mpych.com^$important
 ||c05c3c084e7edd.com^$important
 ||c0cd2idcl5.com^$important
@@ -2688,9 +2744,9 @@
 ||c26c8951ef23f.com^$important
 ||c26e9ccd4e063b.com^$important
 ||c2bb06c45a5.com^$important
-||c4bafc1c8a32783.com^$important
-||c4bafc1c8a3278.com^$important
 ||c4bafc1c8a327.com^$important
+||c4bafc1c8a3278.com^$important
+||c4bafc1c8a32783.com^$important
 ||c4f02bcd67d2e5.com^$important
 ||c50021876c67fd14.com^$important
 ||c52llumx.com^$important
@@ -2812,6 +2868,7 @@
 ||cdhzxcwuibzk.com^$important
 ||cdjchpojgifwc.ru^$important
 ||cdmjjvqzurn.com^$important
+||cdn.rtclx.com^$important
 ||cdn4ads.com^$important
 ||cdn7.rocks^$important
 ||cdnads.com^$important
@@ -2820,7 +2877,6 @@
 ||cdn-jquery.host^$important
 ||cdnm.me^$important
 ||cdnondemand.org^$important
-||cdn.rtclx.com^$important
 ||cdntrf.com^$important
 ||cdobneyuq.com^$important
 ||cdookjqkri.com^$important
@@ -3040,8 +3096,8 @@
 ||clickmedia.co.id^$important
 ||clickmon.co.kr^$important
 ||clickopop1000.com^$important
-||clicksgear.com^$important
 ||clicks.support^$important
+||clicksgear.com^$important
 ||clicktale.net^$important
 ||clickterra.net^$important
 ||clicktripz.com^$important
@@ -3072,7 +3128,6 @@
 ||cmdotgwjhpqf.com^$important
 ||cmhomlaipa.com^$important
 ||cmhwwdwfiyx.com^$important
-||c.microsoft.com^$important
 ||cmjjzwddw.com^$important
 ||cmncgeqivmjki.com^$important
 ||cmnhwzdsvr.com^$important
@@ -3154,8 +3209,8 @@
 ||completeexecutor.com^$important
 ||complextoad.com^$important
 ||composivel.pro^$important
-||com-shield-device.live^$important
 ||com-shield.live^$important
+||com-shield-device.live^$important
 ||comwgi.com^$important
 ||concentleconse.site^$important
 ||concernedcondition.com^$important
@@ -3196,9 +3251,9 @@
 ||coshfgpgab.com^$important
 ||cosmosjackson.com^$important
 ||counevan.pro^$important
+||count.ly^$important
 ||countertrck.com^$important
 ||countess.twitch.tv^$important
-||count.ly^$important
 ||courselfnorter.site^$important
 ||covjoecuzyss.com^$important
 ||cowmslkltc.com^$important
@@ -3211,7 +3266,6 @@
 ||cp9t71b6ip.com^$important
 ||cpaevent.ru^$important
 ||cpalabtracking.com^$important
-||c.paypal.com^$important
 ||cpbtcwar.com^$important
 ||cpcmart.com^$important
 ||cpdafetdjtdsy.com^$important
@@ -3603,8 +3657,8 @@
 ||deloton.com^$important
 ||deltaction.com^$important
 ||deltadna.net^$important
-||demandbase.com^$important
 ||demand.supply^$important
+||demandbase.com^$important
 ||demannewcure.site^$important
 ||demdex.net^$important
 ||denotatorum.site^$important
@@ -3722,6 +3776,7 @@
 ||diplomahawaii.com^$important
 ||dipsbbygv.com^$important
 ||diqstzzbqin.bid^$important
+||directadvert.ru^$important
 ||directprimal.com^$important
 ||dirto.life^$important
 ||disappenedy.site^$important
@@ -3951,8 +4006,8 @@
 ||dskyseconomic.info^$important
 ||dsmysdzjhxot.com^$important
 ||dsnjsdrbqwdu.com^$important
-||dspleastanci.site^$important
 ||dsp.wtf^$important
+||dspleastanci.site^$important
 ||dsw44z5igdmmbo.com^$important
 ||dswwghrlwwcm.com^$important
 ||dsxbgkphjyrngo.bid^$important
@@ -3982,8 +4037,8 @@
 ||duchmcmpmqqu.com^$important
 ||duchoono.com^$important
 ||dueybqnkkhzdh.bid^$important
-||d-ughwashes.ru^^$important
 ||d-ughwashes.ru^$important
+||d-ughwashes.ru^^$important
 ||duginamis.com^$important
 ||dugqbllwslqrlj.com^$important
 ||duhochid.net^$important
@@ -4106,6 +4161,7 @@
 ||e7d7772dd865.com^$important
 ||e85440ec98f04725.com^$important
 ||e860045edaecd.com^$important
+||e9c1khhwn4uf.com^$important
 ||e9fd3d63a0d429498f876a4e3f0542e.com^$important
 ||e9geolgzk6.com^$important
 ||e9kv7bhnzt.com^$important
@@ -4663,8 +4719,8 @@
 ||expligaining.pro^$important
 ||explorereward.com^$important
 ||exponential.com^$important
-||exposebox.com^$important
 ||expose.uzone.id^$important
+||exposebox.com^$important
 ||exqaxblsmev.com^$important
 ||exsuqfxv.bid^$important
 ||extrementtgfa.site^$important
@@ -4709,9 +4765,9 @@
 ||f084t2700i.com^$important
 ||f09vhflf10.com^$important
 ||f1288404ece4.com^$important
-||f16560975499.com^$important
-||f1656097549.com^$important
 ||f165609754.com^$important
+||f1656097549.com^$important
+||f16560975499.com^$important
 ||f185cefa37b1806e.com^$important
 ||f1tbit.com^$important
 ||f23y4td4.com^$important
@@ -4746,6 +4802,7 @@
 ||facsowlaufzk.com^$important
 ||fadedprofit.com^$important
 ||fadedsnow.com^$important
+||f-ads.pl^$important
 ||fadsabs.com^$important
 ||fadsabz.com^$important
 ||fadsans.com^$important
@@ -4764,7 +4821,6 @@
 ||fadslimz.com^$important
 ||fadsoks.com^$important
 ||fadsokz.com^$important
-||f-ads.pl^$important
 ||fadspms.com^$important
 ||fadspmz.com^$important
 ||fae4b91d8638a798.com^$important
@@ -4878,11 +4934,11 @@
 ||fed2nkspbdnr.info^$important
 ||fedsit.com^$important
 ||feebleshock.com^$important
+||feed.r-tb.com^$important
 ||feed111.com^$important
 ||feed777.me^$important
 ||feedinburgew.site^$important
 ||feedinburgmands.site^$important
-||feed.r-tb.com^$important
 ||feelinedbusin.site^$important
 ||feelineweatyeng.info^$important
 ||feeohmchi.com^$important
@@ -5508,10 +5564,10 @@
 ||gekywqwky.com^$important
 ||geniusonclick.com^$important
 ||genqrabot.com^$important
+||geo.yahoo.com^$important
 ||geodestricy.site^$important
 ||geojs.io^$important
 ||georganish.info^$important
-||geo.yahoo.com^$important
 ||gersairg.net^$important
 ||gesymphone.site^$important
 ||get1trightn0w.com^$important
@@ -5584,8 +5640,8 @@
 ||giphylee.com^$important
 ||gipmaxxp.bid^$important
 ||giqvmjiccwwys.bid^$important
-||giraffepiano.com^$important
 ||giraff.io^$important
+||giraffepiano.com^$important
 ||girrjaqgjb.com^$important
 ||gisiwdcqte.com^$important
 ||gitgrub.pro^$important
@@ -5665,6 +5721,7 @@
 ||glyicpeke.com^$important
 ||glykvwol.bid^$important
 ||glzaaewyvdkae.com^$important
+||gmai.com^$important
 ||gmcyfkrtw.com^$important
 ||gmecesfngrngu.bid^$important
 ||gmeomlvmqlmu.com^$important
@@ -5794,8 +5851,8 @@
 ||gramombird.com^$important
 ||grampouz.net^$important
 ||grand002.com^$important
-||grand-casino55.com^$important
 ||grand-casino.com^$important
+||grand-casino55.com^$important
 ||grandioseguide.com^$important
 ||grapeshot.co.uk^$important
 ||graph.facebook.com^$important
@@ -5974,6 +6031,7 @@
 ||gzyddiyiyme.bid^$important
 ||gzzctcekf.com^$important
 ||h01ce.cn^$important
+||h2ku87viwi.com^$important
 ||h2ku87viwi.com^$important
 ||h3btqpy2abc3.com^$important
 ||h3lw971ym6.com^$important
@@ -6179,8 +6237,8 @@
 ||hiblcom.com^$important
 ||hibtgsibarfg.bid^$important
 ||hicpm10.com^$important
-||hicpm55.com^$important
 ||hicpm5.com^$important
+||hicpm55.com^$important
 ||hicpm6.com^$important
 ||hiczwgs.com^$important
 ||hide.ovh^$important
@@ -6211,8 +6269,8 @@
 ||historem.com^$important
 ||historicalrequest.com^$important
 ||histormedengi.site^$important
-||hitadsmedia.com^$important
 ||hit.interia.pl^$important
+||hitadsmedia.com^$important
 ||hiug862dj0.com^$important
 ||hivps.xyz^$important
 ||hixuxtufzqcq.com^$important
@@ -6440,56 +6498,6 @@
 ||htrprrrtrwrc.com^$important
 ||httftlckaxj.com^$important
 ||http-check-headers.yandex.ru^$important
-/^https?:\/\/1x[a-z]{3}\.world/$important
-/^https?:\/\/aj[0-9]{3}\.online/$important
-/^https?:\/\/(([a-zA-Z]{1})?[0-9]{1,4})?adserv\.[a-z]+/$important
-/^https?:\/\/(d3v3bqdndm4erx|ddvfoj5yrl2oi|d2r1yp2w7bby2u|d1lxhc4jvstzrp|d3g5ovfngjw9bw|dlne6myudrxi1|d261u4g5nqprix|d3c3uihon9kmp|d18g6t7whf8ejf|ds88pc0kw6cvc|d1uvhm532ipx9t|d2z51a9spn09cw|d2k7b1tjy36ro0|d1ks8roequxbwa|d1mbihpm2gncx7|d141wsrw9m4as6|d3ddidv77grh0f|d1e1rbybdt265x|d3125zvx5yi5sj|d10lv7w3g0jvk9|d18mealirgdbbz|d3hs51abvkuanv|d1qggq1at2gusn|d1hi41nc56pmug|d3e1078hs60k37|d1r90st78epsag|d1r90st78epsag|d31mxuhvwrofft|d3d52lhoy0sh2w|dkm6b5q0h53z4|d8rk54i4mohrb|d3t5ngjixpjdho|doo6pwib3qngu|d2glav2919q4cw|d22sfab2t5o9bq|dgw7ae5vrovs7|d2c8v52ll5s99u|desgao1zt7irn|d30wo2lffetbp8|d1v9u0bgi1uimx|d3a42c7xs4vn3|d29i6o40xcgdai|d31xqmzex8ubh8|d14qd3he45186l|dsh7ky7308k4b|d2kyy9hvbrzkgn|d2yh8t8mdj4l9x|d1fc8wv8zag5ca|d2v02itv0y9u9t|d2wy8f7a9ursnm|d24n15hnbwhuhn|d31j93rd8oukbv|d10lpsik1i8c69|d10lumateci472|d11eq81k50lwgi|d12tr1cdjbyzav|d12ulf131zb0yj|d138am4hd4ke4y|d13czkep7ax7nj|d13dhn7ldhrcf6|d13im3ek7neeqp|d140sbu1b1m3h0|d1447tq2m68ekg|d15565yqt7pv7r|d158nafix8anfs|d15cjcet1djbmv|d15gt9gwxw5wu0|d15qhc0lu1ghnk|d160mt023h8h3d|d162nnmwf9bggr|d1635hfcvs8ero|d169bbxks24g2u|d173vqb05g6hza|d17f2fxw547952|d17rlarvg2khuc|d18q5nc9wflibl|d19182vyfoustz|d19972r8wdpby8|d19uh5b0umbjrr|d1ade4ciw4bqyc|d1aezk8tun0dhm|d1af033869koo7|d1ar5xirbydtuc|d1bevsqehy4npt|d1byvlfiet2h9q|d1cdnlzf6usiff|d1cerpgff739r9|d1cl1sqtf3o420|d1clfvuu2240eh|d1clufhfw8sswh|d1czd1q73kbu32|d1d43ayl08oaq2|d1d8vn0fpluuz7|d1d95giojjkirt|d1dli2tyorled9|d1dnmhdhg9vg1d|d1ebha2k07asm5|d1eoo1tco6rr5e|d1ep3cn6qx0l3z|d1ewpr7kbabyrj|d1ey3fksimezm4|d1f5rbi95y1icu|d1fo96xm8fci0r|d1gojtoka5qi10|d1gp8joe0evc8s|d1gp9nlx229wzz|d1grtyyel8f1mh|d1gyluhoxet66h|d1i2v9a8xom2hy|d1i9kr6k34lyp|d1ivexoxmp59q7|d1izbwxtc3f9ue|d1jl096lp4cce0|d1k0glcmk0b5rb|d1k29rhvz38kg5|d1k74lgicilrr3|d1ksyxj9xozc2j|d1l6p2sc9645hc|d1lm7kd3bd3yo9|d1m6l9dfulcyw7|d1mbgf0ge24riu|d1mib12jcgwmnv|d1mroptkfdxko5|d1mub3aw743hsf|d1mxvenloqrqmu|d1n7ypf85zfej7|d1nh2vjpqpfnin|d1nkcqm1nusqof|d1nmxiiewlx627|d1noellhv8fksc|d1p2zvpeuweyai|d1p7elpjrt6qav|d1pcttwib15k25|d1pdpbxj733bb1|d1piupybsgr6dr|d1pozdfelzfhyt|d1qc76gneygidm|d1qk9ujrmkucbl|d1qpxk1wfeh8v1|d1qtf1avwa1wvl|d1r27qvpjiaqj3|d1rdh3xxuqlqfo|d1rgnfh960lz2b|d1rguclfwp7nc8|d1rkf0bq85yx06|d1ros97qkrwjf5|d1spb7fplenrp4|d1tprjo2w7krrh|d1uwd25yvxu96k|d1uy7uzra011au|d1v6js7bjzmhoa|d1vbm0eveofcle|d1vh0xkmncek4z|d1vrcwxei1aj0g|d1vwpe7grtcv9d|d1wa9546y9kg0n|d1wi563t0137vz|d1wscoizcbxzhp|d1xfq2052q7thw|d1yu5hbtu8mng9|d1z2jf7jlzjs58|d1zatounuylvwg|d1zfhhmz4n1jvq|d1zgderxoe1a|d20duyjzb7cuoc|d20je219bs8hnq|d21aw2xov4zz0i|d21j20wsoewvjq|d21o24qxwf7uku|d22lo5bcpq2fif|d22v2nmahyeg2a|d23guct4biwna6|d23nyyb6dc29z6|d23p9gffjvre9v|d240937yockcdo|d24w6bsrhbeh9d|d258hxk86e2ixw|d258j801nsw1p7|d25ruj6ht8bs1|d25xkbr68qqtcn|d269y12mnftu9c|d26b395fwzu5fz|d26c6kzavi5zwd|d26dzd2k67we08|d26j9bp9bq4uhd|d26r15y2ken1t9|d26wy0pxd3qqpv|d27jt7xr4fq3e8|d27x580xb9ao1l|d287x05ve9a63s|d28ethi6slcjbm|d28g1fhp6rn9w3|d28g9g3vb08y70|d28k9nkt2spnp|d29p64779x43zo|d29r6igjpnoykg|d2a0bnlkc0czvp|d2anfhdgjxf8s1|d2b2x1ywompm1b|d2b560qq58menv|d2b65ihpmocv7w|d2b7n13v8adl6f|d2bgg7rjywcwsy|d2bj2texxib1qg|d2bw638ufki166|d2cgumzzqhgmdu|d2cxkkxhecdzsq|d2d2lbvq8xirbs|d2d8qsxiai9qwj|d2dq2ahtl5zl1z|d2dxgm96wvaa5j|d2fhjyz3dwdx87|d2focgxak1cn74|d2g9nmtuil60cb|d2gfdmu30u15x7|d2gfi8ctn6kki7|d2ghscazvn398x|d2gi7ultltnc2u|d2gpgaupalra1d|d2gt9oovykfp1z|d2gtlljtkeiyzd|d2gz6iop9uxobu|d2hap2bsh1k9lw|d2hcjk8asp3td7|d2hluuq2g8gwrv|d2i54aseqwhx68|d2ipklohrie3lo|d2jn12r3o7an7z|d2kbaqwa2nt57l|d2kmrmwhq7wkvs|d2kz60b0gq4lg|d2l8bbn629wykr|d2lv4zbk7v5f93|d2lxztepvo7ma1|d2mic0r0bo3i6z|d2mq0uzafv8ytp|d2muzdhs7lpmo0|d2nlytvx51ywh9|d2nn3xyicdpsrf|d2nq0f8d9ofdwv|d2nrdy2pg3k168|d2nxi61n77zqpl|d2nz8k4xyoudsx|d2nzjxafm0iowq|d2o307dm5mqftz|d2oallm7wrqvmi|d2oh4tlt9mrke9|d2omcicc3a4zlg|d2pc0q32fod0ha|d2pgy8h4i30on1|d2plxos94peuwp|d2pppxxtaciku9|d2pxb4n3f9klsc|d2pxbld8wrqyrk|d2q7mvwub8tmwf|d2qmp7jjpd79k7|d2qz7ofajpstv5|d2r359adnh3sfn|d2ry9vue95px0b|d2s64zaa9ua7uv|d2so4705rl485y|d2szg1g41jt3pq|d2t2on23g4lty1|d2tgev5wuprbqq|d2tgfbvjf3q6hn|d2tnimpzlb191i|d2ubicnllnnszy|d2ue9k1rhsumed|d2uevgmgh16uk4|d2ugaifelwk06r|d2uzdrx7k4koxz|d2v4glj2m8yzg5|d2v9ajh2eysdau|d2vig74li2resi|d2vt6q0n0iy66w|d2wl3qmk54t3ha|d2xgf76oeu9pbh|d2xkqxdy6ewr93|d2xsy1lxezptdm|d2yhukq7vldf1u|d2ymkpxi1rgldj|d2z0gqc8sv0l7p|d2z1smm3i01tnr|d2zah9y47r7bi2|d30zrwt3s044zr|d3135glefggiep|d31807xkria1x4|d31bfnnwekbny6|d31qbv1cthcecs|d32ffatx74qnju|d32pxqbknuxsuy|d32r49xyei4vz6|d32r9jwgeu9dzx|d32z5ni8t5127x|d33f10u0pfpplc|d33im0067v833a|d33j9ks96yd6fm|d33otidwg56k90|d33t3vvu2t2yu5|d34ko97cxuv4p7|d34obr29voew8l|d34rdvn2ky3gnm|d35r45qhjmgs3g|d36lvucg9kzous|d36mpcpuzc4ztk|d36sxvmjoflc2i|d36wtdrdo22bqa|d37dzu39aqhuxu|d37h3y471q0lt2|d37kzqe5knnh6t|d37s9vd5t6mov7|d37sfqor0g25ph|d38cp5x90nxyo0|d38pxm3dmrdu6d|d38r21vtgndgb1|d396ihyrqc81w|d39hdzmeufnl50|d39xqloz8t5a6x|d3a2okcloueqyx|d3aa0ztdn3oibi|d3ahinqqx1dy5v|d3al52d8cojds7|d3alqb8vzo7fun|d3anogn3pbtk4v|d3aq14vri881or|d3avqv6zaxegeu|d3ax6xygyb5hn9|d3bvcf24wln03d|d3c3cq33003psk|d3cesrg5igdcgt|d3cv4a9a9wh0bt|d3cxv97fi8q177|d3dc2aopftfkeo|d3dcugpvnepf41|d3dphmosjk9rot|d3dytsf4vrjn5x|d3elm8wezzwg42|d3emsmln8xfj03|d3ezl4ajpp2zy8|d3f9mcik999dte|d3fqhkmofpujs3|d3fzrm6pcer44x|d3h1v5cflrhzi4|d3hlizmpi4g3v9|d3hmb5h5qngs7g|d3hr5gm0wlxm5h|d3i1asoswufp5k|d3id4jppiyyek8|d3irruagotonpp|d3iwjrnl4m67rd|d3iz6lralvg77g|d3l3lkinz3f56t|d3l4qa0kmel7is|d3laygk9zni6hc|d3lc9zmxv46zr|d3lvr7yuk4uaui|d3lzezfa753mqu|d3m41swuqq4sv5|d3m79ugzs2d8im|d3m83gvgzupli|d3mj0pkbugdjcn|d3mvnvhjmkxpjz|d3n6ab9lij5r0c|d3nb4kk262p6sf|d3noqwmgo39at7|d3nslu0hdya83q|d3nvrqlo8rj1kw|d3oep4gb91kpuv|d3ojzyhbolvoi5|d3oltyb66oj2v8|d3p2b5qewrnsyv|d3p9ql8flgemg7|d3pe8wzpurrzss|d3phbp7p78bdk9|d3pkae9owd2lcf|d3pkntwtp2ukl5|d3pkrll6is44dx|3q2dpprdsteo|d3q33rbmdkxzj|d3q6px0y2suh5n|d3qszud4qdthr8|d3qxef4rp70elm|d3qxwzhswv93jk|d3r7h55ola878c|d3rhktq8uy839j|d3rmnwi2tssrfx|d3rp5jatom3eyn|d3s6ctxr1rpcpt|d3s7ggfq1s6jlj|d3t2wca0ou3lqz|d3t9ip55bsuxrf|d3t9nyds4ufoqz|d3td6g0k30g56f|d3tdefw8pwfkbk|d3tglifpd8whs6|d3u5zn5k9864p0|d3ud741uvs727m|d3uemyw1e5n0jw|d3ujids68p6xmq|d3uqm14ppr8tkw|d3v1lb83psg9di|d3v27wwd40f0xu|d3vc1nm9xbncz5|d3von6il1wr7wo|d3vpf6i51y286p|d47xnnr8b1rki|d4ax0r5detcsu|d4ngwggzm3w7j|d5i9o0tpq9sa1|d5nxst8fruw4z|d5ou3dytze6uf|d5pb47xzjz3fc|d5pvnbpawsaav|d60y8cj1tje2a|d6bdy3eto8fyu|d6jkenny8w8yo|d6sav80kktzcx|d6swopgiplmy0|d6ummfe8aubt5|d81mfvml8p5ml|d830x8j3o1b2k|d8qy7md4cj3gz|d8rk54i4mohrb|d985a9d2clzq5|d9lq0o81skkdj|d9rj2sdxjer5v|d9shvcd294i4o|d9tnvwv7i2n85|da3uf5ucdz00u|da5w2k479hyx2|dal9hkyfi0m0n|daq0d0aotgq0f|daw76z57propz|dbjnwpbqx5a6o|dc08i221b0n8a|dc44qjwal3p07|dc5ig2fc8lg83|dc8na2hxrj29i|dc8xl0ndzn2cb|dcjg1gv1px1h|ddfnmo6ev4fd|ddwht76d9jvfl|ddyv8sl7ewq1w|de8of677fyt0b|debojuagug1sf|demkc32bq01ah|desv383oqqc0|df0pmigc8xs70|dfdbz2tdq3k01|dff7tx5c2qbxc|dfrs12kz9qye2|dgkytklfjrqkb|dgqxhburlt16t|dh0uktvqfaomb|disy2s34euyqm|djlf5xdlz7m8m|djtflbt20bdde|djwf0dl2q9i99|dk2mvwe4uw0z3|dk45agakx3yfl|dk7rftbivnkgr|dkd69bwkvrht1|dkdwv3lcby5zi|dkj2m377b0yzw|dl1d2m8ri9v3j|dl392qndlveq0|dlupv9uqtjlie|dm0acvguygm9h|dm8ojo46iwxm2|dm8srf206hien|dmtw0i4zln92b|dn3y71tq7jf07|dnhgz729v27ca|dnn506yrbagrg|do67etikr7pwz|dohs95d6tfj19|doug1izaerwt3|dp1fzft1fdb84|dp51h10v6ggpa|dpidudyah7i0b|dpp750yjcl65g|dpz55hrzd89zs|dq2tgxnc2knif|dqqulesm3pfse|dr3k6qonw2kee|dr8pk6ovub897|drp60gfj3y9kn|dsh1ct2zrfakt|dsms0mj1bbhn4|dssja7qsifeak|dtkm4pd19nw6z|dtlilztwypawv|dtxtngytz5im1|dtym7iokkjlif|du8783wkf05yr|dufue2m4sondk|dv2m1uumnsgtu|dv4uxy777adjt|dvdsm0rlx65fo|dviixeyykyqjv|dwf6crl4raal7|dwxmyiyf7jg6|dx5qvhwg92mjd|dxq6c0tx3v6mm|dxqd86uz345mg|dy48bnzanqw0v|dycpc40hvg4ki|dyl3p6so5yozo|dz2fz0bgyq9tn|dzbx8qv1at614|dzpu6za66svjl|dzs55b7slwyx|d24cze5sab2jwg|d2va1d0hpla18n|du4rq1xqh3i1k|d3r6awv9ysiyn4|d63a3au5lqmtu|d2c7xlmseob604|djv99sxoqpv11|d1b0fk9ns6n0w9|d2na2p72vtqyok|d1n3tk65esqc4k|d2wpknqle9nuv8|d3l320urli0p1u|dc5k8fg5ioc8s|drda5yf9kgz5p|d3rxqouo2bn71j)\.cloudfront\.net/$important
-/^https?:\/\/denis\-[a-z0-9]{7,12}\-[a-z0-9]{7,12}\.com/$important
-/^(https?|ftp|wss?):\/\/([^\s]+\.)?ablen[0-9]{2}\.tk/$important
-/^(https?|ftp|wss?):\/\/([^\s]+\.)?(de|mi|ner|nis)\-(de|mi|ner|nis)\-(de|mi|ner|nis)\-(de|mi|ner|nis)\-?([0-9]{1,3})?\.info/$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?69([a-z]{1,2})\.([a-z]{4})/$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?ads?[!"#$%&'()*+.,:;<=>?@/\^_`{|}~-]?(visor|serve|bb|by|logs?|[rs]v[rs]?|sdk|delivery|engine)([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?ad[svbxo]?(er(ver?)?t?(ise|ising|isement)?)?\./$important,domain=~ad.nl|~ads.google.com
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?aff(iliat(es?|ion)?)([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?analy(ti([\W\w]+)?)?([0-9]{1,3})?\./$important,domain=~google.ad|~google.ae|~google.al|~google.am|~google.as|~google.at|~google.az|~google.ba|~google.be|~google.bf|~google.bg|~google.bi|~google.bj|~google.bs|~google.bt|~google.by|~google.ca|~google.cat|~google.cd|~google.cf|~google.cg|~google.ch|~google.ci|~google.cl|~google.cm|~google.cn|~google.co.ao|~google.co.bw|~google.co.ck|~google.co.cr|~google.co.id|~google.co.il|~google.co.in|~google.co.jp|~google.co.ke|~google.co.kr|~google.co.ls|~google.co.ma|~google.co.mz|~google.co.nz|~google.co.th|~google.co.tz|~google.co.ug|~google.co.uk|~google.co.uz|~google.co.ve|~google.co.vi|~google.co.za|~google.co.zm|~google.co.zw|~google.com|~google.com.af|~google.com.ag|~google.com.ai|~google.com.ar|~google.com.au|~google.com.bd|~google.com.bh|~google.com.bn|~google.com.bo|~google.com.br|~google.com.bz|~google.com.co|~google.com.cu|~google.com.cy|~google.com.do|~google.com.ec|~google.com.eg|~google.com.et|~google.com.fj|~google.com.gh|~google.com.gi|~google.com.gt|~google.com.hk|~google.com.jm|~google.com.kh|~google.com.kw|~google.com.lb|~google.com.ly|~google.com.mm|~google.com.mt|~google.com.mx|~google.com.my|~google.com.na|~google.com.nf|~google.com.ng|~google.com.ni|~google.com.np|~google.com.om|~google.com.pa|~google.com.pe|~google.com.pg|~google.com.ph|~google.com.pk|~google.com.pr|~google.com.py|~google.com.qa|~google.com.sa|~google.com.sb|~google.com.sg|~google.com.sl|~google.com.sv|~google.com.tj|~google.com.tr|~google.com.tw|~google.com.ua|~google.com.uy|~google.com.vc|~google.com.vn|~google.cv|~google.cz|~google.de|~google.dj|~google.dk|~google.dm|~google.dz|~google.ee|~google.es|~google.fi|~google.fm|~google.fr|~google.ga|~google.ge|~google.gg|~google.gl|~google.gm|~google.gp|~google.gr|~google.gy|~google.hn|~google.hr|~google.ht|~google.hu|~google.ie|~google.im|~google.iq|~google.is|~google.it|~google.je|~google.jo|~google.kg|~google.ki|~google.kz|~google.la|~google.li|~google.lk|~google.lt|~google.lu|~google.lv|~google.md|~google.me|~google.mg|~google.mk|~google.ml|~google.mn|~google.ms|~google.mu|~google.mv|~google.mw|~google.ne|~google.nl|~google.no|~google.nr|~google.nu|~google.pl|~google.pn|~google.ps|~google.pt|~google.ro|~google.rs|~google.ru|~google.rw|~google.sc|~google.se|~google.sh|~google.si|~google.sk|~google.sm|~google.sn|~google.so|~google.sr|~google.st|~google.td|~google.tg|~google.tk|~google.tl|~google.tm|~google.tn|~google.to|~google.tt|~google.vg|~google.vu|~google.ws|~yandex.by|~yandex.com|~yandex.ru|~yandex.ua
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?bann?i?er[se]?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?beacons?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?cli?ck?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?collectors?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?count(s|ers?)?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?delivery?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?events?([0-9]{1,3})?\./$important,domain=~webmoney.ru
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?(fingerpr[ie]nt|fp)([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?geo([0-9]{1,3})?\./$important,domain=~office.com
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?informers?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?log[sx]?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?marketing([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?me?tr[ie]?[ck][asx]?([0-9]{1,3})?\./$important,domain=~metrica.yandex.com|~metrica.yandex.ru|~metrika.yandex.com|~metrika.yandex.ru
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?mine([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?m[io]nero?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?monitor([0-9]{1,3})?\./$important,domain=~monitor.firefox.com
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?partners?([0-9]{1,3})?\./$important,domain=~partners.yandex.by|~partners.yandex.ru|~partners.yandex.ua
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?ping([0-9]{1,3})?\./$important,domain=~hydrax.net|~playhydrax.com
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?piwik([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?pi?xe?l?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?preroll([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?puss[0-9]{2,3}\.com/$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?px\-intl([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?re([ck]l?(am[asy]?)?)?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?snippets?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?(sx|np|mx)cdn([0-9]{1,3})?\.now\.sh/$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?syndication([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?tags?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?telemetr(y|ics)?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?tizers?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?track(ers?|ing|cli?ck?)?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?tr([a-zA-Z0-9]{1})?ck([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?vast([a-z]{1})?([0-9]{1,3})?\./$important
-/^(https?|ftp|wss?):\/\/((www|wap)\.)?worker([0-9]{1,3})?\./$important
-/^https?:\/\/(syndication|analytics)\.twitter\.com/$important
-/^https?:\/\/(www\.)?(client\-event\-reporter|countess|mp|polyfill|sentinel|spade|trowel|fan)\.twitch(svc)?\.(com|net|tv)/$important
-/^https?:\/\/(www\.)?facebook(corewwwi)?\.(com|net|onion)\/tr\D/$important
-/^https?:\/\/(www\.)?sunnimiq([0-9]{1,3})?\.cf/$important
 ||htvlulpbhtkgr.com^$important
 ||htyazxwc.com^$important
 ||huayucnblhgy.com^$important
@@ -6598,6 +6606,7 @@
 ||hzyvjghy.bid^$important
 ||hzyxaqdr.bid^$important
 ||hzzevwlmjji.com^$important
+||i.imedia.cz^$important
 ||i027m.top^$important
 ||i0ri625.com^$important
 ||i0s26ol9.com^$important
@@ -6668,6 +6677,7 @@
 ||icxssspyxquw.bid^$important
 ||icyddcsjbqjxz.bid^$important
 ||icyfqtjj.bid^$important
+||id.google.$important
 ||idbjhskxiablsi.com^$important
 ||idbtfwllhogxc.com^$important
 ||idbxnzgmn.com^$important
@@ -6684,7 +6694,6 @@
 ||ideprjebdvj.com^$important
 ||idernzastoeok.com^$important
 ||idfybbol.com^$important
-||id.google.$important
 ||idiafix.com^$important
 ||idissynmirkw.com^$important
 ||idiyejpux.bid^$important
@@ -6771,7 +6780,6 @@
 ||iijmodcvlwfk.com^$important
 ||iikhhkwryiqq.bid^$important
 ||iilrgkor.com^$important
-||i.imedia.cz^$important
 ||iinkhwsh.bid^$important
 ||iipivevueme.com^$important
 ||iipkiyju.bid^$important
@@ -6876,13 +6884,13 @@
 ||infinario.com^$important
 ||infiniadmp.com^$important
 ||influads.com^$important
+||info.web.de^$important
 ||infobizyours.info^$important
 ||infoblog.today^$important
 ||infocenter.support^$important
 ||infolinks.com^$important
 ||infomail.support^$important
 ||infomessage.support^$important
-||info.web.de^$important
 ||ingcigarettbarro.info^$important
 ||ingdaughtexam.info^$important
 ||ingeliteral.pro^$important
@@ -7483,8 +7491,8 @@
 ||jqojocdbjpdyk.bid^$important
 ||jqpuxvgnxkf.com^$important
 ||jqqlucchmbxnn.com^$important
-||jqr-cdn.download^$important
 ||jqrcdn.download^$important
+||jqr-cdn.download^$important
 ||jqrnfkttwfxbcu.com^$important
 ||jqsrfzjgn.com^$important
 ||jqtftqnkhsw.bid^$important
@@ -7549,8 +7557,8 @@
 ||juqakqgv.com^$important
 ||juqmlmoclnhe.com^$important
 ||juren0.com^$important
-||jurtym.cf^$important
 ||jurty.ml^$important
+||jurtym.cf^$important
 ||jusrlkubhjnr.com^$important
 ||justicejudo.com^$important
 ||justookr.net^$important
@@ -8221,8 +8229,8 @@
 ||lcolevwciuwj.com^$important
 ||lcpqoewrzuxh.com^$important
 ||lcrdolxjoxxlr.com^$important
-||lcsgdwlxrlgq.com^$important
 ||lcs.naver.com^$important
+||lcsgdwlxrlgq.com^$important
 ||lcttjawsbwol.com^$important
 ||lcuprkufusba.com^$important
 ||lcvofuqxovcao.com^$important
@@ -8916,6 +8924,8 @@
 ||mbyponflbv.bid^$important
 ||mbyrgeoizdid.com^$important
 ||mbzl-pro.xyz^$important
+||mc.webvisor.org^$important
+||mc.yandex.ru^$important
 ||mcagbtdcwklf.com^$important
 ||mcaxqvcu.com^$important
 ||mcaybfrnrqpmv.com^$important
@@ -8936,9 +8946,7 @@
 ||mcsnhbdil.com^$important
 ||mcuqjebym.com^$important
 ||mcvyeitc.com^$important
-||mc.webvisor.org^$important
 ||mcwvyuifwml.bid^$important
-||mc.yandex.ru^$important
 ||mcyopesbusomqf.com^$important
 ||mczemvlzkndplq.com^$important
 ||mczuljmdpysftg.com^$important
@@ -8984,6 +8992,7 @@
 ||mechangesee.club^$important
 ||mecounxmawn.bid^$important
 ||mecsjjkomehyv.com^$important
+||media.net^$important
 ||media303.com^$important
 ||media6degrees.com^$important
 ||media970.com^$important
@@ -9004,7 +9013,6 @@
 ||mediakeywords.com^$important
 ||medialand.ru^$important
 ||mediametrics.ru^$important
-||media.net^$important
 ||media-networks.ru^$important
 ||mediaoaktree.com^$important
 ||mediaonenetwork.net^$important
@@ -9028,8 +9036,8 @@
 ||medonohley.com^$important
 ||medware.top^$important
 ||medyagundem.com^$important
-||medyanetads.com^$important
 ||medyanet.net^$important
+||medyanetads.com^$important
 ||meeaowsxneps.com^$important
 ||meehaina.net^$important
 ||meendocash.com^$important
@@ -9085,8 +9093,8 @@
 ||metagmae.org^$important
 ||methingewsf.club^$important
 ||methinkinge.com^$important
-||metricfast.com^$important
 ||metric.gstatic.com^$important
+||metricfast.com^$important
 ||meucixmdhuqq.bid^$important
 ||meuxestvodec.bid^$important
 ||meuzxiejun.com^$important
@@ -9166,9 +9174,9 @@
 ||mibmcbm.com^$important
 ||mibsooks.net^$important
 ||microad.*^$important
-||microadinc.com^$important
 ||microad.jp^$important
 ||microad.net^$important
+||microadinc.com^$important
 ||microsoftaffiliates.net^$important
 ||mictxtwtjigs.com^$important
 ||midkerci.bid^$important
@@ -9340,8 +9348,8 @@
 ||mmpcqstnkcelx.com^$important
 ||mmqidlebc.com^$important
 ||mmqsbtpmdrib.bid^$important
-||mmsbbbki.com^$important
 ||mms.cnn.com^$important
+||mmsbbbki.com^$important
 ||mmsdewfvxhw.com^$important
 ||mmshbwtpx.com^$important
 ||mmstat.com^$important
@@ -9397,8 +9405,8 @@
 ||mobile-10.com^$important
 ||mobileadspopup.com^$important
 ||mobileapptracking.com^$important
-||mobileoffers-a-download.com^$important
 ||mobileoffers-*-download.com^$important
+||mobileoffers-a-download.com^$important
 ||mobiright.com^$important
 ||mobisla.com^$important
 ||mobitracker.info^$important
@@ -9421,8 +9429,8 @@
 ||modifyeyes.com^$important
 ||modkehkcihvzi.bid^$important
 ||modulepush.com^$important
-||moengage.com^$important
 ||moe.video^$important
+||moengage.com^$important
 ||moevideo.biz^$important
 ||mofrupteeuqnvc.bid^$important
 ||mofvrnbngcern.bid^$important
@@ -9622,8 +9630,8 @@
 ||msigpurubzkm.com^$important
 ||msisvvxmnpm.com^$important
 ||msjpmpumsf.bid^$important
-||mslimitagesmo.site^$important
 ||mslimitages.site^$important
+||mslimitagesmo.site^$important
 ||msmaijsxlo.com^$important
 ||msmyjmkshh.bid^$important
 ||msoiqafieh.com^$important
@@ -9777,6 +9785,7 @@
 ||mxxrzwibnlnmd.bid^$important
 ||mxysalqnbj.com^$important
 ||mxzxeersjv.com^$important
+||my.com^$important
 ||my83s1kw3u.com^$important
 ||myaarzoo.com^$important
 ||myadcash.com^$important
@@ -9789,10 +9798,9 @@
 ||mybetterdl.com^$important
 ||mybitsearch.com^$important
 ||mycasinoaccounts.com^$important
-||mycdn2.co^$important
 ||mycdn.co^$important
+||mycdn2.co^$important
 ||myclickbankads.com^$important
-||my.com^$important
 ||mydreamads.com^$important
 ||myeffect.net^$important
 ||myemailbox.info^$important
@@ -10102,13 +10110,13 @@
 ||newjanads.com^$important
 ||newjulads.com^$important
 ||newjunads.com^$important
-||new-mail.support^$important
 ||newmail.support^$important
+||new-mail.support^$important
 ||newmarads.com^$important
 ||newmayads.com^$important
 ||newmedia.live^$important
-||new-message.support^$important
 ||newmessage.support^$important
+||new-message.support^$important
 ||newmonads.com^$important
 ||new-new-years.com^$important
 ||newnovads.com^$important
@@ -10229,13 +10237,13 @@
 ||niholaev.com^$important
 ||nijksigqjzalcf.com^$important
 ||nikxhdrys.com^$important
-||nile.works^$important
 ||nil.naver.com^$important
+||nile.works^$important
 ||niltutch.com^$important
 ||nimdinb.com^$important
+||nimiq.watch^$important
 ||nimiqpool.com^$important
 ||nimiqtest.net^$important
-||nimiq.watch^$important
 ||nimjdyknjzcp.com^$important
 ||nimmediu.info^$important
 ||nimsepee.net^$important
@@ -10421,10 +10429,10 @@
 ||nostalgicknot.com^$important
 ||notification-centar.com^$important
 ||notification-list.com^$important
+||notify.support^$important
 ||notify-monad.com^$important
 ||notify-service.com^$important
 ||notifysrv.com^$important
-||notify.support^$important
 ||notmining.org^$important
 ||notqlzafzch.bid^$important
 ||nouseeth.com^$important
@@ -10578,9 +10586,9 @@
 ||nuggad.net^$important
 ||nuhcibapynaj.bid^$important
 ||nuhwyavc.com^$important
+||nui.media^$important
 ||nuihcvbixjea.com^$important
 ||nuilpwatzeuvzp.com^$important
-||nui.media^$important
 ||nukqimllza.com^$important
 ||nullnorth.com^$important
 ||nullrefexcep.com^$important
@@ -11202,6 +11210,7 @@
 ||ozwtmmcdglos.com^$important
 ||ozyjicurrutehe.bid^$important
 ||ozymwqsycimr.com^$important
+||p.imgur.com^$important
 ||p1.assetscdn.stream^$important
 ||p1.gnrdomimplementation.com^$important
 ||p1.interestingz.pw^$important
@@ -11308,6 +11317,7 @@
 ||paysoxemgjqp.com^$important
 ||pazktszqpdsu.bid^$important
 ||pazl1.ru^$important
+||pb.m.naver.com^$important
 ||pbbskmfo.bid^$important
 ||pbbutsvpzqza.com^$important
 ||pbcde.com^$important
@@ -11316,7 +11326,6 @@
 ||pbggemxcuosmhz.bid^$important
 ||pbhletstiooizj.com^$important
 ||pbjnssfvatrhc.com^$important
-||pb.m.naver.com^$important
 ||pbofytmakvye.com^$important
 ||pbpdgojwzfdc.com^$important
 ||pbsmzzxrmu.bid^$important
@@ -11405,6 +11414,7 @@
 ||pewgnvqixnhvij.com^$important
 ||peypcjxllo.bid^$important
 ||peyttlwbznahi.com^$important
+||pf.newegg.com^$important
 ||pf34zdjoeycr.com^$important
 ||pfdctvdgjw.com^$important
 ||pffw8mgd.com^$important
@@ -11416,7 +11426,6 @@
 ||pfk9fywba5.com^$important
 ||pfltlwftndq.com^$important
 ||pfmoriuywsl.com^$important
-||pf.newegg.com^$important
 ||pfoohjpdbxt.com^$important
 ||pfpkzjwi.com^$important
 ||pfvfwielz.com^$important
@@ -11476,7 +11485,6 @@
 ||piginkdos.com^$important
 ||piifwkvdil.com^$important
 ||piljbvnykkt.bid^$important
-||p.imgur.com^$important
 ||pimmuter.com^$important
 ||pimygjumeyrtxe.com^$important
 ||pinckardpyote.com^$important
@@ -11530,9 +11538,9 @@
 ||platado.com^$important
 ||plathwardsve.site^$important
 ||play-best-games-2k18.xyz^$important
+||playe.vidto.se^$important
 ||playermailer.net^$important
 ||playerseo.club^$important
-||playe.vidto.se^$important
 ||plcsedkinoul.com^$important
 ||pldsafpulgnw.com^$important
 ||pleboxviting.pro^$important
@@ -11608,10 +11616,10 @@
 ||poolgmsd.com^$important
 ||poorybdbh.bid^$important
 ||pooxbpxm.com^$important
-||popadscdn.net^$important
 ||popads.com^$important
 ||popads.media^$important
 ||popads.net^$important
+||popadscdn.net^$important
 ||poparya.com^$important
 ||popcain.com^$important
 ||popcap.com^$important
@@ -11656,15 +11664,15 @@
 ||poxeemso.com^$important
 ||poxwphidbuedh.com^$important
 ||ppbvmesssyacij.com^$important
-||ppcashpop.com^$important
 ||ppc.buzz^$important
+||ppcashpop.com^$important
 ||ppcpsjihmydhr.com^$important
 ||ppfrlfe.com^$important
 ||ppgzokht.com^$important
 ||ppikspdz.com^$important
 ||ppjjbzcxripw.com^$important
-||ppndr.com^$important
 ||ppn.dsp.wtf^$important
+||ppndr.com^$important
 ||ppoi.org^$important
 ||pppjxzcu.bid^$important
 ||pprcfwhlmtagay.com^$important
@@ -11779,8 +11787,8 @@
 ||psehuhxpqip.bid^$important
 ||psevaulr.net^$important
 ||psgdjmtpvey.com^$important
-||pshcqtizgdlm.com^$important
 ||psh.one^$important
+||pshcqtizgdlm.com^$important
 ||psma02.com^$important
 ||psmlgjalddqu.com^$important
 ||psmxlnkovf.com^$important
@@ -11829,8 +11837,8 @@
 ||ptyezfyxcaeu.com^$important
 ||ptzbgvqpwnxg.com^$important
 ||ptzljkufu.com^$important
-||pubdirecte.com^$important
 ||pub.javwide.com^$important
+||pubdirecte.com^$important
 ||publish.web.id^$important
 ||pubmatic.com^$important
 ||pudptxanhspld.bid^$important
@@ -11856,6 +11864,9 @@
 ||puqqpjywka.com^$important
 ||purch.com^$important
 ||puserving.com^$important
+||push.house^$important
+||push.io^$important
+||push.world^$important
 ||push-ad.com^$important
 ||pushads.biz^$important
 ||pushame.com^$important
@@ -11871,9 +11882,7 @@
 ||pushdusk.com^$important
 ||pushengage.com^$important
 ||pusherism.com^$important
-||push.house^$important
 ||pushimer.com^$important
-||push.io^$important
 ||pushisbest.com^$important
 ||pushkov.info^$important
 ||pushlaram.com^$important
@@ -11904,7 +11913,6 @@
 ||pushtora.com^$important
 ||pushwhy.com^$important
 ||pushwoosh.com^$important
-||push.world^$important
 ||pushworldtool.com^$important
 ||putags.com^$important
 ||putessie.com^$important
@@ -12844,10 +12852,10 @@
 ||roksnfmaydlo.com^$important
 ||roljcubvx.bid^$important
 ||romksuecd.bid^$important
+||ron.si^$important
 ||ronbriticated.site^$important
 ||ronoutom.net^$important
 ||ronrmbrrhqdwh.com^$important
-||ron.si^$important
 ||roofrelation.com^$important
 ||roolgage.com^$important
 ||rooptaup.com^$important
@@ -12914,6 +12922,7 @@
 ||rrvpscehvjuz.com^$important
 ||rryodgeerrvn.com^$important
 ||rryyvhzxikai.bid^$important
+||rs.mail.ru^$important
 ||rsbblrpnjxgsk.com^$important
 ||rschairwaydi.site^$important
 ||rscqizsukecevh.com^$important
@@ -12925,7 +12934,6 @@
 ||rsjpgfugttlh.com^$important
 ||rsl2dd0twlym.com^$important
 ||rsleaderingmu.info^$important
-||rs.mail.ru^$important
 ||rsmapdngqwonud.bid^$important
 ||rsnuhrxz.com^$important
 ||rsosndet.bid^$important
@@ -13128,8 +13136,8 @@
 ||sandzfuay.bid^$important
 ||sanksvohixxnlf.com^$important
 ||santrateduk.site^$important
-||sapelmyep.com^$important
 ||sape.ru^$important
+||sapelmyep.com^$important
 ||sapsixysho.pro^$important
 ||sapvummffiay.com^$important
 ||saqcgojcure.bid^$important
@@ -13686,8 +13694,8 @@
 ||ssobmhpxnjjp.bid^$important
 ||ssorsophicla.info^$important
 ||ssowfsbps.bid^$important
-||sspicy.ru^$important
 ||ssp.rambler.ru^$important
+||sspicy.ru^$important
 ||ssqualismother.info^$important
 ||ssqzsdcnoqv.com^$important
 ||ssraju3n.com^$important
@@ -13706,18 +13714,18 @@
 ||start1999.com^$important
 ||startappservice.com^$important
 ||stat*.1internet.tv^$important
+||stat.teleport.media^$important
 ||statcounter.com^$important
 ||statdynamic.com^$important
 ||stathat.com^$important
 ||stati.bid^$important
-||staticsfs.host^$important
 ||stati.in^$important
+||staticsfs.host^$important
 ||stat-rock.com^$important
+||stats.redditmedia.com^$important
 ||statserv.net^$important
 ||statsforads.com^$important
-||stats.redditmedia.com^$important
 ||statsy.net^$important
-||stat.teleport.media^$important
 ||steadfastsound.com^$important
 ||steadfastsystem.com^$important
 ||steepsquirrel.com^$important
@@ -13820,8 +13828,8 @@
 ||supertrackingz.com^$important
 ||suqufucjzffhay.bid^$important
 ||surfacecharo.info^$important
-||surfearner.com^$important
 ||surfe.pro^$important
+||surfearner.com^$important
 ||surgermystem.site^$important
 ||surveys-zone.online^$important
 ||susm0q6jys.com^$important
@@ -13901,8 +13909,8 @@
 ||sylwenys.pw^$important
 ||symphoneupcom.site^$important
 ||symydvmqjjp.com^$important
-||synconnector.com^$important
 ||sync.rambler.ru^$important
+||synconnector.com^$important
 ||syndapop.com^$important
 ||syndicpop.com^$important
 ||syndopop.com^$important
@@ -13924,6 +13932,7 @@
 ||szynlslqxerx.com^$important
 ||szywarceqeo.com^$important
 ||szzxtanwoptm.bid^$important
+||t.paypal.com^$important
 ||t1d8ee13pf.com^$important
 ||t2f9pn3m7w.com^$important
 ||t2ualmnw.com^$important
@@ -13959,10 +13968,10 @@
 ||taoclfxgf.com^$important
 ||taodggarfrmd.com^$important
 ||taozgpkjzpdtgr.com^$important
-||tapjoyads.com^$important
 ||tapjoy.click^$important
 ||tapjoy.com^$important
 ||tapjoy.net^$important
+||tapjoyads.com^$important
 ||taplytics.com^$important
 ||taqesyqne.com^$important
 ||taqyljgaqsaz.com^$important
@@ -14360,7 +14369,6 @@
 ||tovkhtekzrlu.com^$important
 ||toxy9ikenenxtf0f.com^$important
 ||toyhxqjgqcjo.com^$important
-||t.paypal.com^$important
 ||tpdowdhhn.com^$important
 ||tperkulpflry.bid^$important
 ||tpesjhkf.bid^$important
@@ -14397,6 +14405,7 @@
 ||tqwfafmh.bid^$important
 ||tqwuasyvwebt.bid^$important
 ||tqzvjmgftvtj.bid^$important
+||tr.cloud-media.fr^$important
 ||tracedesire.com^$important
 ||track360.pw	$important
 ||tracking.cdiscount.com^$important
@@ -14438,7 +14447,6 @@
 ||trbo.com^$important
 ||trbucgmbren.com^$important
 ||trcbxjusetvc.com^$important
-||tr.cloud-media.fr^$important
 ||trcrkykttaila.com^$important
 ||trdhjlszfbwk.com^$important
 ||trdmnpklszd.com^$important
@@ -14705,8 +14713,8 @@
 ||udbmqqkl.bid^$important
 ||udbtmvuoncdtrg.com^$important
 ||udbwpgvnalth.com^$important
-||udcufwvt.com^$important
 ||udc.yahoo.com^$important
+||udcufwvt.com^$important
 ||udmdtdjna.com^$important
 ||udmserve.net^$important
 ||udqgbokvzbnqkf.ru^$important
@@ -14938,12 +14946,12 @@
 ||uorhedemxtni.com^$important
 ||uoxbotvrs.bid^$important
 ||uoypqskiemf.bid^$important
+||up.gtorrent.ru^$important
 ||upapi.net^$important
 ||upckrtagwpwk.com^$important
 ||upcokvzuupn.bid^$important
 ||update-your-pc.info
 ||upgraderservices.cf^$important
-||up.gtorrent.ru^$important
 ||upgwdilkhlwguz.bid^$important
 ||upitnow.top^$important
 ||upnpuqimdqnghau.*^$important
@@ -14978,8 +14986,8 @@
 ||urikbkwiwy.bid^$important
 ||uriqirelle.xyz^$important
 ||urjbglpktn.com^$important
-||urldelivery.com^$important
 ||url.rw^$important
+||urldelivery.com^$important
 ||urmilan.info^$important
 ||uroidgcc.com^$important
 ||urpscavikbyv.com^$important
@@ -15374,8 +15382,8 @@
 ||vidora.com^$important
 ||vidroll.ru^$important
 ||vidsizee.com^$important
-||vidtok.ru^$important
 ||vidto.se^$important
+||vidtok.ru^$important
 ||vidzi.tv^$important
 ||viebitgreasy.email^$important
 ||vifog.com^^$important
@@ -15495,6 +15503,7 @@
 ||vnw2gd68pb.com^$important
 ||vnyginzinvmq.com^$important
 ||vnzlgmfd.com^$important
+||vo.msecnd.net^$important
 ||voaalhaobdl.com^$important
 ||vodbordnhhemq.com^$important
 ||vodhaqaujopg.com^$important
@@ -15509,7 +15518,6 @@
 ||volyncftzhw.bid^$important
 ||volyze.com^$important
 ||vomhhsovuu.bid^$important
-||vo.msecnd.net^$important
 ||voodoo.com^$important
 ||voradu.com^$important
 ||voredi.com^$important
@@ -15711,6 +15719,7 @@
 ||w4qnw4uw.cricket^$important
 ||w5e8rg3ptq.com^$important
 ||w6lkr4s8wu.com^$important
+||wa.ui-portal.de^$important
 ||wa4etw9l.top^$important
 ||waarhiupyrmig.com^$important
 ||wabxsybclllz.com^$important
@@ -15749,7 +15758,6 @@
 ||watxeoifxbjo.com^$important
 ||waubasou.com^$important
 ||waugeboa.net^$important
-||wa.ui-portal.de^$important
 ||waust.at^$important
 ||wawinamilmay.com^$important
 ||wawlfosfkdy.com^$important
@@ -16014,12 +16022,12 @@
 ||wkuayaogbegtyp.bid^$important
 ||wkwakmsttsehi.com^$important
 ||wkzovkuc.com^$important
+||wl.jd.com^$important
 ||wlcepkuuvawjdj.bid^$important
 ||wlezfkwtv.com^$important
 ||wlfolwilg.com^$important
 ||wlhbgwzgep.com^$important
 ||wlhgopaqpmwah.com^$important
-||wl.jd.com^$important
 ||wljuxryvolwc.com^$important
 ||wllxevmlsutfpx.com^$important
 ||wlmclzjtd.com^$important
@@ -16532,10 +16540,10 @@
 ||xmlterra.com^$important
 ||xmmsyipahbq.com^$important
 ||xmoyoxsx.com^$important
-||xmrchaqjwqyvz.com^$important
 ||xmr.cool^$important
-||xmrminingproxy.com^$important
+||xmrchaqjwqyvz.com^$important
 ||xmrm.pw^$important
+||xmrminingproxy.com^$important
 ||xmsgobwy.com^$important
 ||xmufoqjx.com^$important
 ||xmvoodgr.com^$important
@@ -17340,12 +17348,12 @@
 ||zamjzpwgekeo.com^$important
 ||zamponyt.ru^$important
 ||zanfo.it^$important
-||zangocash.com^$important
 ||zango.com^$important
+||zangocash.com^$important
 ||zansceeifcmm.com^$important
 ||zanyx.club^$important
-||zaparena.com^$important
 ||zap.buzz^$important
+||zaparena.com^$important
 ||zappy.co.za^$important
 ||zapunited.com^$important
 ||zapvzwydgiwz.com^$important
@@ -17456,6 +17464,7 @@
 ||zelxtujtigbx.com^$important
 ||zel-zel-fie.com^$important
 ||zemanta.com^$important
+||zen.yandex.ru^$important
 ||zenhppyad.com^$important
 ||zenitchampion.cn^$important
 ||zenoviaexchange.com^$important
@@ -17664,6 +17673,7 @@
 ||zlx.com.br^$important
 ||zlxfpawyyoq.com^$important
 ||zlxwasugtn.com^$important
+||zm.shzgjx88.com^$important
 ||zm232.com^$important
 ||zmasxytjskg.com^$important
 ||zmbrweqglexv.com^$important
@@ -17681,7 +17691,6 @@
 ||zmoawpfsz.com^$important
 ||zmogtyau.com^$important
 ||zmpvyyey.com^$important
-||zm.shzgjx88.com^$important
 ||zmujsnyzujuy.com^$important
 ||zmutugjqvia.com^$important
 ||zmuyirmzujgk.com^$important
@@ -17718,9 +17727,9 @@
 ||zodorxfj.bid^$important
 ||zoe-fan.com^$important
 ||zoeysqyx.com^$important
+||zog.link^$important
 ||zogaguj.eu^$important
 ||zogjolga.ru^$important
-||zog.link^$important
 ||zogzogolla.com^$important
 ||zohaqnxwkvyt.com^$important
 ||zoid.in^$important
