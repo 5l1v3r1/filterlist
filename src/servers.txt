@@ -8918,7 +8918,6 @@
 ||mbyrgeoizdid.com^$important
 ||mbzl-pro.xyz^$important
 ||mc-portal.mail.ru^$important
-||mc.webvisor.org^$important
 ||mc.yandex.ru^$important
 ||mcagbtdcwklf.com^$important
 ||mcaxqvcu.com^$important
@@ -15807,8 +15806,7 @@
 ||weborama.fr^$important
 ||webpushs.com^$important
 ||websnewsdate.com^$important
-||webvisor.com^$important
-||webvisor.org^$important
+||webvisor.*^$important
 ||webwagssicx.bid^$important
 ||webxmr.com^$important
 ||weckosoew.bid^$important
