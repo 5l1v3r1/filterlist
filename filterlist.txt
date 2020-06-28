@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-06-28 16:29:13
-! Version: 20200628162913
+! Last modified: 2020-06-28 16:35:27
+! Version: 20200628163527
 ! Expires: 3 hours
-! Number of filters: 18080
+! Number of filters: 18068
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1372,7 +1372,6 @@
 ||ad-score.com^$important
 ||adscpm.site^$important
 ||adsdk.yandex.ru^$important
-||adsdk.yandex.ru^$important
 ||adsensecustomsearchads.com^$important
 ||adser.io^$important
 ||ad-server.*^$important
@@ -1708,7 +1707,6 @@
 ||amwupsihqfewgr.com^$important
 ||an.mail.ru^$important
 ||an.yandex.ru^$important
-||an.yandex.ru^$important
 ||analytic.press^$important
 ||analytics.blue^$important
 ||analytics.facebook.com^$important
@@ -2010,7 +2008,6 @@
 ||awrspmpj.com^$important
 ||awrxkucpfbsq.com^$important
 ||awsatstb.com^$important
-||awsync.yandex.ru^$important
 ||awsync.yandex.ru^$important
 ||awvuhwqyimgd.com^$important
 ||awxjpkxoqfwaj.bid^$important
@@ -2589,7 +2586,6 @@
 ||browsers.support^$important
 ||browser-update.org^$important
 ||browser-updater.yandex.net^$important
-||browser-updater.yandex.net^$important
 ||brqrtgjklary.com^$important
 ||brrxmhuhyokw.bid^$important
 ||brtcmjchfyel.com^$important
@@ -2603,14 +2599,12 @@
 ||brzmefeoqwdakc.bid^$important
 ||brztxamj.com^$important
 ||bs.yandex.ru^$important
-||bs.yandex.ru^$important
 ||bsbrxl7znz.com^$important
 ||bsepyppitmkkf.com^$important
 ||bsfnvvxjcisif.com^$important
 ||bsjhbxtrbvkr.com^$important
 ||bslgmaxqild.bid^$important
 ||bslqjxmltuel.bid^$important
-||bs-meta.yandex.ru^$important
 ||bs-meta.yandex.ru^$important
 ||bsmryjou.com^$important
 ||bsnbfufjgxrb.com^$important
@@ -6051,7 +6045,6 @@
 ||gzzctcekf.com^$important
 ||h01ce.cn^$important
 ||h2ku87viwi.com^$important
-||h2ku87viwi.com^$important
 ||h3btqpy2abc3.com^$important
 ||h3lw971ym6.com^$important
 ||h5q3e661po.com^$important
@@ -6516,7 +6509,6 @@
 ||htqyaipwpopyx.com^$important
 ||htrprrrtrwrc.com^$important
 ||httftlckaxj.com^$important
-||http-check-headers.yandex.ru^$important
 ||http-check-headers.yandex.ru^$important
 ||htvlulpbhtkgr.com^$important
 ||htyazxwc.com^$important
@@ -7554,7 +7546,6 @@
 ||jssdk.beetv.net^$important
 ||jstqcal.com^$important
 ||jstracer.yandex.ru^$important
-||jstracer.yandex.ru^$important
 ||jtacrwtaf.com^$important
 ||jtbmxdoadktnm.com^$important
 ||jtmfmeexjet.bid^$important
@@ -7833,7 +7824,6 @@
 ||kiinvgntnnw.com^$important
 ||kiixmhyrlawz.com^$important
 ||kikoucuy.net^$important
-||kiks.yandex.ru^$important
 ||kiks.yandex.ru^$important
 ||kindznnd998.xyz^$important
 ||kinoaction.ru^$important
@@ -8948,7 +8938,6 @@
 ||mbyponflbv.bid^$important
 ||mbyrgeoizdid.com^$important
 ||mbzl-pro.xyz^$important
-||mc.yandex.ru^$important
 ||mc.yandex.ru^$important
 ||mcagbtdcwklf.com^$important
 ||mcaxqvcu.com^$important
@@ -16800,7 +16789,6 @@
 ||y96q29a1fo.com^$important
 ||yaaqsdteo.com^$important
 ||yabs.yandex.by^$important
-||yabs.yandex.ru^$important
 ||yabs.yandex.ru^$important
 ||yabs.yandex.ua^$important
 ||yadr0.com^$important
