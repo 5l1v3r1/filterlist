@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-06-29 20:30:27
-! Version: 20200629203027
+! Last modified: 2020-06-29 22:47:25
+! Version: 20200629224725
 ! Expires: 3 hours
-! Number of filters: 18074
+! Number of filters: 18064
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -8310,7 +8310,6 @@
 ||levjirsqbtjhif.bid^$important
 ||lexcyehlniruu.bid^$important
 ||lexwdqnzmkdr.com^$important
-||lf1.mail.ru^$important
 ||lfclktkwnc.com^$important
 ||lfcnzhcnzded.com^$important
 ||lffyoomtjjhvc.com^$important
@@ -8956,7 +8955,6 @@
 ||mclwrdzj.bid^$important
 ||mcmetrika.ru^$important
 ||mcnklvsodqqa.com^$important
-||mc-portal.mail.ru^$important
 ||mcrjoftwhprkrx.bid^$important
 ||mcrzrxwrtpr.com^$important
 ||mcskucrxgwx.com^$important
@@ -9612,7 +9610,6 @@
 ||mradx.net^$important
 ||mrdbkfyaxsig.bid^$important
 ||mrdiehhk.bid^$important
-||mrds.mail.ru^$important
 ||mrelko.com^$important
 ||mrepqeyednht.club^$important
 ||mrfveznetjtp.com^$important
@@ -11659,8 +11656,6 @@
 ||popzkvfimbox.com^$important
 ||poqqvnychl.com^$important
 ||poredii.com^$important
-||portal.mail.ru^$important
-||portal-xiva.yandex.net^$important
 ||portedlysarcatc.info^$important
 ||possessivebucket.com^$important
 ||possibleboats.com^$important
@@ -12483,7 +12478,9 @@
 ||qzpxhebrm.com^$important
 ||qzpzspna.bid^$important
 ||qzwhzahnieipgz.com^$important
+||r.mail.ru^$important
 ||r0.mail.ru^$important
+||r2.mail.ru^$important
 ||r3.mail.ru^$important
 ||r4nwdude.com^$important
 ||r5jpkacq.ru^$important
@@ -12495,7 +12492,6 @@
 ||r8oyegintx.com^$important
 ||rabjkklvegagrn.com^$important
 ||rackcdn.com^$important
-||radar.imgsmail.ru^$important
 ||radbtqjfp.bid^$important
 ||raenfh9tkuka.com^$important
 ||rafvxnikmn.bid^$important
@@ -12612,7 +12608,6 @@
 ||receptivereaction.com^$important
 ||reckedmane.club^$important
 ||reconditerake.com^$important
-||recostream.go.mail.ru^$important
 ||recreativ.ru^$important
 ||redads.biz^$important
 ||redappeneticfr.info^$important
@@ -12941,7 +12936,6 @@
 ||rrvpscehvjuz.com^$important
 ||rryodgeerrvn.com^$important
 ||rryyvhzxikai.bid^$important
-||rs.mail.ru^$important
 ||rsbblrpnjxgsk.com^$important
 ||rschairwaydi.site^$important
 ||rscqizsukecevh.com^$important
@@ -14372,7 +14366,6 @@
 ||top100.ru^$important
 ||topbetfast.com^$important
 ||topclickguru.com^$important
-||top-fwz1.mail.ru^$important
 ||topgadgetlists.com^$important
 ||topichawaii.com^$important
 ||toponclick.com^$important
@@ -14631,6 +14624,7 @@
 ||txvsifff.com^$important
 ||txvxzkwyelnvb.bid^$important
 ||txwdabikzvw.com^$important
+||txwha3vuso66.com^$important
 ||txwnwvhkbtzb.com^$important
 ||txwvuadjcknuj.bid^$important
 ||txwzdalmamma.com^$important
@@ -16628,7 +16622,6 @@
 ||xqygrmkga.bid^$important
 ||xqzkpmrgcpsw.com^$important
 ||xr8wv50k1daj.com^$important
-||xray.mail.ru^$important
 ||xrdutkydekqpxu.bid^$important
 ||xrgqermbslvg.com^$important
 ||xrgrymutlq.com^$important
@@ -16794,9 +16787,7 @@
 ||y6a7tqyr.com^$important
 ||y96q29a1fo.com^$important
 ||yaaqsdteo.com^$important
-||yabs.yandex.by^$important
-||yabs.yandex.ru^$important
-||yabs.yandex.ua^$important
+||yabs.yandex.*^$important
 ||yadr0.com^$important
 ||yadro.ru^$important
 ||yadyiymarz.com^$important
@@ -17491,7 +17482,6 @@
 ||zel-zel-fie.com^$important
 ||zemanta.com^$important
 ||zen.yandex.*^$important
-||zen.yandex.ru^$important
 ||zenhppyad.com^$important
 ||zenitchampion.cn^$important
 ||zenoviaexchange.com^$important
