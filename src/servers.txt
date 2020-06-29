@@ -8264,7 +8264,6 @@
 ||levjirsqbtjhif.bid^$important
 ||lexcyehlniruu.bid^$important
 ||lexwdqnzmkdr.com^$important
-||lf1.mail.ru^$important
 ||lfclktkwnc.com^$important
 ||lfcnzhcnzded.com^$important
 ||lffyoomtjjhvc.com^$important
@@ -8898,7 +8897,6 @@
 ||mbyponflbv.bid^$important
 ||mbyrgeoizdid.com^$important
 ||mbzl-pro.xyz^$important
-||mc-portal.mail.ru^$important
 ||mc.yandex.ru^$important
 ||mcagbtdcwklf.com^$important
 ||mcaxqvcu.com^$important
@@ -9567,7 +9565,6 @@
 ||mradx.net^$important
 ||mrdbkfyaxsig.bid^$important
 ||mrdiehhk.bid^$important
-||mrds.mail.ru^$important
 ||mrelko.com^$important
 ||mrepqeyednht.club^$important
 ||mrfveznetjtp.com^$important
@@ -11613,8 +11610,6 @@
 ||popzkvfimbox.com^$important
 ||poqqvnychl.com^$important
 ||poredii.com^$important
-||portal-xiva.yandex.net^$important
-||portal.mail.ru^$important
 ||portedlysarcatc.info^$important
 ||possessivebucket.com^$important
 ||possibleboats.com^$important
@@ -12437,7 +12432,9 @@
 ||qzpxhebrm.com^$important
 ||qzpzspna.bid^$important
 ||qzwhzahnieipgz.com^$important
+||r.mail.ru^$important
 ||r0.mail.ru^$important
+||r2.mail.ru^$important
 ||r3.mail.ru^$important
 ||r4nwdude.com^$important
 ||r5jpkacq.ru^$important
@@ -12446,10 +12443,10 @@
 ||r8mxl.top^$important
 ||r8nr2lzeqakd.com^$important
 ||r8nu86wg.me^$important
+||txwha3vuso66.com^$important
 ||r8oyegintx.com^$important
 ||rabjkklvegagrn.com^$important
 ||rackcdn.com^$important
-||radar.imgsmail.ru^$important
 ||radbtqjfp.bid^$important
 ||raenfh9tkuka.com^$important
 ||rafvxnikmn.bid^$important
@@ -12566,7 +12563,6 @@
 ||receptivereaction.com^$important
 ||reckedmane.club^$important
 ||reconditerake.com^$important
-||recostream.go.mail.ru^$important
 ||recreativ.ru^$important
 ||redads.biz^$important
 ||redappeneticfr.info^$important
@@ -12895,7 +12891,6 @@
 ||rrvpscehvjuz.com^$important
 ||rryodgeerrvn.com^$important
 ||rryyvhzxikai.bid^$important
-||rs.mail.ru^$important
 ||rsbblrpnjxgsk.com^$important
 ||rschairwaydi.site^$important
 ||rscqizsukecevh.com^$important
@@ -14323,7 +14318,6 @@
 ||tonewithough.info^$important
 ||toomsborogreycliff.com^$important
 ||toothbrushnote.com^$important
-||top-fwz1.mail.ru^$important
 ||top100.ru^$important
 ||topbetfast.com^$important
 ||topclickguru.com^$important
@@ -16582,7 +16576,6 @@
 ||xqygrmkga.bid^$important
 ||xqzkpmrgcpsw.com^$important
 ||xr8wv50k1daj.com^$important
-||xray.mail.ru^$important
 ||xrdutkydekqpxu.bid^$important
 ||xrgqermbslvg.com^$important
 ||xrgrymutlq.com^$important
@@ -16750,9 +16743,7 @@
 ||ya-googl.ws^$important
 ||ya-toptal-tvoyu-dushu.com^$important
 ||yaaqsdteo.com^$important
-||yabs.yandex.by^$important
-||yabs.yandex.ru^$important
-||yabs.yandex.ua^$important
+||yabs.yandex.*^$important
 ||yadr0.com^$important
 ||yadro.ru^$important
 ||yadyiymarz.com^$important
@@ -17446,7 +17437,6 @@
 ||zemanta.com^$important
 ||zen-test.yandex.ru^$important
 ||zen.yandex.*^$important
-||zen.yandex.ru^$important
 ||zenhppyad.com^$important
 ||zenitchampion.cn^$important
 ||zenoviaexchange.com^$important
