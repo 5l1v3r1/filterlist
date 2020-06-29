@@ -1750,7 +1750,6 @@
 ||applicalled.club^$important
 ||applovin.com^$important
 ||applvn.com^$important
-||appmetrica.yandex.com^$important
 ||appropolyfunt.site^$important
 ||appsee.com^$important
 ||appsflyer.com^$important
@@ -2532,11 +2531,9 @@
 ||broadcastbed.com^$important
 ||broaddoor.com^$important
 ||brochloemus.info^$important
-||brontp.yandex.ru^$important
 ||broomboxmain.com^$important
 ||browser-ru.site^$important
 ||browser-update.org^$important
-||browser-updater.yandex.net^$important
 ||browser.pipe.aria.microsoft.com^$important
 ||browsermine.com^$important
 ||browserr.top^$important
@@ -3029,7 +3026,6 @@
 ||class2deal.com^$important
 ||class64deal.com^$important
 ||clcassd.com^$important
-||clck.yandex.ru^$important
 ||clcknads.pro^$important
 ||clcknipop.com^$important
 ||clcknpop.com^$important
@@ -3326,7 +3322,6 @@
 ||cslxhmchzgbx.com^$important
 ||csnd.xyz^$important
 ||csouqeeviwo.com^$important
-||csp.yandex.net^$important
 ||cspyozjbwb.com^$important
 ||cssimplicanab.info^$important
 ||cstdfxkxbqbc.com^$important
@@ -6465,7 +6460,6 @@
 ||htqyaipwpopyx.com^$important
 ||htrprrrtrwrc.com^$important
 ||httftlckaxj.com^$important
-||http-check-headers.yandex.ru^$important
 ||htvlulpbhtkgr.com^$important
 ||htyazxwc.com^$important
 ||huayucnblhgy.com^$important
@@ -13681,7 +13675,6 @@
 ||stargoug.com^$important
 ||start1999.com^$important
 ||startappservice.com^$important
-||startup.mobile.yandex.net^$important
 ||stat*.1internet.tv^$important
 ||stat-rock.com^$important
 ||stat.teleport.media^$important
@@ -16771,7 +16764,6 @@
 ||yasltdlichfd.com^$important
 ||yasnxwjtjbx.com^$important
 ||yast.rutube.ru^$important
-||yastroka.yandex.net^$important
 ||yatnozin.info^$important
 ||yattprdmuybn.com^$important
 ||yaucoplumerville.com^$important
