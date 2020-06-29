@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-06-28 16:35:27
-! Version: 20200628163527
+! Last modified: 2020-06-29 20:30:27
+! Version: 20200629203027
 ! Expires: 3 hours
-! Number of filters: 18068
+! Number of filters: 18074
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -335,6 +335,7 @@
 ||2cbisyjaae.com^$important
 ||2chicksathome.com^$important
 ||2cnjuh34jbhub.com^$important
+||2cnjuh34jbman.com^$important
 ||2cnjuh34jbpoint.com^$important
 ||2cuknh50ef.com^$important
 ||2d023c55b2f9.com^$important
@@ -4740,6 +4741,7 @@
 ||exvmxqexedomi.com^$important
 ||ey88k2770u.com^$important
 ||eydiuqpdtfew.com^$important
+||eyebinvex.com^$important
 ||eyhempsedinte.info^$important
 ||eyinwxkojgkfgs.com^$important
 ||eyjuwcrnu.bid^$important
@@ -6807,6 +6809,7 @@
 ||ijmzezsaxxomr.com^$important
 ||ijnghdmfrb.com^$important
 ||ijowsfraldsnb.com^$important
+||ijpheyydhw1a.com^$important
 ||ijriehir.com^$important
 ||ijuawecwqhwyou.bid^$important
 ||ijvolcqtnxohl.com^$important
@@ -7804,6 +7807,7 @@
 ||khaklikrt.com^$important
 ||khdmabhykmj.com^$important
 ||khefhmgfwnnqgv.com^$important
+||khewwakrywmgxr.com^$important
 ||khexythfkw.com^$important
 ||khgsbhdw.bid^$important
 ||khgwakmfavzch.bid^$important
@@ -11131,6 +11135,7 @@
 ||ousufauk.com^$important
 ||outbrain.com^$important
 ||outsimfat.site^$important
+||outtunova.com^$important
 ||ouvhowyqhacec.bid^$important
 ||ouvtjehb.bid^$important
 ||ouytveod.com^$important
@@ -14969,6 +14974,7 @@
 ||upcokvzuupn.bid^$important
 ||update-your-pc.info
 ||upgraderservices.cf^$important
+||upgulpinon.com^$important
 ||upgwdilkhlwguz.bid^$important
 ||upitnow.top^$important
 ||upnpuqimdqnghau.*^$important
