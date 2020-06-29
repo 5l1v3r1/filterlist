@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-06-29 22:47:25
-! Version: 20200629224725
+! Last modified: 2020-06-29 22:58:28
+! Version: 20200629225828
 ! Expires: 3 hours
-! Number of filters: 18064
+! Number of filters: 18056
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1794,7 +1794,6 @@
 ||applicalled.club^$important
 ||applovin.com^$important
 ||applvn.com^$important
-||appmetrica.yandex.com^$important
 ||appropolyfunt.site^$important
 ||appsee.com^$important
 ||appsflyer.com^$important
@@ -2578,7 +2577,6 @@
 ||broadcastbed.com^$important
 ||broaddoor.com^$important
 ||brochloemus.info^$important
-||brontp.yandex.ru^$important
 ||broomboxmain.com^$important
 ||browser.pipe.aria.microsoft.com^$important
 ||browsermine.com^$important
@@ -2586,7 +2584,6 @@
 ||browser-ru.site^$important
 ||browsers.support^$important
 ||browser-update.org^$important
-||browser-updater.yandex.net^$important
 ||brqrtgjklary.com^$important
 ||brrxmhuhyokw.bid^$important
 ||brtcmjchfyel.com^$important
@@ -3075,7 +3072,6 @@
 ||class2deal.com^$important
 ||class64deal.com^$important
 ||clcassd.com^$important
-||clck.yandex.ru^$important
 ||clcknads.pro^$important
 ||clcknipop.com^$important
 ||clcknpop.com^$important
@@ -3372,7 +3368,6 @@
 ||cslxhmchzgbx.com^$important
 ||csnd.xyz^$important
 ||csouqeeviwo.com^$important
-||csp.yandex.net^$important
 ||cspyozjbwb.com^$important
 ||cssimplicanab.info^$important
 ||cstdfxkxbqbc.com^$important
@@ -6511,7 +6506,6 @@
 ||htqyaipwpopyx.com^$important
 ||htrprrrtrwrc.com^$important
 ||httftlckaxj.com^$important
-||http-check-headers.yandex.ru^$important
 ||htvlulpbhtkgr.com^$important
 ||htyazxwc.com^$important
 ||huayucnblhgy.com^$important
@@ -13727,7 +13721,6 @@
 ||stargoug.com^$important
 ||start1999.com^$important
 ||startappservice.com^$important
-||startup.mobile.yandex.net^$important
 ||stat*.1internet.tv^$important
 ||stat.teleport.media^$important
 ||statcounter.com^$important
@@ -16816,7 +16809,6 @@
 ||yasltdlichfd.com^$important
 ||yasnxwjtjbx.com^$important
 ||yast.rutube.ru^$important
-||yastroka.yandex.net^$important
 ||yatnozin.info^$important
 ||ya-toptal-tvoyu-dushu.com^$important
 ||yattprdmuybn.com^$important
