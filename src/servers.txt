@@ -2927,6 +2927,7 @@
 ||cherrythread.com^$important
 ||chesscolor.com^$important
 ||chewcoat.com^$important
+||chfpgcbe.com^$important
 ||chickensstation.com^$important
 ||chidsimp.com^$important
 ||chiefcurrent.com^$important
@@ -4934,6 +4935,7 @@
 ||ffhwzaenzoue.com^$important
 ||ffickiedisticre.site^$important
 ||ffjzebtmdwi.com^$important
+||ffkdxymyji.com^$important
 ||ffkwprrdmyaj.bid^$important
 ||ffmhgdnkdcs.com^$important
 ||ffoifngclwfuey.com^$important
@@ -15054,6 +15056,7 @@
 ||uvzfodimtska.com^$important
 ||uw994cp.com^$important
 ||uwdawnsge.bid^$important
+||uwdtibwk.com^$important
 ||uwfvuohbac.com^$important
 ||uwidtpjwh.com^$important
 ||uwjczdkytwyhzh.com^$important
@@ -17432,10 +17435,6 @@
 ||zenitchampion.cn^$important
 ||zenoviaexchange.com^$important
 ||zenoviagroup.com^$important
-||ffkdxymyji.com^$important
-||uwdtibwk.com^$important
-||chfpgcbe.com^$important
-||xyz0k4gfs.xyz^$important
 ||zenpmagn.bid^$important
 ||zeokfeyraxls.com^$important
 ||zepozipo.com^$important

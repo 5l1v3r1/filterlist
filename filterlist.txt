@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-06-29 22:58:28
-! Version: 20200629225828
+! Last modified: 2020-07-04 23:37:19
+! Version: 20200704233719
 ! Expires: 3 hours
-! Number of filters: 18056
+! Number of filters: 18058
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -2973,6 +2973,7 @@
 ||cherrythread.com^$important
 ||chesscolor.com^$important
 ||chewcoat.com^$important
+||chfpgcbe.com^$important
 ||chickensstation.com^$important
 ||chidsimp.com^$important
 ||chiefcurrent.com^$important
@@ -4980,6 +4981,7 @@
 ||ffhwzaenzoue.com^$important
 ||ffickiedisticre.site^$important
 ||ffjzebtmdwi.com^$important
+||ffkdxymyji.com^$important
 ||ffkwprrdmyaj.bid^$important
 ||ffmhgdnkdcs.com^$important
 ||ffoifngclwfuey.com^$important
@@ -15100,6 +15102,7 @@
 ||uvzfodimtska.com^$important
 ||uw994cp.com^$important
 ||uwdawnsge.bid^$important
+||uwdtibwk.com^$important
 ||uwfvuohbac.com^$important
 ||uwidtpjwh.com^$important
 ||uwjczdkytwyhzh.com^$important
@@ -17473,7 +17476,6 @@
 ||zelxtujtigbx.com^$important
 ||zel-zel-fie.com^$important
 ||zemanta.com^$important
-||zen.yandex.*^$important
 ||zenhppyad.com^$important
 ||zenitchampion.cn^$important
 ||zenoviaexchange.com^$important
