@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-07-04 23:37:19
-! Version: 20200704233719
+! Last modified: 2020-07-08 01:10:30
+! Version: 20200708011030
 ! Expires: 3 hours
-! Number of filters: 18058
+! Number of filters: 18061
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -5608,6 +5608,7 @@
 ||gghepxqsga.com^$important
 ||gghhzzllakjm.bid^$important
 ||ggijrjktcld.com^$important
+||ggjcswb4rln4.com^$important
 ||ggjsegnbriqhnz.com^$important
 ||gglx.me^$important
 ||ggnabmvnwphu.com^$important
@@ -6628,6 +6629,7 @@
 ||i62po37g.com^$important
 ||i7ujq4gg.top^$important
 ||i864ekhq.com^$important
+||i99i.org^$important
 ||i9zqq3fj.top^$important
 ||iaatzkkqyv.com^$important
 ||iacexhglty.com^$important
@@ -13079,6 +13081,7 @@
 ||rzuwelgm.com^$important
 ||rzwzstbiqk.com^$important
 ||s0l8ybzj9u.top^$important
+||s1t2uuenhsfs.com^$important
 ||s20dh7e9dh.com^$important
 ||s24hc8xzag.com^$important
 ||s2block.com^$important
