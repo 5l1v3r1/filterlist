@@ -1260,6 +1260,7 @@
 ||adearsened.info^$important
 ||adexchangegate.com^$important
 ||adexchangeguru.com^$important
+||adexchangesrv.com^$important
 ||adextrem.com^$important
 ||adeyujimmmh.com^$important
 ||adfill.me^$important
@@ -3031,6 +3032,7 @@
 ||clcknipop.com^$important
 ||clcknpop.com^$important
 ||clckysudks.com^$important
+||cldom.com^$important
 ||cleaneryelded.site^$important
 ||clearcomb.com^$important
 ||cledghtdrjtb.com^$important
@@ -3222,6 +3224,7 @@
 ||coysotown.com^$important
 ||cozclrlpsk.com^$important
 ||cozjfzlng.com^$important
+||cp7gyw5w94c7.com^$important
 ||cp9t71b6ip.com^$important
 ||cpaevent.ru^$important
 ||cpalabtracking.com^$important
@@ -5750,6 +5753,7 @@
 ||goowurzdotcom.bid^$important
 ||gopamdzgpdrwe.bid^$important
 ||gor1lla.win^$important
+||goraps.com^$important
 ||goredi.com^$important
 ||gorgeousground.com^$important
 ||gorillavid.in^$important
@@ -9093,13 +9097,6 @@
 ||mg6ikpbhco.com^$important
 ||mgid.com^$important
 ||mgjoqdmjofl.bid^$important
-||monu.delivery^$important
-||adexchangesrv.com^$important
-||cldom.com^$important
-||cp7gyw5w94c7.com^$important
-||oldmilram.com^$important
-||urt7bpvfz4am.com^$important
-||goraps.com^$important
 ||mgjumvwmgusai.com^$important
 ||mgltjlqx.com^$important
 ||mgnczbprazyv.com^$important
@@ -9458,6 +9455,7 @@
 ||monlscalmows.bid^$important
 ||monsoonads.com^$important
 ||montpti.top^$important
+||monu.delivery^$important
 ||monxserver.com^$important
 ||mooaleoat.com^$important
 ||moocauby.com^$important
@@ -10879,6 +10877,7 @@
 ||olayojplg.bid^$important
 ||olazspdsld.bid^$important
 ||olcqpdykme.com^$important
+||oldmilram.com^$important
 ||olecintri.com^$important
 ||olejgcdzgb.bid^$important
 ||olfkptkfop.com^$important
@@ -14970,6 +14969,7 @@
 ||urqctaruhm.bid^$important
 ||urqxrzrphsga.com^$important
 ||ursorsee.pro^$important
+||urt7bpvfz4am.com^$important
 ||urtbxola.bid^$important
 ||urtcjxuoz.com^$important
 ||urtirepor.com^$important
