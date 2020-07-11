@@ -6648,7 +6648,7 @@
 ||icxssspyxquw.bid^$important
 ||icyddcsjbqjxz.bid^$important
 ||icyfqtjj.bid^$important
-||id.google.$important
+||id.google.*^$important
 ||idbjhskxiablsi.com^$important
 ||idbtfwllhogxc.com^$important
 ||idbxnzgmn.com^$important
@@ -9148,7 +9148,6 @@
 ||mibmcbm.com^$important
 ||mibsooks.net^$important
 ||microad.*^$important
-||microad.jp^$important
 ||microad.net^$important
 ||microadinc.com^$important
 ||microsoftaffiliates.net^$important
@@ -9379,7 +9378,6 @@
 ||mobileadspopup.com^$important
 ||mobileapptracking.com^$important
 ||mobileoffers-*-download.com^$important
-||mobileoffers-a-download.com^$important
 ||mobiright.com^$important
 ||mobisla.com^$important
 ||mobitracker.info^$important
@@ -9387,7 +9385,6 @@
 ||mobizme.net^$important
 ||moborobot.com^$important
 ||mobpartner.*^$important
-||mobpartner.mobi^$important
 ||mobpowertech.com^$important
 ||mobreach.com^$important
 ||mobsoftffree.xyz^$important
@@ -14145,7 +14142,7 @@
 ||thighlykamsh.site^$important
 ||thiksikr.com^$important
 ||thimoaph.net^$important
-||thingsafterthought.com$important
+||thingsafterthought.com^$important
 ||thinkablerice.com^$important
 ||thirdrespect.com^$important
 ||thirgoad.top^$important
@@ -14378,7 +14375,7 @@
 ||tqzvjmgftvtj.bid^$important
 ||tr.cloud-media.fr^$important
 ||tracedesire.com^$important
-||track360.pw	$important
+||track360.pw^$important
 ||tracking.cdiscount.com^$important
 ||tracking.olx-st.com^$important
 ||trackingzen.com^$important
@@ -14923,7 +14920,7 @@
 ||upapi.net^$important
 ||upckrtagwpwk.com^$important
 ||upcokvzuupn.bid^$important
-||update-your-pc.info
+||update-your-pc.info^$important
 ||upgraderservices.cf^$important
 ||upgulpinon.com^$important
 ||upgwdilkhlwguz.bid^$important
