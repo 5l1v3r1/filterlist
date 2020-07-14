@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-07-12 08:12:00
-! Version: 20200712081201
+! Last modified: 2020-07-14 17:47:23
+! Version: 20200714174723
 ! Expires: 3 hours
-! Number of filters: 18064
+! Number of filters: 18074
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -2069,6 +2069,7 @@
 ||azofucrzkkaa.com^$important
 ||azqmmfhmfnpsvb.bid^$important
 ||azroydhgqcfv.com^$important
+||b02byun5xc3s.com^$important
 ||b0omr3wn6u4b.com^$important
 ||b13481647cf775c5.com^$important
 ||b1g1w7wic0.com^$important
@@ -4765,6 +4766,7 @@
 ||ezknqsblzmsl.com^$important
 ||ezlxnyhbjtqr.com^$important
 ||ezmob.com^$important
+||ezodn.com^$important
 ||ezoic.net^$important
 ||ezpush.me^$important
 ||ezqldmevi.com^$important
@@ -5865,6 +5867,7 @@
 ||gracefulsock.com^$important
 ||gragliapastri.info^$important
 ||grainsox.net^$important
+||graizoah.com^$important
 ||gramombird.com^$important
 ||grampouz.net^$important
 ||grand002.com^$important
@@ -6469,6 +6472,7 @@
 ||hrdbamvfzipe.com^$important
 ||hrfbfuxksimzi.bid^$important
 ||hrfziiddxa.ru^$important
+||hriaaim06kts.com^$important
 ||hrj91nuwzu.com^$important
 ||hrkshoveizfo.com^$important
 ||hrorxufknjdm.com^$important
@@ -6543,6 +6547,7 @@
 ||huzcotxmghlfip.bid^$important
 ||hvagzrssrcze.com^$important
 ||hvato.info^$important
+||hvawrj8yeqru.com^$important
 ||hvbiwwek.com^$important
 ||hvccjhkcvlfr.com^$important
 ||hvckvfistbejp.com^$important
@@ -11836,6 +11841,7 @@
 ||ptogheeb.net^$important
 ||ptouckoo.net^$important
 ||ptoulsey.com^$important
+||ptoushoa.com^$important
 ||ptqaqsagtb.bid^$important
 ||ptqwvynkyhcwo.bid^$important
 ||ptrahwwg.com^$important
@@ -13618,6 +13624,7 @@
 ||soza6rsz3ezi.com^$important
 ||sozdyrrtsvr.com^$important
 ||spade.sci.twitch.tv^$important
+||sparagken.com^$important
 ||sparklingnumber.com^$important
 ||spbflxvnheih.com^$important
 ||spearads.com^$important
@@ -14354,6 +14361,7 @@
 ||toawouph.uk^$important
 ||tocotlkfjo.bid^$important
 ||todogecoin.biz^$important
+||toeapesob.com^$important
 ||toecircle.com^$important
 ||toenwwsmam.com^$important
 ||toflvbkpwxcr.com^$important
@@ -15417,6 +15425,7 @@
 ||vimlsrcfgjyr.bid^$important
 ||vinfdv6b4j.com^$important
 ||viphdsrlec.com^$important
+||vipicmou.net^$important
 ||viqfxgmgacxv.com^$important
 ||viqmadjqndqkm.com^$important
 ||viralvideos.pw^$important
@@ -17740,6 +17749,7 @@
 ||zo7gihmry2.com^$important
 ||zoafoaho.net^$important
 ||zoagremo.net^$important
+||zoaheeth.com^$important
 ||zoapsith.com^$important
 ||zobsibzczd.com^$important
 ||zodorxfj.bid^$important

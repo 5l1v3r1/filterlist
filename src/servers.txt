@@ -20,16 +20,6 @@
 ||0000000000000000.com^$important
 ||0026645142c89aeb1.com^$important
 ||006a039c957c142bb.com^$important
-||ezodn.com^$important
-||b02byun5xc3s.com^$important
-||vipicmou.net^$important
-||toeapesob.com^$important
-||sparagken.com^$important
-||hvawrj8yeqru.com^$important
-||hriaaim06kts.com^$important
-||ptoushoa.com^$important
-||graizoah.com^$important
-||zoaheeth.com^$important
 ||00aaa2d81c1d174.com^$important
 ||00ae8b5a9c1d597.com^$important
 ||00e46b7f53.com^$important
@@ -2033,6 +2023,7 @@
 ||azofucrzkkaa.com^$important
 ||azqmmfhmfnpsvb.bid^$important
 ||azroydhgqcfv.com^$important
+||b02byun5xc3s.com^$important
 ||b0omr3wn6u4b.com^$important
 ||b13481647cf775c5.com^$important
 ||b1g1w7wic0.com^$important
@@ -4729,6 +4720,7 @@
 ||ezknqsblzmsl.com^$important
 ||ezlxnyhbjtqr.com^$important
 ||ezmob.com^$important
+||ezodn.com^$important
 ||ezoic.net^$important
 ||ezpush.me^$important
 ||ezqldmevi.com^$important
@@ -5829,6 +5821,7 @@
 ||gracefulsock.com^$important
 ||gragliapastri.info^$important
 ||grainsox.net^$important
+||graizoah.com^$important
 ||gramombird.com^$important
 ||grampouz.net^$important
 ||grand-casino.com^$important
@@ -6433,6 +6426,7 @@
 ||hrdbamvfzipe.com^$important
 ||hrfbfuxksimzi.bid^$important
 ||hrfziiddxa.ru^$important
+||hriaaim06kts.com^$important
 ||hrj91nuwzu.com^$important
 ||hrkshoveizfo.com^$important
 ||hrorxufknjdm.com^$important
@@ -6507,6 +6501,7 @@
 ||huzcotxmghlfip.bid^$important
 ||hvagzrssrcze.com^$important
 ||hvato.info^$important
+||hvawrj8yeqru.com^$important
 ||hvbiwwek.com^$important
 ||hvccjhkcvlfr.com^$important
 ||hvckvfistbejp.com^$important
@@ -11800,6 +11795,7 @@
 ||ptogheeb.net^$important
 ||ptouckoo.net^$important
 ||ptoulsey.com^$important
+||ptoushoa.com^$important
 ||ptqaqsagtb.bid^$important
 ||ptqwvynkyhcwo.bid^$important
 ||ptrahwwg.com^$important
@@ -13582,6 +13578,7 @@
 ||soza6rsz3ezi.com^$important
 ||sozdyrrtsvr.com^$important
 ||spade.sci.twitch.tv^$important
+||sparagken.com^$important
 ||sparklingnumber.com^$important
 ||spbflxvnheih.com^$important
 ||spearads.com^$important
@@ -14318,6 +14315,7 @@
 ||toawouph.uk^$important
 ||tocotlkfjo.bid^$important
 ||todogecoin.biz^$important
+||toeapesob.com^$important
 ||toecircle.com^$important
 ||toenwwsmam.com^$important
 ||toflvbkpwxcr.com^$important
@@ -15381,6 +15379,7 @@
 ||vimlsrcfgjyr.bid^$important
 ||vinfdv6b4j.com^$important
 ||viphdsrlec.com^$important
+||vipicmou.net^$important
 ||viqfxgmgacxv.com^$important
 ||viqmadjqndqkm.com^$important
 ||viralvideos.pw^$important
@@ -17704,6 +17703,7 @@
 ||zo7gihmry2.com^$important
 ||zoafoaho.net^$important
 ||zoagremo.net^$important
+||zoaheeth.com^$important
 ||zoapsith.com^$important
 ||zobsibzczd.com^$important
 ||zodorxfj.bid^$important
