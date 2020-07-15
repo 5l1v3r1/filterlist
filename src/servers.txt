@@ -36,16 +36,6 @@
 ||02aa19117f396e9.com^$important
 ||02b5da94a2bd4aea.com^$important
 ||0374adc8c6a6a56.com^$important
-||fundingchoicesmessages.google.com^$important
-||dewincubiatoll.com^$important
-||fmax.xyz^$important
-||hadspms.com^$important
-||nah9v7mdppff.com^$important
-||d9kvn70l4ogn.com^$important
-||fmax.xyz^$important
-||bestprizesday3.life^$important
-||doubleclickbygoogle.com^$important
-||contributor.google.com^$important
 ||0377shujuhuifu.top^$important
 ||039ad0897e6da.com^$important
 ||04426f8b7ce9b069431.com^$important
@@ -2223,6 +2213,7 @@
 ||bestdoctorstore.com^$important
 ||bestfreesite2contents.info^$important
 ||bestgadgetoffers.icu^$important
+||bestprizesday3.life^$important
 ||bestvideo2019.xyz^$important
 ||betboom.club^$important
 ||betimbur.com^$important
@@ -3205,6 +3196,7 @@
 ||contentza.com^$important
 ||contestandgiveaways.xyz^$important
 ||continelyfas.site^$important
+||contributor.google.com^$important
 ||conversantmedia.com^$important
 ||conviva.com^$important
 ||coocopop.com^$important
@@ -3486,6 +3478,7 @@
 ||d8acddffe978b5dfcae6.date^$important
 ||d9219da37af3cfe9cd7.com^$important
 ||d9e2m9e83l.com^$important
+||d9kvn70l4ogn.com^$important
 ||daamjzrlon.com^$important
 ||dable.io^$important
 ||dacknbenn.com^$important
@@ -3662,6 +3655,7 @@
 ||dev-mobile-techie-fresh.pw^$important
 ||develenius.com^$important
 ||deviceoffergiveaways.icu^$important
+||dewincubiatoll.com^$important
 ||dewltdgzgtt.com^$important
 ||dexim.space^$important
 ||dexxxrggi.com^$important
@@ -3902,6 +3896,7 @@
 ||douangvwl.com^$important
 ||doublecklick.net^$important
 ||doubleclick-analytics.com^$important
+||doubleclickbygoogle.com^$important
 ||doubledeepclick.com^$important
 ||doublelimpup.com^$important
 ||doublepimp.com^$important
@@ -5102,6 +5097,7 @@
 ||flzelfqolfnf.com^$important
 ||fm6dz864.top^$important
 ||fm6w.com^$important
+||fmax.xyz^$important
 ||fmbjxqvkjfmj.com^$important
 ||fmcwqmwdaubb.com^$important
 ||fmd3ego.com^$important
@@ -5307,6 +5303,7 @@
 ||functionalclam.com^$important
 ||functionalcrown.com^$important
 ||fundingchoices.google.com^$important
+||fundingchoicesmessages.google.com^$important
 ||funnyairplane.com^$important
 ||funysmile93.agency^$important
 ||fupgvldb.com^$important
@@ -6036,6 +6033,7 @@
 ||hadslims.com^$important
 ||hadslimz.com^$important
 ||hadsoks.com^$important
+||hadspms.com^$important
 ||haezawhdumz.bid^$important
 ||hafbezbemwwd.com^$important
 ||hafksvqiir.com^$important
@@ -9872,6 +9870,7 @@
 ||nafgiaui.com^$important
 ||naganoadigei.com^$important
 ||nagrande.com^$important
+||nah9v7mdppff.com^$important
 ||nahixtmnmpcz.com^$important
 ||nahnoji.cz^$important
 ||nahpewniig.com^$important
