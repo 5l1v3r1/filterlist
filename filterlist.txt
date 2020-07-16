@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-07-15 19:48:24
-! Version: 20200715194824
+! Last modified: 2020-07-16 19:28:37
+! Version: 20200716192837
 ! Expires: 3 hours
-! Number of filters: 18083
+! Number of filters: 18088
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1309,6 +1309,7 @@
 ||adhitzads.com^$important
 ||ad-indicator.com^$important
 ||adinfo.support^$important
+||adinplay.com^$important
 ||adition.com^$important
 ||adjust.com^$important
 ||adkeeker.com^$important
@@ -1830,6 +1831,7 @@
 ||aqyhsqhggq.com^$important
 ||ar1nvz5.com^$important
 ||aragvjeosjdx.com^$important
+||aralego.com^$important
 ||arawegnvvufy.com^$important
 ||arcentred.info^$important
 ||arcfwcxi.com^$important
@@ -6897,6 +6899,7 @@
 ||importedinsect.com^$important
 ||importlocate.com^$important
 ||impossibleexpansion.com^$important
+||improvedigital.com^$important
 ||impulsehands.com^$important
 ||imqkdsdgfygm.com^$important
 ||imrworldwide.com^$important
@@ -12652,6 +12655,7 @@
 ||reiqwxxd.com^$important
 ||reiseeget.com^$important
 ||rejbqhagczm.com^$important
+||reklama.mail.ru^$important
 ||reklamko.pro^$important
 ||reklamstore.com^$important
 ||reklamtrk.com^$important
@@ -12860,6 +12864,7 @@
 ||rnagwksouk.com^$important
 ||rnbhwwerooqhhw.bid^$important
 ||rndrx0rqwkb8.com^$important
+||rnet.plus^$important
 ||rnfrfxqztlno.com^$important
 ||rnhcqhagfmjgx.bid^$important
 ||rnhkptivhwhc.com^$important

@@ -46,11 +46,6 @@
 ||05ee3a24ed11df058c8.com^$important
 ||05f4e2756f290.com^$important
 ||05xz0h2xo799.com^$important
-||reklama.mail.ru^$important
-||rnet.plus^$important
-||adinplay.com^$important
-||improvedigital.com^$important
-||aralego.com^$important
 ||05y2dxmr.top^$important
 ||0632qyw.com^$important
 ||068943613eb.com^$important
@@ -1282,6 +1277,7 @@
 ||adhigh.net^$important
 ||adhitzads.com^$important
 ||adinfo.support^$important
+||adinplay.com^$important
 ||adition.com^$important
 ||adjust.com^$important
 ||adkeeker.com^$important
@@ -1791,6 +1787,7 @@
 ||aqyhsqhggq.com^$important
 ||ar1nvz5.com^$important
 ||aragvjeosjdx.com^$important
+||aralego.com^$important
 ||arawegnvvufy.com^$important
 ||arcentred.info^$important
 ||arcfwcxi.com^$important
@@ -6856,6 +6853,7 @@
 ||importedinsect.com^$important
 ||importlocate.com^$important
 ||impossibleexpansion.com^$important
+||improvedigital.com^$important
 ||impulsehands.com^$important
 ||imqkdsdgfygm.com^$important
 ||imrworldwide.com^$important
@@ -12611,6 +12609,7 @@
 ||reiqwxxd.com^$important
 ||reiseeget.com^$important
 ||rejbqhagczm.com^$important
+||reklama.mail.ru^$important
 ||reklamko.pro^$important
 ||reklamstore.com^$important
 ||reklamtrk.com^$important
@@ -12819,6 +12818,7 @@
 ||rnagwksouk.com^$important
 ||rnbhwwerooqhhw.bid^$important
 ||rndrx0rqwkb8.com^$important
+||rnet.plus^$important
 ||rnfrfxqztlno.com^$important
 ||rnhcqhagfmjgx.bid^$important
 ||rnhkptivhwhc.com^$important
