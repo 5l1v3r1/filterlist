@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-07-16 23:14:55
-! Version: 20200716231455
+! Last modified: 2020-07-18 17:36:56
+! Version: 20200718173656
 ! Expires: 3 hours
-! Number of filters: 18088
+! Number of filters: 18091
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -7077,6 +7077,7 @@
 ||itgfqliqge.com^$important
 ||itllnww6x277.com^$important
 ||itlmnxlauah.com^$important
+||itnuzleafan.com^$important
 ||itspsmup.com^$important
 ||itsskxyyi.bid^$important
 ||itsyuvrlesq.com^$important
@@ -13724,6 +13725,7 @@
 ||ssl2anyone3.com^$important
 ||ssl4anyone2.com^$important
 ||ssl4anyone3.com^$important
+||ssl-google-analytics.l.google.com^$important
 ||ssloemwiszaz.com^$important
 ||ssl-payp.eu^$important
 ||ssmklfrn.bid^$important
@@ -16303,6 +16305,7 @@
 ||wwnuowyww.com^$important
 ||wwohikwhl.com^$important
 ||wwtxqylusxtd.com^$important
+||www-google-analytics.l.google.com^$important
 ||wwwmurgd.com^$important
 ||wwyblltamlcr.com^$important
 ||wwzchzpluwuon.com^$important
