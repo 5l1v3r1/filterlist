@@ -45,6 +45,9 @@
 ||05a7946eef5d.com^$important
 ||05ee3a24ed11df058c8.com^$important
 ||05f4e2756f290.com^$important
+||www-google-analytics.l.google.com^$important
+||ssl-google-analytics.l.google.com^$important
+||itnuzleafan.com^$important
 ||05xz0h2xo799.com^$important
 ||05y2dxmr.top^$important
 ||0632qyw.com^$important
