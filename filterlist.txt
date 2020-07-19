@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-07-18 17:36:56
-! Version: 20200718173656
+! Last modified: 2020-07-20 00:14:26
+! Version: 20200720001426
 ! Expires: 3 hours
-! Number of filters: 18091
+! Number of filters: 18111
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1284,6 +1284,7 @@
 ||ad-delivery.net^$important
 ||addesigner.com^$important
 ||addgfxnb.com^$important
+||additionant.com^$important
 ||addtogether.club^$important
 ||adearsened.info^$important
 ||adexchangegate.com^$important
@@ -2271,6 +2272,7 @@
 ||beufosew.bid^$important
 ||bewaslac.com^$important
 ||bewcmime.com^$important
+||bewilderedbattle.com^$important
 ||bewilderedblade.com^$important
 ||bewovdhiubnk.com^$important
 ||bewumuhax.bid^$important
@@ -2800,6 +2802,7 @@
 ||caljqsml.com^$important
 ||callcentercard.world^$important
 ||callousbrake.com^$important
+||calmcactus.com^$important
 ||calmfoot.com^$important
 ||camantasp.club^$important
 ||camrfajedgku.com^$important
@@ -3648,6 +3651,7 @@
 ||debuackedhkvu.bid^$important
 ||decademical.com^$important
 ||decisionediv.site^$important
+||decisivebase.com^$important
 ||decisivedrawer.com^$important
 ||decisiveducks.com^$important
 ||decordingaudied.site^$important
@@ -4663,6 +4667,7 @@
 ||euwyhbib.com^$important
 ||euxisszoyader.com^$important
 ||euxqbav1kapmde.ru^$important
+||evaluateend.com^$important
 ||evanescentedge.com^$important
 ||evenexcite.com^$important
 ||evengparme.com^$important
@@ -6273,6 +6278,7 @@
 ||hide.ovh^$important
 ||hiekeegi.com^$important
 ||highfalutinbox.com^$important
+||highfalutinhoney.com^$important
 ||highfalutinroom.com^$important
 ||higishzxn.com^$important
 ||higrbwtxkjuw.com^$important
@@ -6901,6 +6907,7 @@
 ||impossibleexpansion.com^$important
 ||improvedigital.com^$important
 ||impulsehands.com^$important
+||impulsejewel.com^$important
 ||imqkdsdgfygm.com^$important
 ||imrworldwide.com^$important
 ||imtdtaloqwcz.com^$important
@@ -7697,6 +7704,7 @@
 ||kacfofrcndc.com^$important
 ||kadam.ru^$important
 ||kadjwdpzxdxd.com^$important
+||kagrooxa.net^$important
 ||kahbkhlb.bid^$important
 ||kaktokualscgea.com^$important
 ||kakywxgevuv.com^$important
@@ -8219,6 +8227,7 @@
 ||lajpmujdntg.com^$important
 ||lalaping.com^$important
 ||lambdafoobar.de^$important
+||lameletters.com^$important
 ||lamplow.com^$important
 ||lamwiadakwa.com^$important
 ||lanetool.info^$important
@@ -9237,6 +9246,7 @@
 ||milyolpn.bid^$important
 ||mi-mi-fa.com^$important
 ||mimosamajor.com^$important
+||mimpiphy.net^$important
 ||mimqvkusf.com^$important
 ||minardict.pro^$important
 ||mindlytix.com^$important
@@ -10938,6 +10948,7 @@
 ||olazspdsld.bid^$important
 ||olcqpdykme.com^$important
 ||oldmilram.com^$important
+||oldnayfey.com^$important
 ||olecintri.com^$important
 ||olejgcdzgb.bid^$important
 ||olfkptkfop.com^$important
@@ -12518,6 +12529,7 @@
 ||ragbsvbvndovac.com^$important
 ||rahvoujjgmtvft.com^$important
 ||railwayrainstorm.com^$important
+||railwayreason.com^$important
 ||raintwig.com^$important
 ||raiybbvwefbcji.bid^$important
 ||rakamu.com^$important
@@ -12627,6 +12639,7 @@
 ||receptivereaction.com^$important
 ||reckedmane.club^$important
 ||reconditerake.com^$important
+||reconditerespect.com^$important
 ||recreativ.ru^$important
 ||redads.biz^$important
 ||redappeneticfr.info^$important
@@ -12652,6 +12665,7 @@
 ||regardianpleast.site^$important
 ||regbigltd.bid^$important
 ||regqrfuvncqcm.com^$important
+||regularplants.com^$important
 ||reichelcormier.bid^$important
 ||reiqwxxd.com^$important
 ||reiseeget.com^$important
@@ -13266,6 +13280,7 @@
 ||searchmulty.com^$important
 ||seasonaloffers.club^$important
 ||seasonvar.net^$important
+||seatsmoke.com^$important
 ||seaxhrqc.bid^$important
 ||sebadu.com^$important
 ||sebariklanbaris.com^$important
@@ -13460,6 +13475,7 @@
 ||sinceresofa.com ^$important
 ||sinceresofa.com^$important
 ||sincerespy.com^$important
+||sinceresubstance.com^$important
 ||sincernething.site^$important
 ||singthouthappi.info^$important
 ||sinsoftu.com^$important
@@ -13538,6 +13554,7 @@
 ||slutsnearby.com^$important
 ||slvv9.com^$important
 ||slwclrwmruuxav.com^$important
+||smallbeginner.com^$important
 ||smapohsnoww.com^$important
 ||smartadserver.com^$important
 ||smartadserver.ru^$important
@@ -13561,6 +13578,7 @@
 ||smnkyzqzfxk.com^$important
 ||smnpsburn.com^$important
 ||smoggysnakes.com^$important
+||smoggystation.com^$important
 ||smpbzsjpk.com^$important
 ||smrqvdpgkbvz.com^$important
 ||smsbyoxarip.bid^$important
@@ -13746,6 +13764,7 @@
 ||stakenpolise.site^$important
 ||stakingscrew.com^$important
 ||stakingslope.com^$important
+||stalesummer.com^$important
 ||stalluva.pro^$important
 ||standingnest.com^$important
 ||stargoug.com^$important
@@ -17572,6 +17591,7 @@
 ||zgswbmzhpohhib.com^$important
 ||zgwuvfye.com^$important
 ||zgxlwlffm.com^$important
+||zgxrht.com^$important
 ||zgydngnax.bid^$important
 ||zgyxizppxf.com^$important
 ||zgzczklewpt.com^$important
