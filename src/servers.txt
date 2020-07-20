@@ -3973,7 +3973,6 @@
 ||drydrum.com^$important
 ||dryzapsol.com^$important
 ||drzndwmqrgra.com^$important
-||ds-aksb-a.akamaihd.net^$important
 ||dsdiztki.bid^$important
 ||dsemgngou.com^$important
 ||dsevjzklcjjb.com^$important
@@ -3983,6 +3982,7 @@
 ||dskyseconomic.info^$important
 ||dsmysdzjhxot.com^$important
 ||dsnjsdrbqwdu.com^$important
+||buysellads.net^$important
 ||dsp.wtf^$important
 ||dspleastanci.site^$important
 ||dsw44z5igdmmbo.com^$important
