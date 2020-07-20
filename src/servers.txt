@@ -60,10 +60,6 @@
 ||0926a687679d337e9d.com^$important
 ||0956228a2df97a.com^$important
 ||09b950280b055.com^$important
-||announcedvillainvaluable.com^$important
-||mopnixhem.com^$important
-||auteboon.net^$important
-||2o7.net^$important
 ||09cd.co.kr^$important
 ||09fee6914d1b6450885.com^$important
 ||0a0qetx8et.com^$important
@@ -334,6 +330,7 @@
 ||2mdn.net^$important
 ||2mdnsys.com^$important
 ||2motor.ru^$important
+||2o7.net^$important
 ||2p9fyvx.com^$important
 ||2ptxxjjzpy.com^$important
 ||2pxg8bcf.top^$important
@@ -1691,6 +1688,7 @@
 ||anlcld.com^$important
 ||anleqthwxxns.com^$important
 ||anluecyopslm.com^$important
+||announcedvillainvaluable.com^$important
 ||annoyedfifth.com^$important
 ||anogjkubvdfe.com^$important
 ||anotherederi.site^$important
@@ -1917,6 +1915,7 @@
 ||aurdeert.net^$important
 ||aurtooks.com^$important
 ||austery.info^$important
+||auteboon.net^$important
 ||authmoumrl.com^$important
 ||authornernsa.pro^$important
 ||autkmgrbdlbj.com^$important
@@ -9498,6 +9497,7 @@
 ||moowouzy.net^$important
 ||mooxar.com^$important
 ||mopedisods.com^$important
+||mopnixhem.com^$important
 ||mopub.com^$important
 ||mopushy.com^$important
 ||mopxhrgiyybr.com^$important

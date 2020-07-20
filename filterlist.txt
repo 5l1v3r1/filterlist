@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-07-20 20:22:19
-! Version: 20200720202219
+! Last modified: 2020-07-21 00:44:08
+! Version: 20200721004408
 ! Expires: 3 hours
-! Number of filters: 18111
+! Number of filters: 18115
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -376,6 +376,7 @@
 ||2mdn.net^$important
 ||2mdnsys.com^$important
 ||2motor.ru^$important
+||2o7.net^$important
 ||2p9fyvx.com^$important
 ||2ptxxjjzpy.com^$important
 ||2pxg8bcf.top^$important
@@ -1731,6 +1732,7 @@
 ||anlcld.com^$important
 ||anleqthwxxns.com^$important
 ||anluecyopslm.com^$important
+||announcedvillainvaluable.com^$important
 ||annoyedfifth.com^$important
 ||anogjkubvdfe.com^$important
 ||anotherederi.site^$important
@@ -1959,6 +1961,7 @@
 ||aurdeert.net^$important
 ||aurtooks.com^$important
 ||austery.info^$important
+||auteboon.net^$important
 ||authmoumrl.com^$important
 ||authornernsa.pro^$important
 ||autkmgrbdlbj.com^$important
@@ -9538,6 +9541,7 @@
 ||moowouzy.net^$important
 ||mooxar.com^$important
 ||mopedisods.com^$important
+||mopnixhem.com^$important
 ||mopub.com^$important
 ||mopushy.com^$important
 ||mopxhrgiyybr.com^$important
