@@ -1,7 +1,7 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-07-20 00:14:26
-! Version: 20200720001426
+! Last modified: 2020-07-20 20:22:19
+! Version: 20200720202219
 ! Expires: 3 hours
 ! Number of filters: 18111
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
@@ -2670,6 +2670,7 @@
 ||butashasp.site^$important
 ||butcalve.com^$important
 ||butterburst.com^$important
+||buysellads.net^$important
 ||buzzoola.com^$important
 ||bvcddoyb.com^$important
 ||bvevgygeu.bid^$important
@@ -4017,7 +4018,6 @@
 ||drydrum.com^$important
 ||dryzapsol.com^$important
 ||drzndwmqrgra.com^$important
-||ds-aksb-a.akamaihd.net^$important
 ||dsdiztki.bid^$important
 ||dsemgngou.com^$important
 ||dsevjzklcjjb.com^$important
