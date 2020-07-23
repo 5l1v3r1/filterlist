@@ -32,6 +32,15 @@
 ||01dbf3a452b6.com^$important
 ||01jud3v55z.com^$important
 ||01mspmd5yalky8.com^$important
+||ds-aksb-a.akamaihd.net^$important
+||privacy-center.org^$important
+||mstat.acestream.net^$important
+||awe-api.acestream.me^$important
+||treasuredata.com^$important
+||fundingchoices.google.com^$important
+||fundingchoicesmessages.google.com^$important
+||doubleclick-analytics.com^$important
+||doubleclickbygoogle.com^$important
 ||024xuyisheng.com^$important
 ||02aa19117f396e9.com^$important
 ||02b5da94a2bd4aea.com^$important
