@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-07-21 00:44:08
-! Version: 20200721004408
+! Last modified: 2020-07-24 04:49:57
+! Version: 20200724044957
 ! Expires: 3 hours
-! Number of filters: 18115
+! Number of filters: 18120
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1998,6 +1998,7 @@
 ||away-stay.com^$important
 ||awcpmsaiv.com^$important
 ||awdigit.info^$important
+||awe-api.acestream.me^$important
 ||awehobrasp.live^$important
 ||aweinkbum.com^$important
 ||awfjqdhcuftd.com^$important
@@ -4021,6 +4022,7 @@
 ||drydrum.com^$important
 ||dryzapsol.com^$important
 ||drzndwmqrgra.com^$important
+||ds-aksb-a.akamaihd.net^$important
 ||dsdiztki.bid^$important
 ||dsemgngou.com^$important
 ||dsevjzklcjjb.com^$important
@@ -9685,6 +9687,7 @@
 ||mspnlttfp.com^$important
 ||msrigkqkdd.com^$important
 ||msrwoxdkffcl.com^$important
+||mstat.acestream.net^$important
 ||mstmrspnqqevsu.com^$important
 ||msvgmziu.bid^$important
 ||mswysfgnr.com^$important
@@ -11778,6 +11781,7 @@
 ||pricefbcf.gq^$important
 ||primechse*.live^$important
 ||printerplasma.com^$important
+||privacy-center.org^$important
 ||prjywixf.bid^$important
 ||prlnfrzyx.com^$important
 ||prmvrxcn.bid^$important
@@ -14511,6 +14515,7 @@
 ||trcrkykttaila.com^$important
 ||trdhjlszfbwk.com^$important
 ||trdmnpklszd.com^$important
+||treasuredata.com^$important
 ||tremembersy.site^$important
 ||tremendousplastic.com^$important
 ||tremendoustime.com^$important
