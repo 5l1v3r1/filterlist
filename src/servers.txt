@@ -384,6 +384,7 @@
 ||3412bf88fc05a986e55.com^$important
 ||344dea1d6d130a7e8e.com^$important
 ||34667c8ece5.com^$important
+||348wd7etbann.com^$important
 ||34c2f22e9503ace.com^$important
 ||34ed5da2977d1ace.com^$important
 ||34pavouhj7.com^$important
@@ -2128,6 +2129,7 @@
 ||bbkxmpgjwo.bid^$important
 ||bblznptpffqc.com^$important
 ||bbmkyxvxiw.bid^$important
+||bbnfcfrvjs.com^$important
 ||bbnnjjom.com^$important
 ||bbqipbsg.bid^$important
 ||bbqqjejhd.bid^$important
@@ -8928,12 +8930,6 @@
 ||mbsivmsbuteaz.com^$important
 ||mbtalhkebpbpwb.com^$important
 ||mbyponflbv.bid^$important
-||skjdtkoqlvrhcn.com^$important
-||sjunnwxixycbv.com^$important
-||wyclddhldiou.com^$important
-||n1g459ky7y.com^$important
-||348wd7etbann.com^$important
-||bbnfcfrvjs.com^$important
 ||mbyrgeoizdid.com^$important
 ||mbzl-pro.xyz^$important
 ||mc.yandex.ru^$important
@@ -13481,12 +13477,14 @@
 ||sjqskcctmv.com^$important
 ||sjscxhknxeek.com^$important
 ||sjtevvoviqhe.com^$important
+||sjunnwxixycbv.com^$important
 ||sjwdbzsa.com^$important
 ||sjwnhrypuxrzv.com^$important
 ||skaulppmndy.bid^$important
 ||skcyigichh.com^$important
 ||skgnompyiusim.com^$important
 ||skimresources.com^$important
+||skjdtkoqlvrhcn.com^$important
 ||skknyxzaixws.com^$important
 ||sklulpbnbqf.bid^$important
 ||skoyuoqhcpxol.bid^$important
@@ -16316,6 +16314,7 @@
 ||wxwxpxtoqmipif.com^$important
 ||wxxfcyoaymug.com^$important
 ||wybfcxze.com^$important
+||wyclddhldiou.com^$important
 ||wydwkpjomckb.com^$important
 ||wyhcocqu.com^$important
 ||wyjdunwcqnetus.com^$important
