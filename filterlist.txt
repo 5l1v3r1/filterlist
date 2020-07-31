@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-07-31 18:53:51
-! Version: 20200731185351
+! Last modified: 2020-07-31 18:55:54
+! Version: 20200731185554
 ! Expires: 3 hours
-! Number of filters: 18204
+! Number of filters: 18199
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -4002,7 +4002,6 @@
 ||dpxjvfdtufp.com^$important
 ||dpypzvjarj.com^$important
 ||dq95d35.com^$important
-||dq95d35.com^$important^$important
 ||dqcqavgqk.bid^$important
 ||dqdnwhyxeblt.com^$important
 ||dqdwvmpez.com^$important
@@ -10811,7 +10810,6 @@
 ||obpzuctfozram.com^$important
 ||obqtccxcfjmd.com^$important
 ||obscenesidewalk.com^$important
-||obscenesidewalk.com^$important^$important
 ||observantice.com^$important
 ||obthqxbm.com^$important
 ||obwvmzdb.com^$important
@@ -13457,7 +13455,6 @@
 ||shakytaste.com^$important
 ||shallowschool.com^$important
 ||shallowsmile.com^$important
-||shallowsmile.com^$important^$important
 ||shanghuitianxia.cn^$important
 ||shapzwwy.com^$important
 ||shareitpp.com^$important
@@ -13538,7 +13535,6 @@
 ||simrubwan.com^$important
 ||sincerebuffalo.com^$important
 ||sinceresofa.com^$important
-||sinceresofa.com^$important^$important
 ||sincerespy.com^$important
 ||sinceresubstance.com^$important
 ||sincernething.site^$important
@@ -13642,7 +13638,6 @@
 ||smi2.ru^$important
 ||smigro.info^$important
 ||smilingwaves.com^$important
-||smilingwaves.com^$important^$important
 ||smjdypbxapigu.bid^$important
 ||smnkyzqzfxk.com^$important
 ||smnpsburn.com^$important
@@ -15902,7 +15897,7 @@
 ||warning.support^$important
 ||warsalsintrol.site^$important
 ||waryfog.com^$important
-||wasibial.com^$important^$important
+||wasibial.com^$important
 ||watchingssui.info^$important
 ||wateryvan.com^$important
 ||watkinsvillesilerton.com^$important
