@@ -159,15 +159,6 @@
 ||190282.xyz^$important
 ||197c3b10bab3c1.com^$important
 ||19b45a16170729.com^$important
-||ofgogoatan.com^$important
-||achcdn.com^$important
-||ovyiakt1wzqz.com^$important
-||qtbb6.com^$important
-||fgddl9szdof7.com^$important
-||il05pzhujicf.com^$important
-||aleaimbuy.site^$important
-||wt2noay3fgjn.com^$important
-||technicallylunaticgarbage.com^$important
 ||19beda38dc2ce42.com^$important
 ||19bk5lo5q2.com^$important
 ||19d12dd9de1.com^$important
@@ -1159,6 +1150,7 @@
 ||acduswfvyjylzq.com^$important
 ||ace2three.com^$important
 ||acf-webmaster.net^$important
+||achcdn.com^$important
 ||achiname.info^$important
 ||achsijkc.com^$important
 ||acidityfoamy.com^$important
@@ -1598,6 +1590,7 @@
 ||alcreasalcon.info^$important
 ||aldaobpuhvl.com^$important
 ||aleaidass.site^$important
+||aleaimbuy.site^$important
 ||alealebag.site^$important
 ||aleapeact.club^$important
 ||alertafterthought.com^$important
@@ -5007,6 +5000,7 @@
 ||fg09t.com^$important
 ||fg3cyy7jyx.com^$important
 ||fgcterkdpns.com^$important
+||fgddl9szdof7.com^$important
 ||fgddrrr.com^$important
 ||fghdembabvwe.com^$important
 ||fghtrrasovlsu.com^$important
@@ -6861,6 +6855,7 @@
 ||ikwauek.com^$important
 ||ikxdpmnznk.bid^$important
 ||ikxhjlsynfeo.com^$important
+||il05pzhujicf.com^$important
 ||ilaantxayy.com^$important
 ||ilakffljjdpwb.com^$important
 ||ilclngnarpy.com^$important
@@ -11204,6 +11199,7 @@
 ||ovqsyawrm.com^$important
 ||ovrdkhamiljt.com^$important
 ||ovvddcpjqndfv.com^$important
+||ovyiakt1wzqz.com^$important
 ||ovzmelkxgtgf.com^$important
 ||owcdycko.com^$important
 ||owcykhrgovbvhh.bid^$important
@@ -14149,6 +14145,7 @@
 ||teads.tv^$important
 ||tebadu.com^$important
 ||tebo0o2xw4.com^$important
+||technicallylunaticgarbage.com^$important
 ||tedioustooth.com^$important
 ||tedlrouwixqq.com^$important
 ||teefpagayhb.com^$important
@@ -16313,6 +16310,7 @@
 ||wsxqgzalf.com^$important
 ||wsyuiudkoqrf.com^$important
 ||wszpjhuosjeexj.com^$important
+||wt2noay3fgjn.com^$important
 ||wtdivwvldpykn.bid^$important
 ||wtflife15.life^$important
 ||wtg-ads.com^$important
