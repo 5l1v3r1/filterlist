@@ -2344,6 +2344,7 @@
 ||bisvljlzmai.com^$important
 ||bit-admin.xyz^$important
 ||bita-bit.xyz^$important
+||bitbeat7.com^$important
 ||bitcoadz.io^$important
 ||bitcoin-pay.eu^$important
 ||bitcoinadvertise.net^$important
@@ -5993,6 +5994,7 @@
 ||gvwyxnyq.com^$important
 ||gvxobjcxcbkb.com^$important
 ||gvyliqny.bid^$important
+||gw7eez7b7fa3.com^$important
 ||gwasavfgelbuah.bid^$important
 ||gwovohvkzay.com^$important
 ||gwpjvfqeui.com^$important
@@ -6895,6 +6897,7 @@
 ||improvedigital.com^$important
 ||impulsehands.com^$important
 ||impulsejewel.com^$important
+||impulsiveinvade.com^$important
 ||imqkdsdgfygm.com^$important
 ||imrworldwide.com^$important
 ||imtdtaloqwcz.com^$important
@@ -7970,6 +7973,7 @@
 ||kovglrrlpqum.com^$important
 ||kovykpybtuylq.bid^$important
 ||kozloiczght.com^$important
+||kozoysnsx.com^$important
 ||kpcflxxodhoxev.bid^$important
 ||kpchywhqcrkz.com^$important
 ||kpgcyqkktm.bid^$important
@@ -9465,6 +9469,7 @@
 ||modescrips.info^$important
 ||modifyeyes.com^$important
 ||modkehkcihvzi.bid^$important
+||modraytor.com^$important
 ||modulepush.com^$important
 ||moe.video^$important
 ||moengage.com^$important
@@ -12619,6 +12624,7 @@
 ||rdwfotuyp.bid^$important
 ||rdwsjnifcemg.com^$important
 ||rdxwaydglehog.com^$important
+||reacheffectsp.work^$important
 ||readgoldfish.com^$important
 ||readingguilt.com^$important
 ||readingopera.com^$important
@@ -15895,13 +15901,6 @@
 ||wcwzzauws.com^$important
 ||wcyqoiyohhav.com^$important
 ||wcyrdtfpdaqbrq.bid^$important
-||impulsiveinvade.com^$important
-||zuyejecgb.com^$important
-||kozoysnsx.com^$important
-||reacheffectsp.work^$important
-||modraytor.com^$important
-||bitbeat7.com^$important
-||gw7eez7b7fa3.com^$important
 ||wdaomluuf.com^$important
 ||wdbddckjoguz.com^$important
 ||wddtrsuqmqhw.com^$important
@@ -18037,6 +18036,7 @@
 ||zuwuqxstogbj.com^$important
 ||zuxanrebeceko.com^$important
 ||zuybvpprdoo.com^$important
+||zuyejecgb.com^$important
 ||zuzzuna.eu^$important
 ||zvaianux.bid^$important
 ||zvdacnjhetcrq.com^$important

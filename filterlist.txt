@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-07-31 18:55:54
-! Version: 20200731185554
+! Last modified: 2020-08-01 15:41:13
+! Version: 20200801154113
 ! Expires: 3 hours
-! Number of filters: 18199
+! Number of filters: 18206
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -2390,6 +2390,7 @@
 ||bisvljlzmai.com^$important
 ||bita-bit.xyz^$important
 ||bit-admin.xyz^$important
+||bitbeat7.com^$important
 ||bitcoadz.io^$important
 ||bitcoinadvertise.net^$important
 ||bitcoin-pay.eu^$important
@@ -6039,6 +6040,7 @@
 ||gvwyxnyq.com^$important
 ||gvxobjcxcbkb.com^$important
 ||gvyliqny.bid^$important
+||gw7eez7b7fa3.com^$important
 ||gwasavfgelbuah.bid^$important
 ||gwovohvkzay.com^$important
 ||gwpjvfqeui.com^$important
@@ -6941,6 +6943,7 @@
 ||improvedigital.com^$important
 ||impulsehands.com^$important
 ||impulsejewel.com^$important
+||impulsiveinvade.com^$important
 ||imqkdsdgfygm.com^$important
 ||imrworldwide.com^$important
 ||imtdtaloqwcz.com^$important
@@ -8016,6 +8019,7 @@
 ||kovglrrlpqum.com^$important
 ||kovykpybtuylq.bid^$important
 ||kozloiczght.com^$important
+||kozoysnsx.com^$important
 ||kpcflxxodhoxev.bid^$important
 ||kpchywhqcrkz.com^$important
 ||kpgcyqkktm.bid^$important
@@ -9509,6 +9513,7 @@
 ||modescrips.info^$important
 ||modifyeyes.com^$important
 ||modkehkcihvzi.bid^$important
+||modraytor.com^$important
 ||modulepush.com^$important
 ||moe.video^$important
 ||moengage.com^$important
@@ -12665,6 +12670,7 @@
 ||rdwfotuyp.bid^$important
 ||rdwsjnifcemg.com^$important
 ||rdxwaydglehog.com^$important
+||reacheffectsp.work^$important
 ||readgoldfish.com^$important
 ||readingguilt.com^$important
 ||readingopera.com^$important
@@ -18076,6 +18082,7 @@
 ||zuwuqxstogbj.com^$important
 ||zuxanrebeceko.com^$important
 ||zuybvpprdoo.com^$important
+||zuyejecgb.com^$important
 ||zuzzuna.eu^$important
 ||zvaianux.bid^$important
 ||zvdacnjhetcrq.com^$important
