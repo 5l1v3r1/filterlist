@@ -718,7 +718,7 @@ wss://*$third-party
 /[&?]s(screen)?\=[0-9]{3,4}x[0-9]{3,4}[&?]/$important
 /[&?]s[cw]\=[0-9]{3,4}[&]sh\=[0-9]{3,4}[&]/$important
 /[&?]zoneid\=/$important
-/[-._?&=#/](ads|ADS)[-._?&=#/]/$important,domain=~twitch.tv
+/[-._?&=#/](ads|ADS)[-._?&=#/]/$domain=~twitch.tv|~mirrored.to
 /[-._?&=#/]adrum[-._?&=#/]/$important
 /[-._?&=#/]akam[-._?&=#/]/$important
 /[-._?&=#/]beacon[-.0-9_?&=#/]?/$important
@@ -727,7 +727,7 @@ wss://*$third-party
 /[-._?&=#/]preroll[-._?&=#/]/$important,domain=~twitch.tv
 /\/ads?[0-9]{1}\.php\?/$important
 /\?zone[-_]?id\=/$important
-/^(?!.*((injections|local)\.adguard\.org|(jquery|hcaptcha|g(oogle(apis)?|static)|cloudflare)\.com|recaptcha\.net)).*$/$important,third-party,domain=adsafelink.net|adsrt.live|adz7short.space|clik.pw|fun4earn.xyz|iir.ai|jwearn.com|linkati.win|lopteup.vip|megalink.vip|moaplos.com|newsonthegotoday.com|ocanoke.com|ouo.io|ouo.press|owllink.net|popimed.com|profitlink.info|semawur.com|shorter.fun|spaste.com|stfly.me|tii.ai|todaynewspk.win|wicr.in
+/^(?!.*((injections|local)\.adguard\.org|(jquery|hcaptcha|g(oogle(apis)?|static)|cloudflare)\.com|recaptcha\.net)).*$/$important,third-party,domain=adsafelink.net|adsrt.live|adz7short.space|clik.pw|fun4earn.xyz|iir.ai|jwearn.com|linkati.win|lopteup.vip|megalink.vip|moaplos.com|newsonthegotoday.com|ocanoke.com|ouo.io|ouo.press|owllink.net|popimed.com|profitlink.info|semawur.com|shorter.fun|spaste.com|stfly.me|tii.ai|todaynewspk.win|wicr.in|dropapk.to|mirrored.to|1fichier.com|rapidgator.net|uploaded.net
 |http*:$beacon,important
 |http*:$important,object
 |http*:$important,object-subrequest
@@ -964,7 +964,7 @@ wss://*$third-party
 /[-._?&=#/]analy(zer|st|ti(c[as]?)|sis)[-.0-9_?&=#/]?/$image,important,other,script,xmlhttprequest,domain=~analytics.google.com
 /[-._?&=#/]bann?ers?[-.0-9_?&=#/]/$image,important,script,subdocument,xmlhttprequest,domain=~dropbox.com|~esetnod32.ru|~f-droid.org|~fandom.com|~hindilinks4uto.com|~hqq.tv|~live.com|~m3u-cdn.live|~mts.ru|~ok.ru|~player.mediavitrina.ru|~rt.ru|~sberbank.ru|~staticmv.mediavitrina.ru|~twitch.tv|~waaw.tv
 /[-._?&=#/]count(s|ers?)[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~twitch.tv|~youtube.com
-/[-._?&=#/]logs?(ging|impressions?|ers?)?[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~github.com|~gitlab.com|~instagram.com|~twitch.tv|~yadi.sk
+/[-._?&=#/]logs?(ging|impressions?|ers?)?[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~github.com|~gitlab.com|~instagram.com|~twitch.tv|~yadi.sk|~dns-shop.ru
 /[-._?&=#/]piwik[-.0-9_?&=#/]/$image,important,script
 /[-._?&=#/]pixel[-._?&=#/]/$image,important,script,subdocument,xmlhttprequest
 /[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~fandom.com
@@ -1203,3 +1203,11 @@ upstream.to#@#+js(aopr, adcashMacros)
 @@||www.google.*/search?$domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk,badfilter
 @@||vk.com/*.php?__query=$document,badfilter
 fox-fan.tv$@$script[tag-content="adBlockDetected"]
+dropapk.*#@#+js(acis, document.createElement, 'script')
+dropapk.*#@#+js(acis, Object.defineProperty, vocabulary)
+dropapk.*#@#+js(aopw, _pop)
+dropapk.*#@#+js(aopr, AaDetector)
+dropapk.*#@#+js(aopw, Fingerprint2)
+dropapk.*#@#+js(aeld, load, 2000)
+1fichier.com#@#+js(acis, decodeURI, getScriptFromCss)
+1fichier.com#@#+js(acis, decodeURI, decodeURIComponent)
