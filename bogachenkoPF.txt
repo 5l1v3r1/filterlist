@@ -551,6 +551,7 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 ||yastatic.net^$important,third-party,domain=~dev.yandex.net|~hdrabbit.ru|~kinopoisk.ru|~rt-internet.ru|~ya.ru|~yadi.sk|~yandex.az|~yandex.by|~yandex.co.ge|~yandex.com|~yandex.com.tr|~yandex.fr|~yandex.kz|~yandex.lt|~yandex.md|~yandex.ru|~yandex.tm|~yandex.ua|~yandex.uz|~z5h64q92x9.net
 ||yastroka.yandex.net^$important
 ||zen.yandex.*^$important
+||addtoany.com^$important
 ! DOMAIN END
 
 ! IMAGE
@@ -637,7 +638,7 @@ prostolinux.ru##+js(abort-on-property-write.js, document.oncopy)
 *##img[src*="advert"]
 *##img[src*="exdynsrv.com"]
 2ch.hk##.logo, #mobile-pashque
-aliexpress.*##.top-banner-container, [href="//sale.aliexpress.ru/Select_Coupons.htm"]
+aliexpress.*##.top-banner-container, [href="//sale.aliexpress.ru/Select_Coupons.htm"], #J_xiaomi_dialog
 bing.com###t_termsInfo
 clipwatching.com###container > div > div:style(width:0px!important)
 duckduckgo.com,3g2upl4pq6kufc4m.onion##.tag-home__item, .js-onboarding-ed-slide-4.js-onboarding-ed-slide.onboarding-ed__slide-4.onboarding-ed__slide, .js-onboarding-ed-slide-3.js-onboarding-ed-slide.onboarding-ed__slide-3.onboarding-ed__slide, .js-onboarding-ed-image-container-2.onboarding-ed__image-container, .js-onboarding-ed-slide-2.js-onboarding-ed-slide.onboarding-ed__slide-2.onboarding-ed__slide, .js-onboarding-ed-slide-1.js-onboarding-ed-slide.onboarding-ed__slide-1.onboarding-ed__slide, .js-onboarding-ed.onboarding-ed, .is-showing.js-popout-main.modal--popout--sm.modal--popout--bottom-left.modal--popout.modal, .header__label.showcase.header--aside__item, .js-results-ads, #ads, .sponsored, .highlight_sponsored, .result--ad > .result__body, .js-feedback-btn-wrap, .js-serp-bottom-right.serp__bottom-right, .footer__links
@@ -699,9 +700,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 
 ! WEBSOCKET
 *$important,websocket,domain=hlsplay.com|hindilinks4uto.com|hqq.tv|povvideo.net|powvldeo.cc|powvldeo.co|powvldeo.me|powvldeo.net|waaw.tv|clipwatching.com
-*$websocket,third-party
-ws://*$third-party
-wss://*$third-party
+*$websocket,third-party,domain=~music.yandex.ru|~music.yandex.ua|~music.yandex.by
 ! WEBSOCKET END
 
 ! CSP
@@ -718,7 +717,6 @@ wss://*$third-party
 /[&?]s(screen)?\=[0-9]{3,4}x[0-9]{3,4}[&?]/$important
 /[&?]s[cw]\=[0-9]{3,4}[&]sh\=[0-9]{3,4}[&]/$important
 /[&?]zoneid\=/$important
-/[-._?&=#/](ads|ADS)[-._?&=#/]/$domain=~twitch.tv|~mirrored.to
 /[-._?&=#/]adrum[-._?&=#/]/$important
 /[-._?&=#/]akam[-._?&=#/]/$important
 /[-._?&=#/]beacon[-.0-9_?&=#/]?/$important
