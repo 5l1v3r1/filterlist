@@ -1792,31 +1792,55 @@ ff02::3 ip6-allhosts
 0.0.0.0 de.phish-report.mozilla.com
 0.0.0.0 detectportal.firefox.com
 0.0.0.0 en.malware-error.mozilla.com
+0.0.0.0 support.live.mozillamessaging.com
 0.0.0.0 en.malware-report.mozilla.com
 0.0.0.0 en.phish-error.mozilla.com
 0.0.0.0 en.phish-generic.mozilla.com
+0.0.0.0 reporter.mozilla.org
+0.0.0.0 qsurvey.mozilla.com
 0.0.0.0 en.phish-report.mozilla.com
+0.0.0.0 ostats.mozilla.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 normandy-cloudfront.cdn.mozilla.net
+0.0.0.0 self-repair.mozilla.org
 0.0.0.0 malware-error.mozilla.com
 0.0.0.0 malware-report.mozilla.com
+0.0.0.0 data.mozilla.com
 0.0.0.0 phish-error.mozilla.com
 0.0.0.0 phish-generic.mozilla.com
 0.0.0.0 phish-report.mozilla.com
+0.0.0.0 search.services.mozilla.com
+0.0.0.0 shavar.services.mozilla.com
+0.0.0.0 onyx_tiles.stage.mozaws.net
 0.0.0.0 push.services.mozilla.com
 0.0.0.0 ru.malware-error.mozilla.com
 0.0.0.0 ru.malware-report.mozilla.com
+0.0.0.0 hang-reports.mozilla.org
 0.0.0.0 ru.phish-error.mozilla.com
 0.0.0.0 ru.phish-generic.mozilla.com
+0.0.0.0 input.mozilla.com
+0.0.0.0 input.mozilla.org
+0.0.0.0 experiments.mozilla.org
 0.0.0.0 ru.phish-report.mozilla.com
 0.0.0.0 snippets.cdn.mozilla.net
+0.0.0.0 activations.cdn.mozilla.net
 0.0.0.0 snippets.mozilla.com
 0.0.0.0 telemetry-experiment.cdn.mozilla.net
 0.0.0.0 telemetry.mozilla.org
 0.0.0.0 us.malware-error.mozilla.com
+0.0.0.0 fhr.cdn.mozilla.net
+0.0.0.0 fhr.data.mozilla.com
 0.0.0.0 us.malware-report.mozilla.com
 0.0.0.0 us.phish-error.mozilla.com
 0.0.0.0 us.phish-generic.mozilla.com
+0.0.0.0 broker-live.mozillamessaging.com
 0.0.0.0 us.phish-report.mozilla.com
+0.0.0.0 fhr-origin.cdn.mozilla.net
+0.0.0.0 fhr.cdn.mozilla.net
+0.0.0.0 blocked.cdn.mozilla.net
+0.0.0.0 tbpl.mozilla.org
+0.0.0.0 crash-stats.mozilla.com
+0.0.0.0 tiles.services.mozilla.com
 # MOZILLA ALL END
 
 # EDGESUITE.NET START
@@ -3512,3 +3536,15 @@ ff02::3 ip6-allhosts
 # VIDEOROLL.NET START
 0.0.0.0 videoroll.net
 # VIDEOROLL.NET END
+
+# GVT ALL START
+0.0.0.0 beacons-handoff.gcp.gvt1.com
+0.0.0.0 beacons-handoff.gcp.gvt2.com
+0.0.0.0 beacons-handoff.gcp.gvt3.com
+0.0.0.0 beacons.gcp.gvt1.com
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 beacons.gcp.gvt3.com
+0.0.0.0 beacons.gvt1.com
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 beacons.gvt3.com
+# GVT ALL END
