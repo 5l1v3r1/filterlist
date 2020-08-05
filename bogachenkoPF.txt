@@ -62,7 +62,7 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 !#endif
 
 ! TEST
-!
+/a\.[a-z0-9]{33,}\.com/
 ! TEST END
 
 ! TEMPORARILY
@@ -446,7 +446,6 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 ||googletagmanager.com^$important
 ||googletagservices.com^$important
 ||graph.facebook.com^$important
-||gstaticadssl.l.google.com^$important
 ||http-check-headers.yandex.ru^$important
 ||i18nmmstat.ucweb.com^$important
 ||ibb.co^$important
