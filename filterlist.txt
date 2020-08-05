@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-08-01 20:56:40
-! Version: 20200801205640
+! Last modified: 2020-08-05 21:17:03
+! Version: 20200805211703
 ! Expires: 3 hours
-! Number of filters: 18213
+! Number of filters: 18222
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1423,6 +1423,7 @@
 ||adtng.com^$important
 ||adtrack.adleadevent.com^$important
 ||adtrue.com^$important
+||adtrue24.com^$important
 ||adturtle.biz^$important
 ||adudzlhdjgof.com^$important
 ||adultterritory.net^$important
@@ -2981,6 +2982,7 @@
 ||cgrvnpkwuytts.com^$important
 ||cgtqfbnviajcx.com^$important
 ||cguvvvdxa.com^$important
+||cgx68vtoprov.com^$important
 ||chairscrack.com^$important
 ||chairwaydenew.site^$important
 ||challengedeprave.com^$important
@@ -4221,6 +4223,7 @@
 ||eabrkvxoe.bid^$important
 ||eadtortust.bid^$important
 ||eae5daf052d2673b.com^$important
+||eaenjwd1cmftxjk.ru^$important
 ||eaetyfmpuelw.com^$important
 ||eaffxhnzh.com^$important
 ||eaffzvnyj.com^$important
@@ -6555,6 +6558,7 @@
 ||hsydzoapohcvbz.com^$important
 ||hsyjdpgetl.bid^$important
 ||hszyozoawqnk.com^$important
+||ht.pornhub.com^$important
 ||htabtzmi.bid^$important
 ||htegogwj.com^$important
 ||hteysvcuzycp.bid^$important
@@ -8615,6 +8619,7 @@
 ||lothairhansboro.com^$important
 ||lotmentemp.pro^$important
 ||lotterygettoday.club^$important
+||louchees.net^$important
 ||loudloss.com^$important
 ||loudlunch.com^$important
 ||lovacmar.click^$important
@@ -11758,6 +11763,7 @@
 ||potpourrichordataoscilloscope.com^$important
 ||poubotem.com^$important
 ||poudeeri.com^$important
+||pouncewhineheadquarter.com^$important
 ||povqrvsoljy.com^$important
 ||powerad.ai^$important
 ||powerapp.download^$important
@@ -11861,6 +11867,7 @@
 ||proporing.info^$important
 ||propu.sh^$important
 ||prostomers.com^$important
+||prosumsit.com^$important
 ||protect-ad.com^$important
 ||protection-booster.club^$important
 ||protection-cleaner.club^$important
@@ -15355,6 +15362,7 @@
 ||variablefitness.com^$important
 ||variti.net^$important
 ||vasfxpribls.com^$important
+||vashoaft.net^$important
 ||vaslssynz.com^$important
 ||vasoelv.xyz^$important
 ||vastroll.ru^$important
@@ -15553,6 +15561,7 @@
 ||vimdiebid.club^$important
 ||vimenhhpqnb.com^$important
 ||vimhuspifwyy.com^$important
+||vimjarawl.com^$important
 ||vimlsrcfgjyr.bid^$important
 ||vinfdv6b4j.com^$important
 ||viphdsrlec.com^$important
