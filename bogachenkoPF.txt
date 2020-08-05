@@ -980,7 +980,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /^https?:\/\/yastatic\.net\/[^\s]{120,}/$image,important,other
 /^https?:\/\/[0-1]{5,}\.com$/$important,script,third-party,xmlhttprequest
 ||youtube.com/api/stats/$image,important,other,xmlhttprequest
-/^(?!.*((injections|local)\.adguard\.org|(jquery|hcaptcha|g(oogle(apis)?|static)|cloudflare|bootstrapcdn)\.com|(recaptcha|zencdn|jsdelivr)\.net)).*$/$important,script,xmlhttprequest,other,subdocument,popup,popunder,third-party,domain=userscloud.com|adsafelink.net|adsafelink.com|adsrt.live|adz7short.space|clik.pw|fun4earn.xyz|iir.ai|jwearn.com|linkati.win|lopteup.vip|megalink.vip|moaplos.com|newsonthegotoday.com|ocanoke.com|ouo.io|ouo.press|owllink.net|popimed.com|profitlink.info|semawur.com|shorter.fun|spaste.com|stfly.me|tii.ai|todaynewspk.win|wicr.in|dropapk.to|mirrored.to|1fichier.com|rapidgator.net|uploaded.net|0gomovies.website|123moviesplayer.com|2streaming.net|bmoviesfree.io|clipwatching.com|cloud9.to|cloudvideo.tv|dood.watch|gcloud.live|gdriveplayer.io|gdriveplayer.me|gomo.to|gounlimited.to|hydrax.net|jetload.net|mcloud.to|mcloud2.to|mightyupload.com|mixdrop.co|movcloud.net|mp4upload.com|mstream.xyz|novelplanet.me|oload.party|streamapi.xyz|streamhoe.online|streamingworld.club|streamtape.com|streamvid.co|streamvideo.link|u-play.pro|upstream.to|vidcloud9.com|videobin.co|videoko.to|videospider.stream|vidlox.me|vidoza.net|vidsrc.me|vidstreaming.io|viduplayer.com|vivo.sx|voe.sx|vup.to|wstream.video
+/^(?!.*((injections|local)\.adguard\.org|(jquery|hcaptcha|g(oogle(apis)?|static)|cloudflare|bootstrapcdn|fontawesome)\.com|(recaptcha|zencdn|jsdelivr)\.net)).*$/$important,script,xmlhttprequest,other,subdocument,popup,popunder,third-party,domain=userscloud.com|adsafelink.net|adsafelink.com|adsrt.live|adz7short.space|clik.pw|fun4earn.xyz|iir.ai|jwearn.com|linkati.win|lopteup.vip|megalink.vip|moaplos.com|newsonthegotoday.com|ocanoke.com|ouo.io|ouo.press|owllink.net|popimed.com|profitlink.info|semawur.com|shorter.fun|spaste.com|stfly.me|tii.ai|todaynewspk.win|wicr.in|dropapk.to|mirrored.to|1fichier.com|rapidgator.net|uploaded.net|0gomovies.website|123moviesplayer.com|2streaming.net|bmoviesfree.io|clipwatching.com|cloud9.to|cloudvideo.tv|dood.watch|gcloud.live|gdriveplayer.io|gdriveplayer.me|gomo.to|gounlimited.to|hydrax.net|jetload.net|mcloud.to|mcloud2.to|mightyupload.com|mixdrop.co|movcloud.net|mp4upload.com|mstream.xyz|novelplanet.me|oload.party|streamapi.xyz|streamhoe.online|streamingworld.club|streamtape.com|streamvid.co|streamvideo.link|u-play.pro|upstream.to|vidcloud9.com|videobin.co|videoko.to|videospider.stream|vidlox.me|vidoza.net|vidsrc.me|vidstreaming.io|viduplayer.com|vivo.sx|voe.sx|vup.to|wstream.video|turbobit.net|mystream.to
 ! COMBINED END
 
 ! ~~~~~~~ NOT MY SHITTY RULES ~~~~~~~
@@ -1236,3 +1236,7 @@ adsafelink.net#@#+js(aopr, app_vars.force_disable_adblock)
 adsafelink.com#@#+js(aopr, app_vars.force_disable_adblock)
 adsafelink.com#@#+js(aopr, AaDetector)
 adsafelink.com#@#+js(acis, Math, zfgloaded)
+turbobit.net#@#+js(popads-dummy)
+turbobit.net#@#+js(aopr, open)
+turbobit.net#@#+js(acis, decodeURI, decodeURIComponent)
+mystream.to#@#+js(aopr, open)
