@@ -92,8 +92,6 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 
 ! DNS
 0.0.0.0$network
-1.0.0.1$network
-1.1.1.1$network
 103.229.10.134:443$network
 103.229.10.220:443$network
 104.155.184.63:443$network
@@ -555,7 +553,7 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 ! DOMAIN END
 
 ! IMAGE
-/[-._?&=#/](468[_x-]60|240[_x-]400|600[_x-]200|728[_x-]90)[-._?&=#/]/$image,important
+/[-._?&=#/](468[_x-]60|240[_x-]400|600[_x-]200|728[_x-]90|1[_x-]1)[-._?&=#/]/$image,important
 /[-._?&=#/]fpn\.gif/$image,important
 /\/(luxury777|paiza99|alexavegas|togeputih|lotus303|ratu303|ligadewa|batman88|datukqq|java303)\.gif$/$image,important
 /\/atrk\.(gif|js)/$image,important
@@ -926,7 +924,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ! SCRIPT END
 
 ! XMLHTTPREQUEST
-/^https?:\/\/[0-9a-z]{11,20}.*.com\/.*/$important,third-party,xmlhttprequest,domain=~deepl.com|~marketplace.visualstudio.com|~zagonka.tv
+/^https?:\/\/[0-9a-z]{11,20}.*.com\/.*/$important,third-party,xmlhttprequest,domain=~deepl.com|~marketplace.visualstudio.com|~zagonka.tv|~aliexpress.ru|~aliexpress.com
 /^https?:\/\/[^\s]+(\.wasm|\.wsm|\.wa)$/$important,xmlhttprequest,domain=~twitch.tv
 |http*:*/channels/*/extensions$important,xmlhttprequest,domain=twitch.tv
 ||addons.opera.com/themes/$important,xmlhttprequest
@@ -960,7 +958,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]1x[12]\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)$/$image,important,script,subdocument
 /[-._?&=#/]action\=js\_stats[-._?&=#/]/$image,important,other,script,xmlhttprequest
 /[-._?&=#/]analy(zer|st|ti(c[as]?)|sis)[-.0-9_?&=#/]?/$image,important,other,script,xmlhttprequest,domain=~analytics.google.com
-/[-._?&=#/]bann?ers?[-.0-9_?&=#/]/$image,important,script,subdocument,xmlhttprequest,domain=~dropbox.com|~esetnod32.ru|~f-droid.org|~fandom.com|~hindilinks4uto.com|~hqq.tv|~live.com|~m3u-cdn.live|~mts.ru|~ok.ru|~player.mediavitrina.ru|~rt.ru|~sberbank.ru|~staticmv.mediavitrina.ru|~twitch.tv|~waaw.tv
+/[-._?&=#/]bann?ers?[-.0-9_?&=#/]/$image,important,script,subdocument,xmlhttprequest,domain=~dropbox.com|~esetnod32.ru|~f-droid.org|~fandom.com|~hindilinks4uto.com|~hqq.tv|~live.com|~m3u-cdn.live|~mts.ru|~ok.ru|~player.mediavitrina.ru|~rt.ru|~sberbank.ru|~staticmv.mediavitrina.ru|~twitch.tv|~waaw.tv|~aliexpress.com|~aliexpress.ru
 /[-._?&=#/]count(s|ers?)[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~twitch.tv|~youtube.com
 /[-._?&=#/]logs?(ging|impressions?|ers?)?[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~github.com|~gitlab.com|~instagram.com|~twitch.tv|~yadi.sk|~dns-shop.ru
 /[-._?&=#/]piwik[-.0-9_?&=#/]/$image,important,script
@@ -1209,3 +1207,4 @@ dropapk.*#@#+js(aopw, Fingerprint2)
 dropapk.*#@#+js(aeld, load, 2000)
 1fichier.com#@#+js(acis, decodeURI, getScriptFromCss)
 1fichier.com#@#+js(acis, decodeURI, decodeURIComponent)
+||img.alibaba.com^$badfilter
