@@ -46,6 +46,7 @@ $$script[wildcard="__CF$cv$params"]
 /^https?:\/\/yastatic\.net\/[^\s]{120,}/$image,important
 /^https?:\/\/yastatic\.net\/[^\s]{120,}/$image,important,other,badfilter
 @@||bogachenko.github.io^$important,document
+@@||login.aliexpress.*^$important,document,~extension
 !#endif
 
 !#if ext_ublock
@@ -62,7 +63,7 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 !#endif
 
 ! TEST
-/a\.[a-z0-9]{33,}\.com/
+!
 ! TEST END
 
 ! TEMPORARILY
@@ -352,7 +353,7 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 ||twitter.com^$third-party,domain=~kinopoisk.ru|~lenta.ru
 ||vk.com^$third-party
 ||yahoo.*^$third-party
-/a\.[a-z0-9]{33,43}\.com$/$important
+/^a\.[a-z0-9]{40,}\.com$/$important
 /^https?:\/\/(?!(fonts|ajax|android|translate)\.)googleapis\.com/$important
 /^https?:\/\/([a-s1-3]{2}|update)\.torrentstream\.(org|info|net)/$important
 /^https?:\/\/127\.0\.0\.1(?!\:(1957[57]|9[01]5[01]|8080|4212|6878))/$important
@@ -560,7 +561,7 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 /\/atrk\.(gif|js)/$image,important
 /\/[a-zA-Z]{5,}[Pp][Ii][Xx][Ee][Ll][-._?&=#/]/$image,important
 /^https?:\/\/2ch\.(hk|pm|re|tf|wf|yt)\/(images|banners?)\//$image,important
-|http*:*/clear.png?$image,important
+|http*:*/clear.png?$image,important,domain=~passport.aliexpress.com
 |http*:*/cleardot.gif?$image,important
 |http*:*/grstat?$image,important
 |http*:*/hosting.gif$image,important
@@ -1239,3 +1240,5 @@ turbobit.net#@#+js(popads-dummy)
 turbobit.net#@#+js(aopr, open)
 turbobit.net#@#+js(acis, decodeURI, decodeURIComponent)
 mystream.to#@#+js(aopr, open)
+||ynuf.alipay.com^$badfilter
+||alicdn.com^*_220x220.$domain=~alibaba.com|~aliexpress.com,badfilter
