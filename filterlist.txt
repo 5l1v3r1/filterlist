@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-08-05 21:17:03
-! Version: 20200805211703
+! Last modified: 2020-08-07 14:35:41
+! Version: 20200807143541
 ! Expires: 3 hours
-! Number of filters: 18222
+! Number of filters: 18229
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -86,6 +86,7 @@
 ||04426f8b7ce9b069431.com^$important
 ||0452jhw.com^$important
 ||04v70ab.com^$important
+||050y9lhe8p.com^$important
 ||059e025e7484.com^$important
 ||05a7946eef5d.com^$important
 ||05ee3a24ed11df058c8.com^$important
@@ -223,6 +224,7 @@
 ||1el-1el-fie.com^$important
 ||1elllwrite.com^$important
 ||1empiredirect.com^$important
+||1ex4oemg99mv.com^$important
 ||1f58098dd54.com^$important
 ||1f7de8569ea97f0614.com^$important
 ||1fbaa223d6945621f8d7.date^$important
@@ -943,6 +945,7 @@
 ||8kegwpjw50.com^$important
 ||8mb4qkd74cht.com^$important
 ||8mdphsb8fm.com^$important
+||8po6fdwjsym3.com^$important
 ||8s32e590un.com^$important
 ||8s8.eu^$important
 ||8ue4.xyz^$important
@@ -6543,6 +6546,7 @@
 ||hsdjvuayagt.bid^$important
 ||hseyrxoi.com^$important
 ||hsgatgymg.com^$important
+||hsh51nvkrv.com^$important
 ||hshbyyuh.bid^$important
 ||hsivniaui.bid^$important
 ||hsllwumsezanll.com^$important
@@ -9935,6 +9939,7 @@
 ||my-rigs.com^$important
 ||mysafeurl.com^$important
 ||mysearch-online.com^$important
+||myselfjanitor.com^$important
 ||mysteriousmonth.com^$important
 ||mytestminer.xyz^$important
 ||mythings.com^$important
@@ -11581,6 +11586,7 @@
 ||phxwwaznm.club^$important
 ||phyhggbk.com^$important
 ||pibizrfgsrkji.bid^$important
+||picketwelcomeappreciation.com^$important
 ||pidbbdxixp.com^$important
 ||pietexture.com^$important
 ||pifaojvaiofw.com^$important
@@ -13723,6 +13729,7 @@
 ||soonbigo.com^$important
 ||soonyou123.com^$important
 ||sootheside.com^$important
+||sophomoremostlyplain.com^$important
 ||sopzefqypxas.bid^$important
 ||soresneeze.com^$important
 ||sortsummer.com^$important
