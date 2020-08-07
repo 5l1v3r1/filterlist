@@ -980,7 +980,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /^https?:\/\/yastatic\.net\/[^\s]{120,}/$image,important,other
 /^https?:\/\/[0-1]{5,}\.com$/$important,script,third-party,xmlhttprequest
 ||youtube.com/api/stats/$image,important,other,xmlhttprequest
-/^(?!.*((injections|local)\.adguard\.org|(jquery|hcaptcha|g(oogle(apis)?|static)|cloudflare|bootstrapcdn|fontawesome)\.com|(recaptcha|zencdn|jsdelivr)\.net)).*$/$important,script,xmlhttprequest,other,subdocument,popup,popunder,third-party,domain=userscloud.com|adsafelink.net|adsafelink.com|adsrt.live|adz7short.space|clik.pw|fun4earn.xyz|iir.ai|jwearn.com|linkati.win|lopteup.vip|megalink.vip|moaplos.com|newsonthegotoday.com|ocanoke.com|ouo.io|ouo.press|owllink.net|popimed.com|profitlink.info|semawur.com|shorter.fun|spaste.com|stfly.me|tii.ai|todaynewspk.win|wicr.in|dropapk.to|mirrored.to|1fichier.com|rapidgator.net|uploaded.net|0gomovies.website|123moviesplayer.com|2streaming.net|bmoviesfree.io|clipwatching.com|cloud9.to|cloudvideo.tv|dood.watch|gcloud.live|gdriveplayer.io|gdriveplayer.me|gomo.to|gounlimited.to|hydrax.net|jetload.net|mcloud.to|mcloud2.to|mightyupload.com|mixdrop.co|movcloud.net|mp4upload.com|mstream.xyz|novelplanet.me|oload.party|streamapi.xyz|streamhoe.online|streamingworld.club|streamtape.com|streamvid.co|streamvideo.link|u-play.pro|upstream.to|vidcloud9.com|videobin.co|videoko.to|videospider.stream|vidlox.me|vidoza.net|vidsrc.me|vidstreaming.io|viduplayer.com|vivo.sx|voe.sx|vup.to|wstream.video|turbobit.net|mystream.to
+/^(?!.*((injections|local)\.adguard\.org|(jquery|hcaptcha|g(oogle(apis)?|static)|cloudflare|(bootstrap|jwp|dood)cdn|fontawesome|jwplatform)\.com|(recaptcha|zencdn|jsdelivr)\.net)).*$/$important,script,xmlhttprequest,other,subdocument,popup,popunder,third-party,domain=userscloud.com|adsafelink.net|adsafelink.com|adsrt.live|adz7short.space|clik.pw|fun4earn.xyz|iir.ai|jwearn.com|linkati.win|lopteup.vip|megalink.vip|moaplos.com|newsonthegotoday.com|ocanoke.com|ouo.io|ouo.press|owllink.net|popimed.com|profitlink.info|semawur.com|shorter.fun|spaste.com|stfly.me|tii.ai|todaynewspk.win|wicr.in|dropapk.to|mirrored.to|1fichier.com|rapidgator.net|uploaded.net|0gomovies.website|123moviesplayer.com|2streaming.net|bmoviesfree.io|clipwatching.com|cloud9.to|cloudvideo.tv|dood.watch|gcloud.live|gdriveplayer.io|gdriveplayer.me|gomo.to|gounlimited.to|hydrax.net|jetload.net|mcloud.to|mcloud2.to|mightyupload.com|mixdrop.co|movcloud.net|mp4upload.com|mstream.xyz|novelplanet.me|oload.party|streamapi.xyz|streamhoe.online|streamingworld.club|streamtape.com|streamvid.co|streamvideo.link|u-play.pro|upstream.to|vidcloud9.com|videobin.co|videoko.to|videospider.stream|vidlox.me|vidoza.net|vidsrc.me|vidstreaming.io|viduplayer.com|vivo.sx|voe.sx|vup.to|wstream.video|turbobit.net|mystream.to|oogly.io|anavids.com|streamup.xyz
 ! COMBINED END
 
 ! ~~~~~~~ NOT MY SHITTY RULES ~~~~~~~
@@ -1070,9 +1070,11 @@ google.*#@#div[role="navigation"] + c-wiz > script + div > .kxhcC
 twitter.com#@#:xpath(//span[(text()='Promoted' or text()='Gesponsert' or text()='Реклама' or text()='Promocionado' or text()='Sponsorisé' or text()='Uitgelicht' or text()='推荐' or text()='プロモーション')]/../../../../..)
 ||asia^$third-party,script,subdocument,xmlhttprequest,domain=~gallerix.org,badfilter
 ||pw^$third-party,script,xmlhttprequest,domain=~adwiz.pp.ua|~forum.worldofwarships.ru|~hdvbplayer.tk|~live-gol.net|~softpir.com|~sportings.pw|~sportsvideoline3.pw|~tefal.ru|~videosofsport1.pw|~xn--drakulastrem-b7e.com,badfilter
-||xyz^$third-party,script,subdocument,xmlhttprequest,domain=~anidub.com|~animedia.pro|~assistir-filme.biz|~avtomaty-i-bonusy.com|~coomeet.com|~crackstreams.com|~crackstreams.ga|~csgoreports.com|~cvid.kiev.ua|~estream.to|~europixhd.io|~funtik.tv|~getvi.tv|~hanime.tv|~hentaiz.org|~herokuapp.com|~infoua.biz|~jokehd.com|~kinobig.me|~kinoguru.be|~kinoguru.me|~kristinita.ru|~lookbase.xyz|~magicfilm.net|~mail.google.com|~map-a-date.cc|~matchat.online|~miranimbus.ru|~my.mail.ru|~nccg.ru|~newdeaf.club|~onmovies.se|~roadhub.ru|~roblox.com|~soccer365.ru|~soonwalk.net|~streetbee.io|~streetbee.ru|~uploadedpremiumlink.net|~vk.com|~vmeste.tv,badfilter
+||xyz^$third-party,script,subdocument,xmlhttprequest,domain=~anidub.com|~animedia.pro|~assistir-filme.biz|~avtomaty-i-bonusy.com|~chelentano.net|~coomeet.com|~crackstreams.com|~crackstreams.ga|~csgoreports.com|~cvid.kiev.ua|~estream.to|~europixhd.io|~funtik.tv|~getvi.tv|~hanime.tv|~hentaiz.org|~herokuapp.com|~infoua.biz|~jokehd.com|~kinobig.me|~kinoguru.be|~kinoguru.me|~kristinita.ru|~lookbase.xyz|~magicfilm.net|~mail.google.com|~map-a-date.cc|~matchat.online|~miranimbus.ru|~my.mail.ru|~nccg.ru|~newdeaf.club|~onmovies.se|~roadhub.ru|~roblox.com|~soccer365.ru|~soonwalk.net|~streetbee.io|~streetbee.ru|~uploadedpremiumlink.net|~vk.com|~vmeste.tv,badfilter
 @@://yandex.ru/|$generichide,badfilter
 adsrt.*#@#+js(aopr, rmVideoPlay)
+videobin.co#@#+js(set, adb, 0)
+videobin.co#@#+js(acis, Math, zfgloaded)
 adsrt.*,tii.ai,iir.ai,streamingworld.*#@#+js(aopw, Fingerprint2)
 adsrt.*,tii.ai,iir.ai,megalink.*#@#+js(aopr, app_vars.force_disable_adblock)
 adsrt.*,gogoanime.*#@#+js(acis, atob, decodeURIComponent)
@@ -1242,3 +1244,11 @@ turbobit.net#@#+js(acis, decodeURI, decodeURIComponent)
 mystream.to#@#+js(aopr, open)
 ||ynuf.alipay.com^$badfilter
 ||alicdn.com^*_220x220.$domain=~alibaba.com|~aliexpress.com,badfilter
+dood.*#@#+js(aeld, contextmenu)
+dood.*#@#+js(set, xPoPAdS, false)
+dood.*#@#+js(aopw, check)
+dood.*#@#+js(acis, Math, zfgloaded)
+dood.*#@#+js(aeld, , _0x)
+dood.*#@#+js(aopw, _pop)
+dood.*#@#+js(aopw, DoodPop)
+dood.*#@#+js(nosiif, _0x)
