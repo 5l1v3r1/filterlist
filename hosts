@@ -3542,10 +3542,63 @@ ff02::3 ip6-allhosts
 0.0.0.0 beacons-handoff.gcp.gvt1.com
 0.0.0.0 beacons-handoff.gcp.gvt2.com
 0.0.0.0 beacons-handoff.gcp.gvt3.com
+0.0.0.0 beacons-handoff.gcp.gvt4.com
+0.0.0.0 beacons-handoff.gcp.gvt5.com
 0.0.0.0 beacons.gcp.gvt1.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gcp.gvt3.com
+0.0.0.0 beacons.gcp.gvt4.com
+0.0.0.0 beacons.gcp.gvt5.com
 0.0.0.0 beacons.gvt1.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons.gvt3.com
+0.0.0.0 beacons.gvt4.com
+0.0.0.0 beacons.gvt5.com
 # GVT ALL END
+
+# BIDMACHINE.IO START
+0.0.0.0 bidmachine.io
+0.0.0.0 api-eu.bidmachine.io
+# BIDMACHINE.IO END
+
+# APPBAQEND.COM START
+0.0.0.0 a.appbaqend.com
+0.0.0.0 appbaqend.com
+0.0.0.0 www.appbaqend.com
+0.0.0.0 x-us.appbaqend.com
+0.0.0.0 x.appbaqend.com
+# APPBAQEND.COM END
+
+# STARTAPPSERVICE.COM START
+0.0.0.0 adimpression.startappservice.com
+0.0.0.0 adsmetadata.startappservice.com
+0.0.0.0 adv-id-data.startappservice.com
+0.0.0.0 api.startappservice.com
+0.0.0.0 bulk-click.startappservice.com
+0.0.0.0 bulk-images.startappservice.com
+0.0.0.0 cld.edg.startappservice.com
+0.0.0.0 click.startappservice.com
+0.0.0.0 dts.startappservice.com
+0.0.0.0 ec.startappservice.com
+0.0.0.0 events.startappservice.com
+0.0.0.0 geo.startappservice.com
+0.0.0.0 images.startappservice.com
+0.0.0.0 imp.startappservice.com
+0.0.0.0 info.startappservice.com
+0.0.0.0 info.static.startappservice.com
+0.0.0.0 infoevent.startappservice.com
+0.0.0.0 init.startappservice.com
+0.0.0.0 metadata.startappservice.com
+0.0.0.0 nj-ec.startappservice.com
+0.0.0.0 nj.fo.startappservice.com
+0.0.0.0 nj.origin.startappservice.com
+0.0.0.0 nj.startappservice.com
+0.0.0.0 req.startappservice.com
+0.0.0.0 rtb-va.origin.startappservice.com
+0.0.0.0 run.dts.startappservice.com
+0.0.0.0 soda.startappservice.com
+0.0.0.0 startappservice.com
+0.0.0.0 va.ec.startappservice.com
+0.0.0.0 va.origin.startappservice.com
+0.0.0.0 video.startappservice.com
+# STARTAPPSERVICE.COM END
