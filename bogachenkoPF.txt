@@ -46,7 +46,8 @@ $$script[wildcard="__CF$cv$params"]
 /^https?:\/\/yastatic\.net\/[^\s]{120,}/$image,important
 /^https?:\/\/yastatic\.net\/[^\s]{120,}/$image,important,other,badfilter
 @@||bogachenko.github.io^$important,document
-@@||login.aliexpress.*^$important,document,~extension
+@@||login.aliexpress.*^$important,document
+@@||127.0.0.1^$important,document
 !#endif
 
 !#if ext_ublock
