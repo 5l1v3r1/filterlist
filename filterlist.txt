@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-08-07 14:35:41
-! Version: 20200807143541
+! Last modified: 2020-08-08 20:17:18
+! Version: 20200808201718
 ! Expires: 3 hours
-! Number of filters: 18229
+! Number of filters: 18234
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -549,6 +549,7 @@
 ||442c8891ec726f339.com^$important
 ||442d9f2ac50ca502.com^$important
 ||4465ef53c8ffded.com^$important
+||447f329933f3acd05b0d68793c3e90940c1b07699160a62fdd37a016.com^$important
 ||4481bff8825.com^$important
 ||44f29447f575c.com^$important
 ||44f29447f575c4.com^$important
@@ -805,6 +806,7 @@
 ||72b8869dfc34690.com^$important
 ||736f35dde67b7da2976.com^$important
 ||739c49a8c68917.com^$important
+||73a241256b03468f77f86ea46155b73d4619a6b8970b83c83bd705bb.com^$important
 ||73c6c063b238097.com^$important
 ||73c6ec666c4.com^$important
 ||73g509fk9a.com^$important
@@ -2106,6 +2108,7 @@
 ||b56f9c50130def4d.com^$important
 ||b60228e270e363f6.com^$important
 ||b84pharkhv.com^$important
+||b86d4006e465f5ef74e4438b0cb802605e5c7993ac0002a876149c70.com^$important
 ||b8pfulzbyj7h.com^$important
 ||b8y4ddrvap.com^$important
 ||b93e1f595c9b.com^$important
@@ -3658,6 +3661,7 @@
 ||dcmatjqifoim.com^$important
 ||dcmhpbpdcsy.com^$important
 ||dcontonalscho.info^$important
+||dcop4khjxsmg.com^$important
 ||dcqhbqwlcukxu.com^$important
 ||dcqyyaprodclf.bid^$important
 ||dcxbbadldgkw.com^$important
@@ -14321,6 +14325,7 @@
 ||thermosthahiti.website^$important
 ||thersprens.com^$important
 ||thevtk.com^$important
+||theweblocker.net^$important
 ||thewebsitetofindplayersbest.info^$important
 ||thewhizmarketing.com^$important
 ||thewhizproducts.com^$important
