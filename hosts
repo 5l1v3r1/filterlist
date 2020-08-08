@@ -3563,6 +3563,7 @@ ff02::3 ip6-allhosts
 
 # BIDMACHINE.IO START
 0.0.0.0 bidmachine.io
+0.0.0.0 artifactory.bidmachine.io
 0.0.0.0 api-eu.bidmachine.io
 # BIDMACHINE.IO END
 
@@ -3692,6 +3693,12 @@ ff02::3 ip6-allhosts
 # SKYPE.COM START
 0.0.0.0 config.edge.skype.com
 0.0.0.0 apps.skype.com
+0.0.0.0 peoplerecommendations.skype.com
+0.0.0.0 metrics.skype.com
+0.0.0.0 campaign.consumer.entitlement.skype.com
+0.0.0.0 calling.consumer.entitlement.skype.com
+0.0.0.0 consumer.entitlement.skype.com
+0.0.0.0 secure.consumer.entitlement.skype.com
 # SKYPE.COM END
 
 # VISUALSTUDIO.COM START
@@ -3708,4 +3715,5 @@ ff02::3 ip6-allhosts
 # IOBIT.COM START
 0.0.0.0 ascstats.iobit.com
 0.0.0.0 stats.iobit.com
+0.0.0.0 download.iobit.com
 # IOBIT.COM END
