@@ -91,6 +91,7 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 @@||safebrowsing.clients.google.com^$document
 @@||vk.com/video_ext.php$subdocument
 @@||xvideos*.*^$content,elemhide,jsinject,urlblock
+@@||alipay.com/*/clear.png?$image,domain=passport.aliexpress.com
 ! WHITELIST END
 
 ! DNS
@@ -638,7 +639,8 @@ prostolinux.ru##+js(abort-on-property-write.js, document.oncopy)
 *##img[src*="advert"]
 *##img[src*="exdynsrv.com"]
 2ch.hk##.logo, #mobile-pashque
-aliexpress.*##.top-banner-container, [href*="/Select_Coupons.htm"], #J_xiaomi_dialog, [href*="/download_app_guide.htm"], .product-fix-sns, .site-footer > .container, .footer-copywrite, .site-footer, #j-multi-sidebar-outer, .site-server-box, .user-helper-footer, .hot-words, .site-footer > .container, .footer-copywrite, .site-footer, #j-multi-sidebar-outer, .user-helper-footer, .site-server-box, [href^="//campaign.aliexpress.com/wow/"]
+trade.aliexpress.ru##div.me-ui-box:has([id="magnet-order-list"]):has-text(С этими товарами также покупают)
+aliexpress.*##.top-banner-container, [href*="/Select_Coupons.htm"], #J_xiaomi_dialog, [href*="/download_app_guide.htm"], .product-fix-sns, .site-footer > .container, .footer-copywrite, .site-footer, #j-multi-sidebar-outer, .site-server-box, .user-helper-footer, .hot-words, .site-footer > .container, .footer-copywrite, .site-footer, #j-multi-sidebar-outer, .user-helper-footer, .site-server-box, .mobile-app.me-ui-box
 bing.com###t_termsInfo
 clipwatching.com###container > div > div:style(width:0px!important)
 duckduckgo.com,3g2upl4pq6kufc4m.onion##.tag-home__item, .js-onboarding-ed-slide-4.js-onboarding-ed-slide.onboarding-ed__slide-4.onboarding-ed__slide, .js-onboarding-ed-slide-3.js-onboarding-ed-slide.onboarding-ed__slide-3.onboarding-ed__slide, .js-onboarding-ed-image-container-2.onboarding-ed__image-container, .js-onboarding-ed-slide-2.js-onboarding-ed-slide.onboarding-ed__slide-2.onboarding-ed__slide, .js-onboarding-ed-slide-1.js-onboarding-ed-slide.onboarding-ed__slide-1.onboarding-ed__slide, .js-onboarding-ed.onboarding-ed, .is-showing.js-popout-main.modal--popout--sm.modal--popout--bottom-left.modal--popout.modal, .header__label.showcase.header--aside__item, .js-results-ads, #ads, .sponsored, .highlight_sponsored, .result--ad > .result__body, .js-feedback-btn-wrap, .js-serp-bottom-right.serp__bottom-right, .footer__links
@@ -727,7 +729,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]beacon[-.0-9_?&=#/]?/$important
 /[-._?&=#/]me?tr[ie]?[ck][asx]?[-.0-9_?&=#/]?/$important,domain=~twitch.tv
 /[-._?&=#/]ping[-.0-9_?&=#/]?/$important,domain=~playhydrax.com|~twitch.tv
-/[-._?&=#/]preroll[-._?&=#/]/$important,domain=~twitch.tv
+/[-._?&=#/]preroll[-._?&=#/]/$important,domain=~ttvnw.net
 /\/ads?[0-9]{1}\.php\?/$important
 /\?zone[-_]?id\=/$important
 |http*:$beacon,important
@@ -1268,3 +1270,4 @@ clipwatching.com#@#+js(nostif, showpop)
 clipwatching.com#@#+js(aopw, _pop)
 clipwatching.com#@#+js(acis, Object.defineProperty, XMLHttpRequest)
 clipwatching.com#@#+js(acis, Math, zfgloaded)
+||gstaticadssl.l.google.com^$badfilter
