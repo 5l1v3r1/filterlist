@@ -3701,4 +3701,11 @@ ff02::3 ip6-allhosts
 
 # HWCDN.NET START
 0.0.0.0 f3b7q2p3.ssl.hwcdn.net
+0.0.0.0 j6i7c9j2.ssl.hwcdn.net
+0.0.0.0 i3j3u3u9.ssl.hwcdn.net
 # HWCDN.NET END
+
+# IOBIT.COM START
+0.0.0.0 ascstats.iobit.com
+0.0.0.0 stats.iobit.com
+# IOBIT.COM END
