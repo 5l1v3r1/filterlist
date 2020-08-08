@@ -47,6 +47,7 @@ $$script[wildcard="__CF$cv$params"]
 /^https?:\/\/yastatic\.net\/[^\s]{120,}/$image,important,other,badfilter
 @@||bogachenko.github.io^$important,document
 @@||login.aliexpress.*^$important,document
+@@||127.0.0.1^$important,document
 !#endif
 
 !#if ext_ublock
@@ -845,7 +846,6 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||dota2expert.com^$document,important
 ||dra.to^$document,important
 ||easymoney.games^$document,important
-||eshop.eset.com^$document,important
 ||gamingmalta.org^$document,important
 ||ggbet.life^$document,important
 ||ggbetsails.com^$document,important

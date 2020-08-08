@@ -1408,7 +1408,6 @@ ff02::3 ip6-allhosts
 
 # NSATC.NET START
 0.0.0.0 choice.microsoft.com.nsatc.net
-0.0.0.0 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 0.0.0.0 g.msn.com.nsatc.net
 0.0.0.0 i1.services.social.microsoft.com.nsatc.net
 0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
@@ -2119,6 +2118,9 @@ ff02::3 ip6-allhosts
 
 # ESET.COM START
 0.0.0.0 pico.eset.com
+0.0.0.0 go.eset.eu
+0.0.0.0 eshop.eset.com
+0.0.0.0 api-maps.eset.com
 0.0.0.0 trace.eset.com
 # ESET.COM END
 
