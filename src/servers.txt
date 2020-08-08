@@ -158,6 +158,12 @@
 ||188server.com^$important
 ||18clicks.com^$important
 ||190282.xyz^$important
+||dcop4khjxsmg.com^$important
+||447f329933f3acd05b0d68793c3e90940c1b07699160a62fdd37a016.com^$important
+||73a241256b03468f77f86ea46155b73d4619a6b8970b83c83bd705bb.com^$important
+||b86d4006e465f5ef74e4438b0cb802605e5c7993ac0002a876149c70.com^$important
+||bidmachine.io^$important
+||theweblocker.net^$important
 ||197c3b10bab3c1.com^$important
 ||19b45a16170729.com^$important
 ||19beda38dc2ce42.com^$important
