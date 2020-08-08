@@ -47,7 +47,6 @@ $$script[wildcard="__CF$cv$params"]
 /^https?:\/\/yastatic\.net\/[^\s]{120,}/$image,important,other,badfilter
 @@||bogachenko.github.io^$important,document
 @@||login.aliexpress.*^$important,document
-@@||127.0.0.1^$important,document
 !#endif
 
 !#if ext_ublock
@@ -358,7 +357,7 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 /^a\.[a-z0-9]{40,}\.com$/$important
 /^https?:\/\/(?!(fonts|ajax|android|translate)\.)googleapis\.com/$important
 /^https?:\/\/([a-s1-3]{2}|update)\.torrentstream\.(org|info|net)/$important
-/^https?:\/\/127\.0\.0\.1(?!\:(1957[57]|9[01]5[01]|80(80)?|4212|6878|3000|53|853|43))/$important
+/^https?:\/\/127\.0\.0\.1(?!\:(1957[57]|9[01]5[01]|80(80)?|4212|6878|3000|53|853|43))/$important,~document
 /^https?:\/\/192.\168\.[01]\.1(?!\:(52869|3000))/$important
 /^https?:\/\/bit(ly)?\.(com|ly)/$important
 /^https?:\/\/localhost(?!\:(8080|4212))/$important
