@@ -2150,6 +2150,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 ua.adriver.ru
 # ADRIVER.RU END
 
+# TWITCH.TV START
+0.0.0.0 countess.twitch.tv
+0.0.0.0 spade.twitch.tv
+0.0.0.0 client-event-reporter.twitch.tv
+0.0.0.0 polyfill.twitchsvc.net
+# TWITCH.TV END
+
 # AMAZON ALL START
 0.0.0.0 1faax-us-east.amazon-adsystem.com
 0.0.0.0 aax-cpm.amazon-adsystem.com
@@ -2181,7 +2188,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aax-us-east-test.amazon-adsystem.com
 0.0.0.0 aax-us-east-test1.amazon-adsystem.com
 0.0.0.0 aax-us-east-test2.amazon-adsystem.com
-0.0.0.0 countess.twitch.tv
 0.0.0.0 aax-us-east-test3.amazon-adsystem.com
 0.0.0.0 aax-us-east-test4.amazon-adsystem.com
 0.0.0.0 aax-us-east-test5.amazon-adsystem.com
@@ -2383,6 +2389,7 @@ ff02::3 ip6-allhosts
 # OPERA ALL START
 0.0.0.0 af.opera.com
 0.0.0.0 api-a.op-mobile.opera.com
+0.0.0.0 autoupdate.geo.opera.com
 0.0.0.0 api.recsys.opera.com
 0.0.0.0 desktop-dna.osp.opera.software
 0.0.0.0 exchange.opera.com
