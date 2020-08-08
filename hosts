@@ -1378,6 +1378,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 win10.ipv6.microsoft.com
 0.0.0.0 wustats.microsoft.com
+0.0.0.0 edge.microsoft.com
 # MICROSOFT.COM END
 
 # AKADNS.NET START
@@ -3689,4 +3690,13 @@ ff02::3 ip6-allhosts
 
 # SKYPE.COM START
 0.0.0.0 config.edge.skype.com
+0.0.0.0 apps.skype.com
 # SKYPE.COM END
+
+# APP.LINK START
+0.0.0.0 jhqvy.app.link
+0.0.0.0 mangarock-alternate.app.link
+0.0.0.0 ssb8.app.link
+0.0.0.0 app.link
+0.0.0.0 mangarock.app.link
+# APP.LINK END
