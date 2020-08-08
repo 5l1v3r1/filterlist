@@ -3692,10 +3692,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 apps.skype.com
 # SKYPE.COM END
 
-# APP.LINK START
-0.0.0.0 jhqvy.app.link
-0.0.0.0 mangarock-alternate.app.link
-0.0.0.0 ssb8.app.link
-0.0.0.0 app.link
-0.0.0.0 mangarock.app.link
-# APP.LINK END
+# VISUALSTUDIO.COM START
+0.0.0.0 dc.services.visualstudio.com
+0.0.0.0 dc-int.services.visualstudio.com
+# VISUALSTUDIO.COM END
