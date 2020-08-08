@@ -3698,3 +3698,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 dc-int.services.visualstudio.com
 # VISUALSTUDIO.COM END
+
+# HWCDN.NET START
+0.0.0.0 f3b7q2p3.ssl.hwcdn.net
+# HWCDN.NET END
