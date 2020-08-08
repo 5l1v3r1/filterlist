@@ -1399,7 +1399,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 pti.store.microsoft.com.unistore.akadns.net
 0.0.0.0 sg2p.notify.windows.com.akadns.net
-0.0.0.0 sls.update.microsoft.com.akadns.net
 0.0.0.0 statsfe2.update.microsoft.com.akadns.net
 0.0.0.0 v10-win.vortex.data.microsft.com.akadns.net
 0.0.0.0 v10-win.vortex.data.microsoft.com.akadns.net
