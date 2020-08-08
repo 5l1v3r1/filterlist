@@ -660,7 +660,6 @@ freebitco.in###myModal22:has-text(Did you know?)
 freebitco.in##.daily_jackpot_main_container_div, #deposit_promo_message_regular, #play_without_captcha_container, .reveal-modal-bg
 github.com##.signup-prompt
 goblins-film.top###wpd-bubble-wrapper
-google.*##mobile-promo, .rzRb5e, [src*="/logos/"], #hplogo, .fbar
 imgur.com###cta-container-placeholder2
 kinogo.*,torrent-filmi.xyz,kinoframe.net,filmitorrent.xyz,hdfilms.zone,kinomore.xyz,smotrim.online,xn--h1aafgbicfmhn.xn--p1ai,kinogo2.*,kinogo.appspot.com##body:style(background-image: none !important;)
 lk.rt.ru###widget-container
@@ -697,6 +696,9 @@ market.yandex.*##div[class][data-tid]:has(div[data-apiary-widget-name="@market/V
 market.yandex.*##div > [class]:has([data-apiary-widget-name="@MarketNode/LegalInfo"][data-apiary-widget-id="/content/legalInfo"])
 market.yandex.*##div > [class]:has([data-apiary-widget-name="@MarketNode/ProductRecipes"])
 market.yandex.*##div > [class]:has([data-apiary-widget-name="@MarketNode/FooterHistory"])
+instagram.com###react-root ~ div[class*=" "][class$=" "][role="presentation"]:has(a[href^="/accounts/"][href*="signup/"]):not(:has(button[type="button"] > svg[aria-label][width="18"][height="18"][viewBox*="48"]))
+instagram.com##body[style="overflow: hidden;"] > #react-root ~ div[class*=" "][class$=" "][role="presentation"]:has(div:has-text(Войдите, чтобы продолжить))
+instagram.com##body[style*="overflow: hidden;"]:style(overflow-y: scroll !important;)
 ! CSS END
 
 ! XPATH
@@ -729,7 +731,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]beacon[-.0-9_?&=#/]?/$important
 /[-._?&=#/]me?tr[ie]?[ck][asx]?[-.0-9_?&=#/]?/$important,domain=~twitch.tv
 /[-._?&=#/]ping[-.0-9_?&=#/]?/$important,domain=~playhydrax.com|~twitch.tv
-/[-._?&=#/]preroll[-._?&=#/]/$important,domain=~ttvnw.net
+/[-._?&=#/]preroll[-._?&=#/]/$important,domain=~ttvnw.net|~twitch.tv
 /\/ads?[0-9]{1}\.php\?/$important
 /\?zone[-_]?id\=/$important
 |http*:$beacon,important
