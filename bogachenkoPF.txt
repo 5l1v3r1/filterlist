@@ -554,6 +554,7 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 ||yastroka.yandex.net^$important
 ||zen.yandex.*^$important
 ||addtoany.com^$important
+||symcd.com^$important
 ! DOMAIN END
 
 ! IMAGE

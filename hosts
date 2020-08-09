@@ -3699,6 +3699,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 calling.consumer.entitlement.skype.com
 0.0.0.0 consumer.entitlement.skype.com
 0.0.0.0 secure.consumer.entitlement.skype.com
+0.0.0.0 config.ecs.skype.com
 # SKYPE.COM END
 
 # VISUALSTUDIO.COM START
@@ -3717,3 +3718,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.iobit.com
 0.0.0.0 download.iobit.com
 # IOBIT.COM END
+
+# NVIDIA ALL START
+0.0.0.0 gfwsl.geforce.com
+0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 telemetry.gfestage.nvidia.com
+0.0.0.0 gfe.nvidia.com
+0.0.0.0 services.gfe.nvidia.com
+0.0.0.0 accounts.nvgs.nvidia.com
+0.0.0.0 events.gfe.nvidia.com
+0.0.0.0 images.nvidiagrid.net
+0.0.0.0 rds-assets.nvidia.com
+0.0.0.0 assets.nvidiagrid.net
+# NVIDIA ALL END
