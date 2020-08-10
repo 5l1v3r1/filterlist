@@ -63,8 +63,20 @@ salahstream.ml,syriancivilwarmap.com,hdfilmesonlinegratis.com,mangovideo.pw,myst
 ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthronesizle1.pw,voxc.org,likn.xyz,waaw.tv,hindilinks4uto.com,hqq.tv,waaws.*,waaw1.tv##+js(contextmenudef.js)
 !#endif
 
+!#if !ext_ublock
+!#if !adguard
+||go.microsoft.com^$important
+||app.link^$important
+||e5.sk^$important
+||d2nxq2uap88usk.cloudfront.net^$important
+||d2ddoduugvun08.cloudfront.net^$important
+||symcd.com^$important
+||imrworldwide.com^$important
+!#endif
+!#endif
+
 ! TEST
-||extension-files.twitch.tv^
+!
 ! TEST END
 
 ! TEMPORARILY
@@ -367,6 +379,7 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 ||*-pa.googleapis.com^$important
 ||activity-stream-icons.services.mozilla.com^$important
 ||actlz.github.io^$important
+||extension-files.twitch.tv^$important
 ||addons-media.operacdn.com^$important,domain=~opera.com|~opera.ru
 ||addons-themes.operacdn.com^$important,domain=~opera.com|~opera.ru
 ||addthis.com^$important
