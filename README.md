@@ -7,5 +7,3 @@ This is a personal list of bogachenko filters.
 `https://raw.githubusercontent.com/bogachenko/filterlist/personal/bogachenkoPF.txt`
 
 `https://raw.githubusercontent.com/bogachenko/filterlist/personal/hosts`
-
-`https://raw.githubusercontent.com/bogachenko/filterlist/personal/hosts-experimental`
