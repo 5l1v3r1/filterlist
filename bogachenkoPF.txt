@@ -422,7 +422,6 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 ||detectportal.firefox.*^$important
 ||detectportal.prod.mozaws.net^$important
 ||dev.appboy.com^$important
-||discordapp.com^$important
 ||disqus.com^$important
 ||disquscdn.com^$important
 ||doubleclick.net^$important
@@ -714,7 +713,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 
 ! WEBSOCKET
 *$important,websocket,domain=hlsplay.com|hindilinks4uto.com|hqq.tv|povvideo.net|powvldeo.cc|powvldeo.co|powvldeo.me|powvldeo.net|waaw.tv|clipwatching.com
-*$websocket,third-party,domain=~music.yandex.ru|~music.yandex.ua|~music.yandex.by
+*$websocket,third-party,domain=~music.yandex.ru|~music.yandex.ua|~music.yandex.by|~discord.com
 ! WEBSOCKET END
 
 ! CSP
