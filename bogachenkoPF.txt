@@ -13,6 +13,7 @@
 !#if !adguard
 ||d2ddoduugvun08.cloudfront.net^$important
 ||d2nxq2uap88usk.cloudfront.net^$important
+||d2v02itv0y9u9t.cloudfront.net^$important
 ||go.microsoft.com^$important
 !#endif
 !#endif
@@ -395,6 +396,7 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 ||applovin.com^$important
 ||applvn.com^$important
 ||appmetrica.yandex.com^$important
+||sentry.io^$important
 ||appstatic.opera.com^$important
 ||autopush.prod.mozaws.net^$important
 ||avast.com^$important
@@ -469,6 +471,7 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 ||iplist.cc^$important,third-party
 ||izooto.com^$important
 ||kas-labs.com^$important
+||top100.ru^$important
 ||kaspersky-labs.com^$important
 ||kaspersky.*^$important,domain=~community.kaspersky.com|~forum.kaspersky.com|~support.kaspersky.ru
 ||krasava.bet^$important

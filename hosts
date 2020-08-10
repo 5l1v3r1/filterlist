@@ -2124,12 +2124,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 trace.eset.com
 # ESET.COM END
 
-# V0CDN.NET START
-0.0.0.0 cs1.wpc.v0cdn.net
-0.0.0.0 cs11.wpc.v0cdn.net
-0.0.0.0 cs12.wpc.v0cdn.net
-# V0CDN.NET END
-
 # XBOX ALL START
 0.0.0.0 c.xbox.com
 0.0.0.0 cdf-anon.xboxlive.com
