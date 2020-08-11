@@ -998,7 +998,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]logs?(ging|impressions?|ers?)?[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~github.com|~gitlab.com|~instagram.com|~twitch.tv|~yadi.sk|~dns-shop.ru
 /[-._?&=#/]piwik[-.0-9_?&=#/]/$image,important,script
 /[-._?&=#/]pixel[-._?&=#/]/$image,important,script,subdocument,xmlhttprequest
-/[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~fandom.com
+/[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~fandom.com|~github.com|~gitlab.com
 /[-._?&=#/]vast[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest
 /\/ga[-._?&=#/][a-zA-Z]{5,}\.js/$important,other,script,third-party
 /\/pi?xe?l?\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)/$image,important,script,subdocument,xmlhttprequest,domain=~playground.ru
