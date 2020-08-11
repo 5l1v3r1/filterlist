@@ -611,6 +611,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m2.pl.2mdn.net
 0.0.0.0 m2.se.2mdn.net
 0.0.0.0 m2.sg.2mdn.net
+0.0.0.0 reminders-pa.googleapis.com
 0.0.0.0 m2.uk.2mdn.net
 0.0.0.0 m2.ve.2mdn.net
 0.0.0.0 m2.za.2mdn.net
@@ -3744,3 +3745,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 rds-assets.nvidia.com
 0.0.0.0 assets.nvidiagrid.net
 # NVIDIA ALL END
+
+# INSTAGRAM.COM START
+0.0.0.0 graph.instagram.com
+0.0.0.0 badges.instagram.com
+0.0.0.0 logger.instagram.com
+# INSTAGRAM.COM END
