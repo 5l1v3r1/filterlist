@@ -556,6 +556,7 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 ||vk-portal.net^$important
 ||voiceservices.yandex.net^$important
 ||wap.ucweb.com^$important
+||webtrends.com^$important
 ||weather.opera-api.com^$important
 ||www-google-analytics.l.google.com^$important
 ||www-googleadservices.l.google.com^$important
@@ -566,6 +567,9 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 ||yandex.*^$important,third-party,domain=~kinopoisk.ru|~metrika.yandex.ru|~passport.rt.ru|~rt-internet.ru|~yadi.sk|~yandex.az|~yandex.by|~yandex.co.ge|~yandex.com|~yandex.com.tr|~yandex.fr|~yandex.kz|~yandex.lt|~yandex.md|~yandex.net|~yandex.ru|~yandex.tm|~yandex.ua|~yandex.uz|~yastatic.net|~z5h64q92x9.net
 ||yastatic.net^$important,third-party,domain=~dev.yandex.net|~hdrabbit.ru|~kinopoisk.ru|~rt-internet.ru|~ya.ru|~yadi.sk|~yandex.az|~yandex.by|~yandex.co.ge|~yandex.com|~yandex.com.tr|~yandex.fr|~yandex.kz|~yandex.lt|~yandex.md|~yandex.ru|~yandex.tm|~yandex.ua|~yandex.uz|~z5h64q92x9.net
 ||yastroka.yandex.net^$important
+||dlws.microsoft.com^$important
+||msftncsi.com^$important
+||dlservice.microsoft.com^$important
 ||zen.yandex.*^$important
 ! DOMAIN END
 
