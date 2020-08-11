@@ -1287,8 +1287,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 feedbacksite-bn2b.smartscreen.microsoft.com
 0.0.0.0 fp.advertising.microsoft.com
+0.0.0.0 logging.windows.microsoft.com
 0.0.0.0 fs.microsoft.com
 0.0.0.0 geo-prod.do.dsp.mp.microsoft.com
+0.0.0.0 rad.microsoft.com
+0.0.0.0 technet.microsoft.com
+0.0.0.0 technet2.microsoft.com
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 in.appcenter.ms
 0.0.0.0 insiderservice.microsoft.com
@@ -1305,24 +1309,31 @@ ff02::3 ip6-allhosts
 0.0.0.0 purchase.mp.microsoft.com
 0.0.0.0 query.prod.cms.rt.microsoft.com
 0.0.0.0 redir.metaservices.microsoft.com
+0.0.0.0 metaservices.microsoft.com
 0.0.0.0 register.cdpcs.microsoft.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 responses.df.telemetry.microsoft.com
 0.0.0.0 ris.api.iris.microsoft.com
 0.0.0.0 ru.vortex-win.data.microsoft.com
 0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 msftncsi.com
+0.0.0.0 www.msftncsi.com
+0.0.0.0 ipv6.msftncsi.com
+0.0.0.0 dns.msftncsi.com
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 settings-sandbox.data.microsoft.com
 0.0.0.0 settings-win-ppe.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 settings.data.glbdns2.microsoft.com
 0.0.0.0 settings.data.microsoft.com
+0.0.0.0 download.dmd.metaservices.microsoft.com
 0.0.0.0 smartscreen-os1p.smartscreen.microsoft.com
 0.0.0.0 smartscreen-prod.microsoft.com
 0.0.0.0 smartscreen-sn3p.smartscreen.microsoft.com
 0.0.0.0 smartscreen.microsoft.com
 0.0.0.0 spynet2.microsoft.com
 0.0.0.0 spynetalt.microsoft.com
+0.0.0.0 analytics.microsoft.com
 0.0.0.0 sqm.alpha.telemetry.microsoft.com
 0.0.0.0 sqm.df.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com
@@ -1333,11 +1344,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 storeedgefd.dsx.mp.microsoft.com
 0.0.0.0 storesdk.dsx.mp.microsoft.com
 0.0.0.0 sts.advertising.microsoft.com
+0.0.0.0 spynettest.microsoft.com
 0.0.0.0 sts.si.advertising.microsoft.com
 0.0.0.0 survey.watson.microsoft.com
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telemetry.microsoft.com
+0.0.0.0 sts.microsoft.com
+0.0.0.0 corp.sts.microsoft.com
 0.0.0.0 telemetry.urs.microsoft.com
+0.0.0.0 c.urs.microsoft.com
 0.0.0.0 telemetrysvc-by3p.smartscreen.microsoft.com
 0.0.0.0 tile-service.weather.microsoft.com
 0.0.0.0 uhf.microsoft.com
@@ -1393,6 +1408,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
 0.0.0.0 dmd.metaservices.microsoft.com.akadns.net
 0.0.0.0 fe2.update.microsoft.com.akadns.net
+0.0.0.0 packages.dmd.metaservices.microsoft.com.akadns.net
 0.0.0.0 geo.settings-win.data.microsoft.com.akadns.net
 0.0.0.0 geo.settings.data.microsoft.com.akadns.net
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
@@ -1422,6 +1438,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vortex-db5.metron.live.com.nsatc.net
 0.0.0.0 vortex-win.data.metron.live.com.nsatc.net
 0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
+0.0.0.0 win10.ipv6.microsoft.com.nsatc.net
 # NSATC.NET END
 
 # BING ALL START
@@ -1431,6 +1448,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.bing.com
 0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 www.bing.com
+0.0.0.0 weather.tile.appex.bing.com
 # BING ALL END
 
 # LIVE.COM START
@@ -1452,6 +1470,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adevents.msn.com
 0.0.0.0 ads.eu.msn.com
 0.0.0.0 ads.msn.com
+0.0.0.0 h6.msn.com
 0.0.0.0 ads1.jp.msn.com
 0.0.0.0 ads1.msads.net
 0.0.0.0 ads1.msn.com
