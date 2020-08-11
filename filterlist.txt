@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-08-11 13:23:24
-! Version: 20200811132324
+! Last modified: 2020-08-12 08:52:07
+! Version: 20200812085207
 ! Expires: 3 hours
-! Number of filters: 18234
+! Number of filters: 18245
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -31,7 +31,7 @@
 /^(https?|ftp|wss?):\/\/((www|wap)[0-9]?\.)?mine([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)[0-9]?\.)?monitor([0-9]{1,3})?\./$important,domain=~monitor.firefox.com
 /^(https?|ftp|wss?):\/\/((www|wap)[0-9]?\.)?partners?([0-9]{1,3})?\./$important,domain=~partners.yandex.by|~partners.yandex.ru|~partners.yandex.ua
-/^(https?|ftp|wss?):\/\/((www|wap)[0-9]?\.)?pi?xe?l?([0-9]{1,3})?\./$important
+/^(https?|ftp|wss?):\/\/((www|wap)[0-9]?\.)?pi?xe?l?([0-9]{1,3})?\./$important,domain=~playground.ru
 /^(https?|ftp|wss?):\/\/((www|wap)[0-9]?\.)?ping([0-9]{1,3})?\./$important,domain=~hydrax.net|~playhydrax.com
 /^(https?|ftp|wss?):\/\/((www|wap)[0-9]?\.)?piwik([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)[0-9]?\.)?preroll([0-9]{1,3})?\./$important
@@ -2843,9 +2843,11 @@
 ||capacitly.com^$important
 ||cap-cap-pop.com^$important
 ||capriciouscorn.com^$important
+||capsfogpeck.com^$important
 ||capsquirrel.com^$important
 ||captainbicycle.com^$important
 ||cardmrket.com^$important
+||carelacysince.com^$important
 ||caribanner.bid^$important
 ||caringzinc.com^$important
 ||carpentercomparison.com^$important
@@ -4793,6 +4795,7 @@
 ||ey88k2770u.com^$important
 ||eydiuqpdtfew.com^$important
 ||eyebinvex.com^$important
+||eyefuneve.com^$important
 ||eyhempsedinte.info^$important
 ||eyinwxkojgkfgs.com^$important
 ||eyjuwcrnu.bid^$important
@@ -5020,6 +5023,7 @@
 ||feqlklwaafgc.com^$important
 ||feqyuubaixe.bid^$important
 ||ferdarius.com^$important
+||fergemcot.com^$important
 ||fermolo.info^$important
 ||fernomius.com^$important
 ||fessmegilscha.info^$important
@@ -5510,6 +5514,7 @@
 ||g1hmcmp.com^$important
 ||g1thub.com^$important
 ||g1xgeb82nj.com^$important
+||g2178927685.co^$important
 ||g2247755016.com^$important
 ||g2281971609.com^$important
 ||g22rbb7.com^$important
@@ -6902,6 +6907,7 @@
 ||ikoh6ie.top^$important
 ||ikpzwbrzzfg.bid^$important
 ||ikrvzjdds.bid^$important
+||ikunselt.com^$important
 ||ikupicwg.com^$important
 ||ikuzqysewaw.bid^$important
 ||ikvagxovc.com^$important
@@ -11133,6 +11139,7 @@
 ||oppcgcqytazs.com^$important
 ||opportancen.info^$important
 ||oprivi.info^$important
+||opsoomet.net^$important
 ||optad360.io^$important
 ||optimallimit.com^$important
 ||optimizely.com^$important
@@ -13272,6 +13279,7 @@
 ||sape.ru^$important
 ||sapelmyep.com^$important
 ||sapsixysho.pro^$important
+||sapsuaveover.com^$important
 ||sapvummffiay.com^$important
 ||saqcgojcure.bid^$important
 ||sarydrinkletr.site^$important
@@ -13903,6 +13911,7 @@
 ||stonseeb.net^$important
 ||stoomeddert.info^$important
 ||stoordep.com^$important
+||storeacdn.com^$important
 ||storehouse.biz^$important
 ||storescissors.com^$important
 ||storeslope.com^$important
@@ -14143,6 +14152,7 @@
 ||taskolding.info^$important
 ||tastefulsongs.com^$important
 ||tasvjsmnegj.com^$important
+||tatdunsit.com^$important
 ||taulevoa.com^$important
 ||tauptaup.com^$important
 ||taveredezeri.site^$important
@@ -15929,6 +15939,7 @@
 ||warmquiver.com^$important
 ||warning.support^$important
 ||warsalsintrol.site^$important
+||warumbistdusoarm.space^$important
 ||waryfog.com^$important
 ||wasibial.com^$important
 ||watchingssui.info^$important

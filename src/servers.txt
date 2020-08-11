@@ -168,17 +168,6 @@
 ||1b969cef84d93b43.com^$important
 ||1bcde.com^$important
 ||1bfc228b50a902db.com^$important
-||carelacysince.com^$important
-||opsoomet.net^$important
-||ikunselt.com^$important
-||capsfogpeck.com^$important
-||sapsuaveover.com^$important
-||fergemcot.com^$important
-||g2178927685.co^$important
-||tatdunsit.com^$important
-||eyefuneve.com^$important
-||storeacdn.com^$important
-||warumbistdusoarm.space^$important
 ||1cb70f6b7aab4c70819a.date^$important
 ||1ccbt.com^$important
 ||1ced38bdc42b883.com^$important
@@ -2808,9 +2797,11 @@
 ||capablecup.com^$important
 ||capacitly.com^$important
 ||capriciouscorn.com^$important
+||capsfogpeck.com^$important
 ||capsquirrel.com^$important
 ||captainbicycle.com^$important
 ||cardmrket.com^$important
+||carelacysince.com^$important
 ||caribanner.bid^$important
 ||caringzinc.com^$important
 ||carpentercomparison.com^$important
@@ -4758,6 +4749,7 @@
 ||ey88k2770u.com^$important
 ||eydiuqpdtfew.com^$important
 ||eyebinvex.com^$important
+||eyefuneve.com^$important
 ||eyhempsedinte.info^$important
 ||eyinwxkojgkfgs.com^$important
 ||eyjuwcrnu.bid^$important
@@ -4985,6 +4977,7 @@
 ||feqlklwaafgc.com^$important
 ||feqyuubaixe.bid^$important
 ||ferdarius.com^$important
+||fergemcot.com^$important
 ||fermolo.info^$important
 ||fernomius.com^$important
 ||fessmegilscha.info^$important
@@ -5475,6 +5468,7 @@
 ||g1hmcmp.com^$important
 ||g1thub.com^$important
 ||g1xgeb82nj.com^$important
+||g2178927685.co^$important
 ||g2247755016.com^$important
 ||g2281971609.com^$important
 ||g22rbb7.com^$important
@@ -6868,6 +6862,7 @@
 ||ikoh6ie.top^$important
 ||ikpzwbrzzfg.bid^$important
 ||ikrvzjdds.bid^$important
+||ikunselt.com^$important
 ||ikupicwg.com^$important
 ||ikuzqysewaw.bid^$important
 ||ikvagxovc.com^$important
@@ -11098,6 +11093,7 @@
 ||oppcgcqytazs.com^$important
 ||opportancen.info^$important
 ||oprivi.info^$important
+||opsoomet.net^$important
 ||optad360.io^$important
 ||optimallimit.com^$important
 ||optimize-stats.voxmedia.com^$important
@@ -13237,6 +13233,7 @@
 ||sape.ru^$important
 ||sapelmyep.com^$important
 ||sapsixysho.pro^$important
+||sapsuaveover.com^$important
 ||sapvummffiay.com^$important
 ||saqcgojcure.bid^$important
 ||sarydrinkletr.site^$important
@@ -13868,6 +13865,7 @@
 ||stonseeb.net^$important
 ||stoomeddert.info^$important
 ||stoordep.com^$important
+||storeacdn.com^$important
 ||storehouse.biz^$important
 ||storescissors.com^$important
 ||storeslope.com^$important
@@ -14108,6 +14106,7 @@
 ||taskolding.info^$important
 ||tastefulsongs.com^$important
 ||tasvjsmnegj.com^$important
+||tatdunsit.com^$important
 ||taulevoa.com^$important
 ||tauptaup.com^$important
 ||taveredezeri.site^$important
@@ -15894,6 +15893,7 @@
 ||warmquiver.com^$important
 ||warning.support^$important
 ||warsalsintrol.site^$important
+||warumbistdusoarm.space^$important
 ||waryfog.com^$important
 ||wasibial.com^$important
 ||watchingssui.info^$important
