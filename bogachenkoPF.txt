@@ -78,6 +78,7 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 @@/^https?:\/\/edge\.microsoft\.com\/extensionwebstorebase\/[a-z1-9]{2}\/(hash)?crx\?/$important
 @@/^https?:\/\/(www\.)?(github\.developerdan|gitlab)\.com/[^\s]+[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$app=firefox.exe|opera.exe|msedge.exe,image,important,other,script,xmlhttprequest
 @@||marketplace.visualstudio.com^$app=Code.exe,important
+@@/[-._?&=#/]preroll[-._?&=#/]/$important,domain=ttvnw.net
 ! TEMPORARILY END
 
 ! WHITELIST
@@ -93,8 +94,9 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 @@||injections.adguard.org^
 @@||instagram.*.facebook.com^
 @@||local.adguard.org^
-@@||music.yandex.ru^$generichide
-@@||ocsp*.
+@@||music.yandex.*^$generichide
+@@||ocsp.
+@@||ocsp2.
 @@||ok.ru/videoembed/$subdocument
 @@||pornhub.com^$generichide
 @@||safebrowsing.clients.google.com^$document
