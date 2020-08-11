@@ -165,7 +165,6 @@
 ||1aogoh1j81g3.com^$important
 ||1b6a637cbe7bb65ac.com^$important
 ||1b8d89551340a.com^$important
-||symcd.com^$important
 ||1b969cef84d93b43.com^$important
 ||1bcde.com^$important
 ||1bfc228b50a902db.com^$important
@@ -14020,6 +14019,7 @@
 ||syidvbodcb.bid^$important
 ||syiwwswcbxk.bid^$important
 ||sylwenys.pw^$important
+||symcd.com^$important
 ||symphoneupcom.site^$important
 ||symydvmqjjp.com^$important
 ||sync.rambler.ru^$important
