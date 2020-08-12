@@ -23,6 +23,7 @@
 ||qq.com^
 ||unity3d.com^
 ||zeptolab.com^
+/[-._?&=#/]preroll[-._?&=#/]/$important,domain=~ttvnw.net,badfilter
 !#endif
 !#endif
 
@@ -78,7 +79,6 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 @@/^https?:\/\/edge\.microsoft\.com\/extensionwebstorebase\/[a-z1-9]{2}\/(hash)?crx\?/$important
 @@/^https?:\/\/(www\.)?(github\.developerdan|gitlab)\.com/[^\s]+[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$app=firefox.exe|opera.exe|msedge.exe,image,important,other,script,xmlhttprequest
 @@||marketplace.visualstudio.com^$app=Code.exe,important
-@@/[-._?&=#/]preroll[-._?&=#/]/$important,domain=ttvnw.net
 ! TEMPORARILY END
 
 ! WHITELIST
@@ -95,8 +95,6 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 @@||instagram.*.facebook.com^
 @@||local.adguard.org^
 @@||music.yandex.*^$generichide
-@@||ocsp.
-@@||ocsp2.
 @@||ok.ru/videoembed/$subdocument
 @@||pornhub.com^$generichide
 @@||safebrowsing.clients.google.com^$document
@@ -605,7 +603,7 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 ||click2go.me^$important,popunder,popup
 ||gemius.pl^$important,popunder,popup
 ||yandex.*/clck/$important,popunder,popup
-||yastatic.net^$important,popunder,popup
+||yastatic.net^$important,popunder,popup,domain=~kinopoisk.ru
 ! POPUP END
 
 ! MEDIA
@@ -756,7 +754,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]beacon[-.0-9_?&=#/]?/$important
 /[-._?&=#/]me?tr[ie]?[ck][asx]?[-.0-9_?&=#/]?/$important,domain=~twitch.tv
 /[-._?&=#/]ping[-.0-9_?&=#/]?/$important,domain=~playhydrax.com|~twitch.tv
-/[-._?&=#/]preroll[-._?&=#/]/$important,domain=~ttvnw.net|~twitch.tv
+/[-._?&=#/]preroll[-._?&=#/]/$important,domain=~ttvnw.net
 /\/ads?[0-9]{1}\.php\?/$important
 /\?zone[-_]?id\=/$important
 |http*:$beacon,important
