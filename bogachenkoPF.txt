@@ -8,7 +8,7 @@
 
 ! ~~~~~~~ MY SHITTY RULES ~~~~~~~
 
-! CONDITIONS
+! CONDITIONS START
 !#if !ext_ublock
 !#if !adguard
 ||d2ddoduugvun08.cloudfront.net^$important
@@ -61,7 +61,7 @@ $$script[wildcard="__CF$cv$params"]
 !#endif
 ! CONDITIONS END
 
-! TEMPORARILY
+! TEMPORARILY START
 !#if !ext_ublock
 @@/^https?:\/\/(www\.)?(github\.developerdan|gitlab)\.com/[^\s]+[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$app=firefox.exe|opera.exe|msedge.exe,image,important,other,script,xmlhttprequest
 @@||marketplace.visualstudio.com^$app=Code.exe,important
@@ -74,7 +74,7 @@ $$script[wildcard="__CF$cv$params"]
 !#endif
 ! TEMPORARILY END
 
-! WHITELIST
+! WHITELIST START
 @@/^http:\/\/rt\/$/$document
 @@/^https:\/\/my\.mail\.ru[+/]+video\//$subdocument,xmlhttprequest
 @@||ok.ru/videoembed/$subdocument
@@ -96,7 +96,7 @@ $$script[wildcard="__CF$cv$params"]
 @@/^https?:\/\/edge\.microsoft\.com\/extensionwebstorebase\/[a-z1-9]{2}\/(hash)?crx\?/$important
 ! WHITELIST END
 
-! DNS
+! DNS START
 0.0.0.0$network
 3.11.46.38:443$network
 8.253.207.117:443$network
@@ -334,7 +334,7 @@ $$script[wildcard="__CF$cv$params"]
 ||212.122.5.136^
 ! DNS END
 
-! DOMAIN
+! DOMAIN START
 /^https?:\/\/(.*\.)?mail\.ru(?![+/]+video)\//$important,third-party,domain=~account.mail.ru|~webcache.googleusercontent.com
 /^https?:\/\/ok\.ru(?!\/videoembed)\//$important,third-party,domain=~webcache.googleusercontent.com
 /^https?:\/\/vk\.com(?!\/video)/$important,third-party,domain=~webcache.googleusercontent.com
@@ -437,7 +437,6 @@ $$script[wildcard="__CF$cv$params"]
 ||browser.yandex.com^$important
 ||c.bingapis.com^$important
 ||cackle.me^$important
-||cdn*.ghostery.com^$important
 ||census.zorinos.com^$important
 ||clck.yandex.ru^$important
 ||client-cdn*.hola.org^$important
@@ -626,7 +625,7 @@ $$script[wildcard="__CF$cv$params"]
 ||zen.yandex.*^$important
 ! DOMAIN END
 
-! IMAGE
+! IMAGE START
 /[-._?&=#/](468[_x-]60|240[_x-]400|600[_x-]200|728[_x-]90|1[_x-]1)[-._?&=#/]/$image,important
 /[-._?&=#/]fpn\.gif/$image,important
 /\/(luxury777|paiza99|alexavegas|togeputih|lotus303|ratu303|ligadewa|batman88|datukqq|java303)\.gif$/$image,important
@@ -651,7 +650,7 @@ $$script[wildcard="__CF$cv$params"]
 /^https?:\/\/yastatic\.net\/[^\s]{120,}/$image,important
 ! IMAGE END
 
-! POPUP
+! POPUP START
 /^https?:\/\/(bitly|bit)\.(com|ly)/$important,popunder,popup
 |http*:*&idzone=$important,popunder,popup
 ||click2go.me^$important,popunder,popup
@@ -660,19 +659,19 @@ $$script[wildcard="__CF$cv$params"]
 ||yastatic.net^$important,popunder,popup,domain=~kinopoisk.ru
 ! POPUP END
 
-! MEDIA
+! MEDIA START
 /\/(melbet|jetfilmizle|bbnew)\.mp4/$important,media
 /\/ad[vs]?\/[0-9]{1,}\.mp4$/$important,media,~third-party
 |http*:*.mp4|$important,media,domain=vb17103elmerwatson.pw
 ! MEDIA END
 
-! APP
+! APP START
 *$important,app=Draziw.Button.Mines|com.BallGames.Woodturning|com.BestWorldGamesLtd.rtanks|com.FDGEntertainment.redball4.gp|com.amanotes.beathopper|com.andregal.android.poolbilliard|com.appsinnova.android.keepclean|com.billiards.city.pool.nation.club|com.blyts.nobodies|com.catmario2.hd|com.combineinc.streetracing.driftthreeD|com.danchis.superkitty|com.doodle.skatingman|com.dvloper.granny|com.fingersoft.hcr2|com.fingersoft.hillclimb|com.forthblue.pool|com.genico.bounce|com.gta.real.gangster.crime|com.herocraft.game.free.redball3|com.karmangames.solitaire|com.kiloo.subwaysurf|com.kx.box|com.leodesol.games.classic.maze.labyrinth|com.ligeria.solitaire|com.mediocre.grannysmith|com.miniclip.istunt2|com.miniclip.plagueinc|com.mobisystems.fileman|com.noodlecake.altosadventure|com.noodlecake.altosodyssey|com.piriform.ccleaner|com.pixign.smart.puzzles|com.playrix.gardenscapes|com.red.ball.ballgames.bounceball.redball5|com.redrocket.poker|com.robtopx.geometrydashmeltdown|com.robtopx.geometrydashsubzero|com.robtopx.geometrydashworld|com.robtopx.geometryjumplite|com.rovio.angrybirds|com.skgames.trafficracer|com.stolitomson|com.submarineapps.mill|com.topchopgames.skyroller|com.topgame.BeenyAdventures|com.x3m.tx4|com.zeptolab.ctr.ads|com.zeptolab.ctr2.f2p.google|com.zeptolab.ctrm.free.google|com.zeptolab.timetravel.free.google|game.maddex.action|game.maddex.arenas|game.maddex.jump|phone.cleaner.antivirus.speed.booster|phone.cleaner.speed.booster.cache.clean.android.master|pl.lukok.draughts|pt.wm.milhes|com.appstar.callrecorder|com.appstar.callrecorderpro|KMPlayer.exe|KMPlayer64.exe|GOM.exe|CCleaner.exe|CCleaner64.exe
 /amazon(aws)?\.com/$important,app=TwitchAgent.exe|TwitchUI.exe
 /^(?!.*(lfnnmlimilinwvwlijljioeogq13\.club)).*$/$app=app.source.getcontact,important
 ! APP END
 
-! SCRIPTLET
+! SCRIPTLET START
 google.*##+js(remove-attr.js, ping, div[class] > a[ping])
 google.*#%#//scriptlet("remove-attr", "ping", "div[class] > a[ping]")
 livejournal.com##+js(abort-current-inline-script.js, document.createElement, script)
@@ -699,14 +698,14 @@ salahstream.ml,syriancivilwarmap.com,hdfilmesonlinegratis.com,mangovideo.pw,myst
 ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthronesizle1.pw,voxc.org,likn.xyz,waaw.tv,hindilinks4uto.com,hqq.tv,waaws.*,waaw1.tv##+js(contextmenudef.js)
 ! SCRIPTLET END
 
-! REDIRECTION
+! REDIRECTION START
 */cleardot.gif$image,redirect=1x1.gif,important
 */cleardot.gif$xmlhttprequest,redirect=1x1.gif,important
 */loading.mp4$important,media,domain=t21.press,redirect=noopmp4-1s
 ||device-metrics-us*.amazon.com^$xmlhttprequest,redirect=nooptext,important
 ! REDIRECTION END
 
-! CSS
+! CSS START
 *##a[href*="/ads."], a[href*="/ads/"], a[href*="/adv."], a[href*="/adv/"], a[href*="/advert."], a[href*="/advert/"],a[href*="/advertise."], a[href*="/advertise/"], a[href*="/advertising."], a[href*="/advertising/"], [class*="adv-slot-"], div[class*="sport-advert_"], div[data-flt-ve="sponsored_search_ads"], div[id*="adcontent"], div[id^="google_ads_iframe_"], div[id^="yandex_rtb"]
 *##a[href*="adriver.ru"], a[href*="doubleclick.net"], a[href*="ads.adfox.ru"], a[href*="googleadservices.com"], a[href*="mradx.net"], a[href*="trafficfactory.biz"], a[href*="trafficjunky.net"], a[href*="weborama.fr"], a[href*="yabs.yandex."], a[href*="zen.yandex."], a[href*="awaps.yandex.net"], a[href*="imasdk.googleapis.com"], a[href*="//bit.ly/"], a[href*="//bitly.com/"]
 *##a[href="/1884.html"], a[href="/tc1.php"], a[href="/tc2.php"], [title="uCoz Counter"], #covid-banner, .counters, .grecaptcha-badge, [src="/img/ya.jpg"]
@@ -787,18 +786,18 @@ yandex.*,~music.yandex.*,~tv.yandex.*,~passport.yandex.*,~pass.yandex.*,~rasp.ya
 youtube.com##.ytp-button.ytp-paid-content-overlay-text, div#player-ads, #player-ads, .ytp-ce-element.ytp-ce-video.ytp-ce-element-show.ytp-ce-top-left-quad, .style-scope.ytd-mealbar-promo-renderer, .ytp-ce-element.ytp-ce-video.ytp-ce-element-show.ytp-ce-top-left-quad, div#movie_player > .ytp-ce-channel.ytp-ce-channel-this.ytp-ce-element.ytp-ce-element-show.ytp-ce-size-640.ytp-ce-top-right-quad, ytd-companion-slot-renderer.ytd-player-legacy-desktop-watch-ads-renderer, #masthead-ad, #alert-banner, YTM-PROMOTED-VIDEO-RENDERER, .mealbar-promo-renderer, a[href*="/covid19"], #content > .ytd-rich-section-renderer.style-scope, .ytp-ad-module, .ytd-carousel-ad-renderer, ytd-video-masthead-ad-advertiser-info-renderer,ytm-promoted-sparkles-web-renderer, .ytp-ad-progress, #promotion-shelf, .masthead-ad-control, .ad-div, .pyv-afc-ads-container, #clarify-box > .ytd-watch-flexy.style-scope, #sponsor-button, yt-live-chat-viewer-engagement-message-renderer, .ytd-video-secondary-info-renderer.style-scope.sticky, .ytp-ce-video.ytp-ce-element
 ! CSS END
 
-! XPATH
+! XPATH START
 english-films.*##:xpath(/html//div[@id='dle-content']/article//section//ul[@class='tabs__caption']/li[.='Покупка абонемента'])
 english-films.*##:xpath(/html//div[@id='dle-content']/article//section//ul[@class='tabs__caption']/li[.='Трейлер'])
 youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ! XPATH END
 
-! WEBSOCKET
+! WEBSOCKET START
 *$important,websocket,domain=hlsplay.com|hindilinks4uto.com|hqq.tv|povvideo.net|powvldeo.cc|powvldeo.co|powvldeo.me|powvldeo.net|waaw.tv|clipwatching.com
 *$websocket,third-party,domain=~music.yandex.ru|~music.yandex.ua|~music.yandex.by|~discord.com
 ! WEBSOCKET END
 
-! CSP
+! CSP START
 *$important,~third-party,csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=powvldeo.me|powvldeo.cc|powvldeo.co|powvldeo.net|povvideo.net|waaw.tv|waaw1.tv|waaws.tv|hindilinks4uto.com|hqq.tv|freebitco.in|powvideo.net|streamplay.biz|streamplay.to|oload.best|oload.biz|oload.cc|oload.cloud|oload.club|oload.download|oload.fun|oload.info|oload.life|oload.live|oload.monster|oload.press|oload.services|oload.site|oload.space|oload.stream|oload.tv|oload.website|oload.win|oload.party|oladblock.me|oladblock.services|oladblock.xyz|openload.cc|openload.co|openload.fun|openload.pw|openloed.co|akvideo.stream|300mbfilms.io|123moviesgo.nl|123movieshub.gdn|123movieshub.fm|123movieshub.to|123movieshub.cx|bmovie123.me|bmovies123.me|cmovieshd.nl|cmovieshd.bz|cmovieshd.co|cmovieshd.net|fbmovies.org|vidoza.co|vidoza.net|ffmovies.ru
 /^https?:\/\/(www\.)?music\.yandex\.(ru|ua|by|com)\//$important,csp=script-src 'unsafe-inline' 'unsafe-eval' music.yandex.ru *.youtube.com https://yastatic.net local.adguard.org injections.adguard.org music.yandex.com music.yandex.by music.yandex.ua *.jquery.com; connect-src 'self' data: music.yandex.com music.yandex.ru music.yandex.ua music.yandex.by storage.mds.yandex.net wss: https://api.passport.yandex.ru; img-src 'self' data: music.yandex.com music.yandex.ru music.yandex.ua music.yandex.by *.yandex.net yapic.yandex.ru *.ytimg.com; frame-src data: frontend.vh.yandex.ru *.youtube.com music.yandex.ru music.yandex.ua music.yandex.by;
 /^https?:\/\/(www\.)?translate\.yandex\.(ru|ua|by|com)\//$csp=img-src 'self' data: yastatic.net avatars.mds.yandex.net;
@@ -807,7 +806,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||twitch.tv^$important,csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' wss: blob: data: *.jtvnw.net *.ttvnw.net *.twitchcdn.net *.twitch.tv *.facebook.com *.facebook.net recaptcha.net *.google.com *.gstatic.com *.algolia.net local.adguard.org injections.adguard.org *.cloudfront.net;
 ! CSP END
 
-! OTHER
+! OTHER START
 /(ntfc|afu|apu|jsa|apw)\.(hh|php)\?/$important
 /[&?]s(screen)?\=[0-9]{3,4}x[0-9]{3,4}[&?]/$important
 /[&?]s[cw]\=[0-9]{3,4}[&]sh\=[0-9]{3,4}[&]/$important
@@ -909,7 +908,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||[::1]^
 ! OTHER END
 
-! DOCUMENT
+! DOCUMENT START
 /^https?:\/\/(apps?|best|mobile|prize|reward|sweeps).*\.[a-z]{5,15}.*\.(agency|icu|live)\//$document,important
 /^https?:\/\/go\.microsoft\.com(?!(\/fwlink\/\?linkid\=(2108834)).*$)/$document,important
 |http*:*/*.gif|$document,important,domain=~github.com|~githubusercontent.com|~imgur.com|~wikimedia.org
@@ -952,7 +951,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||easydota.cc^$document,important
 ! DOCUMENT END
 
-! SUBDOCUMENT
+! SUBDOCUMENT START
 /\/ads?\/(middle|bottom|right|top|left)\.html?\?/$important,subdocument
 /^https?:\/\/(www\.)?google\.[\w]+\/afs\/ads[/?]/$important,subdocument
 /^https?:\/\/(www\.)?kinopoisk\.ru\/[^\s]{3000}$/$important,subdocument
@@ -963,7 +962,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||redditmedia.com/gtm/jail?$important,subdocument
 ! SUBDOCUMENT END
 
-! SCRIPT
+! SCRIPT START
 /\%(2F|3F|26|3D|23|2D|2E|5F)sw\.js$/$important,script
 /\/(edmonton|jellyfish)\.webp/$important,script
 /\/js[a-z0-9]+\/[a-z0-9]{0,14}\.js$/$important,script
@@ -1020,7 +1019,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||yastatic.net/share2/share.js|$important,script
 ! SCRIPT END
 
-! XMLHTTPREQUEST
+! XMLHTTPREQUEST START
 /^https?:\/\/[0-9a-z]{11,20}.*.com\/.*/$important,third-party,xmlhttprequest,domain=~deepl.com|~marketplace.visualstudio.com|~zagonka.tv|~aliexpress.ru|~aliexpress.com
 /^https?:\/\/[^\s]+(\.wasm|\.wsm|\.wa)$/$important,xmlhttprequest,domain=~twitch.tv
 |http*:*/channels/*/extensions$important,xmlhttprequest,domain=twitch.tv
@@ -1048,7 +1047,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||youtube.com/get_midroll_info?$important,xmlhttprequest
 ! XMLHTTPREQUEST END
 
-! COMBINED
+! COMBINED START
 /[-._?&=#/](event|stat)logs?(ging|ers?)?[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest
 /[-._?&=#/](logs?|img)[-._?&=#/]?(?:failure|info|type|events?|entry|request|statu?s?|view|edpage)[-._?&=#/]?/$image,important,other,script,xmlhttprequest
 /[-._?&=#/](player|client|csi|gen(erate)?|stream|logs?|live)[-._?&=#/]?204[-._?&=#/]?/$image,important,other,xmlhttprequest
