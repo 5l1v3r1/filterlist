@@ -1,6 +1,6 @@
 ## bogachenko's Personal Filters
 
-This is a personal list of bogachenko filters.
+This is a personal list of [bogachenko](https://github.com/bogachenko) filters.
 
 #### RAW
 
