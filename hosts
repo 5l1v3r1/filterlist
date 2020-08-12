@@ -567,7 +567,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.doublemax.net
 0.0.0.0 m.fr.2mdn.net
 0.0.0.0 m.uk.2mdn.net
-0.0.0.0 m.yap.yahoo.com
 0.0.0.0 m1.2mdn.net
 0.0.0.0 m1.ae.2mdn.net
 0.0.0.0 m1.au.2mdn.net
@@ -2157,13 +2156,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ua.adriver.ru
 # ADRIVER.RU END
 
-# TWITCH ALL START
-0.0.0.0 client-event-reporter.twitch.tv
-0.0.0.0 countess.twitch.tv
-0.0.0.0 polyfill.twitchsvc.net
-0.0.0.0 spade.twitch.tv
-# TWITCH ALL END
-
 # AMAZON ALL START
 0.0.0.0 1faax-us-east.amazon-adsystem.com
 0.0.0.0 aax-cpm.amazon-adsystem.com
@@ -2234,6 +2226,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn-t.amazon-adsystem.com
 0.0.0.0 cdn-vfw-us-test.amazon-adsystem.com
 0.0.0.0 cdn-z.amazon-adsystem.com
+0.0.0.0 client-event-reporter.twitch.tv
+0.0.0.0 countess.twitch.tv
 0.0.0.0 da-cdn.amazon-adsystem.com
 0.0.0.0 da-v-eu.amazon-adsystem.com
 0.0.0.0 da-v-fe.amazon-adsystem.com
@@ -2265,6 +2259,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mas-sdk.amazon-adsystem.com
 0.0.0.0 pdx.amazon-adsystem.com
+0.0.0.0 polyfill.twitchsvc.net
 0.0.0.0 ps-eu.amazon-adsystem.com
 0.0.0.0 ps-jp.amazon-adsystem.com
 0.0.0.0 ps-us.amazon-adsystem.com
@@ -2275,6 +2270,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s-beta-opf.amazon-adsystem.com
 0.0.0.0 s-beta.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 spade.twitch.tv
 0.0.0.0 v-eu-preprod.amazon-adsystem.com
 0.0.0.0 v-eu.amazon-adsystem.com
 0.0.0.0 v-preprod.amazon-adsystem.com
@@ -2297,6 +2293,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vfw-us.amazon-adsystem.com
 0.0.0.0 vq-ap-southeast-1.amazon-adsystem.com
 0.0.0.0 vq-eu-west-1.amazon-adsystem.com
+0.0.0.0 extension-files.twitch.tv
 0.0.0.0 vq-fe-us-west-2.amazon-adsystem.com
 0.0.0.0 vq-test-us-east-1.amazon-adsystem.com
 0.0.0.0 vq-us-east-1.amazon-adsystem.com
@@ -2319,7 +2316,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z-na.amazon-adsystem.com
 # AMAZON ALL END
 
-# ADNOW ALL START
+# ADNOW.COM START
 0.0.0.0 acme-challenge.adnow.com
 0.0.0.0 ad.adnow.com
 0.0.0.0 adm-td.adnow.com
@@ -2391,7 +2388,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 video-td.adnow.com
 0.0.0.0 wp_plug.adnow.com
 0.0.0.0 zabbix.adnow.com
-# ADNOW ALL END
+# ADNOW.COM END
 
 # OPERA ALL START
 0.0.0.0 af.opera.com
@@ -2420,6 +2417,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 speeddials.opera.com
 0.0.0.0 thumbnails.opera.com
 0.0.0.0 thumbnails2.opera.com
+0.0.0.0 weather.opera-api.com
 # OPERA ALL END
 
 # ADCOLONY.COM START
@@ -2482,10 +2480,17 @@ ff02::3 ip6-allhosts
 
 # GHOSTERY ALL START
 0.0.0.0 analytics.ghostery.com
+0.0.0.0 anolysis.privacy.ghostery.net
+0.0.0.0 api.ghostery.net
+0.0.0.0 cmp-cdn.ghostery.com
 0.0.0.0 collector-hpn.ghostery.net
 0.0.0.0 d.ghostery.com
 0.0.0.0 ghostery-collector.ghostery.com
+0.0.0.0 offers-api.ghostery.net
+0.0.0.0 reports.ghostery.net
 0.0.0.0 safe-browsing-quorum.privacy.ghostery.net
+0.0.0.0 safe-browsing.ghostery.net
+0.0.0.0 stats.ghostery.net
 # GHOSTERY ALL END
 
 # VOODOO ALL START
@@ -3267,19 +3272,28 @@ ff02::3 ip6-allhosts
 0.0.0.0 zurichna.ulink.adjust.com
 # ADJUST.COM ALL
 
-# ATDMT.COM START
+# FACEBOOK ALL START
+0.0.0.0 a-error.facebook.com
+0.0.0.0 a-pixel.facebook.com
+0.0.0.0 a-www.facebook.com
 0.0.0.0 a.ns.ish.atdmt.com
 0.0.0.0 a.rad.atdmt.com
 0.0.0.0 ad.atdmt.com
 0.0.0.0 ad.ish.atdmt.com
 0.0.0.0 adecn-w.atdmt.com
 0.0.0.0 adn.atdmt.com
+0.0.0.0 ads.facebook.com
 0.0.0.0 aidps.atdmt.com
 0.0.0.0 alpha.atdmt.com
+0.0.0.0 an.facebook.com
 0.0.0.0 analytics.atdmt.com
 0.0.0.0 api.atdmt.com
 0.0.0.0 atdmt.com
+0.0.0.0 b-error.facebook.com
+0.0.0.0 b-pixel.facebook.com
+0.0.0.0 b-www.facebook.com
 0.0.0.0 b.rad.atdmt.com
+0.0.0.0 badges.instagram.com
 0.0.0.0 bar.rad.atdmt.com
 0.0.0.0 bl2aqusrch.atdmt.com
 0.0.0.0 bl2trk.atdmt.com
@@ -3297,6 +3311,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 co1aqu.atdmt.com
 0.0.0.0 co1trk.atdmt.com
 0.0.0.0 co2aqu.atdmt.com
+0.0.0.0 connect.facebook.net
 0.0.0.0 criteofakepixel.ad.atdmt.com
 0.0.0.0 cs.atdmt.com
 0.0.0.0 cx.atdmt.com
@@ -3306,6 +3321,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 diag.atdmt.com
 0.0.0.0 dyn.atdmt.com
 0.0.0.0 ec.atdmt.com
+0.0.0.0 error.facebook.com
+0.0.0.0 error.fbpigeon.com
 0.0.0.0 exch-e.atdmt.com
 0.0.0.0 exch-eu.atdmt.com
 0.0.0.0 exch-w.atdmt.com
@@ -3313,6 +3330,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 free.atdmt.com
 0.0.0.0 g.atdmt.com
 0.0.0.0 geo.atdmt.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.fbpigeon.com
+0.0.0.0 graph.instagram.com
 0.0.0.0 h.atdmt.com
 0.0.0.0 iact.atdmt.com
 0.0.0.0 image.atdmt.com
@@ -3324,8 +3344,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 ll.atdmt.com
 0.0.0.0 llpstream.atdmt.com
 0.0.0.0 llstrm.atdmt.com
+0.0.0.0 logger.instagram.com
 0.0.0.0 main.atdmt.com
 0.0.0.0 mm.atdmt.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 pixel.fbpigeon.com
 0.0.0.0 pstream.atdmt.com
 0.0.0.0 rad.atdmt.com
 0.0.0.0 rad.rad.atdmt.com
@@ -3346,24 +3369,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vid.atdmt.com
 0.0.0.0 view.atdmt.com
 0.0.0.0 www.atdmt.com
-# ATDMT.COM END
-
-# FACEBOOK ALL START
-0.0.0.0 a-error.facebook.com
-0.0.0.0 a-pixel.facebook.com
-0.0.0.0 a-www.facebook.com
-0.0.0.0 ads.facebook.com
-0.0.0.0 an.facebook.com
-0.0.0.0 b-error.facebook.com
-0.0.0.0 b-pixel.facebook.com
-0.0.0.0 b-www.facebook.com
-0.0.0.0 error.facebook.com
-0.0.0.0 error.fbpigeon.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 graph.fbpigeon.com
-0.0.0.0 pixel.facebook.com
-0.0.0.0 pixel.fbpigeon.com
-0.0.0.0 connect.facebook.net
 # FACEBOOK ALL END
 
 # YADRO.RU START
@@ -3743,12 +3748,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 telemetry.gfe.nvidia.com
 0.0.0.0 telemetry.gfestage.nvidia.com
 # NVIDIA ALL END
-
-# INSTAGRAM.COM START
-0.0.0.0 badges.instagram.com
-0.0.0.0 graph.instagram.com
-0.0.0.0 logger.instagram.com
-# INSTAGRAM.COM END
 
 # OVERWOLF.COM START
 0.0.0.0 analyticsnew.overwolf.com
