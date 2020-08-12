@@ -3751,3 +3751,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 badges.instagram.com
 0.0.0.0 logger.instagram.com
 # INSTAGRAM.COM END
+
+# OVERWOLF.COM START
+0.0.0.0 analyticsnew.overwolf.com
+0.0.0.0 tracking.overwolf.com
+0.0.0.0 newlog.overwolf.com
+# OVERWOLF.COM END

@@ -571,6 +571,7 @@ $$script[wildcard="__CF$cv$params"]
 ||ip-api.com^$important
 ||analyticsnew.overwolf.com^$important
 ||tracking.overwolf.com^$important
+||newlog.overwolf.com^$important
 ! DOMAIN END
 
 ! IMAGE
