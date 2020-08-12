@@ -171,7 +171,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.de.doubleclick.net
 0.0.0.0 ad.dk.doubleclick.net
 0.0.0.0 ad.doubleclick.net
-0.0.0.0 geomobileservices-pa.googleapis.com
 0.0.0.0 ad.eg.doubleclick.net
 0.0.0.0 ad.es.doubleclick.net
 0.0.0.0 ad.fi.doubleclick.net
@@ -425,6 +424,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 alt8-mtalk.google.com
 0.0.0.0 alt9-mtalk.google.com
 0.0.0.0 amn.doubleclick.net
+0.0.0.0 android-safebrowsing.google.com
 0.0.0.0 androidsuggesthub-pa.googleapis.com
 0.0.0.0 api.crashlytics.com
 0.0.0.0 app-measurement.com
@@ -497,6 +497,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 fls.uk.doubleclick.net
 0.0.0.0 footprints-pa.googleapis.com
+0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 g0.doubleclick.net
 0.0.0.0 g1.doubleclick.net
 0.0.0.0 g2.doubleclick.net
@@ -533,6 +534,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gd7.doubleclick.net
 0.0.0.0 gd8.doubleclick.net
 0.0.0.0 gd9.doubleclick.net
+0.0.0.0 geomobileservices-pa.googleapis.com
 0.0.0.0 ging-chromecontentsuggestions-pa.googleapis.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googleadapis.l.google.com
@@ -544,6 +546,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 googleadservices.org
 0.0.0.0 googleadservices.ru
 0.0.0.0 googleadsserving.cn
+0.0.0.0 googleoptimize.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
@@ -611,7 +614,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 m2.pl.2mdn.net
 0.0.0.0 m2.se.2mdn.net
 0.0.0.0 m2.sg.2mdn.net
-0.0.0.0 reminders-pa.googleapis.com
 0.0.0.0 m2.uk.2mdn.net
 0.0.0.0 m2.ve.2mdn.net
 0.0.0.0 m2.za.2mdn.net
@@ -901,6 +903,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 publisherportal.doubleclick.net
 0.0.0.0 rd.intl.doubleclick.net
 0.0.0.0 recommendationengine.googleapis.com
+0.0.0.0 reminders-pa.googleapis.com
 0.0.0.0 report.crashlytics.com
 0.0.0.0 reportcentral.doubleclick.net
 0.0.0.0 reports.crashlytics.com
@@ -962,16 +965,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.doubleclickbygoogle.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleadservices.com
+0.0.0.0 www.googleoptimize.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.partner.googleadservices.com
 0.0.0.0 www2.doubleclick.com
 0.0.0.0 www3.doubleclick.com
 0.0.0.0 www3.doubleclick.net
-0.0.0.0 www.googleoptimize.com
-0.0.0.0 googleoptimize.com
-0.0.0.0 android-safebrowsing.google.com
-0.0.0.0 fundingchoicesmessages.google.com
 # GOOGLE ALL END
 
 # TORRENTSTREAM ALL START
@@ -1254,8 +1254,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.bingads.microsoft.com
 0.0.0.0 advertise.bingads.microsoft.com
 0.0.0.0 advertising.microsoft.com
-0.0.0.0 msedge.b.tlu.dl.delivery.mp.microsoft.com
 0.0.0.0 alpha.telemetry.microsoft.com
+0.0.0.0 analytics.microsoft.com
 0.0.0.0 api.bingads.microsoft.com
 0.0.0.0 apprep.smartscreen.microsoft.com
 0.0.0.0 apprepsvc-ch1p.smartscreen.microsoft.com
@@ -1266,6 +1266,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 c.microsoft.com
+0.0.0.0 c.urs.microsoft.com
 0.0.0.0 ca.telemetry.microsoft.com
 0.0.0.0 checkappexec.microsoft.com
 0.0.0.0 choice.microsoft.com
@@ -1280,6 +1281,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 displaycatalog.mp.microsoft.com
 0.0.0.0 dl.delivery.mp.microsoft.com
 0.0.0.0 dmd.metaservices.microsoft.com
+0.0.0.0 dns.msftncsi.com
+0.0.0.0 download.dmd.metaservices.microsoft.com
+0.0.0.0 edge.microsoft.com
 0.0.0.0 en.vortex-win.data.microsoft.com
 0.0.0.0 eu-v10.events.data.microsoft.com
 0.0.0.0 eu-v20.events.data.microsoft.com
@@ -1288,53 +1292,49 @@ ff02::3 ip6-allhosts
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 feedbacksite-bn2b.smartscreen.microsoft.com
 0.0.0.0 fp.advertising.microsoft.com
-0.0.0.0 logging.windows.microsoft.com
 0.0.0.0 fs.microsoft.com
 0.0.0.0 geo-prod.do.dsp.mp.microsoft.com
-0.0.0.0 rad.microsoft.com
-0.0.0.0 technet.microsoft.com
-0.0.0.0 technet2.microsoft.com
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 in.appcenter.ms
 0.0.0.0 insiderservice.microsoft.com
+0.0.0.0 ipv6.msftncsi.com
 0.0.0.0 kmwatsonc.events.data.microsoft.com
 0.0.0.0 licensing.mp.microsoft.com
+0.0.0.0 logging.windows.microsoft.com
 0.0.0.0 m.bingads.microsoft.com
 0.0.0.0 manage.devcenter.microsoft.com
+0.0.0.0 metaservices.microsoft.com
 0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
+0.0.0.0 msedge.b.tlu.dl.delivery.mp.microsoft.com
+0.0.0.0 msftncsi.com
 0.0.0.0 nav.smartscreen.microsoft.com
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 pipe.aria.microsoft.com
 0.0.0.0 pti.store.microsoft.com
 0.0.0.0 purchase.mp.microsoft.com
 0.0.0.0 query.prod.cms.rt.microsoft.com
+0.0.0.0 rad.microsoft.com
 0.0.0.0 redir.metaservices.microsoft.com
-0.0.0.0 metaservices.microsoft.com
 0.0.0.0 register.cdpcs.microsoft.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 responses.df.telemetry.microsoft.com
 0.0.0.0 ris.api.iris.microsoft.com
 0.0.0.0 ru.vortex-win.data.microsoft.com
 0.0.0.0 self.events.data.microsoft.com
-0.0.0.0 msftncsi.com
-0.0.0.0 www.msftncsi.com
-0.0.0.0 ipv6.msftncsi.com
-0.0.0.0 dns.msftncsi.com
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 settings-sandbox.data.microsoft.com
 0.0.0.0 settings-win-ppe.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 settings.data.glbdns2.microsoft.com
 0.0.0.0 settings.data.microsoft.com
-0.0.0.0 download.dmd.metaservices.microsoft.com
 0.0.0.0 smartscreen-os1p.smartscreen.microsoft.com
 0.0.0.0 smartscreen-prod.microsoft.com
 0.0.0.0 smartscreen-sn3p.smartscreen.microsoft.com
 0.0.0.0 smartscreen.microsoft.com
 0.0.0.0 spynet2.microsoft.com
 0.0.0.0 spynetalt.microsoft.com
-0.0.0.0 analytics.microsoft.com
+0.0.0.0 spynettest.microsoft.com
 0.0.0.0 sqm.alpha.telemetry.microsoft.com
 0.0.0.0 sqm.df.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com
@@ -1345,15 +1345,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 storeedgefd.dsx.mp.microsoft.com
 0.0.0.0 storesdk.dsx.mp.microsoft.com
 0.0.0.0 sts.advertising.microsoft.com
-0.0.0.0 spynettest.microsoft.com
+0.0.0.0 sts.microsoft.com
 0.0.0.0 sts.si.advertising.microsoft.com
 0.0.0.0 survey.watson.microsoft.com
+0.0.0.0 technet.microsoft.com
+0.0.0.0 technet2.microsoft.com
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telemetry.microsoft.com
-0.0.0.0 sts.microsoft.com
-0.0.0.0 corp.sts.microsoft.com
 0.0.0.0 telemetry.urs.microsoft.com
-0.0.0.0 c.urs.microsoft.com
 0.0.0.0 telemetrysvc-by3p.smartscreen.microsoft.com
 0.0.0.0 tile-service.weather.microsoft.com
 0.0.0.0 uhf.microsoft.com
@@ -1394,7 +1393,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 win10.ipv6.microsoft.com
 0.0.0.0 wustats.microsoft.com
-0.0.0.0 edge.microsoft.com
+0.0.0.0 www.msftncsi.com
 # MICROSOFT.COM END
 
 # AKADNS.NET START
@@ -1409,11 +1408,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
 0.0.0.0 dmd.metaservices.microsoft.com.akadns.net
 0.0.0.0 fe2.update.microsoft.com.akadns.net
-0.0.0.0 packages.dmd.metaservices.microsoft.com.akadns.net
 0.0.0.0 geo.settings-win.data.microsoft.com.akadns.net
 0.0.0.0 geo.settings.data.microsoft.com.akadns.net
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
+0.0.0.0 packages.dmd.metaservices.microsoft.com.akadns.net
 0.0.0.0 pti.store.microsoft.com.unistore.akadns.net
 0.0.0.0 sg2p.notify.windows.com.akadns.net
 0.0.0.0 statsfe2.update.microsoft.com.akadns.net
@@ -1430,11 +1429,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 onesettings-db5.metron.live.com.nsatc.net
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
-0.0.0.0 telecommand.telemetry.microsoft.com.nsat-c.net
 0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
 0.0.0.0 vortex-bn2.metron.live.com.nsatc.net
-0.0.0.0 vortex-bn2.metron.live.com.nsatc.net
-0.0.0.0 vortex-cy2.metron.live.com.nsatc.net
 0.0.0.0 vortex-cy2.metron.live.com.nsatc.net
 0.0.0.0 vortex-db5.metron.live.com.nsatc.net
 0.0.0.0 vortex-win.data.metron.live.com.nsatc.net
@@ -1448,8 +1444,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 bat.bing.com
 0.0.0.0 c.bing.com
 0.0.0.0 telemetry.appex.bing.net
-0.0.0.0 www.bing.com
 0.0.0.0 weather.tile.appex.bing.com
+0.0.0.0 www.bing.com
 # BING ALL END
 
 # LIVE.COM START
@@ -1471,23 +1467,21 @@ ff02::3 ip6-allhosts
 0.0.0.0 adevents.msn.com
 0.0.0.0 ads.eu.msn.com
 0.0.0.0 ads.msn.com
-0.0.0.0 h6.msn.com
 0.0.0.0 ads1.jp.msn.com
 0.0.0.0 ads1.msads.net
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads2.msn.com
 0.0.0.0 adsyndication.msn.com
-0.0.0.0 assets.msn.com
-0.0.0.0 ntp.msn.com
 0.0.0.0 advertising.jp.msn.com
 0.0.0.0 amer.rel.msn.com
-0.0.0.0 api.msn.com
 0.0.0.0 analytics.msn.com
 0.0.0.0 analytics.msnbc.msn.com
 0.0.0.0 analytics.r.msn.com
 0.0.0.0 apac.rel.msn.com
+0.0.0.0 api.msn.com
 0.0.0.0 arc.msn.com
 0.0.0.0 arc1.msn.com
+0.0.0.0 assets.msn.com
 0.0.0.0 auto.search.msn.com
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 b.ads2.msn.com
@@ -1535,6 +1529,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 g.msn.com
 0.0.0.0 h1.msn.com
 0.0.0.0 h2.msn.com
+0.0.0.0 h6.msn.com
 0.0.0.0 images.adsyndication.msn.com
 0.0.0.0 live.rads.msn.com
 0.0.0.0 mobileads.msn.com
@@ -1542,6 +1537,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 msn.com
 0.0.0.0 msnbcmedia.msn.com
 0.0.0.0 msnbot-65-55-108-23.search.msn.com
+0.0.0.0 ntp.msn.com
 0.0.0.0 otf.msn.com
 0.0.0.0 partnervideo.syndication.msn.com
 0.0.0.0 popup.msn.com
@@ -1800,7 +1796,12 @@ ff02::3 ip6-allhosts
 # MAIL.RU END
 
 # MOZILLA ALL START
+0.0.0.0 activations.cdn.mozilla.net
 0.0.0.0 activity-stream-icons.services.mozilla.com
+0.0.0.0 blocked.cdn.mozilla.net
+0.0.0.0 broker-live.mozillamessaging.com
+0.0.0.0 crash-stats.mozilla.com
+0.0.0.0 data.mozilla.com
 0.0.0.0 de.malware-error.mozilla.com
 0.0.0.0 de.malware-report.mozilla.com
 0.0.0.0 de.phish-error.mozilla.com
@@ -1808,55 +1809,49 @@ ff02::3 ip6-allhosts
 0.0.0.0 de.phish-report.mozilla.com
 0.0.0.0 detectportal.firefox.com
 0.0.0.0 en.malware-error.mozilla.com
-0.0.0.0 support.live.mozillamessaging.com
 0.0.0.0 en.malware-report.mozilla.com
 0.0.0.0 en.phish-error.mozilla.com
 0.0.0.0 en.phish-generic.mozilla.com
-0.0.0.0 reporter.mozilla.org
-0.0.0.0 qsurvey.mozilla.com
 0.0.0.0 en.phish-report.mozilla.com
-0.0.0.0 ostats.mozilla.com
+0.0.0.0 experiments.mozilla.org
+0.0.0.0 fhr-origin.cdn.mozilla.net
+0.0.0.0 fhr.cdn.mozilla.net
+0.0.0.0 fhr.data.mozilla.com
+0.0.0.0 hang-reports.mozilla.org
 0.0.0.0 incoming.telemetry.mozilla.org
-0.0.0.0 normandy-cloudfront.cdn.mozilla.net
-0.0.0.0 self-repair.mozilla.org
+0.0.0.0 input.mozilla.com
+0.0.0.0 input.mozilla.org
 0.0.0.0 malware-error.mozilla.com
 0.0.0.0 malware-report.mozilla.com
-0.0.0.0 data.mozilla.com
+0.0.0.0 normandy-cloudfront.cdn.mozilla.net
+0.0.0.0 onyx_tiles.stage.mozaws.net
+0.0.0.0 ostats.mozilla.com
 0.0.0.0 phish-error.mozilla.com
 0.0.0.0 phish-generic.mozilla.com
 0.0.0.0 phish-report.mozilla.com
-0.0.0.0 search.services.mozilla.com
-0.0.0.0 shavar.services.mozilla.com
-0.0.0.0 onyx_tiles.stage.mozaws.net
 0.0.0.0 push.services.mozilla.com
+0.0.0.0 qsurvey.mozilla.com
+0.0.0.0 reporter.mozilla.org
 0.0.0.0 ru.malware-error.mozilla.com
 0.0.0.0 ru.malware-report.mozilla.com
-0.0.0.0 hang-reports.mozilla.org
 0.0.0.0 ru.phish-error.mozilla.com
 0.0.0.0 ru.phish-generic.mozilla.com
-0.0.0.0 input.mozilla.com
-0.0.0.0 input.mozilla.org
-0.0.0.0 experiments.mozilla.org
 0.0.0.0 ru.phish-report.mozilla.com
+0.0.0.0 search.services.mozilla.com
+0.0.0.0 self-repair.mozilla.org
+0.0.0.0 shavar.services.mozilla.com
 0.0.0.0 snippets.cdn.mozilla.net
-0.0.0.0 activations.cdn.mozilla.net
 0.0.0.0 snippets.mozilla.com
+0.0.0.0 support.live.mozillamessaging.com
+0.0.0.0 tbpl.mozilla.org
 0.0.0.0 telemetry-experiment.cdn.mozilla.net
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 tiles.services.mozilla.com
 0.0.0.0 us.malware-error.mozilla.com
-0.0.0.0 fhr.cdn.mozilla.net
-0.0.0.0 fhr.data.mozilla.com
 0.0.0.0 us.malware-report.mozilla.com
 0.0.0.0 us.phish-error.mozilla.com
 0.0.0.0 us.phish-generic.mozilla.com
-0.0.0.0 broker-live.mozillamessaging.com
 0.0.0.0 us.phish-report.mozilla.com
-0.0.0.0 fhr-origin.cdn.mozilla.net
-0.0.0.0 fhr.cdn.mozilla.net
-0.0.0.0 blocked.cdn.mozilla.net
-0.0.0.0 tbpl.mozilla.org
-0.0.0.0 crash-stats.mozilla.com
-0.0.0.0 tiles.services.mozilla.com
 # MOZILLA ALL END
 
 # EDGESUITE.NET START
@@ -2162,12 +2157,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 ua.adriver.ru
 # ADRIVER.RU END
 
-# TWITCH.TV START
-0.0.0.0 countess.twitch.tv
-0.0.0.0 spade.twitch.tv
+# TWITCH ALL START
 0.0.0.0 client-event-reporter.twitch.tv
+0.0.0.0 countess.twitch.tv
 0.0.0.0 polyfill.twitchsvc.net
-# TWITCH.TV END
+0.0.0.0 spade.twitch.tv
+# TWITCH ALL END
 
 # AMAZON ALL START
 0.0.0.0 1faax-us-east.amazon-adsystem.com
@@ -3272,26 +3267,18 @@ ff02::3 ip6-allhosts
 0.0.0.0 zurichna.ulink.adjust.com
 # ADJUST.COM ALL
 
-# FACEBOOK.COM START
-0.0.0.0 a-error.facebook.com
-0.0.0.0 a-pixel.facebook.com
-0.0.0.0 a-www.facebook.com
+# ATDMT.COM START
 0.0.0.0 a.ns.ish.atdmt.com
 0.0.0.0 a.rad.atdmt.com
 0.0.0.0 ad.atdmt.com
 0.0.0.0 ad.ish.atdmt.com
 0.0.0.0 adecn-w.atdmt.com
 0.0.0.0 adn.atdmt.com
-0.0.0.0 ads.facebook.com
 0.0.0.0 aidps.atdmt.com
 0.0.0.0 alpha.atdmt.com
-0.0.0.0 an.facebook.com
 0.0.0.0 analytics.atdmt.com
 0.0.0.0 api.atdmt.com
 0.0.0.0 atdmt.com
-0.0.0.0 b-error.facebook.com
-0.0.0.0 b-pixel.facebook.com
-0.0.0.0 b-www.facebook.com
 0.0.0.0 b.rad.atdmt.com
 0.0.0.0 bar.rad.atdmt.com
 0.0.0.0 bl2aqusrch.atdmt.com
@@ -3319,8 +3306,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 diag.atdmt.com
 0.0.0.0 dyn.atdmt.com
 0.0.0.0 ec.atdmt.com
-0.0.0.0 error.facebook.com
-0.0.0.0 error.fbpigeon.com
 0.0.0.0 exch-e.atdmt.com
 0.0.0.0 exch-eu.atdmt.com
 0.0.0.0 exch-w.atdmt.com
@@ -3328,8 +3313,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 free.atdmt.com
 0.0.0.0 g.atdmt.com
 0.0.0.0 geo.atdmt.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 graph.fbpigeon.com
 0.0.0.0 h.atdmt.com
 0.0.0.0 iact.atdmt.com
 0.0.0.0 image.atdmt.com
@@ -3343,8 +3326,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 llstrm.atdmt.com
 0.0.0.0 main.atdmt.com
 0.0.0.0 mm.atdmt.com
-0.0.0.0 pixel.facebook.com
-0.0.0.0 pixel.fbpigeon.com
 0.0.0.0 pstream.atdmt.com
 0.0.0.0 rad.atdmt.com
 0.0.0.0 rad.rad.atdmt.com
@@ -3365,8 +3346,25 @@ ff02::3 ip6-allhosts
 0.0.0.0 vid.atdmt.com
 0.0.0.0 view.atdmt.com
 0.0.0.0 www.atdmt.com
+# ATDMT.COM END
+
+# FACEBOOK ALL START
+0.0.0.0 a-error.facebook.com
+0.0.0.0 a-pixel.facebook.com
+0.0.0.0 a-www.facebook.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 an.facebook.com
+0.0.0.0 b-error.facebook.com
+0.0.0.0 b-pixel.facebook.com
+0.0.0.0 b-www.facebook.com
+0.0.0.0 error.facebook.com
+0.0.0.0 error.fbpigeon.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.fbpigeon.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 pixel.fbpigeon.com
 0.0.0.0 connect.facebook.net
-# FACEBOOK.COM END
+# FACEBOOK ALL END
 
 # YADRO.RU START
 0.0.0.0 ad.yadro.ru
@@ -3523,34 +3521,34 @@ ff02::3 ip6-allhosts
 # APPLOVIN.COM END
 
 # SPOTIFY.COM START
-0.0.0.0 pixel-static.spotify.com
-0.0.0.0 ads.spotify.com
-0.0.0.0 pixel.spotify.com
-0.0.0.0 crashdump.spotify.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 ads-fa.spotify.com
+0.0.0.0 ads.spotify.com
 0.0.0.0 analytics.spotify.com
+0.0.0.0 crashdump.spotify.com
 0.0.0.0 log.spotify.com
+0.0.0.0 pixel-static.spotify.com
+0.0.0.0 pixel.spotify.com
 # SPOTIFY.COM END
 
 # AVAST.COM START
+0.0.0.0 analytics.ff.avast.com
+0.0.0.0 au.ff.avast.com
 0.0.0.0 auth.ff.avast.com
 0.0.0.0 auth2.ff.avast.com
-0.0.0.0 feed.ff.avast.com
-0.0.0.0 streamback.ff.avast.com
-0.0.0.0 au.ff.avast.com
 0.0.0.0 device-control.ff.avast.com
+0.0.0.0 feed.ff.avast.com
 0.0.0.0 shepherd.ff.avast.com
-0.0.0.0 analytics.ff.avast.com
+0.0.0.0 streamback.ff.avast.com
 # AVAST.COM END
 
 # TWITTER.COM START
-0.0.0.0 platform.twitter.com
-0.0.0.0 analytics.twitter.com
-0.0.0.0 syndication.twitter.com
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads.twitter.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 platform.twitter.com
 0.0.0.0 scribe.twitter.com
+0.0.0.0 syndication.twitter.com
 # TWITTER.COM END
 
 # VIDEOROLL.NET START
@@ -3576,9 +3574,9 @@ ff02::3 ip6-allhosts
 # GVT ALL END
 
 # BIDMACHINE.IO START
-0.0.0.0 bidmachine.io
-0.0.0.0 artifactory.bidmachine.io
 0.0.0.0 api-eu.bidmachine.io
+0.0.0.0 artifactory.bidmachine.io
+0.0.0.0 bidmachine.io
 # BIDMACHINE.IO END
 
 # APPBAQEND.COM START
@@ -3624,13 +3622,13 @@ ff02::3 ip6-allhosts
 # STARTAPPSERVICE.COM END
 
 # SCORECARDRESEARCH.COM START
-0.0.0.0 scorecardresearch.com
+0.0.0.0 a.ia1.scorecardresearch.com
 0.0.0.0 a.scorecardresearch.com
 0.0.0.0 ads.scorecardresearch.com
 0.0.0.0 api.scorecardresearch.com
 0.0.0.0 ar.scorecardresearch.com
-0.0.0.0 b.scorecardresearch.com
 0.0.0.0 b-stage.scorecardresearch.com
+0.0.0.0 b.scorecardresearch.com
 0.0.0.0 b6.scorecardresearch.com
 0.0.0.0 beacon.scorecardresearch.com
 0.0.0.0 c.scorecardresearch.com
@@ -3640,115 +3638,115 @@ ff02::3 ip6-allhosts
 0.0.0.0 event.scorecardresearch.com
 0.0.0.0 g.scorecardresearch.com
 0.0.0.0 h.scorecardresearch.com
-0.0.0.0 a.ia1.scorecardresearch.com
-0.0.0.0 sa.ia1.scorecardresearch.com
-0.0.0.0 udm.ia1.scorecardresearch.com
-0.0.0.0 sa.ia2.scorecardresearch.com
-0.0.0.0 udm.ia2.scorecardresearch.com
-0.0.0.0 sa.ia3.scorecardresearch.com
-0.0.0.0 udm.ia3.scorecardresearch.com
-0.0.0.0 sa.ia4.scorecardresearch.com
-0.0.0.0 udm.ia4.scorecardresearch.com
-0.0.0.0 sa.ia5.scorecardresearch.com
-0.0.0.0 udm.ia5.scorecardresearch.com
-0.0.0.0 sa.ia6.scorecardresearch.com
-0.0.0.0 udm.ia6.scorecardresearch.com
-0.0.0.0 sa.ia7.scorecardresearch.com
-0.0.0.0 udm.ia7.scorecardresearch.com
-0.0.0.0 sa.ia8.scorecardresearch.com
-0.0.0.0 udm.ia8.scorecardresearch.com
-0.0.0.0 sa.ia9.scorecardresearch.com
-0.0.0.0 udm.ia9.scorecardresearch.com
-0.0.0.0 sa.iaa.scorecardresearch.com
 0.0.0.0 italy.scorecardresearch.com
-0.0.0.0 sa.or5.scorecardresearch.com
-0.0.0.0 udm.or6.scorecardresearch.com
-0.0.0.0 sa.or7.scorecardresearch.com
-0.0.0.0 udm.or7.scorecardresearch.com
 0.0.0.0 panel.scorecardresearch.com
-0.0.0.0 rediff.scorecardresearch.com
 0.0.0.0 rediff-w3.scorecardresearch.com
-0.0.0.0 sa.ri1.scorecardresearch.com
-0.0.0.0 udm.ri1.scorecardresearch.com
-0.0.0.0 sa.ri2.scorecardresearch.com
-0.0.0.0 udm.ri2.scorecardresearch.com
-0.0.0.0 sa.ri3.scorecardresearch.com
-0.0.0.0 udm.ri3.scorecardresearch.com
-0.0.0.0 sa.ri4.scorecardresearch.com
-0.0.0.0 udm.ri4.scorecardresearch.com
-0.0.0.0 sa.ri5.scorecardresearch.com
-0.0.0.0 udm.ri5.scorecardresearch.com
-0.0.0.0 sa.ri6.scorecardresearch.com
-0.0.0.0 udm.ri6.scorecardresearch.com
-0.0.0.0 sa.ri7.scorecardresearch.com
-0.0.0.0 udm.ri7.scorecardresearch.com
-0.0.0.0 sa.ri8.scorecardresearch.com
-0.0.0.0 udm.ri8.scorecardresearch.com
-0.0.0.0 sa.ri9.scorecardresearch.com
-0.0.0.0 udm.ri9.scorecardresearch.com
-0.0.0.0 sa.ria.scorecardresearch.com
-0.0.0.0 udm.ria.scorecardresearch.com
+0.0.0.0 rediff.scorecardresearch.com
 0.0.0.0 s2sa.scorecardresearch.com
-0.0.0.0 sa.scorecardresearch.com
 0.0.0.0 sa-tst.scorecardresearch.com
-0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 sa.ia1.scorecardresearch.com
+0.0.0.0 sa.ia2.scorecardresearch.com
+0.0.0.0 sa.ia3.scorecardresearch.com
+0.0.0.0 sa.ia4.scorecardresearch.com
+0.0.0.0 sa.ia5.scorecardresearch.com
+0.0.0.0 sa.ia6.scorecardresearch.com
+0.0.0.0 sa.ia7.scorecardresearch.com
+0.0.0.0 sa.ia8.scorecardresearch.com
+0.0.0.0 sa.ia9.scorecardresearch.com
+0.0.0.0 sa.iaa.scorecardresearch.com
+0.0.0.0 sa.or5.scorecardresearch.com
+0.0.0.0 sa.or7.scorecardresearch.com
+0.0.0.0 sa.ri1.scorecardresearch.com
+0.0.0.0 sa.ri2.scorecardresearch.com
+0.0.0.0 sa.ri3.scorecardresearch.com
+0.0.0.0 sa.ri4.scorecardresearch.com
+0.0.0.0 sa.ri5.scorecardresearch.com
+0.0.0.0 sa.ri6.scorecardresearch.com
+0.0.0.0 sa.ri7.scorecardresearch.com
+0.0.0.0 sa.ri8.scorecardresearch.com
+0.0.0.0 sa.ri9.scorecardresearch.com
+0.0.0.0 sa.ria.scorecardresearch.com
+0.0.0.0 sa.scorecardresearch.com
 0.0.0.0 sb-stage.scorecardresearch.com
+0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sb6.scorecardresearch.com
 0.0.0.0 sc.scorecardresearch.com
+0.0.0.0 scorecardresearch.com
 0.0.0.0 sd.scorecardresearch.com
 0.0.0.0 seb.scorecardresearch.com
 0.0.0.0 stg.scorecardresearch.com
 0.0.0.0 test.scorecardresearch.com
-0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 udm-dev.scorecardresearch.com
+0.0.0.0 udm.ia1.scorecardresearch.com
+0.0.0.0 udm.ia2.scorecardresearch.com
+0.0.0.0 udm.ia3.scorecardresearch.com
+0.0.0.0 udm.ia4.scorecardresearch.com
+0.0.0.0 udm.ia5.scorecardresearch.com
+0.0.0.0 udm.ia6.scorecardresearch.com
+0.0.0.0 udm.ia7.scorecardresearch.com
+0.0.0.0 udm.ia8.scorecardresearch.com
+0.0.0.0 udm.ia9.scorecardresearch.com
+0.0.0.0 udm.or6.scorecardresearch.com
+0.0.0.0 udm.or7.scorecardresearch.com
+0.0.0.0 udm.ri1.scorecardresearch.com
+0.0.0.0 udm.ri2.scorecardresearch.com
+0.0.0.0 udm.ri3.scorecardresearch.com
+0.0.0.0 udm.ri4.scorecardresearch.com
+0.0.0.0 udm.ri5.scorecardresearch.com
+0.0.0.0 udm.ri6.scorecardresearch.com
+0.0.0.0 udm.ri7.scorecardresearch.com
+0.0.0.0 udm.ri8.scorecardresearch.com
+0.0.0.0 udm.ri9.scorecardresearch.com
+0.0.0.0 udm.ria.scorecardresearch.com
+0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 www.scorecardresearch.com
 # SCORECARDRESEARCH.COM END
 
 # SKYPE.COM START
-0.0.0.0 config.edge.skype.com
 0.0.0.0 apps.skype.com
-0.0.0.0 peoplerecommendations.skype.com
-0.0.0.0 metrics.skype.com
-0.0.0.0 campaign.consumer.entitlement.skype.com
 0.0.0.0 calling.consumer.entitlement.skype.com
-0.0.0.0 consumer.entitlement.skype.com
-0.0.0.0 secure.consumer.entitlement.skype.com
+0.0.0.0 campaign.consumer.entitlement.skype.com
 0.0.0.0 config.ecs.skype.com
+0.0.0.0 config.edge.skype.com
+0.0.0.0 consumer.entitlement.skype.com
+0.0.0.0 metrics.skype.com
+0.0.0.0 peoplerecommendations.skype.com
+0.0.0.0 secure.consumer.entitlement.skype.com
 # SKYPE.COM END
 
 # VISUALSTUDIO.COM START
-0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 dc-int.services.visualstudio.com
+0.0.0.0 dc.services.visualstudio.com
 # VISUALSTUDIO.COM END
 
 # HWCDN.NET START
 0.0.0.0 f3b7q2p3.ssl.hwcdn.net
-0.0.0.0 j6i7c9j2.ssl.hwcdn.net
 0.0.0.0 i3j3u3u9.ssl.hwcdn.net
+0.0.0.0 j6i7c9j2.ssl.hwcdn.net
 # HWCDN.NET END
 
 # IOBIT.COM START
 0.0.0.0 ascstats.iobit.com
-0.0.0.0 stats.iobit.com
 0.0.0.0 download.iobit.com
+0.0.0.0 stats.iobit.com
 # IOBIT.COM END
 
 # NVIDIA ALL START
-0.0.0.0 gfwsl.geforce.com
-0.0.0.0 telemetry.gfe.nvidia.com
-0.0.0.0 telemetry.gfestage.nvidia.com
-0.0.0.0 gfe.nvidia.com
-0.0.0.0 services.gfe.nvidia.com
 0.0.0.0 accounts.nvgs.nvidia.com
+0.0.0.0 assets.nvidiagrid.net
 0.0.0.0 events.gfe.nvidia.com
+0.0.0.0 gfe.nvidia.com
+0.0.0.0 gfwsl.geforce.com
 0.0.0.0 images.nvidiagrid.net
 0.0.0.0 rds-assets.nvidia.com
-0.0.0.0 assets.nvidiagrid.net
+0.0.0.0 services.gfe.nvidia.com
+0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 telemetry.gfestage.nvidia.com
 # NVIDIA ALL END
 
 # INSTAGRAM.COM START
-0.0.0.0 graph.instagram.com
 0.0.0.0 badges.instagram.com
+0.0.0.0 graph.instagram.com
 0.0.0.0 logger.instagram.com
 # INSTAGRAM.COM END
 
