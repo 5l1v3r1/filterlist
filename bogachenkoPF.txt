@@ -568,6 +568,9 @@ $$script[wildcard="__CF$cv$params"]
 ||dlservice.microsoft.com^$important
 ||zen.yandex.*^$important
 ||scorecardresearch.com^$important
+||ip-api.com^$important
+||analyticsnew.overwolf.com^$important
+||tracking.overwolf.com^$important
 ! DOMAIN END
 
 ! IMAGE
@@ -1311,3 +1314,4 @@ yandex.ru#@#.forecast-details > .card:has(:scope > [class*="adv"])
 yandex.ru#@#[class$="segment__container"] > div > .card:has(:scope > div[class] div[id] + script)
 ||static-mon.yandex.net^$badfilter
 ||yandex.st^$badfilter
+||builder-assets.unbounce.com^$badfilter
