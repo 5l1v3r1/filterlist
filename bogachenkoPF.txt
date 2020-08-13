@@ -78,7 +78,7 @@ $$script[wildcard="__CF$cv$params"]
 @@/^https:\/\/my\.mail\.ru[+/]+video\//$subdocument,xmlhttprequest
 @@||ok.ru/videoembed/$subdocument
 @@||vk.com/video_ext.php$subdocument
-@@/^https?:\/\/192\.168\.[01]\.1\//$document
+@@/^https?:\/\/192\.168\.[0-6]{1,2}\.1\//$document
 @@/^https?:\/\/127\.0\.0\.1\//$document
 @@/^https?:\/\/localhost\//$document
 @@||*-instagram.*.facebook.com^
@@ -361,7 +361,7 @@ $$script[wildcard="__CF$cv$params"]
 /^https?:\/\/(?!(fonts|ajax|android|translate)\.)googleapis\.com/$important
 /^https?:\/\/([a-s1-3]{2}|update)\.torrentstream\.(org|info|net)/$important
 /^https?:\/\/127\.0\.0\.1(?!\:(1957[57]|9[01]5[01]|80(80)?|4212|6878|3000|53|853|43))/$important,~document
-/^https?:\/\/192.\168\.[01]\.1(?!\:(52869|3000))/$important,~document
+/^https?:\/\/192.\168\.[0-6]{1,2}\.1(?!\:(52869|3000))/$important,~document
 /^https?:\/\/bit(ly)?\.(com|ly)/$important
 /^https?:\/\/localhost(?!\:(8080|4212))/$important,~document
 /^https?:\/\/\*\.((facebo)?ok)\.(com|ru)/$important
