@@ -37,11 +37,6 @@
 ||0374adc8c6a6a56.com^$important
 ||0377shujuhuifu.top^$important
 ||039ad0897e6da.com^$important
-||fuseplatform.net^$important
-||nunhoefey.com^$important
-||webpinp.com^$important
-||1ts18.top^$important
-||moneypunchstep.online^$important
 ||04426f8b7ce9b069431.com^$important
 ||0452jhw.com^$important
 ||04v70ab.com^$important
@@ -204,6 +199,7 @@
 ||1rxntv.io^$important
 ||1sen-pit-fan.com^$important
 ||1tj7k84.com^$important
+||1ts18.top^$important
 ||1uno1xkktau4.com^$important
 ||1web.me^$important
 ||1wkvvts8is.com^$important
@@ -5370,6 +5366,7 @@
 ||furryhorses.com^$important
 ||furtherne.com^$important
 ||fuse-ad.com^$important
+||fuseplatform.net^$important
 ||futckgpfbgzfn.com^$important
 ||futuristicapparatus.com^$important
 ||futuristicfairies.com^$important
@@ -9539,6 +9536,7 @@
 ||money4ads.com^$important
 ||moneycosmos.com^$important
 ||moneymakercdn.com^$important
+||moneypunchstep.online^$important
 ||moneysavingexpertcarinsurance.icu^$important
 ||moneysavingexpertsavings.world^$important
 ||moneywhisper.com^$important
@@ -10670,6 +10668,7 @@
 ||numbertrck.com^$important
 ||numcxvlfguc.com^$important
 ||numibit.net^$important
+||nunhoefey.com^$important
 ||nunmnrbjrbsac.com^$important
 ||nunu-001.now.sh^$important
 ||nuogahntmkid.com^$important
@@ -15964,6 +15963,7 @@
 ||webmasterplan.com^$important
 ||webodu.com^$important
 ||weborama.fr^$important
+||webpinp.com^$important
 ||webpushs.com^$important
 ||websnewsdate.com^$important
 ||webtradehub.com^$important
