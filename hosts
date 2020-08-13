@@ -1280,7 +1280,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 displaycatalog.mp.microsoft.com
 0.0.0.0 dl.delivery.mp.microsoft.com
 0.0.0.0 dmd.metaservices.microsoft.com
-0.0.0.0 dns.msftncsi.com
 0.0.0.0 download.dmd.metaservices.microsoft.com
 0.0.0.0 edge.microsoft.com
 0.0.0.0 en.vortex-win.data.microsoft.com
@@ -1296,7 +1295,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 in.appcenter.ms
 0.0.0.0 insiderservice.microsoft.com
-0.0.0.0 ipv6.msftncsi.com
 0.0.0.0 kmwatsonc.events.data.microsoft.com
 0.0.0.0 licensing.mp.microsoft.com
 0.0.0.0 logging.windows.microsoft.com
@@ -1306,7 +1304,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 msedge.b.tlu.dl.delivery.mp.microsoft.com
-0.0.0.0 msftncsi.com
 0.0.0.0 nav.smartscreen.microsoft.com
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 pipe.aria.microsoft.com
@@ -1392,7 +1389,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 win10.ipv6.microsoft.com
 0.0.0.0 wustats.microsoft.com
-0.0.0.0 www.msftncsi.com
 # MICROSOFT.COM END
 
 # AKADNS.NET START
