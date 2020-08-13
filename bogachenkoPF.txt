@@ -1373,3 +1373,9 @@ hclips.com#@#+js(aeld, , window.open)
 hclips.com#@#+js(nosiif, document.readyState)
 hclips.com#@#+js(aopr, btoa)
 hclips.com#@#+js(aopr, ExoLoader)
+hclips.com#@#+js(acis, setTimeout, popunder)
+||txxx.ahcdn.com^$badfilter
+||txxx.*^$csp=script-src 'self' 'unsafe-eval' 'unsafe-inline' blob:,badfilter
+txxx.*#@#+js(nostif, t()?n())
+txxx.*#@#+js(aopr, localStorage)
+txxx.*#@#+js(aeld, click, pop.beforeOpen)
