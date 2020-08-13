@@ -676,13 +676,13 @@ google.*##+js(remove-attr.js, ping, div[class] > a[ping])
 google.*#%#//scriptlet("remove-attr", "ping", "div[class] > a[ping]")
 livejournal.com##+js(abort-current-inline-script.js, document.createElement, script)
 prostolinux.ru##+js(abort-on-property-write.js, document.oncopy)
-youtube.com##+js(json-prune, adPlacements playerAds)
-youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
-youtube.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com,youtube-nocookie.com##+js(json-prune, adPlacements playerAds)
+youtube.com,youtube-nocookie.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com,youtube-nocookie.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
 youtube.com##+js(set-constant.js, ytInitialPlayerResponse.adPlacements, undefined)
-youtube.com#%#//scriptlet("json-prune", "adPlacements playerAds")
-youtube.com#%#//scriptlet("json-prune", "playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds")
-youtube.com#%#//scriptlet("json-prune", "[].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds")
+youtube.com,youtube-nocookie.com#%#//scriptlet("json-prune", "adPlacements playerAds")
+youtube.com,youtube-nocookie.com#%#//scriptlet("json-prune", "playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds")
+youtube.com,youtube-nocookie.com#%#//scriptlet("json-prune", "[].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds")
 youtube.com#%#//scriptlet("set-constant", "ytInitialPlayerResponse.adPlacements", "undefined")
 zloekino.ru##+js(cookie-remover.js)
 zloekino.ru#%#//scriptlet("remove-cookie")
@@ -1063,8 +1063,8 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]vast[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest
 /\/ga[-._?&=#/][a-zA-Z]{5,}\.js/$important,other,script,third-party
 /\/pi?xe?l?\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)/$image,important,script,subdocument,xmlhttprequest,domain=~playground.ru
-/\/[a-z]{1}\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)\?[a-z]{1,2}\=/$image,important,other,script,subdocument,xmlhttprequest,domain=~3g2upl4pq6kufc4m.onion|~duckduckgo.com|~thepiratebay.org
-/^(?!.*((injections|local)\.adguard\.org|(jquery|hcaptcha|g(oogle(apis)?|static)|cloudflare|(bootstrap|jwp|dood)cdn|fontawesome|jwplatform)\.com|(recaptcha|zencdn|jsdelivr)\.net)).*$/$important,script,xmlhttprequest,other,subdocument,popup,popunder,third-party,domain=userscloud.com|adsafelink.net|adsafelink.com|adsrt.live|adz7short.space|clik.pw|fun4earn.xyz|iir.ai|jwearn.com|linkati.win|lopteup.vip|megalink.vip|moaplos.com|newsonthegotoday.com|ocanoke.com|ouo.io|ouo.press|owllink.net|popimed.com|profitlink.info|semawur.com|shorter.fun|spaste.com|stfly.me|tii.ai|todaynewspk.win|wicr.in|dropapk.to|mirrored.to|1fichier.com|rapidgator.net|uploaded.net|0gomovies.website|123moviesplayer.com|2streaming.net|bmoviesfree.io|clipwatching.com|cloud9.to|cloudvideo.tv|dood.watch|gcloud.live|gdriveplayer.io|gdriveplayer.me|gomo.to|gounlimited.to|hydrax.net|jetload.net|mcloud.to|mcloud2.to|mightyupload.com|mixdrop.co|movcloud.net|mp4upload.com|mstream.xyz|novelplanet.me|oload.party|streamapi.xyz|streamhoe.online|streamingworld.club|streamtape.com|streamvid.co|streamvideo.link|u-play.pro|upstream.to|vidcloud9.com|videobin.co|videoko.to|videospider.stream|vidlox.me|vidoza.net|vidsrc.me|vidstreaming.io|viduplayer.com|vivo.sx|voe.sx|vup.to|wstream.video|turbobit.net|mystream.to|oogly.io|anavids.com|streamup.xyz|putload.tv|streamvideo.link|putloaddd.tv|makeeasybtc.website|jo2win.com|bolssc.com|real-sky.com|mixloads.com|dz4win.com
+/\/[a-z]{1,2}\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)\?[a-z]{1,2}\=/$image,important,other,script,subdocument,xmlhttprequest,domain=~3g2upl4pq6kufc4m.onion|~duckduckgo.com|~thepiratebay.org
+/^(?!.*((injections|local)\.adguard\.org|(jquery|hcaptcha|g(oogle(apis)?|static)|cloudflare|(bootstrap|jwp|dood)cdn|fontawesome|jwplatform)\.com|(recaptcha|zencdn|jsdelivr)\.net)).*$/$important,script,xmlhttprequest,other,subdocument,popup,popunder,third-party,domain=userscloud.com|adsafelink.net|adsafelink.com|adsrt.live|adz7short.space|clik.pw|fun4earn.xyz|iir.ai|jwearn.com|linkati.win|lopteup.vip|megalink.vip|moaplos.com|newsonthegotoday.com|ocanoke.com|ouo.io|ouo.press|owllink.net|popimed.com|profitlink.info|semawur.com|shorter.fun|spaste.com|stfly.me|tii.ai|todaynewspk.win|wicr.in|dropapk.to|mirrored.to|1fichier.com|rapidgator.net|uploaded.net|0gomovies.website|123moviesplayer.com|2streaming.net|bmoviesfree.io|clipwatching.com|cloud9.to|cloudvideo.tv|dood.watch|gcloud.live|gdriveplayer.io|gdriveplayer.me|gomo.to|gounlimited.to|hydrax.net|jetload.net|mcloud.to|mcloud2.to|mightyupload.com|mixdrop.co|movcloud.net|mp4upload.com|mstream.xyz|novelplanet.me|oload.party|streamapi.xyz|streamhoe.online|streamingworld.club|streamtape.com|streamvid.co|streamvideo.link|u-play.pro|upstream.to|vidcloud9.com|videobin.co|videoko.to|videospider.stream|vidlox.me|vidoza.net|vidsrc.me|vidstreaming.io|viduplayer.com|vivo.sx|voe.sx|vup.to|wstream.video|turbobit.net|mystream.to|oogly.io|anavids.com|streamup.xyz|putload.tv|streamvideo.link|putloaddd.tv|makeeasybtc.website|jo2win.com|bolssc.com|real-sky.com|mixloads.com|dz4win.com|freeshrinker.com|mixdrop.to|racaty.net
 /^(?!.*((injections|local)\.adguard\.org|(userapi|youtube|vk(\-apps)?|google|ytimg)\.com|(vkuser(video|audio)|vk\-cdn)\.net|mycdn\.me)).*$/$image,important,script,subdocument,third-party,xmlhttprequest,domain=vk.com
 /^https?:\/\/yandex\.[\w]+\/images\/(?!(search\?)|(touch/search?))[^\s]{80,}/$important,subdocument,~third-party,xmlhttprequest
 /^https?:\/\/yastatic.net\/[^\s]+((widget\_ya|nearest|atom)\.js$|tableau\.html)/$important,script,subdocument,xmlhttprequest
@@ -1367,3 +1367,9 @@ yandex.ru#@#[class$="segment__container"] > div > .card:has(:scope > div[class] 
 ||static-mon.yandex.net^$badfilter
 ||yandex.st^$badfilter
 ||builder-assets.unbounce.com^$badfilter
+racaty.net#@#+js(acis, Object.defineProperty, XMLHttpRequest)
+racaty.net#@#+js(aopr, glxopen)
+hclips.com#@#+js(aeld, , window.open)
+hclips.com#@#+js(nosiif, document.readyState)
+hclips.com#@#+js(aopr, btoa)
+hclips.com#@#+js(aopr, ExoLoader)
