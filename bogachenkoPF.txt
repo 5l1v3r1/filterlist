@@ -63,7 +63,6 @@ $$script[wildcard="__CF$cv$params"]
 
 ! TEMPORARILY START
 !#if !ext_ublock
-@@/^https?:\/\/(www\.)?(github\.developerdan|gitlab)\.com/[^\s]+[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$app=firefox.exe|opera.exe|msedge.exe,image,important,other,script,xmlhttprequest
 @@||marketplace.visualstudio.com^$app=Code.exe,important
 @@||yastatic.net/yandex-video-player-iframe-api-bundles-stable/$popunder,popup,important
 !#endif
@@ -382,7 +381,9 @@ $$script[wildcard="__CF$cv$params"]
 ||addtoany.com^$important
 ||adeventtracker.spotify.com^$important
 ||adjust.com^$important
+||analytic.press^$important
 ||adnow.com^$important
+||braun634.com^$important
 ||adriver.ru^$important
 ||adroll.com^$important
 ||ads-bidder-api.twitter.com^$important
@@ -985,6 +986,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /^https?:\/\/[a-z]{6,16}\.[a-z]+\/4(00)?\/[0-9]{7}/$important,script,third-party
 /^https?:\/\/[a-z]{6,16}\.[a-z]+\/akam\/11\/[a-f0-9]{8}/$important,script
 /^https?:\/\/[a-z]{6,16}\.[a-z]+\/pntnsw\/[0-9]{4,5}/$important,script,third-party
+/^https?:\/\/[a-z]{10,11}\.com\/[0-9a-f]{5}\.js/$important,script,third-party
 /^https?:\/\/[a-z]{6,16}\.[a-z]+\/[0-9]{1}\?[a-z]{1}\=[0-9]{7}$/$important,script
 /^https?:\/\/[a-z]{6,16}\.[a-z]+\/[a-zA-Z0-9]{10,23}\/[0-9]{4,5}$/$important,script,third-party
 /^https?:\/\/[a-z]{6}\..*\/[a-z0-9]{3,30}\/[a-z0-9]{5,}\.php$/$important,script,third-party
@@ -1067,7 +1069,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]logs?(ging|impressions?|ers?)?[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~github.com|~gitlab.com|~instagram.com|~twitch.tv|~yadi.sk|~dns-shop.ru
 /[-._?&=#/]piwik[-.0-9_?&=#/]/$image,important,script
 /[-._?&=#/]pixel[-._?&=#/]/$image,important,script,subdocument,xmlhttprequest
-/[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~fandom.com|~github.com|~gitlab.com
+/[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$image,important,script,xmlhttprequest
 /[-._?&=#/]vast[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest
 /\/ga[-._?&=#/][a-zA-Z]{5,}\.js/$important,other,script,third-party
 /\/pi?xe?l?\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)/$image,important,script,subdocument,xmlhttprequest,domain=~playground.ru
