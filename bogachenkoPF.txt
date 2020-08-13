@@ -371,6 +371,7 @@ $$script[wildcard="__CF$cv$params"]
 ||2mdn.net^$important
 ||a-error.facebook.com^$important
 ||a-pixel.facebook.com^$important
+||smartadserver.com^$important
 ||a-www.facebook.com^$important
 ||activity-stream-icons.services.mozilla.com^$important
 ||actlz.github.io^$important
@@ -492,6 +493,8 @@ $$script[wildcard="__CF$cv$params"]
 ||graph.facebook.com^$important
 ||graph.fbpigeon.com^$important
 ||graph.instagram.com^$important
+||gx-corner.opera.com^$important
+||gx-corner.route*.opera.com^$important
 ||http-check-headers.yandex.ru^$important
 ||i18nmmstat.ucweb.com^$important
 ||ibb.co^$important
@@ -533,6 +536,7 @@ $$script[wildcard="__CF$cv$params"]
 ||op-mobile.opera.com^$important
 ||opera-api.com^$important
 ||operacoinexchange.com^$important
+||opr.as^$important
 ||pagead*.l.doubleclick.net^$important
 ||pagead-googlehosted.l.google.com^$important
 ||parimatch.com^$important
@@ -558,9 +562,6 @@ $$script[wildcard="__CF$cv$params"]
 ||radar.imgsmail.ru^$important
 ||recostream.go.mail.ru^$important
 ||recsys.opera.com^$important
-||gx-corner.opera.com^$important
-||gx-corner.route*.opera.com^$important
-||us-redir.opera.com^$important
 ||redir.opera.com^$important
 ||reef.vk-cdn.net^$important
 ||reports.ghostery.net^$important
@@ -589,10 +590,10 @@ $$script[wildcard="__CF$cv$params"]
 ||stats.ghostery.net^$important
 ||stophateforprofit.org^$important
 ||suggests.go.mail.ru^$important
+||suggests.yandex.*^$important
 ||symcd.com^$important
 ||syndication.twitter.com^$important
 ||taboola.com^$important
-||opr.as^$important
 ||tbcdn.cn^$important
 ||telemetry.api.swiftkey.com^$important
 ||telemetry.swiftkey.com^$important
@@ -605,6 +606,7 @@ $$script[wildcard="__CF$cv$params"]
 ||uc.cn^$important
 ||uc123.com^$important
 ||uma-browser.taobao.com^$important
+||us-redir.opera.com^$important
 ||userlocation.googleapis.com^$important
 ||video-stats.l.google.com^$important
 ||videoroll.net^$important
@@ -676,6 +678,7 @@ $$script[wildcard="__CF$cv$params"]
 ! APP END
 
 ! SCRIPTLET START
+*##+js(remove-attr.js, ping)
 google.*##+js(remove-attr.js, ping, div[class] > a[ping])
 google.*#%#//scriptlet("remove-attr", "ping", "div[class] > a[ping]")
 livejournal.com##+js(abort-current-inline-script.js, document.createElement, script)
@@ -690,7 +693,6 @@ youtube.com,youtube-nocookie.com#%#//scriptlet("json-prune", "[].playerResponse.
 youtube.com#%#//scriptlet("set-constant", "ytInitialPlayerResponse.adPlacements", "undefined")
 zloekino.ru##+js(cookie-remover.js)
 zloekino.ru#%#//scriptlet("remove-cookie")
-*##+js(remove-attr.js, ping)
 hotlink.cc,libertycity.ru,faucetcrypto.com##+js(nano-setInterval-booster.js)
 infourok.ru##+js(addEventListener-defuser.js, focus)
 infourok.ru##+js(addEventListener-defuser.js, focus, trigger)
@@ -817,6 +819,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[&?]zoneid\=/$important
 /[-._?&=#/]adfox[-._?&=#/]/$important
 /[-._?&=#/]adrum[-._?&=#/]/$important
+/[-._?&=#/]adrules[-._?&=#/]/$important
 /[-._?&=#/]akam[-._?&=#/]/$important
 /[-._?&=#/]beacon[-.0-9_?&=#/]?/$important
 /[-._?&=#/]me?tr[ie]?[ck][asx]?[-.0-9_?&=#/]?/$important,domain=~twitch.tv
@@ -961,6 +964,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /^https?:\/\/(www\.)?kinopoisk\.ru\/[^\s]{3000}$/$important,subdocument
 /^https?:\/\/(www\.)?music\.yandex\.(ru|ua|by|com)\/[^\s]{3000,}/$important,subdocument
 /^https?:\/\/tv\.yandex\.[\w]+\/[^\s]{300,}/$subdocument,~third-party
+/\/ads\.html?/$important,subdocument
 ||deviants.com/player/html.php$important,subdocument
 ||phncdn.com/iframe$important,subdocument
 ||redditmedia.com/gtm/jail?$important,subdocument
