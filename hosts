@@ -2392,18 +2392,27 @@ ff02::3 ip6-allhosts
 
 # OPERA ALL START
 0.0.0.0 af.opera.com
+0.0.0.0 gx-corner.opera.com
 0.0.0.0 api-a.op-mobile.opera.com
 0.0.0.0 autoupdate.geo.opera.com
 0.0.0.0 api.recsys.opera.com
+0.0.0.0 appstatic.opera.com
 0.0.0.0 desktop-dna.osp.opera.software
 0.0.0.0 exchange.opera.com
+0.0.0.0 opera-api.com
 0.0.0.0 features.opera-api.com
 0.0.0.0 geo.opera.com
+0.0.0.0 sentry.opera-api.com
+0.0.0.0 operacoinexchange.com
 0.0.0.0 get.geo.opera.com
 0.0.0.0 merchandise.opera-api.com
 0.0.0.0 news-af.op-mobile.opera.com
 0.0.0.0 news.opera-api.com
 0.0.0.0 ofa-sub.osp.opera.software
+0.0.0.0 recsys.opera.com
+0.0.0.0 us-redir.opera.com
+0.0.0.0 sd-images.operacdn.com
+0.0.0.0 redir.opera.com
 0.0.0.0 op-mobile.opera.com
 0.0.0.0 satoshi.opera-api.com
 0.0.0.0 sitecheck.opera.com
@@ -2411,6 +2420,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sitecheck2.opera.com
 0.0.0.0 sitecheck3.opera.com
 0.0.0.0 sitecheck4.opera.com
+0.0.0.0 opr.as
 0.0.0.0 sitecheck5.opera.com
 0.0.0.0 sitecheck6.opera.com
 0.0.0.0 sitecheck7.opera.com

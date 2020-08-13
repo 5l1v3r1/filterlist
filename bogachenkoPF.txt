@@ -558,6 +558,9 @@ $$script[wildcard="__CF$cv$params"]
 ||radar.imgsmail.ru^$important
 ||recostream.go.mail.ru^$important
 ||recsys.opera.com^$important
+||gx-corner.opera.com^$important
+||gx-corner.route*.opera.com^$important
+||us-redir.opera.com^$important
 ||redir.opera.com^$important
 ||reef.vk-cdn.net^$important
 ||reports.ghostery.net^$important
@@ -589,6 +592,7 @@ $$script[wildcard="__CF$cv$params"]
 ||symcd.com^$important
 ||syndication.twitter.com^$important
 ||taboola.com^$important
+||opr.as^$important
 ||tbcdn.cn^$important
 ||telemetry.api.swiftkey.com^$important
 ||telemetry.swiftkey.com^$important
@@ -1375,7 +1379,7 @@ hclips.com#@#+js(aopr, btoa)
 hclips.com#@#+js(aopr, ExoLoader)
 hclips.com#@#+js(acis, setTimeout, popunder)
 ||txxx.ahcdn.com^$badfilter
-||txxx.*^$csp=script-src 'self' 'unsafe-eval' 'unsafe-inline' blob:,badfilter
+||txxx.*^$csp=script-src  'self' 'unsafe-eval' 'unsafe-inline' blob:,badfilter
 txxx.*#@#+js(nostif, t()?n())
 txxx.*#@#+js(aopr, localStorage)
 txxx.*#@#+js(aeld, click, pop.beforeOpen)
