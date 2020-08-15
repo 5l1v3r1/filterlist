@@ -76,13 +76,13 @@ $$script[wildcard="__CF$cv$params"]
 ! TEMPORARILY END
 
 ! WHITELIST START
-@@/^https?:\/\/rt\//$~third-party
+@@/^https?:\/\/rt\/$/
 @@/^https:\/\/my\.mail\.ru[+/]+video\//$subdocument,xmlhttprequest
 @@||ok.ru/videoembed/$subdocument
 @@||vk.com/video_ext.php$subdocument
 @@/^https?:\/\/192\.168\.[0-6]{1,2}\.1\//$~third-party
 @@/^https?:\/\/127\.0\.0\.1\//$~third-party
-@@/^https?:\/\/localhost\//$~third-party
+@@/^https?:\/\/localhost\//
 @@||*-instagram.*.facebook.com^
 @@||connectivitycheck.gstatic.com^$important
 @@||gstatic.com/recaptcha/$script
@@ -338,7 +338,7 @@ $$script[wildcard="__CF$cv$params"]
 /^https?:\/\/(.*\.)?mail\.ru(?![+/]+video)\//$important,third-party,domain=~account.mail.ru|~webcache.googleusercontent.com
 /^https?:\/\/127\.0\.0\.1(?!\:(905[01]|3000))\//$important,third-party
 /^https?:\/\/192.\168\.[0-6]{1,2}\.1(?!\:(3000))\//$important,third-party
-/^https?:\/\/localhost(?!\:(3000))\//$important,third-party
+/^https?:\/\/localhost(?!\:(3000))\//$important,third-party,domain=~localhost
 /^https?:\/\/ok\.ru(?!\/videoembed)\//$important,third-party,domain=~webcache.googleusercontent.com
 /^https?:\/\/vk\.com(?!\/video)/$important,third-party,domain=~webcache.googleusercontent.com
 ||2o7.net^$third-party
