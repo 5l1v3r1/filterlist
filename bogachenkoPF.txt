@@ -336,13 +336,16 @@ $$script[wildcard="__CF$cv$params"]
 
 ! DOMAIN START
 /^https?:\/\/(.*\.)?mail\.ru(?![+/]+video)\//$important,third-party,domain=~account.mail.ru|~webcache.googleusercontent.com
+/^https?:\/\/127\.0\.0\.1(?!\:(905[01]|3000))\//$important,third-party
+/^https?:\/\/192.\168\.[0-6]{1,2}\.1(?!\:(3000))\//$important,third-party
+/^https?:\/\/localhost(?!\:(3000))\//$important,third-party
 /^https?:\/\/ok\.ru(?!\/videoembed)\//$important,third-party,domain=~webcache.googleusercontent.com
 /^https?:\/\/vk\.com(?!\/video)/$important,third-party,domain=~webcache.googleusercontent.com
 ||2o7.net^$third-party
 ||facebook.*^$third-party
 ||facebookcorewwwi.onion^$third-party
-||fbcdn.net^$third-party
 ||fb.com^$third-party
+||fbcdn.net^$third-party
 ||fbpigeon.com^$third-party
 ||linkedin.com^$third-party
 ||livejournal.com^$third-party
@@ -363,18 +366,14 @@ $$script[wildcard="__CF$cv$params"]
 /^a\.[a-z0-9]{40,}\.com$/$important
 /^https?:\/\/(?!(fonts|ajax|android|translate)\.)googleapis\.com/$important
 /^https?:\/\/([a-s1-3]{2}|update)\.torrentstream\.(org|info|net)/$important
-/^https?:\/\/127\.0\.0\.1(?!\:(905[01]|3000))/$important,third-party
-/^https?:\/\/192.\168\.[0-6]{1,2}\.1(?!\:(3000))/$important,third-party
 /^https?:\/\/bit(ly)?\.(com|ly)/$important
-/^https?:\/\/localhost\//$important,third-party
-||*.facebook.com^$important
-||*.ok.ru^$important
 /^[a-z0-9]{8,}\.Home$/$important
 ||*-pa.googleapis.com^$important
+||*.facebook.com^$important
+||*.ok.ru^$important
 ||2mdn.net^$important
 ||a-error.facebook.com^$important
 ||a-pixel.facebook.com^$important
-||smartadserver.com^$important
 ||a-www.facebook.com^$important
 ||activity-stream-icons.services.mozilla.com^$important
 ||actlz.github.io^$important
@@ -382,13 +381,10 @@ $$script[wildcard="__CF$cv$params"]
 ||addons-media.operacdn.com^$important,domain=~opera.com|~opera.ru
 ||addons-themes.operacdn.com^$important,domain=~opera.com|~opera.ru
 ||addthis.com^$important
-||bugsnag.com^$important
 ||addtoany.com^$important
 ||adeventtracker.spotify.com^$important
 ||adjust.com^$important
-||analytic.press^$important
 ||adnow.com^$important
-||braun634.com^$important
 ||adriver.ru^$important
 ||adroll.com^$important
 ||ads-bidder-api.twitter.com^$important
@@ -404,6 +400,8 @@ $$script[wildcard="__CF$cv$params"]
 ||alt*-safebrowsing.google.com^$important
 ||amazon-adsystem.com^$important
 ||an.facebook.com^$important
+||an.yandex.*^$important
+||analytic.press^$important
 ||analytics.ghostery.com^$important
 ||analytics.spotify.com^$important
 ||analytics.twitter.com^$important
@@ -436,13 +434,15 @@ $$script[wildcard="__CF$cv$params"]
 ||bench.utorrent.com^$important
 ||bidmachine.io^$important
 ||bing.com^$important
+||bingapis.com^$important
 ||blocklists-settings.prod.mozaws.net^$important
 ||blocklists.settings.services.mozilla.com^$important
+||braun634.com^$important
 ||brontp.yandex.ru^$important
 ||browser-updater.yandex.net^$important
 ||browser.taobao.com^$important
 ||browser.yandex.com^$important
-||c.bingapis.com^$important
+||bugsnag.com^$important
 ||cackle.me^$important
 ||census.zorinos.com^$important
 ||clck.yandex.ru^$important
@@ -501,6 +501,7 @@ $$script[wildcard="__CF$cv$params"]
 ||graph.instagram.com^$important
 ||gx-corner.opera.com^$important
 ||gx-corner.route*.opera.com^$important
+||hotjar.com^$important
 ||http-check-headers.yandex.ru^$important
 ||i18nmmstat.ucweb.com^$important
 ||ibb.co^$important
@@ -537,9 +538,7 @@ $$script[wildcard="__CF$cv$params"]
 ||ofa-sub.osp.opera.software^$important
 ||offers-api.ghostery.net^$important
 ||ok-bar.love.mail.ru^$important
-||an.yandex.*^$important
 ||ok-portal.mail.ru^$important
-||hotjar.com^$important
 ||oneclient.sfx.ms^$important
 ||op-mobile.opera.com^$important
 ||opera-api.com^$important
@@ -589,6 +588,7 @@ $$script[wildcard="__CF$cv$params"]
 ||siftscience.com^$important
 ||sitecheck*.opera.com^$important
 ||sitepic-mirror-holanetworksltd.netdna-ssl.com^$important
+||smartadserver.com^$important
 ||spade.twitch.tv^$important
 ||speeddials.opera.com^$important
 ||sputnik.ru^$important
