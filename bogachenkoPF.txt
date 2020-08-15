@@ -76,13 +76,13 @@ $$script[wildcard="__CF$cv$params"]
 ! TEMPORARILY END
 
 ! WHITELIST START
-@@/^http:\/\/rt\/$/$document
+@@/^https?:\/\/rt\//$~third-party
 @@/^https:\/\/my\.mail\.ru[+/]+video\//$subdocument,xmlhttprequest
 @@||ok.ru/videoembed/$subdocument
 @@||vk.com/video_ext.php$subdocument
-@@/^https?:\/\/192\.168\.[0-6]{1,2}\.1\//$document
-@@/^https?:\/\/127\.0\.0\.1\//$document
-@@/^https?:\/\/localhost\//$document
+@@/^https?:\/\/192\.168\.[0-6]{1,2}\.1\//$~third-party
+@@/^https?:\/\/127\.0\.0\.1\//$~third-party
+@@/^https?:\/\/localhost\//$~third-party
 @@||*-instagram.*.facebook.com^
 @@||connectivitycheck.gstatic.com^$important
 @@||gstatic.com/recaptcha/$script
@@ -363,11 +363,12 @@ $$script[wildcard="__CF$cv$params"]
 /^a\.[a-z0-9]{40,}\.com$/$important
 /^https?:\/\/(?!(fonts|ajax|android|translate)\.)googleapis\.com/$important
 /^https?:\/\/([a-s1-3]{2}|update)\.torrentstream\.(org|info|net)/$important
-/^https?:\/\/127\.0\.0\.1(?!\:(905[01]))/$important,~document
-/^https?:\/\/192.\168\.[0-6]{1,2}\.1/$important,~document
+/^https?:\/\/127\.0\.0\.1(?!\:(905[01]|3000))/$important,third-party
+/^https?:\/\/192.\168\.[0-6]{1,2}\.1(?!\:(3000))/$important,third-party
 /^https?:\/\/bit(ly)?\.(com|ly)/$important
-/^https?:\/\/localhost/$important,~document
-/^https?:\/\/\*\.((facebo)?ok)\.(com|ru)/$important
+/^https?:\/\/localhost\//$important,third-party
+||*.facebook.com^$important
+||*.ok.ru^$important
 /^[a-z0-9]{8,}\.Home$/$important
 ||*-pa.googleapis.com^$important
 ||2mdn.net^$important
