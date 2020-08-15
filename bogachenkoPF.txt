@@ -355,7 +355,7 @@ $$script[wildcard="__CF$cv$params"]
 ||translate.googleapis.com^$third-party,domain=~translate.googleusercontent.com
 ||twitch.tv^$third-party
 ||twitchcdn.net^$third-party,domain=~twitch.tv
-||twitter.com^$third-party,domain=~kinopoisk.ru|~lenta.ru
+||twitter.com^$third-party,domain=~kinopoisk.ru|~lenta.ru|~meduza.io
 ||vk.com^$third-party
 ||yahoo.*^$third-party
 ||yandex.*^$third-party,domain=~kinopoisk.ru|~metrika.yandex.ru|~passport.rt.ru|~rt-internet.ru|~yadi.sk|~yandex.az|~yandex.by|~yandex.co.ge|~yandex.com|~yandex.com.tr|~yandex.fr|~yandex.kz|~yandex.lt|~yandex.md|~yandex.net|~yandex.ru|~yandex.tm|~yandex.ua|~yandex.uz|~yastatic.net|~z5h64q92x9.net
@@ -363,10 +363,10 @@ $$script[wildcard="__CF$cv$params"]
 /^a\.[a-z0-9]{40,}\.com$/$important
 /^https?:\/\/(?!(fonts|ajax|android|translate)\.)googleapis\.com/$important
 /^https?:\/\/([a-s1-3]{2}|update)\.torrentstream\.(org|info|net)/$important
-/^https?:\/\/127\.0\.0\.1(?!\:(1957[57]|9[01]5[01]|80(80)?|4212|6878|3000|53|853|43))/$important,~document
-/^https?:\/\/192.\168\.[0-6]{1,2}\.1(?!\:(52869|3000))/$important,~document
+/^https?:\/\/127\.0\.0\.1(?!\:(905[01]))/$important,~document
+/^https?:\/\/192.\168\.[0-6]{1,2}\.1/$important,~document
 /^https?:\/\/bit(ly)?\.(com|ly)/$important
-/^https?:\/\/localhost(?!\:(8080|4212))/$important,~document
+/^https?:\/\/localhost/$important,~document
 /^https?:\/\/\*\.((facebo)?ok)\.(com|ru)/$important
 /^[a-z0-9]{8,}\.Home$/$important
 ||*-pa.googleapis.com^$important
@@ -381,6 +381,7 @@ $$script[wildcard="__CF$cv$params"]
 ||addons-media.operacdn.com^$important,domain=~opera.com|~opera.ru
 ||addons-themes.operacdn.com^$important,domain=~opera.com|~opera.ru
 ||addthis.com^$important
+||bugsnag.com^$important
 ||addtoany.com^$important
 ||adeventtracker.spotify.com^$important
 ||adjust.com^$important
@@ -916,7 +917,6 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||yandex.*/portal/$important
 ||yandex.*/suggest/$important
 ||youtube.com/ptracking?$important
-||[::1]^
 ! OTHER END
 
 ! DOCUMENT START

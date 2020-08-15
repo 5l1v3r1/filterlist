@@ -3768,4 +3768,24 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.braun634.com
 0.0.0.0 n19.cdn.braun634.com
 0.0.0.0  n3.cdn.braun634.com
-# # BRAUN634.COM END
+# BRAUN634.COM END
+
+# BUGSNAG.COM START
+0.0.0.0 bugsnag.com
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 campaigns.bugsnag.com
+0.0.0.0 eml.bugsnag.com
+0.0.0.0 enterprise-updates.bugsnag.com
+0.0.0.0 links.bugsnag.com
+0.0.0.0 on-prem-dashboard-testing.bugsnag.com
+0.0.0.0 on-prem-james-testing.bugsnag.com
+0.0.0.0 on-prem-support-testing.bugsnag.com
+0.0.0.0 on-prem-testing.bugsnag.com
+0.0.0.0 status.bugsnag.com
+0.0.0.0 updates.bugsnag.com
+0.0.0.0 upload.bugsnag.com
+0.0.0.0 www.bugsnag.com
+# BUGSNAG.COM END
