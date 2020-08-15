@@ -83,10 +83,12 @@ $$script[wildcard="__CF$cv$params"]
 @@/^https?:\/\/192\.168\.[0-6]{1,2}\.1\//$~third-party
 @@/^https?:\/\/127\.0\.0\.1\//$~third-party
 @@/^https?:\/\/localhost\//
+@@/^https?:\/\/\[::1]\//
 @@||*-instagram.*.facebook.com^
 @@||connectivitycheck.gstatic.com^$important
 @@||gstatic.com/recaptcha/$script
 @@||injections.adguard.org^
+@@||api.adguard.com^
 @@||instagram.*.facebook.com^
 @@||local.adguard.org^
 @@||music.yandex.*^$generichide
@@ -341,6 +343,7 @@ $$script[wildcard="__CF$cv$params"]
 /^https?:\/\/localhost(?!\:(3000))\//$important,third-party,domain=~localhost
 /^https?:\/\/ok\.ru(?!\/videoembed)\//$important,third-party,domain=~webcache.googleusercontent.com
 /^https?:\/\/vk\.com(?!\/video)/$important,third-party,domain=~webcache.googleusercontent.com
+/^https?:\/\/\[::1]\//$important,third-party
 ||2o7.net^$third-party
 ||facebook.*^$third-party
 ||facebookcorewwwi.onion^$third-party
