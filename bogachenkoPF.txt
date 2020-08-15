@@ -809,7 +809,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 
 ! WEBSOCKET START
 *$important,websocket,domain=hlsplay.com|hindilinks4uto.com|hqq.tv|povvideo.net|powvldeo.cc|powvldeo.co|powvldeo.me|powvldeo.net|waaw.tv|clipwatching.com
-*$websocket,third-party,domain=~music.yandex.ru|~music.yandex.ua|~music.yandex.by|~discord.com
+*$websocket,third-party,domain=~music.yandex.ru|~music.yandex.ua|~music.yandex.by|~discord.com|~speedtest.net
 ! WEBSOCKET END
 
 ! CSP START
@@ -832,7 +832,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]akam[-._?&=#/]/$important
 /[-._?&=#/]beacon[-.0-9_?&=#/]?/$important
 /[-._?&=#/]me?tr[ie]?[ck][asx]?[-.0-9_?&=#/]?/$important,domain=~twitch.tv
-/[-._?&=#/]ping[-.0-9_?&=#/]?/$important,domain=~playhydrax.com|~twitch.tv
+/[-._?&=#/]ping[-.0-9_?&=#/]?/$important,domain=~playhydrax.com|~twitch.tv|~speedtest.net
 /[-._?&=#/]preroll[-._?&=#/]/$important,domain=~ttvnw.net
 /\/ads?[0-9]{1}\.php\?/$important
 /\?zone[-_]?id\=/$important
