@@ -348,7 +348,7 @@ $$script[wildcard="__CF$cv$params"]
 ||facebook.*^$third-party
 ||facebookcorewwwi.onion^$third-party
 ||fb.com^$third-party
-||fbcdn.net^$third-party,domain=~facebook.com
+||fbcdn.net^$third-party,domain=~facebook.com|~instagram.com
 ||fbpigeon.com^$third-party
 ||linkedin.com^$third-party
 ||livejournal.com^$third-party
@@ -476,7 +476,6 @@ $$script[wildcard="__CF$cv$params"]
 ||doublemax.net^$important
 ||downloader.yandex.net^$important
 ||e5.sk^$important
-||edge.microsoft.com^$important
 ||ero-advertising.com^$important
 ||error.facebook.com^$important
 ||event.shelljacket.us^$important
