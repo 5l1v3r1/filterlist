@@ -348,7 +348,7 @@ $$script[wildcard="__CF$cv$params"]
 ||facebook.*^$third-party
 ||facebookcorewwwi.onion^$third-party
 ||fb.com^$third-party
-||fbcdn.net^$third-party
+||fbcdn.net^$third-party,domain=~facebook.com
 ||fbpigeon.com^$third-party
 ||linkedin.com^$third-party
 ||livejournal.com^$third-party
@@ -391,6 +391,7 @@ $$script[wildcard="__CF$cv$params"]
 ||ads-bidder-api.twitter.com^$important
 ||ads-fa.spotify.com^$important
 ||ads.facebook.com^$important
+||pluso.ru^$important
 ||ads.spotify.com^$important
 ||ads.twitter.com^$important
 ||adservice.google.*^$important
@@ -735,6 +736,8 @@ ventax.net,kinomore.xyz,rutube.ru,ovagames.com,hindipix.*,waaw1.tv,gameofthrones
 *##img[src*="advert"]
 *##img[src*="exdynsrv.com"]
 2ch.hk##.logo, #mobile-pashque
+trialnod.net,trialeset.net##.remodal-is-opened.remodal-wrapper, .remodal-is-opened.remodal-overlay
+trialnod.net,trialeset.net##html:style(overflow-y: scroll !important;)
 aliexpress.*##.top-banner-container, [href*="/Select_Coupons.htm"], #J_xiaomi_dialog, [href*="/download_app_guide.htm"], .product-fix-sns, .site-footer > .container, .footer-copywrite, .site-footer, #j-multi-sidebar-outer, .site-server-box, .user-helper-footer, .hot-words, .site-footer > .container, .footer-copywrite, .site-footer, #j-multi-sidebar-outer, .user-helper-footer, .site-server-box, .mobile-app.me-ui-box, .container-radius.float-image, .cross-link
 bing.com###t_termsInfo
 clipwatching.com###container > div > div:style(width:0px!important)
