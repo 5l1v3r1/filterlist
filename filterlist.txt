@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-08-13 16:58:54
-! Version: 20200813165854
+! Last modified: 2020-08-17 01:11:41
+! Version: 20200817011141
 ! Expires: 3 hours
-! Number of filters: 18250
+! Number of filters: 18268
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -515,6 +515,7 @@
 ||3npsgv2sx5.com^$important
 ||3omb.com^$important
 ||3phzb1pbij.com^$important
+||3qk4s31iy0.rest^$important
 ||3r1kwxcd.top^$important
 ||3rdads.com^$important
 ||3redlightfix.com^$important
@@ -1244,6 +1245,7 @@
 ||acwswfbyhtsf.com^$important
 ||acwyoynw.com^$important
 ||acxujxzdluum.com^$important
+||ad.gt^$important
 ||ad.mail.ru^$important
 ||ad1.ru^$important
 ||ad120m.com^$important
@@ -2447,6 +2449,7 @@
 ||bkxkodsmrnqd.com^$important
 ||bl0uxepb4o.com^$important
 ||blablablaaa.xyz^$important
+||blaclurius.com^$important
 ||blaghfpd.com^$important
 ||blandernova.com^$important
 ||blcmacswwmqv.com^$important
@@ -2696,6 +2699,7 @@
 ||butashasp.site^$important
 ||butcalve.com^$important
 ||butterburst.com^$important
+||buysellads.com^$important
 ||buysellads.net^$important
 ||buzzoola.com^$important
 ||bvcddoyb.com^$important
@@ -3602,6 +3606,7 @@
 ||daljntupdaoejb.com^$important
 ||damdoor.com^$important
 ||damelaurig.info^$important
+||damskiy.xyz^$important
 ||dancemistake.com^$important
 ||danunnpvy.com^$important
 ||daohvygdwvj.bid^$important
@@ -4655,6 +4660,7 @@
 ||estcontentdelivery.info^$important
 ||esterlonder.com^$important
 ||estionexperime.info^$important
+||estoopsi.com^$important
 ||esundpxbixeqgu.com^$important
 ||eswaldderinao.site^$important
 ||eszkrcviokckfb.com^$important
@@ -4853,6 +4859,7 @@
 ||f63m7w8n29.com^$important
 ||f64927dfde9be4.com^$important
 ||f6be7033f30.com^$important
+||f6dy9wgfbf.ru^$important
 ||f754f81e3b6.com^$important
 ||f79f94b4ddc625aa0f4.com^$important
 ||f7f38d8e641296a0a75.com^$important
@@ -7829,6 +7836,7 @@
 ||kdhkjeklzihiwh.com^$important
 ||kdhndryipp.com^$important
 ||kdiunbsaw.com^$important
+||kdjkfjekrkjer.xyz^$important
 ||kdkzvfzmgvm.com^$important
 ||kdmilqoiaucqto.com^$important
 ||kdmkauchahynhrs.ru^$important
@@ -9652,6 +9660,7 @@
 ||moyeluljrail.com^$important
 ||mozgvya.com^$important
 ||mp3toavi.xyz^$important
+||mp3vizor.com^$important
 ||mparticle.com^$important
 ||m-pathy.com^$important
 ||mpau.biz^$important
@@ -10786,6 +10795,7 @@
 ||nywuthdzdacoq.com^$important
 ||nyzncfurdrdxfi.com^$important
 ||nyzobnpbcwjwfs.com^$important
+||nzafj0fqsy.rest^$important
 ||nzbtvquutdr.com^$important
 ||nzcpdaboaayv.com^$important
 ||nzkjbazl.com^$important
@@ -12213,6 +12223,7 @@
 ||qeqsibev.com^$important
 ||qerlbvqwsqtb.com^$important
 ||qerlrppx.com^$important
+||qerusgreyt.com^$important
 ||qeuggztcqmashg.bid^$important
 ||qevfmwciyp.bid^$important
 ||qevivcixnngf.com^$important
@@ -12719,6 +12730,7 @@
 ||realnwspfbumn.com^$important
 ||realsrv.com^$important
 ||realtime-bid.com^$important
+||realvu.net^$important
 ||reasedoper.pw^$important
 ||reasonalattracke.info^$important
 ||reaster.info^$important
@@ -12762,6 +12774,7 @@
 ||reiqwxxd.com^$important
 ||reiseeget.com^$important
 ||rejbqhagczm.com^$important
+||rekagrorb.bid^$important
 ||reklama.mail.ru^$important
 ||reklamko.pro^$important
 ||reklamstore.com^$important
@@ -13432,6 +13445,7 @@
 ||septembership.com^$important
 ||sepyqhipq.com^$important
 ||serconmp.com^$important
+||sereendipit.com^$important
 ||seria-z.net^$important
 ||serie-vostfr.com^$important
 ||serv1swork.com^$important
@@ -14128,6 +14142,7 @@
 ||tailpdulprkp.com^$important
 ||tailtarget.com^$important
 ||take-the-bonus.biz^$important
+||takidd.site^$important
 ||takshop91.biz^$important
 ||talentedsteel.com^$important
 ||taljdzwer.com^$important
@@ -14618,6 +14633,7 @@
 ||traffic-tech-service.info^$important
 ||trafforsrv.com^$important
 ||trahes.site^$important
+||trailerfilma.online^$important
 ||tralifa.info^$important
 ||traneranium.com^$important
 ||tranite.info^$important
@@ -15344,6 +15360,7 @@
 ||uzreuvnlizlz.com^$important
 ||uzrrqqzlktpymn.com^$important
 ||uzsywcdthqplzv.bid^$important
+||uzttnr.com^$important
 ||uzvjymcnwngwau.bid^$important
 ||uzvoj.com^$important
 ||uzvuhhyymmkc.com^$important
@@ -17073,6 +17090,7 @@
 ||ydzbxtld.bid^$important
 ||ye185hcamw.com^$important
 ||yeagdfyw.com^$important
+||yeaonesad.com^$important
 ||yebadu.com^$important
 ||yeboexwt.bid^$important
 ||yecviqwkapujp.bid^$important

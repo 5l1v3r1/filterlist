@@ -29,25 +29,6 @@
 ||01ced816b84.com^$important
 ||01counter.com^$important
 ||01dbf3a452b6.com^$important
-||sereendipit.com^$important
-||blaclurius.com^$important
-||mp3vizor.com^$important
-||qerusgreyt.com^$important
-||estoopsi.com^$important
-||buysellads.com^$important
-||yeaonesad.com^$important
-||kdjkfjekrkjer.xyz^$important
-||takidd.site^$important
-||damskiy.xyz^$important
-||trailerfilma.online^$important
-||rekagrorb.bid^$important
-||uzttnr.com^$important
-||f6dy9wgfbf.ru^$important
-||3qk4s31iy0.rest^$important
-||nzafj0fqsy.rest^$important
-||trailerfilma.online^$important
-||ad.gt^$important
-||realvu.net^$important
 ||01jud3v55z.com^$important
 ||01mspmd5yalky8.com^$important
 ||024xuyisheng.com^$important
@@ -488,6 +469,7 @@
 ||3npsgv2sx5.com^$important
 ||3omb.com^$important
 ||3phzb1pbij.com^$important
+||3qk4s31iy0.rest^$important
 ||3r1kwxcd.top^$important
 ||3rdads.com^$important
 ||3redlightfix.com^$important
@@ -1243,6 +1225,7 @@
 ||ad-srv.net^$important
 ||ad-stir.com^$important
 ||ad-vice.biz^$important
+||ad.gt^$important
 ||ad.mail.ru^$important
 ||ad1.ru^$important
 ||ad120m.com^$important
@@ -2420,6 +2403,7 @@
 ||bkxkodsmrnqd.com^$important
 ||bl0uxepb4o.com^$important
 ||blablablaaa.xyz^$important
+||blaclurius.com^$important
 ||blaghfpd.com^$important
 ||blandernova.com^$important
 ||blcmacswwmqv.com^$important
@@ -2669,6 +2653,7 @@
 ||butashasp.site^$important
 ||butcalve.com^$important
 ||butterburst.com^$important
+||buysellads.com^$important
 ||buysellads.net^$important
 ||buzzoola.com^$important
 ||bvcddoyb.com^$important
@@ -3577,6 +3562,7 @@
 ||daljntupdaoejb.com^$important
 ||damdoor.com^$important
 ||damelaurig.info^$important
+||damskiy.xyz^$important
 ||dancemistake.com^$important
 ||danunnpvy.com^$important
 ||daohvygdwvj.bid^$important
@@ -4628,6 +4614,7 @@
 ||estcontentdelivery.info^$important
 ||esterlonder.com^$important
 ||estionexperime.info^$important
+||estoopsi.com^$important
 ||esundpxbixeqgu.com^$important
 ||eswaldderinao.site^$important
 ||eszkrcviokckfb.com^$important
@@ -4827,6 +4814,7 @@
 ||f63m7w8n29.com^$important
 ||f64927dfde9be4.com^$important
 ||f6be7033f30.com^$important
+||f6dy9wgfbf.ru^$important
 ||f754f81e3b6.com^$important
 ||f79f94b4ddc625aa0f4.com^$important
 ||f7f38d8e641296a0a75.com^$important
@@ -7802,6 +7790,7 @@
 ||kdhkjeklzihiwh.com^$important
 ||kdhndryipp.com^$important
 ||kdiunbsaw.com^$important
+||kdjkfjekrkjer.xyz^$important
 ||kdkzvfzmgvm.com^$important
 ||kdmilqoiaucqto.com^$important
 ||kdmkauchahynhrs.ru^$important
@@ -9628,6 +9617,7 @@
 ||mozgvya.com^$important
 ||mp-https.info^$important
 ||mp3toavi.xyz^$important
+||mp3vizor.com^$important
 ||mparticle.com^$important
 ||mpau.biz^$important
 ||mpbjbeueinytao.com^$important
@@ -10759,6 +10749,7 @@
 ||nywuthdzdacoq.com^$important
 ||nyzncfurdrdxfi.com^$important
 ||nyzobnpbcwjwfs.com^$important
+||nzafj0fqsy.rest^$important
 ||nzbtvquutdr.com^$important
 ||nzcpdaboaayv.com^$important
 ||nzkjbazl.com^$important
@@ -12186,6 +12177,7 @@
 ||qeqsibev.com^$important
 ||qerlbvqwsqtb.com^$important
 ||qerlrppx.com^$important
+||qerusgreyt.com^$important
 ||qeuggztcqmashg.bid^$important
 ||qevfmwciyp.bid^$important
 ||qevivcixnngf.com^$important
@@ -12692,6 +12684,7 @@
 ||realnwspfbumn.com^$important
 ||realsrv.com^$important
 ||realtime-bid.com^$important
+||realvu.net^$important
 ||reasedoper.pw^$important
 ||reasonalattracke.info^$important
 ||reaster.info^$important
@@ -12735,6 +12728,7 @@
 ||reiqwxxd.com^$important
 ||reiseeget.com^$important
 ||rejbqhagczm.com^$important
+||rekagrorb.bid^$important
 ||reklama.mail.ru^$important
 ||reklamko.pro^$important
 ||reklamstore.com^$important
@@ -13405,6 +13399,7 @@
 ||septembership.com^$important
 ||sepyqhipq.com^$important
 ||serconmp.com^$important
+||sereendipit.com^$important
 ||seria-z.net^$important
 ||serie-vostfr.com^$important
 ||serv1swork.com^$important
@@ -14101,6 +14096,7 @@
 ||tailpdulprkp.com^$important
 ||tailtarget.com^$important
 ||take-the-bonus.biz^$important
+||takidd.site^$important
 ||takshop91.biz^$important
 ||talentedsteel.com^$important
 ||taljdzwer.com^$important
@@ -14591,6 +14587,7 @@
 ||trafficjunky.net^$important
 ||trafforsrv.com^$important
 ||trahes.site^$important
+||trailerfilma.online^$important
 ||tralifa.info^$important
 ||traneranium.com^$important
 ||tranite.info^$important
@@ -15317,6 +15314,7 @@
 ||uzreuvnlizlz.com^$important
 ||uzrrqqzlktpymn.com^$important
 ||uzsywcdthqplzv.bid^$important
+||uzttnr.com^$important
 ||uzvjymcnwngwau.bid^$important
 ||uzvoj.com^$important
 ||uzvuhhyymmkc.com^$important
@@ -17046,6 +17044,7 @@
 ||ydzbxtld.bid^$important
 ||ye185hcamw.com^$important
 ||yeagdfyw.com^$important
+||yeaonesad.com^$important
 ||yebadu.com^$important
 ||yeboexwt.bid^$important
 ||yecviqwkapujp.bid^$important
