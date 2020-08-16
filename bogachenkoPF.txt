@@ -372,8 +372,6 @@ $$script[wildcard="__CF$cv$params"]
 /^https?:\/\/bit(ly)?\.(com|ly)/$important
 /^[a-z0-9]{8,}\.Home$/$important
 ||*-pa.googleapis.com^$important
-||*.facebook.com^$important
-||*.ok.ru^$important
 ||2mdn.net^$important
 ||a-error.facebook.com^$important
 ||a-pixel.facebook.com^$important
