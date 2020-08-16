@@ -638,6 +638,7 @@ $$script[wildcard="__CF$cv$params"]
 ||yadro.ru^$important
 ||yastroka.yandex.net^$important
 ||zen.yandex.*^$important
+||hostingcloud.*^$important
 ! DOMAIN END
 
 ! IMAGE START
@@ -835,6 +836,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]ping[-.0-9_?&=#/]?/$important,domain=~playhydrax.com|~twitch.tv|~speedtest.net
 /[-._?&=#/]preroll[-._?&=#/]/$important,domain=~ttvnw.net
 /\/ads?[0-9]{1}\.php\?/$important
+|http*:*/0pixel.php?$important
 /\?zone[-_]?id\=/$important
 |http*:$beacon,important
 |http*:$important,object
@@ -1082,7 +1084,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /\/ga[-._?&=#/][a-zA-Z]{5,}\.js/$important,other,script,third-party
 /\/pi?xe?l?\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)/$image,important,script,subdocument,xmlhttprequest,domain=~playground.ru
 /\/[a-z]{1,2}\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)\?[a-z]{1,2}\=/$image,important,other,script,subdocument,xmlhttprequest,domain=~3g2upl4pq6kufc4m.onion|~duckduckgo.com|~thepiratebay.org
-/^(?!.*((injections|local)\.adguard\.org|(jquery|hcaptcha|g(oogle(apis)?|static)|cloudflare|(bootstrap|jwp|dood)cdn|fontawesome|jwplatform)\.com|(recaptcha|zencdn|jsdelivr)\.net)).*$/$important,script,xmlhttprequest,other,subdocument,popup,popunder,third-party,domain=userscloud.com|adsafelink.net|adsafelink.com|adsrt.live|adz7short.space|clik.pw|fun4earn.xyz|iir.ai|jwearn.com|linkati.win|lopteup.vip|megalink.vip|moaplos.com|newsonthegotoday.com|ocanoke.com|ouo.io|ouo.press|owllink.net|popimed.com|profitlink.info|semawur.com|shorter.fun|spaste.com|stfly.me|tii.ai|todaynewspk.win|wicr.in|dropapk.to|mirrored.to|1fichier.com|rapidgator.net|uploaded.net|0gomovies.website|123moviesplayer.com|2streaming.net|bmoviesfree.io|clipwatching.com|cloud9.to|cloudvideo.tv|dood.watch|gcloud.live|gdriveplayer.io|gdriveplayer.me|gomo.to|gounlimited.to|hydrax.net|jetload.net|mcloud.to|mcloud2.to|mightyupload.com|mixdrop.co|movcloud.net|mp4upload.com|mstream.xyz|novelplanet.me|oload.party|streamapi.xyz|streamhoe.online|streamingworld.club|streamtape.com|streamvid.co|streamvideo.link|u-play.pro|upstream.to|vidcloud9.com|videobin.co|videoko.to|videospider.stream|vidlox.me|vidoza.net|vidsrc.me|vidstreaming.io|viduplayer.com|vivo.sx|voe.sx|vup.to|wstream.video|turbobit.net|mystream.to|oogly.io|anavids.com|streamup.xyz|putload.tv|streamvideo.link|putloaddd.tv|makeeasybtc.website|jo2win.com|bolssc.com|real-sky.com|mixloads.com|dz4win.com|freeshrinker.com|mixdrop.to|racaty.net|mystream.com|mstream.best|mstream.fun|mstream.icu|mstream.press|mstream.rocks|mstream.space|mstream.website|premiumserver.club|filefactory.com|clicknupload.co
+/^(?!.*((injections|local)\.adguard\.org|(jquery|hcaptcha|g(oogle(apis)?|static)|cloudflare|(bootstrap|jwp|dood)cdn|fontawesome|jwplatform)\.com|(recaptcha|zencdn|jsdelivr)\.net)).*$/$important,script,xmlhttprequest,other,subdocument,popup,popunder,third-party,domain=userscloud.com|adsafelink.net|adsafelink.com|adsrt.live|adz7short.space|clik.pw|fun4earn.xyz|iir.ai|jwearn.com|linkati.win|lopteup.vip|megalink.vip|moaplos.com|newsonthegotoday.com|ocanoke.com|ouo.io|ouo.press|owllink.net|popimed.com|profitlink.info|semawur.com|shorter.fun|spaste.com|stfly.me|tii.ai|todaynewspk.win|wicr.in|dropapk.to|mirrored.to|1fichier.com|rapidgator.net|uploaded.net|0gomovies.website|123moviesplayer.com|2streaming.net|bmoviesfree.io|clipwatching.com|cloud9.to|cloudvideo.tv|dood.watch|gcloud.live|gdriveplayer.io|gdriveplayer.me|gomo.to|gounlimited.to|hydrax.net|jetload.net|mcloud.to|mcloud2.to|mightyupload.com|mixdrop.co|movcloud.net|mp4upload.com|mstream.xyz|novelplanet.me|oload.party|streamapi.xyz|streamhoe.online|streamingworld.club|streamtape.com|streamvid.co|streamvideo.link|u-play.pro|upstream.to|vidcloud9.com|videobin.co|videoko.to|videospider.stream|vidlox.me|vidoza.net|vidsrc.me|vidstreaming.io|viduplayer.com|vivo.sx|voe.sx|vup.to|wstream.video|turbobit.net|mystream.to|oogly.io|anavids.com|streamup.xyz|putload.tv|streamvideo.link|putloaddd.tv|makeeasybtc.website|jo2win.com|bolssc.com|real-sky.com|mixloads.com|dz4win.com|freeshrinker.com|mixdrop.to|racaty.net|mystream.com|mstream.best|mstream.fun|mstream.icu|mstream.press|mstream.rocks|mstream.space|mstream.website|premiumserver.club|filefactory.com|clicknupload.co|uptobox.com|filecrypt.cc
 /^(?!.*((injections|local)\.adguard\.org|(userapi|youtube|vk(\-apps)?|google|ytimg)\.com|(vkuser(video|audio)|vk\-cdn)\.net|mycdn\.me)).*$/$image,important,script,subdocument,third-party,xmlhttprequest,domain=vk.com
 /^https?:\/\/yandex\.[\w]+\/images\/(?!(search\?)|(touch/search?))[^\s]{80,}/$important,subdocument,~third-party,xmlhttprequest
 /^https?:\/\/yastatic.net\/[^\s]+((widget\_ya|nearest|atom)\.js$|tableau\.html)/$important,script,subdocument,xmlhttprequest
@@ -1403,3 +1405,7 @@ userscloud.com#@#+js(acis, Object.defineProperty, vocabulary)
 userscloud.com#@#+js(acis, Math, zfgloaded)
 clicknupload.co#@#+js(acis, Object.defineProperty, XMLHttpRequest)
 clicknupload.co#@#+js(acis, String.fromCharCode, 'shift')
+||uptobox.com^$csp=script-src 'self' * 'unsafe-inline' *.gstatic.com *.google.com *.googleapis.com,badfilter
+uptobox.com#@#+js(set, jsUnda, noopFunc)
+uptobox.com#@#+js(acis, Object.defineProperty, vocabulary)
+uptobox.com#@#+js(aopw, Fingerprint2)
