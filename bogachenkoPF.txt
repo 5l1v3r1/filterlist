@@ -832,7 +832,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]adrules[-._?&=#/]/$important
 /[-._?&=#/]akam[-._?&=#/]/$important
 /[-._?&=#/]beacon[-.0-9_?&=#/]?/$important
-/[-._?&=#/]me?tr[ie]?[ck][asx]?[-.0-9_?&=#/]?/$important,domain=~twitch.tv
+/[-._?&=#/]me?tr[ie]?[ck][asx]?[-.0-9_?&=#/]?/$important,domain=~twitch.tv|~fandom.com
 /[-._?&=#/]ping[-.0-9_?&=#/]?/$important,domain=~playhydrax.com|~twitch.tv|~speedtest.net
 /[-._?&=#/]preroll[-._?&=#/]/$important,domain=~ttvnw.net
 /\/ads?[0-9]{1}\.php\?/$important
@@ -967,6 +967,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||wrongurl.mts.ru^$document,important
 ||easydota.cc^$document,important
 ||sgm-luck.com^$document,important
+||geni.us^$document,important
 ! DOCUMENT END
 
 ! SUBDOCUMENT START
@@ -1073,13 +1074,13 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/](player|client|csi|gen(erate)?|stream|logs?|live)[-._?&=#/]?204[-._?&=#/]?/$image,important,other,xmlhttprequest
 /[-._?&=#/]1x[12]\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)$/$image,important,script,subdocument
 /[-._?&=#/]action\=js\_stats[-._?&=#/]/$image,important,other,script,xmlhttprequest
-/[-._?&=#/]analy(zer|st|ti(c[as]?)|sis)[-.0-9_?&=#/]?/$image,important,other,script,xmlhttprequest,domain=~analytics.google.com|~github.com|~gitlab.com
+/[-._?&=#/]analy(zer|st|ti(c[as]?)|sis)[-.0-9_?&=#/]?/$image,important,other,script,xmlhttprequest,domain=~analytics.google.com|~github.com|~gitlab.com|~reddragonwebdesign.com|~fandom.com
 /[-._?&=#/]bann?ers?[-.0-9_?&=#/]/$image,important,script,subdocument,xmlhttprequest,domain=~dropbox.com|~esetnod32.ru|~f-droid.org|~fandom.com|~hindilinks4uto.com|~hqq.tv|~live.com|~m3u-cdn.live|~mts.ru|~ok.ru|~player.mediavitrina.ru|~rt.ru|~sberbank.ru|~staticmv.mediavitrina.ru|~twitch.tv|~waaw.tv|~aliexpress.com|~aliexpress.ru|~discord.com|~gosuslugi.ru
 /[-._?&=#/]count(s|ers?)[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~twitch.tv|~youtube.com|~discord.com
 /[-._?&=#/]logs?(ging|impressions?|ers?)?[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~github.com|~gitlab.com|~instagram.com|~twitch.tv|~yadi.sk|~dns-shop.ru
 /[-._?&=#/]piwik[-.0-9_?&=#/]/$image,important,script
 /[-._?&=#/]pixel[-._?&=#/]/$image,important,script,subdocument,xmlhttprequest
-/[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$image,important,script,xmlhttprequest
+/[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$image,important,script,xmlhttprequest,domain=~fandom.com
 /[-._?&=#/]vast[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest
 /\/ga[-._?&=#/][a-zA-Z]{5,}\.js/$important,other,script,third-party
 /\/pi?xe?l?\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)/$image,important,script,subdocument,xmlhttprequest,domain=~playground.ru
@@ -1409,3 +1410,5 @@ clicknupload.co#@#+js(acis, String.fromCharCode, 'shift')
 uptobox.com#@#+js(set, jsUnda, noopFunc)
 uptobox.com#@#+js(acis, Object.defineProperty, vocabulary)
 uptobox.com#@#+js(aopw, Fingerprint2)
+||geni.us^$badfilter
+||services.fandom.com^$badfilter
