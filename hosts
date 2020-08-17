@@ -1,5 +1,9 @@
-# Title: bogachenko's Personal Filter Hosts
-# Copyright (c) Bogachenko Vyacheslav
+# Title: bogachenko's DNS Filter
+# Description: bogachenko's Personal list of domain names.
+# Homepage: https://github.com/bogachenko/filterlist/tree/personal
+# License: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
+
+
 
 # Main rules
 
@@ -1440,6 +1444,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 weather.tile.appex.bing.com
 0.0.0.0 www.bing.com
+0.0.0.0 bing.com
 # BING ALL END
 
 # LIVE.COM START
