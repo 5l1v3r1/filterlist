@@ -92,6 +92,7 @@ $$script[wildcard="__CF$cv$params"]
 @@||safebrowsing.clients.google.com^$document
 @@||vk.com/video_ext.php$subdocument
 @@||xvideos*.*^$content,elemhide,jsinject,urlblock,stealth
+@@||favicon.yandex.net^$image
 ! WHITELIST END
 
 ! DNS START
@@ -876,7 +877,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||banner*.
 ||banniere.
 ||beacon*.
-||campaign*.
+||campaign*.$domain=~campaign.aliexpress.com|~campaign.aliexpress.ru
 ||detectportal.
 ||easylist-downloads.adblockplus.org/exceptionrules-privacy-friendly.txt|
 ||easylist-downloads.adblockplus.org/exceptionrules.txt|
