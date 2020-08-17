@@ -331,12 +331,12 @@ $$script[wildcard="__CF$cv$params"]
 ! DNS END
 
 ! DOMAIN START
-/^https?:\/\/(.*\.)?mail\.ru(?![+/]+video)\//$important,third-party,domain=~account.mail.ru|~webcache.googleusercontent.com
+/^https?:\/\/(.*\.)?mail\.ru(?![+/]+video)\//$important,third-party,domain=~account.mail.ru|~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by
 /^https?:\/\/127\.0\.0\.1(?!\:(905[01]|3000))\//$important,third-party
 /^https?:\/\/192.\168\.[0-6]{1,2}\.1(?!\:(3000))\//$important,third-party
 /^https?:\/\/localhost(?!\:(3000))\//$important,third-party,domain=~localhost
-/^https?:\/\/ok\.ru(?!\/videoembed)\//$important,third-party,domain=~webcache.googleusercontent.com
-/^https?:\/\/vk\.com(?!\/video)/$important,third-party,domain=~webcache.googleusercontent.com
+/^https?:\/\/ok\.ru(?!\/videoembed)\//$important,third-party,domain=~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by
+/^https?:\/\/vk\.com(?!\/video)/$important,third-party,domain=~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by
 /^https?:\/\/\[::1]\//$important,third-party
 ||2o7.net^$third-party
 ||facebook.*^$third-party
@@ -1191,7 +1191,6 @@ playvideo.best,lookmovie.ag,streamingworld.*#@#+js(aopr, AaDetector)
 ||im.vk.com^$badfilter
 ||static1.freebitco.in^$badfilter
 ||queuev4.vk.com^$badfilter
-||login.vk.com^$badfilter
 ||away.vk.com^$badfilter
 ||cdn.jsdelivr.net^$badfilter
 /favicon.ico$image,third-party,domain=~douban.com|~bahn.de|~winfuture.de|~bt.com|~ebay.com.au|~ebay.com|~ebay.co.uk|~go.com|~github.com|~stackexchange.com|~stackoverflow.com|~askubuntu.com|~reddit.com|~4chan.org|~twitter.com|~live.com|~espn.com|~yahoo.com,badfilter
@@ -1243,7 +1242,6 @@ _ad4.$badfilter
 @@||phncdn.com^$image,domain=pornhub.com|pornhubthbh7ap3u.onion|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 @@||phncdn.com/www-static/js/lib/$script,badfilter
 @@||phncdn.com/www-static/$image,badfilter
-|https://$image,media,script,third-party,domain=~feedback.pornhub.com|~feedback.pornhubthbh7ap3u.onion|pornhub.com|pornhubthbh7ap3u.onion|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 |https://$image,xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 pornhub.*#@#+js(aopw, rAb)
 pornhub.*#@#+js(aeld, DOMContentLoaded, [native code])
