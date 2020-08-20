@@ -1816,6 +1816,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 fhr.cdn.mozilla.net
 0.0.0.0 fhr.data.mozilla.com
 0.0.0.0 hang-reports.mozilla.org
+0.0.0.0 location.services.mozilla.com
+0.0.0.0 push.services.mozilla.com
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 input.mozilla.com
 0.0.0.0 input.mozilla.org
@@ -1834,6 +1836,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ru.malware-report.mozilla.com
 0.0.0.0 ru.phish-error.mozilla.com
 0.0.0.0 ru.phish-generic.mozilla.com
+0.0.0.0 normandy.cdn.mozilla.net
 0.0.0.0 ru.phish-report.mozilla.com
 0.0.0.0 search.services.mozilla.com
 0.0.0.0 self-repair.mozilla.org

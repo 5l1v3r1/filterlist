@@ -663,7 +663,6 @@ $$script[wildcard="__CF$cv$params"]
 ||yastatic.net/*/liza/*-mail-Placeholder-Picture_*.gif|$image,important,domain=mail.yandex.by|mail.yandex.ru|mail.yandex.ua
 ||yastatic.net/*/passport-auth-customs/*.jpg|$image,important
 ||yastatic.net/lego/*.gif|$image,important
-|http*:*/r.png?t=$image,important,domain=aliexpress.ru|aliexpress.com
 ! IMAGE END
 
 ! POPUP START
@@ -1092,6 +1091,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /^https?:\/\/yastatic.net\/[^\s]+((widget\_ya|nearest|atom)\.js$|tableau\.html)/$important,script,subdocument,xmlhttprequest
 /^https?:\/\/[0-1]{5,}\.com$/$important,script,third-party,xmlhttprequest
 ||youtube.com/api/stats/$image,important,other,xmlhttprequest
+||aliyuncs.com/r.png?$image,important,xmlhttprequest
 ! COMBINED END
 
 ! ~~~~~~~ NOT MY SHITTY RULES ~~~~~~~
