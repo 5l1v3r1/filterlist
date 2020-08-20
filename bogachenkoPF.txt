@@ -37,6 +37,7 @@ $$script[src="https://pagead2.googlesyndication.com/"]
 $$script[src="https://www.googletagmanager.com/"]
 $$script[src="https://www.googletagservices.com/"]
 $$script[src="https://www.google-analytics.com/"]
+$$script[src="https://www.googleadservices.com/"]
 $$script[tag-content="absda"]
 $$script[tag-content="adBlockDetected"]
 $$script[tag-content="adcashMacros"]
@@ -494,6 +495,7 @@ $$script[wildcard="__CF$cv$params"]
 ||googlesyndication.com^$important
 ||googletagmanager.com^$important
 ||googletagservices.com^$important
+||fenek.market.yandex.ru^$important
 ||graph.facebook.com^$important
 ||graph.fbpigeon.com^$important
 ||graph.instagram.com^$important
@@ -767,6 +769,7 @@ market.yandex.*##div > [class]:has([data-apiary-widget-name="@MarketNode/LegalIn
 market.yandex.*##div > [class]:has([data-apiary-widget-name="@MarketNode/ProductRecipes"])
 market.yandex.*##div[class][data-tid]:has(div[data-apiary-widget-name="@market/VisibilityLoader"][data-apiary-widget-id="/content/journal"])
 market.yandex.*##div[data-apiary-widget-id="/content/journal"]:has-text(Полезные статьи)
+market.yandex.*##[href*="fenek.market.yandex.ru"]
 music.yandex.*##.duck__duckling.moving-slider, .multi-auth__plus, .teaser, .sidebar__under, .page-main__line_row.page-main__line_small-margin.page-main__line_personal-playlists.page-main__line, .notify_shown.deco-tooltip_notify, .footer, .metrika-app_shown_yes.metrika-app_js_inited.i-bem.metrika-app_type_desktop.metrika-app_lang_ru.metrika-app, .duck__angry-duck_left.duck__angry-duck.paused-slider, .bar-below_plus.bar-below, .subscription-hint_bottom.deco-pane-popup.popup.local-theme-black.subscription-hint, div.notify > div.deco-tooltip_notify.notify_shown, .overlay_gdpr.overlay_shown.deco-pane-overlay.overlay, .deco-pane-popup.popup.local-icon-theme-white.local-theme-white.gdpr-popup, .bar-below_unavaliable.bar-below, a.teaser__content[href="https://music.yandex.ru/family-plus"] > img.teaser__img, div.page-root.page-root_no-player.deco-pane-back > div[class][data-b="2"][style="display: block;"], .teaser ~ div, .page-root > div[data-b="2"], .sidebar > div > .teaser + div[data-b="18"], .deco-tooltip_to-right.popup_visible.popup_fade.local-theme-black.d-tooltip_min-width.deco-pane-popup.popup.deco-tooltip.d-tooltip, .overlay_shown.deco-pane-overlay.overlay, .popup_modal.deco-pane-popup.popup.local-icon-theme-white.local-theme-white.popup_compact.crackdown-popup, .teaser-nonmusic_visible.teaser-nonmusic, .progress__line__branding, .paused-slider_left.porsche.paused-slider, .bar__branding_picture, .bar-below__auth, .bar-below__content, .bar__branding, .subscription-hint.popup, .bar__addition-link, body > div[style^="min-height"] > .notify *, body > div[style^="min-height"] > div[class][style="display: block;"], body > div[style^="min-height"] > .notify, [class^="audio-advert"], .subscription-hint.popup, .bar.bar-below, .ads-block, .share-container, .share.unit, .notify__message, div.notify > div.deco-tooltip_notify.notify_shown, .d-overhead-mobile__content_app, a.teaser__content[href="https://music.yandex.ru/family-plus"] > img.teaser__img, .bar-below, .no-ads, .button-store_all, .app-sms, a[href="/contest/dogmoroz"], .subscription-hint, .bar__driver-container, .sidebar__placeholder .teaser ~ div, div[id^="ya_partner_R-A-"], .page-root > div.d-overhead, .audio-advert__block
 music.yandex.by,music.yandex.com,music.yandex.ru,music.yandex.ua#?#span:contains(Отключить рекламу)
 ntv.ru##[href="/75/"]
@@ -1075,7 +1078,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]logs?(ging|impressions?|ers?)?[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~github.com|~gitlab.com|~instagram.com|~twitch.tv|~yadi.sk|~dns-shop.ru|~ozon.ru
 /[-._?&=#/]piwik[-.0-9_?&=#/]/$image,important,script
 /[-._?&=#/]pixel[-._?&=#/]/$image,important,script,subdocument,xmlhttprequest
-/[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$image,important,script,xmlhttprequest,domain=~fandom.com
+/[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$image,important,script,xmlhttprequest,domain=~fandom.com|~aliexpress.ru|~aliexpress.com
 /[-._?&=#/]vast[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest
 /\/ga[-._?&=#/][a-zA-Z]{5,}\.js/$important,other,script,third-party
 /\/pi?xe?l?\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)/$image,important,script,subdocument,xmlhttprequest,domain=~playground.ru
@@ -1407,3 +1410,5 @@ uptobox.com#@#+js(aopw, Fingerprint2)
 ||services.fandom.com^$badfilter
 ||ozon.ru^$badfilter
 ||ozone.ru^$badfilter
+||aliexpress.com/p4pforlist.html?$badfilter
+||adf.ly^$badfilter
