@@ -95,7 +95,7 @@ $$script[wildcard="__CF$cv$params"]
 @@||ok.ru/videoembed/$subdocument
 @@||safebrowsing.clients.google.com^$document
 @@||vk.com/video_ext.php$subdocument
-@@||xvideos*.*^$content,elemhide,jsinject,urlblock,stealth
+@@||xvideos*.*^$content,elemhide,jsinject,urlblock
 @@||favicon.yandex.net^$image
 ! WHITELIST END
 
@@ -1418,3 +1418,4 @@ uptobox.com#@#+js(aopw, Fingerprint2)
 ||ozone.ru^$badfilter
 ||aliexpress.com/p4pforlist.html?$badfilter
 ||adf.ly^$badfilter
+||x-lime.net^$badfilter
