@@ -38,6 +38,7 @@ $$script[src="https://www.googletagmanager.com/"]
 $$script[src="https://www.googletagservices.com/"]
 $$script[src="https://www.google-analytics.com/"]
 $$script[src="https://www.googleadservices.com/"]
+$$script[src="https://mc.yandex.ru/"]
 $$script[tag-content="absda"]
 $$script[tag-content="adBlockDetected"]
 $$script[tag-content="adcashMacros"]
@@ -89,7 +90,7 @@ $$script[wildcard="__CF$cv$params"]
 @@||injections.adguard.org^
 @@||local.adguard.org^
 @@||login.aliexpress.*^$stealth
-@@||passport.aliexpress.com^$stealth
+@@||passport.aliexpress.*^$stealth
 @@||ok.ru/videoembed/$subdocument
 @@||safebrowsing.clients.google.com^$document
 @@||vk.com/video_ext.php$subdocument
@@ -662,6 +663,7 @@ $$script[wildcard="__CF$cv$params"]
 ||yastatic.net/*/liza/*-mail-Placeholder-Picture_*.gif|$image,important,domain=mail.yandex.by|mail.yandex.ru|mail.yandex.ua
 ||yastatic.net/*/passport-auth-customs/*.jpg|$image,important
 ||yastatic.net/lego/*.gif|$image,important
+|http*:*/r.png?t=$image,important,domain=aliexpress.ru|aliexpress.com
 ! IMAGE END
 
 ! POPUP START
@@ -1078,7 +1080,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]logs?(ging|impressions?|ers?)?[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~github.com|~gitlab.com|~instagram.com|~twitch.tv|~yadi.sk|~dns-shop.ru|~ozon.ru
 /[-._?&=#/]piwik[-.0-9_?&=#/]/$image,important,script
 /[-._?&=#/]pixel[-._?&=#/]/$image,important,script,subdocument,xmlhttprequest
-/[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$image,important,script,xmlhttprequest,domain=~fandom.com|~aliexpress.ru|~aliexpress.com
+/[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$image,important,script,xmlhttprequest,domain=~fandom.com
 /[-._?&=#/]vast[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest
 /\/ga[-._?&=#/][a-zA-Z]{5,}\.js/$important,other,script,third-party
 /\/pi?xe?l?\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)/$image,important,script,subdocument,xmlhttprequest,domain=~playground.ru
