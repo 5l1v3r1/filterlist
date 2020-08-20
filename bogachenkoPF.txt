@@ -91,6 +91,7 @@ $$script[wildcard="__CF$cv$params"]
 @@||local.adguard.org^
 @@||login.aliexpress.*^$stealth
 @@||passport.aliexpress.*^$stealth
+@@||mycdn.me^$stealth
 @@||ok.ru/videoembed/$subdocument
 @@||safebrowsing.clients.google.com^$document
 @@||vk.com/video_ext.php$subdocument
@@ -562,6 +563,8 @@ $$script[wildcard="__CF$cv$params"]
 ||platform.twitter.com^$important
 ||plus.yandex.*^$important
 ||pluso.ru^$important
+||appsflyer.com^$important
+||monitor.firefox.com^$important
 ||polyfill.twitchsvc.net^$important
 ||portal-xiva.yandex.net^$important
 ||portal.mail.ru^$important
@@ -609,6 +612,7 @@ $$script[wildcard="__CF$cv$params"]
 ||telemetry.api.swiftkey.com^$important
 ||telemetry.swiftkey.com^$important
 ||thumbnails*.opera.com^$important
+||r0.mail.ru^$important
 ||tns-counter.ru^$important
 ||top-fwz1.mail.ru^$important
 ||top100.ru^$important
