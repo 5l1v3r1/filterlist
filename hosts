@@ -186,6 +186,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.il.doubleclick.net
 0.0.0.0 ad.in.doubleclick.net
 0.0.0.0 ad.it.doubleclick.net
+0.0.0.0 instantmessaging-pa.googleapis.com
 0.0.0.0 ad.jp.doubleclick.net
 0.0.0.0 ad.kr.doubleclick.net
 0.0.0.0 ad.mo.doubleclick.net
@@ -1838,6 +1839,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ru.phish-error.mozilla.com
 0.0.0.0 ru.phish-generic.mozilla.com
 0.0.0.0 normandy.cdn.mozilla.net
+0.0.0.0 blocklists.settings.services.mozilla.com
 0.0.0.0 ru.phish-report.mozilla.com
 0.0.0.0 search.services.mozilla.com
 0.0.0.0 self-repair.mozilla.org
