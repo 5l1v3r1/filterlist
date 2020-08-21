@@ -854,7 +854,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[&?]s(screen)?\=[0-9]{3,4}x[0-9]{3,4}[&?]/$important
 /[&?]s[cw]\=[0-9]{3,4}[&]sh\=[0-9]{3,4}[&]/$important
 /[&?]zoneid\=/$important
-/\.(com|net|org)\/ads\//$important
+/\.(com|net|org(anic)?|ac(t(ive|or)|ademy|countants?)?|ad(ult)?|ae(ro)?|ag(ency)?|ai(rforce)?|apartments|app|ar(my|chi|t)?|as(ia|sociates)?|at(torney)?|au(tos?|ction|dio)?|biz?|cat?|co(op)?|dance|edu|eus?|family|gov|info|int|jobs?|mil|mobi|museum|name|on[egl](ine)?|ooo|part(ner)?[sy]?|pharmacy|photo(graphy|s)?|physio|pic(ture)?s?|feedback|pink|pizza|place|plumbing|pl(us)?|poker|porn|post|press|pro(ductions?|f|perties|perty)?|qpon|raci(ng|pes)|red|rehab|rent?(als)?|rep(ublican|air|ort)|rest|reviews?|rich|site|tel|tra(vel|de)|xxx|xyz|yoga|zone|ninja|moe|dev?|a[flmnoqwxz]|b[abdefghjmnorstvwyz]|c[cdfghiklmnruvxyz]|d[djkmoz]|e[egrst])\/ads\//$important
 /[-._?&=#/]adfox[-._?&=#/]/$important
 /[-._?&=#/]adrules[-._?&=#/]/$important
 /[-._?&=#/]adrum[-._?&=#/]/$important
