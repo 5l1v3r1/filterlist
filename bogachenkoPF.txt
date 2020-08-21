@@ -74,6 +74,13 @@ $$script[wildcard="__CF$cv$params"]
 !#if !ext_ublock
 @@||marketplace.visualstudio.com^$app=Code.exe,important
 @@||yastatic.net/yandex-video-player-iframe-api-bundles-stable/$popunder,popup,important
+
+! High CPU load
+@@||youtube.com^$content,elemhide
+@@||youtube.com^$stealth
+@@||music.yandex.*^$content,elemhide
+!
+
 !#endif
 !#if !ext_ublock
 !#if (adguard_app_android && adguard_app_ios)
@@ -101,7 +108,6 @@ $$script[wildcard="__CF$cv$params"]
 @@||vk.com/video_ext.php$subdocument
 @@||xvideos*.*^$content,elemhide,jsinject,urlblock
 @@||favicon.yandex.net^$image
-@@*$content,elemhide,domain=youtube.com|music.yandex.ru|music.yandex.ua|music.yandex.by
 @@||passport.aliexpress.com^$stealth
 @@||mycdn.me^$stealth
 @@*$stealth,domain=aliexpress.com|aliexpress.ru
@@ -365,7 +371,7 @@ $$script[wildcard="__CF$cv$params"]
 ||reddit.com^$third-party
 ||translate.googleapis.com^$third-party,domain=~translate.googleusercontent.com
 ||twitch.tv^$third-party
-||twitchcdn.net^$third-party,domain=~twitch.tv
+||twitchcdn.net^$third-party,domain=~twitch.tv|~donationalerts.com
 ||twitter.com^$third-party,domain=~kinopoisk.ru|~lenta.ru|~meduza.io
 ||vk.com^$third-party
 ||yahoo.*^$third-party
