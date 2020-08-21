@@ -34,6 +34,7 @@ $$script[data-cfasync="false"][wildcard="*['push']*['shift']*decodeURIComponent*
 $$script[src="https://c1.popads.net/pop.js"]
 $$script[src="https://c2.popads.net/pop.js"]
 $$script[src="https://pagead2.googlesyndication.com/"]
+$$script[src="//pagead2.googlesyndication.com/"]
 $$script[src="https://www.googletagmanager.com/"]
 $$script[src="https://www.googletagservices.com/"]
 $$script[src="https://www.google-analytics.com/"]
@@ -887,7 +888,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||banner*.
 ||banniere.
 ||beacon*.
-||campaign*.$domain=~campaign.aliexpress.com|~campaign.aliexpress.ru
+||campaign*.$domain=~aliexpress.com|~aliexpress.ru
 ||detectportal.
 ||easylist-downloads.adblockplus.org/exceptionrules-privacy-friendly.txt|
 ||easylist-downloads.adblockplus.org/exceptionrules.txt|
