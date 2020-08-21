@@ -72,6 +72,7 @@ $$script[wildcard="__CF$cv$params"]
 
 ! TEMPORARILY START
 !#if !ext_ublock
+! See bug - https://github.com/AdguardTeam/AdguardForWindows/issues/2650#issuecomment-645438370
 @@||marketplace.visualstudio.com^$app=Code.exe,important
 @@||yastatic.net/yandex-video-player-iframe-api-bundles-stable/$popunder,popup,important
 
@@ -79,8 +80,6 @@ $$script[wildcard="__CF$cv$params"]
 @@||youtube.com^$content,elemhide
 @@||youtube.com^$stealth
 @@||music.yandex.*^$content,elemhide
-!
-
 !#endif
 !#if !ext_ublock
 !#if (adguard_app_android && adguard_app_ios)
