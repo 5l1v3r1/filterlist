@@ -83,6 +83,7 @@ $$script[wildcard="__CF$cv$params"]
 !#endif
 !#if !ext_ublock
 !#if (adguard_app_android && adguard_app_ios)
+! See bug - https://github.com/AdguardTeam/AdguardForWindows/issues/2650#issuecomment-672284613
 /[-._?&=#/]preroll[-._?&=#/]/$important,domain=~ttvnw.net,badfilter
 !#endif
 !#endif
@@ -95,7 +96,7 @@ $$script[wildcard="__CF$cv$params"]
 @@/^https?:\/\/192\.168\.[0-6]{1,2}\.1\//$~third-party
 @@/^https?:\/\/edge\.microsoft\.com\/extensionwebstorebase\/[a-z1-9]{2}\/(hash)?crx\?/$important
 @@/^https?:\/\/localhost\//
-@@/^https?:\/\/rt\/$/
+@@/^https?:\/\/rt\//
 @@/^https?:\/\/\[::1]\//
 @@||api.adguard.com^
 @@||connectivitycheck.gstatic.com^$important
