@@ -730,6 +730,7 @@ zloekino.ru#%#//scriptlet("remove-cookie")
 ! REMOVEPARAM START
 ||google.*^$removeparam=sourceid|client|ie|oe
 ||yandex.*^$removeparam=suggest_reqid|lr|clid|msid|oprnd|utm_content|utm_source|yu|l10n
+||mail.ru^$removeparam=fm|mg
 ! REMOVEPARAM END
 
 ! CSS START
@@ -1092,7 +1093,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]piwik[-.0-9_?&=#/]/$image,important,script
 /[-._?&=#/]pixel[-._?&=#/]/$image,important,script,subdocument,xmlhttprequest
 /[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$image,important,script,xmlhttprequest,domain=~fandom.com|~pochta.ru|~aliexpress.com|~aliexpress.ru|~alipay.com
-/[-._?&=#/]vast[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest
+/[-._?&=#/]vast[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~twitch.tv
 /\/ga[-._?&=#/][a-zA-Z]{5,}\.js/$important,other,script,third-party
 /\/pi?xe?l?\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)/$image,important,script,subdocument,xmlhttprequest,domain=~playground.ru
 /\/[a-z]{1,2}\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)\?[a-z]{1,3}\=/$image,important,other,script,subdocument,xmlhttprequest,domain=~3g2upl4pq6kufc4m.onion|~duckduckgo.com|~thepiratebay.org|~aliexpress.ru|~aliexpress.com|~aliyuncs.com
