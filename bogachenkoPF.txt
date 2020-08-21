@@ -14,6 +14,7 @@
 ||d2v02itv0y9u9t.cloudfront.net^$important
 ||go.microsoft.com^$important
 ||go.microsoft.com.edgekey.net^$important
+||d2wy8f7a9ursnm.cloudfront.net^$important
 !#endif
 !#endif
 
@@ -58,6 +59,10 @@ $$script[tag-content="_pop.push"]
 $$script[wildcard="*eval*babasbmsgx*"]
 $$script[wildcard="*googletagmanager*GTM-*"]
 $$script[wildcard="__CF$cv$params"]
+@@||localhost^$important,document
+@@||127.0.0.1^$important,document
+@@||10.0.0.1^$important,document
+@@||[::1]^$important,document
 !#endif
 
 !#if ext_ublock
@@ -80,6 +85,7 @@ $$script[wildcard="__CF$cv$params"]
 ! WHITELIST START
 @@/^https:\/\/my\.mail\.ru[+/]+video\//$subdocument,xmlhttprequest
 @@/^https?:\/\/127\.0\.0\.1\//$~third-party
+@@/^https?:\/\/10\.0\.[0-2]\.[0-5]{1,2}\//~third-party
 @@/^https?:\/\/192\.168\.[0-6]{1,2}\.1\//$~third-party
 @@/^https?:\/\/edge\.microsoft\.com\/extensionwebstorebase\/[a-z1-9]{2}\/(hash)?crx\?/$important
 @@/^https?:\/\/localhost\//
@@ -101,7 +107,6 @@ $$script[wildcard="__CF$cv$params"]
 ! WHITELIST END
 
 ! DNS START
-0.0.0.0$network
 3.11.46.38:443$network
 8.253.207.117:443$network
 13.224.143.39:443$network
@@ -340,12 +345,8 @@ $$script[wildcard="__CF$cv$params"]
 
 ! DOMAIN START
 /^https?:\/\/(.*\.)?mail\.ru(?![+/]+video)\//$important,third-party,domain=~account.mail.ru|~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by
-/^https?:\/\/127\.0\.0\.1(?!\:(905[01]|3000))\//$important,third-party
-/^https?:\/\/192.\168\.[0-6]{1,2}\.1(?!\:(3000))\//$important,third-party
-/^https?:\/\/localhost(?!\:(3000))\//$important,third-party,domain=~localhost
 /^https?:\/\/ok\.ru(?!\/videoembed)\//$important,third-party,domain=~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by
 /^https?:\/\/vk\.com(?!\/video)/$important,third-party,domain=~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by
-/^https?:\/\/\[::1]\//$important,third-party
 ||2o7.net^$third-party
 ||facebook.*^$third-party
 ||facebookcorewwwi.onion^$third-party
@@ -397,8 +398,10 @@ $$script[wildcard="__CF$cv$params"]
 ||ads.twitter.com^$important
 ||adservice.google.*^$important
 ||adservice.l.google.com^$important
+||mc.yandex.ru^$important
+||settings-win.data.microsoft.com^$important
 ||af.opera.com^$important
-||all-cod.com^$important,third-party
+||all-cod.com^$important
 ||alt*-mtalk.google.com^$important
 ||alt*-safebrowsing.google.com^$important
 ||amazon-adsystem.com^$important
@@ -1430,3 +1433,4 @@ uptobox.com#@#+js(aopw, Fingerprint2)
 ||x-lime.net^$badfilter
 ||www.hugedomains.com^$badfilter
 ||pic.aebn.net^$badfilter
+||checkadblock.ru^$csp=script-src 'self',badfilter
