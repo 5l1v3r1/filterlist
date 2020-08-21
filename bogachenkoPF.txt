@@ -854,6 +854,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[&?]s(screen)?\=[0-9]{3,4}x[0-9]{3,4}[&?]/$important
 /[&?]s[cw]\=[0-9]{3,4}[&]sh\=[0-9]{3,4}[&]/$important
 /[&?]zoneid\=/$important
+/\.(com|net|org)\/ads\//$important
 /[-._?&=#/]adfox[-._?&=#/]/$important
 /[-._?&=#/]adrules[-._?&=#/]/$important
 /[-._?&=#/]adrum[-._?&=#/]/$important
@@ -901,7 +902,6 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||advisor*.
 ||alog.
 ||analytic*.$domain=~analytics.google.com
-||analytics.
 ||applog.
 ||banner*.
 ||banniere.
