@@ -11,9 +11,9 @@
 !#if !ext_ublock
 !#if !adguard
 ||d2ddoduugvun08.cloudfront.net^$important
-||d2nxq2uap88usk.cloudfront.net^$important
 ||d2v02itv0y9u9t.cloudfront.net^$important
 ||go.microsoft.com^$important
+||go.microsoft.com.edgekey.net^$important
 !#endif
 !#endif
 
@@ -599,6 +599,8 @@ $$script[wildcard="__CF$cv$params"]
 ||speeddials.opera.com^$important
 ||sputnik.ru^$important
 ||startappservice.com^$important
+||fs.microsoft.com^$important
+||ipapi.co^$important
 ||startup.mobile.yandex.net^$important
 ||static-marketolog.mts.ru^$important
 ||stats.ghostery.net^$important

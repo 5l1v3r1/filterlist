@@ -1401,6 +1401,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 cy2.licensing.md.mp.microsoft.com.akadns.net
 0.0.0.0 cy2.purchase.md.mp.microsoft.com.akadns.net
 0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
+0.0.0.0 prod.fs.microsoft.com.akadns.net
+0.0.0.0 fs-wildcard.microsoft.com.edgekey.net
 0.0.0.0 db5-eap.settings-win.data.microsoft.com.akadns.net
 0.0.0.0 db5.settings-win.data.microsoft.com.akadns.net
 0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
