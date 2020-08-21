@@ -89,8 +89,8 @@ $$script[wildcard="__CF$cv$params"]
 @@||gstatic.com/recaptcha/$script
 @@||injections.adguard.org^
 @@||local.adguard.org^
-@@||login.aliexpress.*^$stealth
-@@||passport.aliexpress.*^$stealth
+@@*$stealth,domain=aliexpress.com|aliexpress.ru
+@@||passport.aliexpress.com^$stealth
 @@||mycdn.me^$stealth
 @@||ok.ru/videoembed/$subdocument
 @@||safebrowsing.clients.google.com^$document
@@ -654,7 +654,7 @@ $$script[wildcard="__CF$cv$params"]
 /\/[a-zA-Z]{5,}[Pp][Ii][Xx][Ee][Ll][-._?&=#/]/$image,important
 /^https?:\/\/2ch\.(hk|pm|re|tf|wf|yt)\/(images|banners?)\//$image,important
 /^https?:\/\/yastatic\.net\/[^\s]{120,}/$image,important
-|http*:*/clear.png?$image,important
+|http*:*/clear.png?$image,important,domain=~passport.aliexpress.com
 |http*:*/cleardot.gif?$image,important
 |http*:*/grstat?$image,important
 |http*:*/hosting.gif$image,important
