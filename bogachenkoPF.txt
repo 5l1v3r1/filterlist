@@ -101,6 +101,7 @@ $$script[wildcard="__CF$cv$params"]
 @@||vk.com/video_ext.php$subdocument
 @@||xvideos*.*^$content,elemhide,jsinject,urlblock
 @@||favicon.yandex.net^$image
+@@*$content,elemhide,domain=youtube.com|music.yandex.ru|music.yandex.ua|music.yandex.by
 ! WHITELIST END
 
 ! GENERICHIDE & GENERICBLOCK START
