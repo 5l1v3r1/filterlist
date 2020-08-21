@@ -102,17 +102,11 @@ $$script[wildcard="__CF$cv$params"]
 @@||xvideos*.*^$content,elemhide,jsinject,urlblock
 @@||favicon.yandex.net^$image
 @@*$content,elemhide,domain=youtube.com|music.yandex.ru|music.yandex.ua|music.yandex.by
-! WHITELIST END
-
-! GENERICHIDE & GENERICBLOCK START
-@@*$generichide,domain=keypro2.ru
-! GENERICHIDE & GENERICBLOCK END
-
-! STEALTH START
 @@||passport.aliexpress.com^$stealth
 @@||mycdn.me^$stealth
 @@*$stealth,domain=aliexpress.com|aliexpress.ru
-! STEALTH END
+@@*$generichide,domain=keypro2.ru
+! WHITELIST END
 
 ! Domain Name System (DNS) START
 3.11.46.38:443$network
@@ -739,7 +733,7 @@ zloekino.ru#%#//scriptlet("remove-cookie")
 ! REDIRECTION END
 
 ! REMOVEPARAM START
-||google.*^$removeparam=sourceid|client|ie|oe
+||www.google.*^$removeparam=sourceid|client|ie|oe
 ||yandex.*^$removeparam=suggest_reqid|lr|clid|msid|oprnd|utm_content|utm_source|yu|l10n
 ||mail.ru^$removeparam=fm|mg
 ! REMOVEPARAM END
