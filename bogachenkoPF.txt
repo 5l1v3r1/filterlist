@@ -96,9 +96,6 @@ $$script[wildcard="__CF$cv$params"]
 @@||gstatic.com/recaptcha/$script
 @@||injections.adguard.org^
 @@||local.adguard.org^
-@@*$stealth,domain=aliexpress.com|aliexpress.ru
-@@||passport.aliexpress.com^$stealth
-@@||mycdn.me^$stealth
 @@||ok.ru/videoembed/$subdocument
 @@||safebrowsing.clients.google.com^$document
 @@||vk.com/video_ext.php$subdocument
@@ -106,7 +103,17 @@ $$script[wildcard="__CF$cv$params"]
 @@||favicon.yandex.net^$image
 ! WHITELIST END
 
-! DNS START
+! GENERICHIDE & GENERICBLOCK START
+@@*$generichide,domain=keypro2.ru
+! GENERICHIDE & GENERICBLOCK END
+
+! STEALTH START
+@@||passport.aliexpress.com^$stealth
+@@||mycdn.me^$stealth
+@@*$stealth,domain=aliexpress.com|aliexpress.ru
+! STEALTH END
+
+! Domain Name System (DNS) START
 3.11.46.38:443$network
 8.253.207.117:443$network
 13.224.143.39:443$network
@@ -341,7 +348,7 @@ $$script[wildcard="__CF$cv$params"]
 217.69.141.142:443$network
 ||0.0.0.0^
 ||212.122.5.136^
-! DNS END
+! Domain Name System (DNS) END
 
 ! DOMAIN START
 /^https?:\/\/(.*\.)?mail\.ru(?![+/]+video)\//$important,third-party,domain=~account.mail.ru|~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by
@@ -675,14 +682,14 @@ $$script[wildcard="__CF$cv$params"]
 ||yastatic.net/lego/*.gif|$image,important
 ! IMAGE END
 
-! POPUP START
+! POPUP & POPUNDER START
 /^https?:\/\/(bitly|bit)\.(com|ly)/$important,popunder,popup
 |http*:*&idzone=$important,popunder,popup
 ||click2go.me^$important,popunder,popup
 ||gemius.pl^$important,popunder,popup
 ||yandex.*/clck/$important,popunder,popup
 ||yastatic.net^$important,popunder,popup,domain=~kinopoisk.ru
-! POPUP END
+! POPUP & POPUNDER END
 
 ! MEDIA START
 /\/(melbet|jetfilmizle|bbnew)\.mp4/$important,media
@@ -736,7 +743,7 @@ zloekino.ru#%#//scriptlet("remove-cookie")
 ||mail.ru^$removeparam=fm|mg
 ! REMOVEPARAM END
 
-! CSS START
+! Cascading Style Sheets (CSS) START
 *##a[href*="/ads."], a[href*="/ads/"], a[href*="/adv."], a[href*="/adv/"], a[href*="/advert."], a[href*="/advert/"],a[href*="/advertise."], a[href*="/advertise/"], a[href*="/advertising."], a[href*="/advertising/"], [class*="adv-slot-"], div[class*="sport-advert_"], div[data-flt-ve="sponsored_search_ads"], div[id*="adcontent"], div[id^="google_ads_iframe_"], div[id^="yandex_rtb"], #WikiaTopAds
 *##a[href*="adriver.ru"], a[href*="doubleclick.net"], a[href*="ads.adfox.ru"], a[href*="googleadservices.com"], a[href*="mradx.net"], a[href*="trafficfactory.biz"], a[href*="trafficjunky.net"], a[href*="weborama.fr"], a[href*="yabs.yandex."], a[href*="zen.yandex."], a[href*="awaps.yandex.net"], a[href*="imasdk.googleapis.com"], a[href*="//bit.ly/"], a[href*="//bitly.com/"]
 *##a[href="/1884.html"], a[href="/tc1.php"], a[href="/tc2.php"], [title="uCoz Counter"], #covid-banner, .counters, .grecaptcha-badge, [src="/img/ya.jpg"]
@@ -819,7 +826,7 @@ yandex.*,~music.yandex.*,~tv.yandex.*,~passport.yandex.*,~pass.yandex.*,~rasp.ya
 yandex.*,~music.yandex.*,~tv.yandex.*,~passport.yandex.*,~pass.yandex.*,~rasp.yandex.*,~docviewer.yandex.*,~realty.yandex.*,~radio.yandex.*,~rabota.yandex.*,~avia.yandex.*,~bilet.yandex.*,~flights.yandex.*,~disk.yandex.*,~mail.yandex.*,~money.yandex.*##div[class]:has(div[class*="widgets__col widgets__col_td_"]):not(:has(div[class="home-arrow__search-wrapper"]))
 yandex.*,~music.yandex.*,~tv.yandex.*,~passport.yandex.*,~pass.yandex.*,~rasp.yandex.*,~docviewer.yandex.*,~realty.yandex.*,~radio.yandex.*,~rabota.yandex.*,~avia.yandex.*,~bilet.yandex.*,~flights.yandex.*,~disk.yandex.*,~mail.yandex.*,~money.yandex.*##[class*="rows__row_"]:style(height: 50%;width: 100%;)
 youtube.com##.ytp-button.ytp-paid-content-overlay-text, div#player-ads, #player-ads, .ytp-ce-element.ytp-ce-video.ytp-ce-element-show.ytp-ce-top-left-quad, .style-scope.ytd-mealbar-promo-renderer, .ytp-ce-element.ytp-ce-video.ytp-ce-element-show.ytp-ce-top-left-quad, div#movie_player > .ytp-ce-channel.ytp-ce-channel-this.ytp-ce-element.ytp-ce-element-show.ytp-ce-size-640.ytp-ce-top-right-quad, ytd-companion-slot-renderer.ytd-player-legacy-desktop-watch-ads-renderer, #masthead-ad, #alert-banner, YTM-PROMOTED-VIDEO-RENDERER, .mealbar-promo-renderer, a[href*="/covid19"], #content > .ytd-rich-section-renderer.style-scope, .ytp-ad-module, .ytd-carousel-ad-renderer, ytd-video-masthead-ad-advertiser-info-renderer,ytm-promoted-sparkles-web-renderer, .ytp-ad-progress, #promotion-shelf, .masthead-ad-control, .ad-div, .pyv-afc-ads-container, #clarify-box > .ytd-watch-flexy.style-scope, #sponsor-button, yt-live-chat-viewer-engagement-message-renderer, .ytd-video-secondary-info-renderer.style-scope.sticky, .ytp-ce-video.ytp-ce-element
-! CSS END
+! Cascading Style Sheets (CSS) END
 
 ! XPATH START
 english-films.*##:xpath(/html//div[@id='dle-content']/article//section//ul[@class='tabs__caption']/li[.='Покупка абонемента'])
@@ -832,14 +839,14 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 *$important,websocket,third-party,domain=~music.yandex.ru|~music.yandex.ua|~music.yandex.by|~discord.com|~speedtest.net
 ! WEBSOCKET END
 
-! CSP START
+! Content Security Policy (CSP) START
 *$important,~third-party,csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=powvldeo.me|powvldeo.cc|powvldeo.co|powvldeo.net|povvideo.net|waaw.tv|waaw1.tv|waaws.tv|hindilinks4uto.com|hqq.tv|freebitco.in|powvideo.net|streamplay.biz|streamplay.to|oload.best|oload.biz|oload.cc|oload.cloud|oload.club|oload.download|oload.fun|oload.info|oload.life|oload.live|oload.monster|oload.press|oload.services|oload.site|oload.space|oload.stream|oload.tv|oload.website|oload.win|oload.party|oladblock.me|oladblock.services|oladblock.xyz|openload.cc|openload.co|openload.fun|openload.pw|openloed.co|akvideo.stream|300mbfilms.io|123moviesgo.nl|123movieshub.gdn|123movieshub.fm|123movieshub.to|123movieshub.cx|bmovie123.me|bmovies123.me|cmovieshd.nl|cmovieshd.bz|cmovieshd.co|cmovieshd.net|fbmovies.org|vidoza.co|vidoza.net|ffmovies.ru
 /^https?:\/\/(www\.)?music\.yandex\.(ru|ua|by|com)\//$important,csp=script-src 'unsafe-inline' 'unsafe-eval' music.yandex.ru *.youtube.com https://yastatic.net local.adguard.org injections.adguard.org music.yandex.com music.yandex.by music.yandex.ua *.jquery.com; connect-src 'self' data: music.yandex.com music.yandex.ru music.yandex.ua music.yandex.by storage.mds.yandex.net wss: https://api.passport.yandex.ru; img-src 'self' data: music.yandex.com music.yandex.ru music.yandex.ua music.yandex.by *.yandex.net yapic.yandex.ru *.ytimg.com; frame-src data: frontend.vh.yandex.ru *.youtube.com music.yandex.ru music.yandex.ua music.yandex.by;
 /^https?:\/\/(www\.)?translate\.yandex\.(ru|ua|by|com)\//$csp=img-src 'self' data: yastatic.net avatars.mds.yandex.net;
 /^https?:\/\/([\w]+\.)?(pornhub|pornhubthbh7ap3u)\.[\w]+\//$csp=script-src 'self' data: 'unsafe-inline' 'unsafe-eval' blob: phncdn.com *.phncdn.com *.pornhub.com local.adguard.org injections.adguard.org; connect-src 'self' data: phncdn.com *.phncdn.com; frame-src 'none';
 ||deloplen.com^$important,csp=default-src 'none';
 ||twitch.tv^$important,csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' wss: blob: data: *.jtvnw.net *.ttvnw.net *.twitchcdn.net *.twitch.tv *.facebook.com *.facebook.net recaptcha.net *.google.com *.gstatic.com *.algolia.net local.adguard.org injections.adguard.org *.cloudfront.net;
-! CSP END
+! Content Security Policy (CSP) END
 
 ! OTHER START
 /(ntfc|afu|apu|jsa|apw)\.(hh|php)\?/$important
@@ -1091,7 +1098,6 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]action\=js\_stats[-._?&=#/]/$image,important,other,script,xmlhttprequest
 /[-._?&=#/]analy(zer|st|ti(c[as]?)|sis)[-.0-9_?&=#/]?/$image,important,other,script,xmlhttprequest,domain=~analytics.google.com|~github.com|~gitlab.com|~reddragonwebdesign.com|~fandom.com|~vk.com|~ozon.ru
 /[-._?&=#/]bann?ers?[-.0-9_?&=#/]/$image,important,script,subdocument,xmlhttprequest,domain=~dropbox.com|~esetnod32.ru|~f-droid.org|~fandom.com|~hindilinks4uto.com|~hqq.tv|~live.com|~m3u-cdn.live|~mts.ru|~ok.ru|~player.mediavitrina.ru|~rt.ru|~sberbank.ru|~staticmv.mediavitrina.ru|~twitch.tv|~waaw.tv|~aliexpress.com|~aliexpress.ru|~discord.com|~gosuslugi.ru|~ozon.ru
-/[-._?&=#/]count(s|ers?)[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~twitch.tv|~youtube.com|~discord.com
 /[-._?&=#/]logs?(ging|impressions?|ers?)?[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~github.com|~gitlab.com|~instagram.com|~twitch.tv|~yadi.sk|~dns-shop.ru|~ozon.ru|~aliexpress.com|~aliexpress.ru
 /[-._?&=#/]piwik[-.0-9_?&=#/]/$image,important,script
 /[-._?&=#/]pixel[-._?&=#/]/$image,important,script,subdocument,xmlhttprequest
