@@ -4049,3 +4049,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 yampui-staging.flurry.com
 0.0.0.0 zuul-ws.flurry.com
 # FLURRY.COM END
+
+# PANDORA.TV START
+0.0.0.0 gplayer.kmpmedia.net
+0.0.0.0 cdn.kmplayer.com
+0.0.0.0 log.kmplayer.com
+0.0.0.0 cdn.pandora.tv
+# PANDORA.TV END
