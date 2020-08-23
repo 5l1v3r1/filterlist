@@ -382,6 +382,7 @@ $$script[wildcard="__CF$cv$params"]
 /^https?:\/\/(?!(fonts|ajax|android|translate)\.)googleapis\.com/$important
 /^https?:\/\/([a-s1-3]{2}|update)\.torrentstream\.(org|info|net)/$important
 /^https?:\/\/bit(ly)?\.(com|ly)/$important
+/^https?:\/\/click2[a-z]{1,3}\.[a-z]{1,3}/$important
 /^[a-z0-9]{8,}\.Home$/$important
 ||*-pa.googleapis.com^$important
 ||2mdn.net^$important
@@ -857,10 +858,9 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[&?]s(screen)?\=[0-9]{3,4}x[0-9]{3,4}[&?]/$important
 /[&?]s[cw]\=[0-9]{3,4}[&]sh\=[0-9]{3,4}[&]/$important
 /[&?]zoneid\=/$important
-/\.(a[cdefgilmnoqrstuwxz]|arpa|academy|accountants?|act(ive|tor)|adult|aero|agency|airforce|apartments|app|archi|army|associates|asia|attorney|auction|audio|autos|art|b[abdefghijmnorstvwyz]|biz|c[acdfghikilmnoruvxyz]|co\.(ao|bw|ck|cr|i[dln]|jp|k[er]|ls|m[az]|nz|t[hz]|u[gkz]|v[ei]|z[amw])|com|com\.(a[fgiru]|b[dhnorz]|c[ouy]|do|e[cgt]|fj|g[hit]|hk|jm|k[hw]|l[by]|m[mtxy]|n[afgip]|om|p[aeghkry]|qa|s[abglv]|t[jrw]|u[ay]|v[cn])|cat|coop|d[dejkmoz]|dance|dev|e[cegrstu]|edu|eus|f[ijkmor]|family|feedback|g[abdefghilmnpqrstuwy]|google|gov|h[kmnrtu]|i[delmnoqrst]|info|int|j[emopkeghimnprdwyz]|jobs?|l[abcikrstuvy]|m[acdeghklmnopqrstuvwxyz]|mil|mobi|microsoft|moe|museum|n[acefgilopruz]|ninja|net|name|om|one|ong|onl(ine)?|org(anic)?|p[aefghklmnrstwy]|pink|part([ys]|ners?)|pizza|place|plu(s|mbing)?|pharmacy|photo(s|graphy)?|physio|pic(ture)?s?|poker|porn|post|press|pro(f|ductions|perties|perty)?|qa|qpon|r[eosuw]|raci(ng|pes)|red|rehab|ren(t|tals)?|rep(ort|air|ublican)|rest|reviews?|rich|s[abcdeghijkmnortuvyz]|site|t[cdfghjklmnoprtvwz]|tel|tra(de|vel)|u[agksyz]|v[aceginu]|w[fs]|y[etu]|yandex|yoga|z[amz]|zone|x(xx|yz))\/ad[sv]?\//$important
+/\.(a[cdefgilmnoqrstuwxz]|arpa|academy|accountants?|act(ive|tor)|adult|aero|agency|airforce|apartments|app|archi|army|associates|asia|attorney|auction|audio|autos|art|b[abdefghijmnorstvwyz]|biz|c[acdfghiklmnoruvxyz]|com?(\.(a[fgioru]|b[dhnorwz]|c[koruy]|do|i[dln]|j[mp]|k[ehrw]|ls|m[amtxyz]|n[afgipz]|t[hjrwz]|u[agkyz]|v[cein]|z[amw]|e[cgt]|fj|g[hit]|hk|l[by]|om|p[aeghkry]|qa|s[abglv]))?|cat|coop|d[dejkmoz]|dance|dev|e[cegrstu]|eng(lish)?|edu|eus|f[ijkmor]|family|feedback|g[abdefghilmnpqrstuwy]|google|gov|h[kmnrtu]|i[delmnoqrst]|info|int|j[deghikmnoprwyz]|jobs?|l[abcikrstuvy]|london|m[acdeghklmnopqrstuvwxyz]|mil|mobi|microsoft|moe|museum|n[acefgilopruz]|ninja|net|name|om|one|ong|onl(ine)?|org(anic)?|p[aefghklmnrstwy]|pink|part([ys]|ners?)|pizza|place|plu(s|mbing)?|pharmacy|photo(s|graphy)?|physio|pic(ture)?s?|poker|porn|post|press|pro(f|ductions|perties|perty)?|ky|qa|qpon|r[eosuw]|raci(ng|pes)|red|rehab|ren(t|tals)?|rep(ort|air|ublican)|rest|reviews?|rich|rus(sian)?|s[abcdeghijkmnortuvyz]|site|scot|t[cdfghjklmnoprtvwz]|tel|tra(de|vel)|u[agksyz]|v[aceginu]|w[fs]|wales|y[etu]|yandex|yoga|z[amz]|zone|x(xx|yz))\/ad[sv]?\//$important
 /[-._?&=#/]adfox[-._?&=#/]/$important
-/[-._?&=#/]adrules[-._?&=#/]/$important
-/[-._?&=#/]adrum[-._?&=#/]/$important
+/[-._?&=#/]adru(les|m)[-._?&=#/]/$important
 /[-._?&=#/]akam[-._?&=#/]/$important
 /[-._?&=#/]beacon[-.0-9_?&=#/]?/$important
 /[-._?&=#/]me?tr[ie]?[ck][asx]?[-.0-9_?&=#/]?/$important,domain=~twitch.tv|~fandom.com
