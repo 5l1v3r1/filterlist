@@ -377,7 +377,7 @@ $$script[wildcard="__CF$cv$params"]
 ||vk.com^$third-party
 ||yahoo.*^$third-party
 ||yandex.*^$third-party,domain=~kinopoisk.ru|~metrika.yandex.ru|~passport.rt.ru|~rt-internet.ru|~yadi.sk|~yandex.az|~yandex.by|~yandex.co.ge|~yandex.com|~yandex.com.tr|~yandex.fr|~yandex.kz|~yandex.lt|~yandex.md|~yandex.net|~yandex.ru|~yandex.tm|~yandex.ua|~yandex.uz|~yastatic.net|~z5h64q92x9.net
-||yastatic.net^$third-party,domain=~dev.yandex.net|~hdrabbit.ru|~kinopoisk.ru|~rt-internet.ru|~ya.ru|~yadi.sk|~yandex.az|~yandex.by|~yandex.co.ge|~yandex.com|~yandex.com.tr|~yandex.fr|~yandex.kz|~yandex.lt|~yandex.md|~yandex.ru|~yandex.tm|~yandex.ua|~yandex.uz|~z5h64q92x9.net
+||yastatic.net^$third-party,domain=~dev.yandex.net|~hdrabbit.ru|~kinopoisk.ru|~rt-internet.ru|~ya.ru|~yadi.sk|~yandex.az|~yandex.by|~yandex.co.ge|~yandex.com|~yandex.com.tr|~yandex.fr|~yandex.kz|~yandex.lt|~yandex.md|~yandex.ru|~yandex.tm|~yandex.ua|~yandex.uz|~z5h64q92x9.net|~majento.ru
 /^a\.[a-z0-9]{40,}\.com$/$important
 /^https?:\/\/(?!(fonts|ajax|android|translate)\.)googleapis\.com/$important
 /^https?:\/\/([a-s1-3]{2}|update)\.torrentstream\.(org|info|net)/$important
@@ -388,6 +388,7 @@ $$script[wildcard="__CF$cv$params"]
 ||a-error.facebook.com^$important
 ||a-pixel.facebook.com^$important
 ||a-www.facebook.com^$important
+||jivosite.com^$important
 ||activity-stream-icons.services.mozilla.com^$important
 ||actlz.github.io^$important
 ||adcolony.com^$important
