@@ -46,13 +46,6 @@
 ||05ee3a24ed11df058c8.com^$important
 ||05f4e2756f290.com^$important
 ||05xz0h2xo799.com^$important
-||veinteractive.com^$important
-||uponelectabuzzor.club^$important
-||omchanseyr.com^$important
-||vlitag.com^$important
-||genieessp.com^$important
-||w88kub.com^$important
-||click2go.me^$important
 ||05y2dxmr.top^$important
 ||0632qyw.com^$important
 ||068943613eb.com^$important
@@ -195,6 +188,7 @@
 ||1han-rit-ten.com^$important
 ||1hanritten.com^$important
 ||1jvd7f7w.top^$important
+||1k3static.com^$important
 ||1kk5l1khv03jj6v8r6.com^$important
 ||1mobile.com^$important
 ||1mp.mobi^$important
@@ -278,6 +272,7 @@
 ||29ae58661b9c7178.com^$important
 ||29bd088a464.com^$important
 ||29d65cebb82ef9f.com^$important
+||29ksjmk3.ru^$important
 ||2a12be6140880286.com^$important
 ||2a9zl2v9n.pro^$important
 ||2abb1d3ebd.com^$important
@@ -3094,6 +3089,7 @@
 ||clgyhwaoh.com^$important
 ||clhkbfqzwpst.com^$important
 ||clhqmynew.bid^$important
+||click2go.me^$important
 ||click2m.org^$important
 ||clickadilla.com^$important
 ||clickadin.com^$important
@@ -3786,6 +3782,7 @@
 ||differenth.com^$important
 ||digiadzone.com^$important
 ||diginamis.com^$important
+||digiseller.ru^$important
 ||digitaltarget.ru^$important
 ||digwzeutydo.com^$important
 ||digxmr.com^$important
@@ -5332,6 +5329,7 @@
 ||fsxmtpvumpty.bid^$important
 ||ftbiufcomsa.bid^$important
 ||ftbnrjzvgtdyzs.bid^$important
+||ftd.agency^$important
 ||ftd2q1g8id1z.ru^$important
 ||ftdyrqgjr.bid^$important
 ||ftfnchzmnyl.com^$important
@@ -5608,6 +5606,7 @@
 ||geesopso.net^$important
 ||gefaqjwdgzbo.com^$important
 ||gekywqwky.com^$important
+||genieessp.com^$important
 ||geniusonclick.com^$important
 ||genqrabot.com^$important
 ||geo.yahoo.com^$important
@@ -5826,6 +5825,7 @@
 ||gooblesdd.com^$important
 ||goodbookbook.com^$important
 ||google-analytics.com^$important
+||googleoptimize.com^$important
 ||googletagmanager.com^$important
 ||googletagservices.com^$important
 ||googlo.co^$important
@@ -7403,11 +7403,6 @@
 ||jjhnnzef.com^$important
 ||jjmdavj.com^$important
 ||jjmuyvpery.bid^$important
-||1k3static.com^$important
-||29ksjmk3.ru^$important
-||digiseller.ru^$important
-||ftd.agency^$important
-||googleoptimize.com^$important
 ||jjokekbfoxwip.com^$important
 ||jjokvprdxwf.com^$important
 ||jjpnveujkk.com^$important
@@ -11020,6 +11015,7 @@
 ||omakfhugexq.com^$important
 ||omareeper.com^$important
 ||omatri.info^$important
+||omchanseyr.com^$important
 ||omcozngvtyox.com^$important
 ||ommodatesjoin.info^$important
 ||omniscientspark.com^$important
@@ -15124,6 +15120,7 @@
 ||upgwdilkhlwguz.bid^$important
 ||upitnow.top^$important
 ||upnpuqimdqnghau.*^$important
+||uponelectabuzzor.club^$important
 ||uppybbhxbblxa.com^$important
 ||uprbleorptdghy.com^$important
 ||uprimp.com^$important
@@ -15450,6 +15447,7 @@
 ||vegiqjbranp.com^$important
 ||vegmvagvesye.com^$important
 ||vehvkcnild.bid^$important
+||veinteractive.com^$important
 ||vejlbuixnknc.com^$important
 ||vejrnvdsrvrbij.bid^$important
 ||velfssiowmyos.com^$important
@@ -15622,6 +15620,7 @@
 ||vlgqpikka.com^$important
 ||vlhdmywfi.com^$important
 ||vlijpebmjxmlbp.bid^$important
+||vlitag.com^$important
 ||vlivfbpuxmls.bid^$important
 ||vlkdntgqqfjusm.com^$important
 ||vllwccvw.com^$important
@@ -15893,6 +15892,7 @@
 ||w4qnw4uw.cricket^$important
 ||w5e8rg3ptq.com^$important
 ||w6lkr4s8wu.com^$important
+||w88kub.com^$important
 ||wa.ui-portal.de^$important
 ||wa4etw9l.top^$important
 ||waarhiupyrmig.com^$important
