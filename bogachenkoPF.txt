@@ -103,14 +103,13 @@ $$script[wildcard="__CF$cv$params"]
 @@||gstatic.com/recaptcha/$script
 @@||injections.adguard.org^
 @@||local.adguard.org^
+@@||github.com^$xmlhttprequest,~third-party
 @@||ok.ru/videoembed/$subdocument
 @@||safebrowsing.clients.google.com^$document
 @@||vk.com/video_ext.php$subdocument
 @@||xvideos*.*^$content,elemhide,jsinject,urlblock
 @@||favicon.yandex.net^$image
-@@||passport.aliexpress.com^$stealth
-@@||mycdn.me^$stealth
-@@*$stealth,domain=aliexpress.com|aliexpress.ru
+@@*$stealth,domain=aliexpress.com|aliexpress.ru|mycdn.me
 @@*$generichide,domain=keypro2.ru
 ! WHITELIST END
 
@@ -521,6 +520,7 @@ $$script[wildcard="__CF$cv$params"]
 ||graph.fbpigeon.com^$important
 ||graph.instagram.com^$important
 ||gx-corner.opera.com^$important
+||sendpulse.com^$important
 ||gx-corner.route*.opera.com^$important
 ||hostingcloud.*^$important
 ||hotjar.com^$important
@@ -598,6 +598,7 @@ $$script[wildcard="__CF$cv$params"]
 ||redir.opera.com^$important
 ||reef.vk-cdn.net^$important
 ||byteoversea.com^$important
+||qqzaixian.com^$important
 ||reports.ghostery.net^$important
 ||rs.mail.ru^$important
 ||s*-2mdn-net.l.google.com^$important
