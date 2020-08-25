@@ -971,6 +971,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||dra.to^$document,important
 ||easydota.cc^$document,important
 ||easymoney.games^$document,important
+/^https?:\/\/stream[\D]?bet\.[\w]+/$important,document
 ||forcedrop.top^$document,important
 ||gamingmalta.org^$document,important
 ||geni.us^$document,important
@@ -1034,6 +1035,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /^https?:\/\/[^\s]+\/crypt[oa]\.js/$important,script,domain=~web.telegram.org
 /^https?:\/\/[^\s]+\/sw([-._?&=#/]([_a-z0-9-.]{1,10})?)?\.js/$important,script
 /^https?:\/\/[^\s]+\/sw[bwg]\.js/$important,script
+/^https?:\/\/[^\s]+\/csw\.js/$important,script
 /^https?:\/\/[^\s]+\/[Ww]orker([-._?&=#/]?([a-z]{5,6})?)?\.js/$important,script,domain=~lelinhtinh.github.io
 |http*:*/beacon.js$important,script
 |http*:*/cdn-cgi/bm/cv/$important,script
@@ -1120,6 +1122,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||youtube.com/api/stats/$image,important,other,xmlhttprequest
 ||aliyuncs.com/r.png?$image,important,xmlhttprequest
 /[-._?&=#/](468[_x-]60|240[_x-]400|600[_x-]200|728[_x-]90|1[_x-]1|300[_x-]250)[-._?&=#/]/$image,subdocument,important
+||yastatic.net/daas/atom.js|$xmlhttprequest,script,important
 ! COMBINED END
 
 ! ~~~~~~~ NOT MY SHITTY RULES ~~~~~~~
