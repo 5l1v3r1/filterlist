@@ -354,7 +354,7 @@ $$script[wildcard="__CF$cv$params"]
 ! DOMAIN START
 /^https?:\/\/(.*\.)?mail\.ru(?![+/]+video)\//$important,third-party,domain=~account.mail.ru|~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by
 /^https?:\/\/ok\.ru(?!\/videoembed)\//$important,third-party,domain=~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by
-/^https?:\/\/vk\.com(?!\/video)/$important,third-party,domain=~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by
+/^https?:\/\/vk\.com(?!\/video)/$important,third-party,domain=~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by|~yandexwebcache.net
 ||2o7.net^$third-party
 ||facebook.*^$third-party
 ||facebookcorewwwi.onion^$third-party
@@ -748,7 +748,7 @@ zloekino.ru#%#//scriptlet("remove-cookie")
 ! REDIRECTION END
 
 ! REMOVEPARAM START
-||www.google.*^$removeparam=sourceid|client|ie|oe
+||www.google.*^$removeparam=sourceid|client|ie|oe|sclient|newwindow|gs_lcp
 ||yandex.*^$removeparam=suggest_reqid|lr|clid|msid|oprnd|utm_content|utm_source|yu|l10n
 ||mail.ru^$removeparam=fm|mg
 ! REMOVEPARAM END
