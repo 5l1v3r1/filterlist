@@ -484,6 +484,8 @@ $$script[wildcard="__CF$cv$params"]
 ||detectportal.firefox.*^$important
 ||detectportal.prod.mozaws.net^$important
 ||dev.appboy.com^$important
+||uptolike.com^$important
+||69i.club^$important
 ||disqus.com^$important
 ||disquscdn.com^$important
 ||dlservice.microsoft.com^$important
@@ -582,6 +584,7 @@ $$script[wildcard="__CF$cv$params"]
 ||pluso.ru^$important
 ||appsflyer.com^$important
 ||monitor.firefox.com^$important
+||usocial.pro^$important
 ||polyfill.twitchsvc.net^$important
 ||portal-xiva.yandex.net^$important
 ||portal.mail.ru^$important
@@ -594,6 +597,7 @@ $$script[wildcard="__CF$cv$params"]
 ||recsys.opera.com^$important
 ||redir.opera.com^$important
 ||reef.vk-cdn.net^$important
+||byteoversea.com^$important
 ||reports.ghostery.net^$important
 ||rs.mail.ru^$important
 ||s*-2mdn-net.l.google.com^$important
@@ -1096,6 +1100,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||yandex.*/bell/api/*/get-ticker|$important,xmlhttprequest
 ||youtube.com/get_endscreen?$important,xmlhttprequest
 ||youtube.com/get_midroll_info?$important,xmlhttprequest
+||tiktok.com/api/impression/$important,xmlhttprequest
 ! XMLHTTPREQUEST END
 
 ! COMBINED START
