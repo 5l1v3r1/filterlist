@@ -1,16 +1,16 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-08-25 18:01:41
-! Version: 20200825180141
+! Last modified: 2020-08-25 23:34:26
+! Version: 20200825233426
 ! Expires: 3 hours
-! Number of filters: 18278
+! Number of filters: 18287
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
 
 /^(https?|ftp|wss?):\/\/((www|wap)[0-9]?\.)?(fingerpr[ie]nt|fp)([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)[0-9]?\.)?(sx|np|mx)cdn([0-9]{1,3})?\.now\.sh/$important
-/^(https?|ftp|wss?):\/\/((www|wap)[0-9]?\.)?69([a-z]{1,2})\.([a-z]{4})/$important
+/^(https?|ftp|wss?):\/\/((www|wap)[0-9]?\.)?69([a-z]{1,2})\.[\w]+/$important
 /^(https?|ftp|wss?):\/\/((www|wap)[0-9]?\.)?ad[svbxo]?(er(ver?)?t?(ise|ising|isement)?)?\./$important,domain=~ad.nl|~ads.google.com
 /^(https?|ftp|wss?):\/\/((www|wap)[0-9]?\.)?ads?[-._?&=#/]?(visor|serve|bb|by|logs?|[rs]v[rs]?|sdk|delivery|engine)([0-9]{1,3})?\./$important
 /^(https?|ftp|wss?):\/\/((www|wap)[0-9]?\.)?aff(iliat(es?|ion)?)([0-9]{1,3})?\./$important
@@ -1899,6 +1899,7 @@
 ||arwlvjqzxxnftz.com^$important
 ||arxerlxllv.bid^$important
 ||as07d698u9.com^$important
+||asacdn.com^$important
 ||asadismn.xyz^$important
 ||asbqyhrpty.com^$important
 ||ascraftan.com^$important
@@ -1914,6 +1915,7 @@
 ||ashaidart.site^$important
 ||ashaidbit.club^$important
 ||ashamparm.site^$important
+||ashcdn.com^$important
 ||ashwlrtiazee.com^$important
 ||asjdfasas.xyz^$important
 ||askallalb.club^$important
@@ -2108,6 +2110,7 @@
 ||b42rracj.com^$important
 ||b460e308b59.com^$important
 ||b4e12976c052bbd91c3e.date^$important
+||b4f.site^$important
 ||b4q982rbqdsw.com^$important
 ||b56f9c50130def4d.com^$important
 ||b60228e270e363f6.com^$important
@@ -2407,8 +2410,10 @@
 ||bitcoadz.io^$important
 ||bitcoinadvertise.net^$important
 ||bitcoin-pay.eu^$important
+||bitmedia.io^$important
 ||bitmedianetwork.com^$important
 ||bitrix.info^$important
+||bittraffic.io^$important
 ||bityah-sym.com^$important
 ||biupcyhpmjazv.com^$important
 ||biwjfwhxoy.bid^$important
@@ -2679,6 +2684,7 @@
 ||bubblelife90.life^$important
 ||bubblesmedia.ru^$important
 ||bucketbean.com^$important
+||budvawshes.ru^$important
 ||budyxjttmjkf.com^$important
 ||bufqrxzyrecf.com^$important
 ||bugsnag.com^$important
@@ -9996,6 +10002,7 @@
 ||mzyfkfj.com^$important
 ||mzzouiciajems.com^$important
 ||n123loi.com^$important
+||n12qga4ld3zk.com^$important
 ||n130adserv.com^$important
 ||n13x4nfw8frika.com^$important
 ||n161adserv.com^$important
@@ -16647,6 +16654,7 @@
 ||xep3gae.top^$important
 ||xewzazxkmzpc.com^$important
 ||xexklpgrsg.com^$important
+||xfaucet.xyz^$important
 ||xffljxbbpy.com^$important
 ||xfgpmvlacsojy.bid^$important
 ||xfgqvqoyzeiu.com^$important
@@ -16903,6 +16911,7 @@
 ||xuqdbqkqgj.com^$important
 ||xurokykjwum.com^$important
 ||xurrehqawu.com^$important
+||xuveiai.ru^$important
 ||xuwptpzdwyaw.com^$important
 ||xuwxbdafults.com^$important
 ||xv9xm6zxb8.com^$important

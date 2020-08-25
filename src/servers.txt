@@ -1855,6 +1855,7 @@
 ||arwlvjqzxxnftz.com^$important
 ||arxerlxllv.bid^$important
 ||as07d698u9.com^$important
+||asacdn.com^$important
 ||asadismn.xyz^$important
 ||asbqyhrpty.com^$important
 ||ascraftan.com^$important
@@ -1870,6 +1871,7 @@
 ||ashaidart.site^$important
 ||ashaidbit.club^$important
 ||ashamparm.site^$important
+||ashcdn.com^$important
 ||ashwlrtiazee.com^$important
 ||asjdfasas.xyz^$important
 ||askallalb.club^$important
@@ -2062,6 +2064,7 @@
 ||b42rracj.com^$important
 ||b460e308b59.com^$important
 ||b4e12976c052bbd91c3e.date^$important
+||b4f.site^$important
 ||b4q982rbqdsw.com^$important
 ||b56f9c50130def4d.com^$important
 ||b60228e270e363f6.com^$important
@@ -2361,8 +2364,10 @@
 ||bitcoadz.io^$important
 ||bitcoin-pay.eu^$important
 ||bitcoinadvertise.net^$important
+||bitmedia.io^$important
 ||bitmedianetwork.com^$important
 ||bitrix.info^$important
+||bittraffic.io^$important
 ||bityah-sym.com^$important
 ||biupcyhpmjazv.com^$important
 ||biwjfwhxoy.bid^$important
@@ -2507,7 +2512,6 @@
 ||boubeeth.com^$important
 ||bouillerines.website^$important
 ||bounceexchange.com^$important
-||b4f.site^$important
 ||bouncyproperty.com^$important
 ||boursnormaticm.info^$important
 ||bowithow.com^$important
@@ -2524,10 +2528,6 @@
 ||bplzgzpqp.com^$important
 ||bpmskwgodi.com^$important
 ||bpniszadiuc.com^$important
-||xfaucet.xyz^$important
-||xuveiai.ru^$important
-||n12qga4ld3zk.com^$important
-||budvawshes.ru^$important
 ||bpnjigwalqjho.com^$important
 ||bpprksdgogtw.com^$important
 ||bprnphojtfl.bid^$important
@@ -2638,6 +2638,7 @@
 ||bubblelife90.life^$important
 ||bubblesmedia.ru^$important
 ||bucketbean.com^$important
+||budvawshes.ru^$important
 ||budyxjttmjkf.com^$important
 ||bufqrxzyrecf.com^$important
 ||bugsnag.com^$important
@@ -9955,6 +9956,7 @@
 ||mzyfkfj.com^$important
 ||mzzouiciajems.com^$important
 ||n123loi.com^$important
+||n12qga4ld3zk.com^$important
 ||n130adserv.com^$important
 ||n13x4nfw8frika.com^$important
 ||n161adserv.com^$important
@@ -10335,18 +10337,14 @@
 ||nimiqpool.com^$important
 ||nimiqtest.net^$important
 ||nimjdyknjzcp.com^$important
-||bittraffic.io^$important
 ||nimmediu.info^$important
 ||nimsepee.net^$important
 ||ningtoldrop.ru^$important
 ||ninxcwcwgvr.com^$important
 ||nirostyhe.pro^$important
 ||nirqmbrzplvtjr.com^$important
-||asacdn.com^$important
-||ashcdn.com^$important
 ||nirzzfseiwkq.com^$important
 ||nishathlessharr.info^$important
-||bitmedia.io^$important
 ||nishfarmerlypas.info^$important
 ||nitigoly.com^$important
 ||nitmus.com^$important
@@ -16610,6 +16608,7 @@
 ||xep3gae.top^$important
 ||xewzazxkmzpc.com^$important
 ||xexklpgrsg.com^$important
+||xfaucet.xyz^$important
 ||xffljxbbpy.com^$important
 ||xfgpmvlacsojy.bid^$important
 ||xfgqvqoyzeiu.com^$important
@@ -16866,6 +16865,7 @@
 ||xuqdbqkqgj.com^$important
 ||xurokykjwum.com^$important
 ||xurrehqawu.com^$important
+||xuveiai.ru^$important
 ||xuwptpzdwyaw.com^$important
 ||xuwxbdafults.com^$important
 ||xv9xm6zxb8.com^$important
