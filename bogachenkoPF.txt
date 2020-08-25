@@ -398,6 +398,7 @@ $$script[wildcard="__CF$cv$params"]
 ||addtoany.com^$important
 ||adeventtracker.spotify.com^$important
 ||adjust.com^$important
+||sentry-cdn.com^$important
 ||adnow.com^$important
 ||adriver.ru^$important
 ||adroll.com^$important

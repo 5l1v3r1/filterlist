@@ -1036,6 +1036,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 ts.acestream.net
 # ACESTREAM.NET END
 
+# UTORRENT.COM START
+0.0.0.0 i-4103.b-2686.utw.bench.utorrent.com
+0.0.0.0 i-1006.b-0.ad.bench.utorrent.com
+0.0.0.0 i-200-b-0-0-5-content-bundles-bench.utorrent.com
+0.0.0.0 toolbar.utorrent.com
+0.0.0.0 ad.bench.utorrent.com
+0.0.0.0 utclient.utorrent.com
+0.0.0.0 i-29.b-41865.ut.bench.utorrent.com
+0.0.0.0 i-5600.b-1019.helper.bench.utorrent.com
+# UTORRENT.COM END
+
 # TABOOLA.COM START
 0.0.0.0 15.taboola.com
 0.0.0.0 accessrequest.taboola.com
@@ -2454,6 +2465,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.recsys.opera.com
 0.0.0.0 appstatic.opera.com
 0.0.0.0 autoupdate.geo.opera.com
+0.0.0.0 desktop-netinstaller-sub.osp.opera.software
 0.0.0.0 desktop-dna.osp.opera.software
 0.0.0.0 exchange.opera.com
 0.0.0.0 features.opera-api.com
