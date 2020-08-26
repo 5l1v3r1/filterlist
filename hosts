@@ -415,6 +415,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 afs.googlesyndication.com
 0.0.0.0 alt0-mtalk.google.com
 0.0.0.0 alt1-mtalk.google.com
+0.0.0.0 chromesyncpasswords-pa.googleapis.com
 0.0.0.0 alt2-mtalk.google.com
 0.0.0.0 alt3-mtalk.google.com
 0.0.0.0 alt4-mtalk.google.com
@@ -1778,6 +1779,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.mobile.webvisor.com
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 api.appmetrica.yandex.com
+0.0.0.0 api.browser.yandex.ru
 0.0.0.0 appmetrica.yandex.com
 0.0.0.0 appmetrica.yandex.net
 0.0.0.0 awaps.yandex.net
@@ -4090,3 +4092,37 @@ ff02::3 ip6-allhosts
 0.0.0.0 gplayer.kmpmedia.net
 0.0.0.0 log.kmplayer.com
 # PANDORA.TV END
+
+# BRANCH.IO START
+0.0.0.0 branch.io
+0.0.0.0 ai.branch.io
+0.0.0.0 api.branch.io
+0.0.0.0 api2.branch.io
+0.0.0.0 bell-api.branch.io
+0.0.0.0 bell-cdn.branch.io
+0.0.0.0 qa.dashboard.beta.branch.io
+0.0.0.0 cdn.branch.io
+0.0.0.0 branch.dashboard.branch.io
+0.0.0.0 dev.branch.io
+0.0.0.0 discovery.branch.io
+0.0.0.0 discoverydev.branch.io
+0.0.0.0 tune.docs.branch.io
+0.0.0.0 wizard.docs.branch.io
+0.0.0.0 events.branch.io
+0.0.0.0 expert.branch.io
+0.0.0.0 gdpr.branch.io
+0.0.0.0 go.branch.io
+0.0.0.0 go2.branch.io
+0.0.0.0 growth.branch.io
+0.0.0.0 api.qa.branch.io
+0.0.0.0 qahooks.branch.io
+0.0.0.0 ssltest2.branch.io
+0.0.0.0 staging-help.branch.io
+0.0.0.0 start.branch.io
+0.0.0.0 status.branch.io
+0.0.0.0 tlnk.branch.io
+0.0.0.0 video.branch.io
+0.0.0.0 vulcan.branch.io
+0.0.0.0 www.branch.io
+0.0.0.0 www2.branch.io
+# BRANCH.IO END

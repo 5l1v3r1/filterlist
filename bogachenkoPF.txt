@@ -642,6 +642,7 @@ $$script[wildcard="__CF$cv$params"]
 ||trace.svc.ui.com^$important
 ||tracking.overwolf.com^$important
 ||uc.cn^$important
+||branch.io^$important
 ||uc123.com^$important
 ||uma-browser.taobao.com^$important
 ||us-redir.opera.com^$important
@@ -649,7 +650,6 @@ $$script[wildcard="__CF$cv$params"]
 ||video-stats.l.google.com^$important
 ||videoroll.net^$important
 ||vk-portal.net^$important
-||voiceservices.yandex.net^$important
 ||voodoo-ads.io^$important
 ||voodoo-tech.io^$important
 ||voodoo.io^$important
@@ -1479,3 +1479,4 @@ dropgalaxy.*#@#.adsbygoogle, #modalpop
 @@.jpg$image,domain=dropgalaxy.com,badfilter
 dropgalaxy.*#@#+js(nosiif, _0x)
 ||shortpixel.ai^$badfilter
+||mds.yandex.net^$badfilter
