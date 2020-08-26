@@ -9,16 +9,6 @@
 
 ! CONDITIONS START
 !#if !ext_ublock
-!#if !adguard
-||d2ddoduugvun08.cloudfront.net^$important
-||d2v02itv0y9u9t.cloudfront.net^$important
-||go.microsoft.com^$important
-||go.microsoft.com.edgekey.net^$important
-||d2wy8f7a9ursnm.cloudfront.net^$important
-!#endif
-!#endif
-
-!#if !ext_ublock
 !#if (adguard_app_android && adguard_app_ios)
 ||unity3d.com^
 ||zeptolab.com^
@@ -64,18 +54,16 @@ $$script[wildcard="__CF$cv$params"]
 @@||10.0.0.1^$important,document
 @@||[::1]^$important,document
 !#endif
-
-!#if ext_ublock
-!
-!#endif
 ! CONDITIONS END
 
 ! TEMPORARILY START
 !#if !ext_ublock
 ! See bug - https://github.com/AdguardTeam/AdguardForWindows/issues/2650#issuecomment-645438370
 @@||marketplace.visualstudio.com^$app=Code.exe,important
+! See bug - https://github.com/AdguardTeam/AdguardForWindows/issues/2650#issuecomment-672641945
 @@||yastatic.net/yandex-video-player-iframe-api-bundles-stable/$popunder,popup,important
-
+! See bug - https://github.com/AdguardTeam/AdguardForWindows/issues/2650#issuecomment-645949868
+@@/git(hub|lab)\.[^\s]+[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$important,other,xmlhttprequest
 ! High CPU load
 @@||youtube.com^$content,elemhide
 @@||youtube.com^$stealth
@@ -388,7 +376,9 @@ $$script[wildcard="__CF$cv$params"]
 ||a-error.facebook.com^$important
 ||a-pixel.facebook.com^$important
 ||a-www.facebook.com^$important
+||s-microsoft.com^$important
 ||jivosite.com^$important
+||edge.microsoft.com^$important
 ||activity-stream-icons.services.mozilla.com^$important
 ||actlz.github.io^$important
 ||adcolony.com^$important
@@ -419,6 +409,11 @@ $$script[wildcard="__CF$cv$params"]
 ||alt*-mtalk.google.com^$important
 ||alt*-safebrowsing.google.com^$important
 ||amazon-adsystem.com^$important
+||d2ddoduugvun08.cloudfront.net^$important
+||d2v02itv0y9u9t.cloudfront.net^$important
+||go.microsoft.com^$important
+||go.microsoft.com.edgekey.net^$important
+||d2wy8f7a9ursnm.cloudfront.net^$important
 ||an.facebook.com^$important
 ||an.yandex.*^$important
 ||analytic.press^$important
@@ -962,7 +957,6 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 
 ! DOCUMENT START
 /^https?:\/\/(apps?|best|mobile|prize|reward|sweeps).*\.[a-z]{5,15}.*\.(agency|icu|live)\//$document,important
-/^https?:\/\/go\.microsoft\.com(?!(\/fwlink\/\?linkid\=(2108834)).*$)/$document,important
 |http*:*/*.gif|$document,important,domain=~github.com|~githubusercontent.com|~imgur.com|~wikimedia.org
 |http*:*/redirect.html$document,important
 ||616wear.ru^$document,important
@@ -1119,7 +1113,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]logs?(ging|impressions?|ers?)?[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~github.com|~gitlab.com|~instagram.com|~twitch.tv|~yadi.sk|~dns-shop.ru|~ozon.ru|~aliexpress.com|~aliexpress.ru
 /[-._?&=#/]piwik[-.0-9_?&=#/]/$image,important,script
 /[-._?&=#/]pixel[-._?&=#/]/$image,important,script,subdocument,xmlhttprequest
-/[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$image,important,script,xmlhttprequest,domain=~fandom.com|~pochta.ru|~aliexpress.com|~aliexpress.ru|~alipay.com
+/[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$other,image,important,script,xmlhttprequest,domain=~fandom.com|~pochta.ru|~aliexpress.com|~aliexpress.ru|~alipay.com
 /[-._?&=#/]vast[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~twitch.tv
 /\/ga[-._?&=#/][a-zA-Z]{5,}\.js/$important,other,script,third-party
 /\/pi?xe?l?\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)/$image,important,script,subdocument,xmlhttprequest,domain=~playground.ru
