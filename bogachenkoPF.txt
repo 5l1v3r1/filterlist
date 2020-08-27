@@ -363,6 +363,7 @@ $$script[wildcard="__CF$cv$params"]
 ||rambler.ru^$third-party
 ||reddit.com^$third-party
 ||translate.googleapis.com^$third-party,domain=~translate.googleusercontent.com
+||translate.google.com^$third-party
 ||twitch.tv^$third-party
 ||twitchcdn.net^$third-party,domain=~twitch.tv|~donationalerts.com
 ||twitter.com^$third-party,domain=~kinopoisk.ru|~lenta.ru|~meduza.io
@@ -1126,7 +1127,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /^https?:\/\/[0-1]{5,}\.com/$important,script,third-party,xmlhttprequest
 ||youtube.com/api/stats/$image,important,other,xmlhttprequest
 ||aliyuncs.com/r.png?$image,important,xmlhttprequest
-/[-._?&=#/](468[_x-]60|240[_x-]400|600[_x-]200|728[_x-]90|1[_x-]1|300[_x-]250)[-._?&=#/]/$image,subdocument,important,domain=~ga.de
+/[-._?&=#/](468[_x-]60|240[_x-]400|600[_x-]200|728[_x-]90|300[_x-]250)[-._?&=#/]/$image,subdocument,important
 ||yastatic.net/daas/atom.js|$xmlhttprequest,script,important
 ! COMBINED END
 
@@ -1482,3 +1483,4 @@ dropgalaxy.*#@#+js(nosiif, _0x)
 ||shortpixel.ai^$badfilter
 ||mds.yandex.net^$badfilter
 ||cdn.adf.ly^$badfilter
+||w.org^$badfilter
