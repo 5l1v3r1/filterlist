@@ -63,16 +63,6 @@
 ||09cd.co.kr^$important
 ||09fee6914d1b6450885.com^$important
 ||0a0qetx8et.com^$important
-||yuriassignmentmall.com^$important
-||pourdear.com^$important
-||notchcollectormuffin.com^$important
-||adfpoint.com^$important
-||whixochyxy.pro^$important
-||nonerr.com^$important
-||pipaffiliates.com^$important
-||grownuplieutenant.com^$important
-||0ndfls4hmp.top^$important
-||stats.wp.com^$important
 ||0a225c134735c.com^$important
 ||0azx1.com^$important
 ||0b6e714203b6797e8d4.com^$important
@@ -99,6 +89,7 @@
 ||0j7z9aw6.top^$important
 ||0klxjejyxak3.com^$important
 ||0n55f9zgy7.com^$important
+||0ndfls4hmp.top^$important
 ||0oaqgsk54hm5.com^$important
 ||0oviy0ub.top^$important
 ||0pixl.com^$important
@@ -1295,6 +1286,7 @@
 ||adfox.*^$important
 ||adfox.yandex.ru^$important
 ||adfpkxvaqeyj.com^$important
+||adfpoint.com^$important
 ||adfrastingathles.info^$important
 ||adglare.net^$important
 ||adgsfoxoavmc.com^$important
@@ -5958,6 +5950,7 @@
 ||grobido.info^$important
 ||gromairt.net^$important
 ||grooksom.com^$important
+||grownuplieutenant.com^$important
 ||grppxsxgcdcu.bid^$important
 ||grrduoonwjpy.com^$important
 ||grsdvgnr.com^$important
@@ -10510,6 +10503,7 @@
 ||nondescriptcrowd.com^$important
 ||nondescriptsmile.com^$important
 ||nondescriptstocking.com^$important
+||nonerr.com^$important
 ||nonpaly.ru^$important
 ||nonstoppartner.de^$important
 ||noonshdnkt.bid^$important
@@ -10531,6 +10525,7 @@
 ||norvalur.xyz^$important
 ||nosdbwnd.com^$important
 ||nostalgicknot.com^$important
+||notchcollectormuffin.com^$important
 ||notification-centar.com^$important
 ||notification-list.com^$important
 ||notify-monad.com^$important
@@ -11607,6 +11602,7 @@
 ||pingoli.info^$important
 ||pinocularoud.site^$important
 ||pinpupevent.com^$important
+||pipaffiliates.com^$important
 ||piquantpigs.com^$important
 ||piquantstove.com^$important
 ||piqvuvqc.com^$important
@@ -11776,6 +11772,7 @@
 ||poudeeri.com^$important
 ||pouluwie.net^$important
 ||pouncewhineheadquarter.com^$important
+||pourdear.com^$important
 ||povqrvsoljy.com^$important
 ||powerad.ai^$important
 ||powerapp.download^$important
@@ -13885,6 +13882,7 @@
 ||stati.in^$important
 ||staticsfs.host^$important
 ||stats.redditmedia.com^$important
+||stats.wp.com^$important
 ||statserv.net^$important
 ||statsforads.com^$important
 ||statsy.net^$important
@@ -16116,6 +16114,7 @@
 ||whitection.com^$important
 ||whitectione.info^$important
 ||whitesboromcbee.com^$important
+||whixochyxy.pro^$important
 ||whjibbprhng.com^$important
 ||whjwcghg.com^$important
 ||whjxqqdhfp.com^$important
@@ -17414,6 +17413,7 @@
 ||yunpifu.cn^$important
 ||yupidd.com^$important
 ||yupwqyocvvnw.com^$important
+||yuriassignmentmall.com^$important
 ||yurttitxfyfh.com^$important
 ||yusungtech.co.kr^$important
 ||yuywwcizs.com^$important
