@@ -16,12 +16,6 @@
 !#endif
 
 !#if !ext_ublock
-$$script[data-cfasync="false"][src="&zoneid="]
-$$script[data-cfasync="false"][src="?zoneid="]
-$$script[data-cfasync="false"][tag-content="PopAds%20CGAPIL%20"]
-$$script[data-cfasync="false"][tag-content="Privet darkv"]
-$$script[data-cfasync="false"][wildcard="*Math*String.fromCharCode*"]
-$$script[data-cfasync="false"][wildcard="*['push']*['shift']*decodeURIComponent*"]
 $$script[src="https://c1.popads.net/pop.js"]
 $$script[src="https://c2.popads.net/pop.js"]
 $$script[src="https://pagead2.googlesyndication.com/"]
@@ -31,6 +25,20 @@ $$script[src="https://www.googletagservices.com/"]
 $$script[src="https://www.google-analytics.com/"]
 $$script[src="https://www.googleadservices.com/"]
 $$script[src="https://mc.yandex.ru/"]
+@@||localhost^$important,document
+@@||127.0.0.1^$important,document
+@@||10.0.0.1^$important,document
+@@||[::1]^$important,document
+!#endif
+
+!#if env_firefox
+!#if !ext_ublock
+$$script[data-cfasync="false"][src="&zoneid="]
+$$script[data-cfasync="false"][src="?zoneid="]
+$$script[data-cfasync="false"][tag-content="PopAds%20CGAPIL%20"]
+$$script[data-cfasync="false"][tag-content="Privet darkv"]
+$$script[data-cfasync="false"][wildcard="*Math*String.fromCharCode*"]
+$$script[data-cfasync="false"][wildcard="*['push']*['shift']*decodeURIComponent*"]
 $$script[tag-content="absda"]
 $$script[tag-content="adBlockDetected"]
 $$script[tag-content="adcashMacros"]
@@ -49,10 +57,7 @@ $$script[tag-content="_pop.push"]
 $$script[wildcard="*eval*babasbmsgx*"]
 $$script[wildcard="*googletagmanager*GTM-*"]
 $$script[wildcard="__CF$cv$params"]
-@@||localhost^$important,document
-@@||127.0.0.1^$important,document
-@@||10.0.0.1^$important,document
-@@||[::1]^$important,document
+!#endif
 !#endif
 ! CONDITIONS END
 
@@ -745,12 +750,6 @@ zloekino.ru#%#//scriptlet("remove-cookie")
 */loading.mp4$important,media,domain=t21.press,redirect=noopmp4-1s
 ||device-metrics-us*.amazon.com^$xmlhttprequest,redirect=nooptext,important
 ! REDIRECTION END
-
-! REMOVEPARAM START
-||www.google.*^$removeparam=sourceid|client|ie|oe|sclient|newwindow|gs_lcp
-||yandex.*^$removeparam=suggest_reqid|lr|clid|msid|oprnd|utm_content|utm_source|yu|l10n
-||mail.ru^$removeparam=fm|mg
-! REMOVEPARAM END
 
 ! Cascading Style Sheets (CSS) START
 *##a[href*="/ads."], a[href*="/ads/"], a[href*="/adv."], a[href*="/adv/"], a[href*="/advert."], a[href*="/advert/"],a[href*="/advertise."], a[href*="/advertise/"], a[href*="/advertising."], a[href*="/advertising/"], [class*="adv-slot-"], div[class*="sport-advert_"], div[data-flt-ve="sponsored_search_ads"], div[id*="adcontent"], div[id^="google_ads_iframe_"], div[id^="yandex_rtb"], #WikiaTopAds
