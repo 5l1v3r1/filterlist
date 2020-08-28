@@ -62,12 +62,6 @@
 ||09b950280b055.com^$important
 ||09cd.co.kr^$important
 ||09fee6914d1b6450885.com^$important
-||oufauthy.net^$important
-||optimizesrv.com^$important
-||colombiaonline.com^$important
-||hiprofitnetworks.com^$important
-||topdisplaynetwork.com^$important
-||oves.biz^$important
 ||0a0qetx8et.com^$important
 ||0a225c134735c.com^$important
 ||0azx1.com^$important
@@ -3211,6 +3205,7 @@
 ||collectpush.com^$important
 ||collectrom.com^$important
 ||colleduny.info^$important
+||colombiaonline.com^$important
 ||coloniansheraz.site^$important
 ||colossalchance.com^$important
 ||com-gift-winner-lucky-day.vip^$important
@@ -6333,6 +6328,7 @@
 ||himselvet.info^$important
 ||hincludingse.site^$important
 ||hipercerolding.info^$important
+||hiprofitnetworks.com^$important
 ||hirdchyngnn.bid^$important
 ||hisfryyes.com^$important
 ||histats.com^$important
@@ -11140,6 +11136,7 @@
 ||optimallimit.com^$important
 ||optimize-stats.voxmedia.com^$important
 ||optimizely.com^$important
+||optimizesrv.com^$important
 ||optimove.net^$important
 ||optvx.com^$important
 ||oqaghvocticy.com^$important
@@ -11211,6 +11208,7 @@
 ||oubriojtpnps.com^$important
 ||oucywciij.com^$important
 ||oudccdjvh.com^$important
+||oufauthy.net^$important
 ||ougfkbyllars.com^$important
 ||oughgoalityabo.info^$important
 ||ouh3igaeb.com^$important
@@ -11248,6 +11246,7 @@
 ||overnmenty.club^$important
 ||overratedchalk.com^$important
 ||overribleintena.info^$important
+||oves.biz^$important
 ||ovfbwavekglf.com^$important
 ||ovgepsxx.com^$important
 ||ovgzbnjj.com^$important
@@ -14536,6 +14535,7 @@
 ||top100.ru^$important
 ||topbetfast.com^$important
 ||topclickguru.com^$important
+||topdisplaynetwork.com^$important
 ||topgadgetlists.com^$important
 ||topichawaii.com^$important
 ||toponclick.com^$important
