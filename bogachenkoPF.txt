@@ -726,7 +726,7 @@ hotlink.cc,libertycity.ru,faucetcrypto.com##+js(nano-setInterval-booster.js)
 infourok.ru##+js(addEventListener-defuser.js, focus)
 infourok.ru##+js(addEventListener-defuser.js, focus, trigger)
 infourok.ru##+js(set-constant.js, monitorFocus, noopFunc)
-infourok.ru,bogachenko.github.io,torrent-filmi.xyz,123movies.*,ros-met.com,hdfilms.zone,kinohd-online.club,filmy-onlain.net,vio.to,luxfilm.net,xartmanfilms.ru,kinobot.club,kinoangel.net,tvfru.ru,kino-top1.net,lookmix.org,lamafilm.club,vfilmesonline.net,prettyfast.to,harehub.tech,bitporno.com,musixmatch.com,terbit21.club,t21.press,kumpul21.org,player.pl,shuneiya.com,vidnode.net,onifile.com,tortuga.wtf,instagram.com,streamhoe.online,there.to,watchcartoonsonline.to,hindilinks4uto.com,gdriveplayer.co,mirrordrive.net,sharer.pw,gosemut.net,efek.stream,antinawala.info,hydrax.net,rcdn.me,joostream.com,gdriveplayer.me,vidlink.org,voxzer.org,0123movies.*##+js(mousedef2.js)
+infourok.ru,torrent-filmi.xyz,123movies.*,ros-met.com,hdfilms.zone,kinohd-online.club,filmy-onlain.net,vio.to,luxfilm.net,xartmanfilms.ru,kinobot.club,kinoangel.net,tvfru.ru,kino-top1.net,lookmix.org,lamafilm.club,vfilmesonline.net,prettyfast.to,harehub.tech,bitporno.com,musixmatch.com,terbit21.club,t21.press,kumpul21.org,player.pl,shuneiya.com,vidnode.net,onifile.com,tortuga.wtf,instagram.com,streamhoe.online,there.to,watchcartoonsonline.to,hindilinks4uto.com,gdriveplayer.co,mirrordrive.net,sharer.pw,gosemut.net,efek.stream,antinawala.info,hydrax.net,rcdn.me,joostream.com,gdriveplayer.me,vidlink.org,voxzer.org,0123movies.*##+js(mousedef2.js)
 kissasian.*,sourceforge.net,kimcartoon.to,datoporn.co,trialnod.com,xstreamcdn.com,fembed.com,uii.io,voxc.org,bcvc.live,onifile.com,idxx1.*,indishare.org,fc.lc,claim4.fun##+js(nano-setTimeout-booster.js)
 livejournal.com##+js(abort-current-inline-script.js, document.createElement, script)
 peserialehd.us,europixhd.*,bookmaker-ratings.ru##+js(mousedef.js)
@@ -1036,7 +1036,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /^https?:\/\/[a-z]{10,11}\.com\/[0-9a-f]{5}\.js$/$important,script,third-party
 /^https?:\/\/[^/]+/[a-z0-9]{15,}(\?hope=.*)?$/$important,script
 /^https?:\/\/[^\s]+\/(([_a-z-]{3,12})?[-._?&=#/])?sw\.js/$important,script
-/^https?:\/\/[^\s]+\/(([_a-z-]{3,15})?[-._?&=#/]?)?[Ww]orker(.*)?\.js/$important,script,domain=~github.com|~google.com|~lelinhtinh.github.io|~my.dogechain.info|~twitch.tv|~web.telegram.org|~whoer.net|~z5h64q92x9.net
+/^https?:\/\/[^\s]+\/(([_a-z-]{3,15})?[-._?&=#/]?)?[Ww]orker(.*)?\.js/$important,script,domain=~github.com|~google.com|~lelinhtinh.github.io|~my.dogechain.info|~twitch.tv|~web.telegram.org|~whoer.net|~z5h64q92x9.net|~obfuscator.io
 /^https?:\/\/[^\s]+\/crypt[oa]\.js/$important,script,domain=~web.telegram.org
 /^https?:\/\/[^\s]+\/sw([-._?&=#/]([_a-z0-9-.]{1,10})?)?\.js/$important,script
 /^https?:\/\/[^\s]+\/sw[bwg]\.js/$important,script
@@ -1493,3 +1493,12 @@ todaynewspk.win#@#+js(aopr, app_vars.force_disable_adblock)
 /cdn-cgi/apps/body/*$script,~third-party,badfilter
 /cdn-cgi/apps/head/*$script,~third-party,badfilter
 -ad2_$badfilter
+||blockadblock.com^$badfilter
+||getadmiral.com^$important,badfilter
+||getadmiral.com^$badfilter
+||www.getadmiral.com^$badfilter
+||hs-sites.com^$badfilter
+||yui.yahooapis.com^$badfilter
+.org/ad-$badfilter
+||jscrambler.com^$badfilter
+||javascriptobfuscator.com^$badfilter
