@@ -33,8 +33,10 @@ $$script[src="https://mc.yandex.ru/"]
 
 !#if env_firefox
 !#if !ext_ublock
+!#if adguard
 $$script[data-cfasync="false"][src="&zoneid="]
 $$script[data-cfasync="false"][src="?zoneid="]
+$$script[data-cfasync="false"][src="/ntfc.php?"]
 $$script[data-cfasync="false"][tag-content="PopAds%20CGAPIL%20"]
 $$script[data-cfasync="false"][tag-content="Privet darkv"]
 $$script[data-cfasync="false"][wildcard="*Math*String.fromCharCode*"]
@@ -57,6 +59,7 @@ $$script[tag-content="_pop.push"]
 $$script[wildcard="*eval*babasbmsgx*"]
 $$script[wildcard="*googletagmanager*GTM-*"]
 $$script[wildcard="__CF$cv$params"]
+!#endif
 !#endif
 !#endif
 ! CONDITIONS END
@@ -1502,3 +1505,5 @@ todaynewspk.win#@#+js(aopr, app_vars.force_disable_adblock)
 .org/ad-$badfilter
 ||jscrambler.com^$badfilter
 ||javascriptobfuscator.com^$badfilter
+bolssc.com#@#+js(aopr, app_vars.force_disable_adblock)
+bolssc.com#@#+js(acis, Math, XMLHttpRequest)
