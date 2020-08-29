@@ -586,7 +586,6 @@ $$script[wildcard="__CF$cv$params"]
 ||pixel.facebook.com^$important
 ||pixel.fbpigeon.com^$important
 ||pixel.spotify.com^$important
-||pladform.ru^$important
 ||platform.twitter.com^$important
 ||plus.yandex.*^$important
 ||pluso.ru^$important
@@ -1007,7 +1006,6 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 
 ! SUBDOCUMENT START
 /\/ads?\/(middle|bottom|right|top|left)\.html?\?/$important,subdocument
-/\/ads\.html?/$important,subdocument
 /^https?:\/\/(www\.)?google\.[\w]+\/afs\/ads[/?]/$important,subdocument
 /^https?:\/\/(www\.)?kinopoisk\.ru\/[^\s]{3000}$/$important,subdocument
 /^https?:\/\/(www\.)?music\.yandex\.(ru|ua|by|com)\/[^\s]{3000,}/$important,subdocument
@@ -1105,6 +1103,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||youtube.com/get_endscreen?$important,xmlhttprequest
 ||youtube.com/get_midroll_info?$important,xmlhttprequest
 ||tiktok.com/api/impression/$important,xmlhttprequest
+||facebook.com/ajax/bz?$important,xmlhttprequest
 ! XMLHTTPREQUEST END
 
 ! COMBINED START
@@ -1132,6 +1131,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||aliyuncs.com/r.png?$image,important,xmlhttprequest
 /[-._?&=#/](468[_x-]60|240[_x-]400|600[_x-]200|728[_x-]90|300[_x-]250)[-._?&=#/]/$image,subdocument,important
 ||yastatic.net/daas/atom.js|$xmlhttprequest,script,important
+/\/ads\.html?/$important,subdocument,xmlhttprequest
 ! COMBINED END
 
 ! ~~~~~~~ NOT MY SHITTY RULES ~~~~~~~
@@ -1507,3 +1507,8 @@ todaynewspk.win#@#+js(aopr, app_vars.force_disable_adblock)
 ||javascriptobfuscator.com^$badfilter
 bolssc.com#@#+js(aopr, app_vars.force_disable_adblock)
 bolssc.com#@#+js(acis, Math, XMLHttpRequest)
+||sso.passport.yandex.ru^$badfilter
+||adblockanalytics.com^$badfilter
+||www.adblockanalytics.com^$badfilter
+||adpushup.com^$badfilter
+||www.adpushup.com^$badfilter
