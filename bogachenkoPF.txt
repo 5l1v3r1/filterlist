@@ -103,10 +103,12 @@ $$script[wildcard="__CF$cv$params"]
 @@||ok.ru/videoembed/$subdocument
 @@||safebrowsing.clients.google.com^$document
 @@||vk.com/video_ext.php$subdocument
+@@/^https:\/\/(www\.)?facebook\.com\/plugins\/video\.php$subdocument
 @@||xvideos.com^$content,elemhide,jsinject,urlblock
 @@||favicon.yandex.net^$image
 @@*$stealth,domain=aliexpress.com|aliexpress.ru|mycdn.me
 @@*$generichide,domain=keypro2.ru
+@@||*-instagram.*.facebook.com^$third-party
 ! WHITELIST END
 
 ! Domain Name System (DNS) START
@@ -351,12 +353,13 @@ $$script[wildcard="__CF$cv$params"]
 /^https?:\/\/(.*\.)?mail\.ru(?![+/]+video)\//$important,third-party,domain=~account.mail.ru|~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by
 /^https?:\/\/ok\.ru(?!\/videoembed)\//$important,third-party,domain=~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by
 /^https?:\/\/vk\.com(?!\/video)/$important,third-party,domain=~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by|~yandexwebcache.net
+/^https?:\/\/(www\.)?facebook\.com(?!\/plugins\/video\.php)\//$important,third-party
 ||2o7.net^$third-party
-||facebook.*^$third-party
-||facebookcorewwwi.onion^$third-party
+||facebook.*^$third-party,domain=~instagram.com
+||facebookcorewwwi.onion^$third-party,domain=~instagram.com
 ||fb.com^$third-party
 ||fbcdn.net^$third-party,domain=~facebook.com|~instagram.com
-||fbpigeon.com^$third-party
+||fbpigeon.com^$third-party,domain=~facebook.com|~instagram.com
 ||linkedin.com^$third-party
 ||livejournal.com^$third-party
 ||mail.ru^$third-party
@@ -384,6 +387,7 @@ $$script[wildcard="__CF$cv$params"]
 ||2mdn.net^$important
 ||a-error.facebook.com^$important
 ||a-pixel.facebook.com^$important
+||ads.linkedin.com^$important
 ||a-www.facebook.com^$important
 ||s-microsoft.com^$important
 ||jivosite.com^$important
@@ -1104,7 +1108,6 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||youtube.com/get_endscreen?$important,xmlhttprequest
 ||youtube.com/get_midroll_info?$important,xmlhttprequest
 ||tiktok.com/api/impression/$important,xmlhttprequest
-||facebook.com/ajax/bz?$important,xmlhttprequest
 ! XMLHTTPREQUEST END
 
 ! COMBINED START
@@ -1133,6 +1136,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/](468[_x-]60|240[_x-]400|600[_x-]200|728[_x-]90|300[_x-]250)[-._?&=#/]/$image,subdocument,important
 ||yastatic.net/daas/atom.js|$xmlhttprequest,script,important
 /\/ads\.html?/$important,subdocument,xmlhttprequest
+||facebook.com/ajax/bz$important,xmlhttprequest,other
 ! COMBINED END
 
 ! ~~~~~~~ NOT MY SHITTY RULES ~~~~~~~
