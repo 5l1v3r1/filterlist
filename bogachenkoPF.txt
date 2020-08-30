@@ -86,7 +86,6 @@ $$script[wildcard="__CF$cv$params"]
 ! TEMPORARILY END
 
 ! WHITELIST START
-@@/^https?:\/\/(.*\.)?mail\.ru\/(?!video)/$subdocument,xmlhttprequest
 @@/^https?:\/\/127\.0\.0\.1\//$~third-party
 @@/^https?:\/\/10\.0\.[0-2]\.[0-5]{1,2}\//~third-party
 @@/^https?:\/\/192\.168\.[0-6]{1,2}\.1\//$~third-party
@@ -101,6 +100,7 @@ $$script[wildcard="__CF$cv$params"]
 @@||local.adguard.org^
 @@||github.com^$xmlhttprequest,~third-party
 @@||ok.ru/videoembed/$subdocument
+@@||mail.ru/video/embed/$subdocument,xmlhttprequest
 @@||safebrowsing.clients.google.com^$document
 @@||vk.com/video_ext.php$subdocument
 @@||facebook.com/plugins/video.php$subdocument
@@ -1518,3 +1518,4 @@ bolssc.com#@#+js(acis, Math, XMLHttpRequest)
 ||adpushup.com^$badfilter
 ||www.adpushup.com^$badfilter
 xvideos.com#@#+js(abort-on-property-write, openpop)
+@@||github.io^$generichide,badfilter
