@@ -80,7 +80,7 @@ $$script[wildcard="__CF$cv$params"]
 !#if !ext_ublock
 !#if adguard_app_android
 ! See bug - https://github.com/AdguardTeam/AdguardForWindows/issues/2650#issuecomment-672284613
-/[-._?&=#/]preroll[-._?&=#/]/$important,domain=~ttvnw.net,badfilter
+/[-._?&=#/]preroll[-._?&=#/]/$important,domain=~ttvnw.net|~mail.ru,badfilter
 !#endif
 !#endif
 ! TEMPORARILY END
@@ -876,7 +876,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]beacon[-.0-9_?&=#/]?/$important
 /[-._?&=#/]me?tr[ie]?[ck][asx]?[-.0-9_?&=#/]?/$important,domain=~twitch.tv|~fandom.com
 /[-._?&=#/]ping[-.0-9_?&=#/]?/$important,domain=~playhydrax.com|~twitch.tv|~speedtest.net|~hydracdn.network
-/[-._?&=#/]preroll[-._?&=#/]/$important,domain=~ttvnw.net
+/[-._?&=#/]preroll[-._?&=#/]/$important,domain=~ttvnw.net|~mail.ru
 /\/ads?[0-9]{1}\.php\?/$important
 /\?zone[-_]?id\=/$important
 |http*:$beacon,important
@@ -1079,6 +1079,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||yastatic.net/pcode/adfox/loader.js|$important,script
 ||yastatic.net/share2/share.js|$important,script
 ||yastatic.net/nearest.js|$important,script
+||yastatic.net/*/widget_ya.js|$important,script
 ! SCRIPT END
 
 ! XMLHTTPREQUEST START
@@ -1519,3 +1520,4 @@ bolssc.com#@#+js(acis, Math, XMLHttpRequest)
 ||www.adpushup.com^$badfilter
 xvideos.com#@#+js(abort-on-property-write, openpop)
 @@||github.io^$generichide,badfilter
+@@||yastatic.net/share/share.js$badfilter
