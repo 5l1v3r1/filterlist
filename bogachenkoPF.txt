@@ -350,10 +350,10 @@ $$script[wildcard="__CF$cv$params"]
 ! Domain Name System (DNS) END
 
 ! DOMAIN START
-/^https?:\/\/(.*\.)?facebook\.com\/(?!plugins\/video\.php)/$important,third-party
-/^https?:\/\/(.*\.)?mail\.ru\/(?![+/]+video)/$important,third-party,domain=~account.mail.ru|~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by
+/^https?:\/\/(.*\.)?facebook\.com\/(?!plugins\/video\.php)/$important,third-party,domain=~webcache.googleusercontent.com
+/^https?:\/\/(.*\.)?mail\.ru\/(?!video\/embed)/$important,third-party,domain=~account.mail.ru|~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by,domain=~webcache.googleusercontent.com
 /^https?:\/\/ok\.ru\/(?!videoembed)/$important,third-party,domain=~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by
-/^https?:\/\/vk\.com\/(?!video)/$important,third-party,domain=~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by|~yandexwebcache.net
+/^https?:\/\/vk\.com\/(?!video\_ext\.php)/$important,third-party,domain=~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by|~yandexwebcache.net
 ||2o7.net^$third-party
 ||facebook.*^$third-party,domain=~instagram.com
 ||facebookcorewwwi.onion^$third-party,domain=~instagram.com
