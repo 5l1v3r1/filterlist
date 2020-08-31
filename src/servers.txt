@@ -58,13 +58,6 @@
 ||08a14e37bb.com^$important
 ||08b72e4833486d.com^$important
 ||0926a687679d337e9d.com^$important
-||glaiwhee.net^$important
-||media-match.com^$important
-||omaze.com^$important
-||adtechus.com^$important
-||adsafeprotected.com^$important
-||adsymptotic.com^$important
-||special-promotions.online^$important
 ||0956228a2df97a.com^$important
 ||09b950280b055.com^$important
 ||09cd.co.kr^$important
@@ -5749,6 +5742,7 @@
 ||gkwdspzl.bid^$important
 ||gkyblmfggpyq.bid^$important
 ||glaimtug.com^$important
+||glaiwhee.net^$important
 ||glbgkmvl.com^$important
 ||glbsuoebquueky.com^$important
 ||glcgytymbp.bid^$important
@@ -9092,6 +9086,7 @@
 ||mecounxmawn.bid^$important
 ||mecsjjkomehyv.com^$important
 ||media-general.com^$important
+||media-match.com^$important
 ||media-networks.ru^$important
 ||media-sapiens.com^$important
 ||media-servers.net^$important
@@ -11038,6 +11033,7 @@
 ||omakfhugexq.com^$important
 ||omareeper.com^$important
 ||omatri.info^$important
+||omaze.com^$important
 ||omchanseyr.com^$important
 ||omcozngvtyox.com^$important
 ||ommodatesjoin.info^$important
