@@ -1,5 +1,5 @@
 ! Title: bogachenko's Personal Filter
-! Description: A filter for bogachenko's personal use to block loading of ads, third-party, tracking, annoying and all other unjustified resources. Contains filters specific to uBlock Origin, AdGuard for Windows, AdGuard for Android.
+! Description: A filter for bogachenko's personal use to block loading of ads, third-party, tracking, annoying and all other unjustified resources. Contains filters specific to uBlock Origin, AdGuard Home, AdGuard for Windows, AdGuard for Android.
 ! Homepage: https://github.com/bogachenko/filterlist/tree/personal
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/personal/bogachenkoPF.txt
 ! License: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -16,18 +16,18 @@
 !#endif
 
 !#if !ext_ublock
+$$script[src="//pagead2.googlesyndication.com/"]
 $$script[src="https://c1.popads.net/pop.js"]
 $$script[src="https://c2.popads.net/pop.js"]
+$$script[src="https://mc.yandex.ru/"]
 $$script[src="https://pagead2.googlesyndication.com/"]
-$$script[src="//pagead2.googlesyndication.com/"]
-$$script[src="https://www.googletagmanager.com/"]
-$$script[src="https://www.googletagservices.com/"]
 $$script[src="https://www.google-analytics.com/"]
 $$script[src="https://www.googleadservices.com/"]
-$$script[src="https://mc.yandex.ru/"]
-@@||localhost^$important,document
-@@||127.0.0.1^$important,document
+$$script[src="https://www.googletagmanager.com/"]
+$$script[src="https://www.googletagservices.com/"]
 @@||10.0.0.1^$important,document
+@@||127.0.0.1^$important,document
+@@||localhost^$important,document
 @@||[::1]^$important,document
 !#endif
 
@@ -35,8 +35,8 @@ $$script[src="https://mc.yandex.ru/"]
 !#if !ext_ublock
 !#if adguard
 $$script[data-cfasync="false"][src="&zoneid="]
-$$script[data-cfasync="false"][src="?zoneid="]
 $$script[data-cfasync="false"][src="/ntfc.php?"]
+$$script[data-cfasync="false"][src="?zoneid="]
 $$script[data-cfasync="false"][tag-content="PopAds%20CGAPIL%20"]
 $$script[data-cfasync="false"][tag-content="Privet darkv"]
 $$script[data-cfasync="false"][wildcard="*Math*String.fromCharCode*"]
@@ -85,30 +85,33 @@ $$script[wildcard="__CF$cv$params"]
 !#endif
 ! TEMPORARILY END
 
+! TEST START
+||rlcdn.com^$important
+! TEST END
+
 ! WHITELIST START
-@@/^https?:\/\/127\.0\.0\.1\//$~third-party
+@@*$generichide,domain=keypro2.ru
+@@*$stealth,domain=aliexpress.com|aliexpress.ru|mycdn.me
 @@/^https?:\/\/10\.0\.[0-2]\.[0-5]{1,2}\//~third-party
+@@/^https?:\/\/127\.0\.0\.1\//$~third-party
 @@/^https?:\/\/192\.168\.[0-6]{1,2}\.1\//$~third-party
 @@/^https?:\/\/edge\.microsoft\.com\/extensionwebstorebase\/[a-z1-9]{2}\/(hash)?crx\?/$important
 @@/^https?:\/\/localhost\//
 @@/^https?:\/\/rt\//
 @@/^https?:\/\/\[::1]\//
+@@||*-instagram.*.facebook.com^$third-party
 @@||api.adguard.com^
 @@||connectivitycheck.gstatic.com^$important
+@@||facebook.com/plugins/video.php$subdocument
+@@||favicon.yandex.net^$image
+@@||github.com^$xmlhttprequest,~third-party
 @@||gstatic.com/recaptcha/$script
 @@||injections.adguard.org^
 @@||local.adguard.org^
-@@||github.com^$xmlhttprequest,~third-party
-@@||ok.ru/videoembed/$subdocument
 @@||mail.ru/video/embed/$subdocument,xmlhttprequest
+@@||ok.ru/videoembed/$subdocument
 @@||safebrowsing.clients.google.com^$document
 @@||vk.com/video_ext.php$subdocument
-@@||facebook.com/plugins/video.php$subdocument
-@@||xvideos.com^$content,elemhide,jsinject,urlblock
-@@||favicon.yandex.net^$image
-@@*$stealth,domain=aliexpress.com|aliexpress.ru|mycdn.me
-@@*$generichide,domain=keypro2.ru
-@@||*-instagram.*.facebook.com^$third-party
 ! WHITELIST END
 
 ! Domain Name System (DNS) START
@@ -345,8 +348,8 @@ $$script[wildcard="__CF$cv$params"]
 217.69.139.244:443$network
 217.69.141.142:443$network
 ||0.0.0.0^
-||212.122.5.136^
 ||51.79.155.250^
+||212.122.5.136^
 ! Domain Name System (DNS) END
 
 ! DOMAIN START
@@ -396,7 +399,6 @@ $$script[wildcard="__CF$cv$params"]
 ||addons-themes.operacdn.com^$important,domain=~opera.com|~opera.ru
 ||addthis.com^$important
 ||addtoany.com^$important
-||chatbro.com^$important
 ||adeventtracker.spotify.com^$important
 ||adjust.com^$important
 ||adnow.com^$important
@@ -410,8 +412,11 @@ $$script[wildcard="__CF$cv$params"]
 ||ads.spotify.com^$important
 ||ads.twitter.com^$important
 ||ads.viber.com^$important
+||adsafeprotected.com^$important
 ||adservice.google.*^$important
 ||adservice.l.google.com^$important
+||adsymptotic.com^$important
+||adtechus.com^$important
 ||af.opera.com^$important
 ||alexametrics.com^$important
 ||all-cod.com^$important
@@ -456,6 +461,7 @@ $$script[wildcard="__CF$cv$params"]
 ||bingapis.com^$important
 ||blocklists-settings.prod.mozaws.net^$important
 ||blocklists.settings.services.mozilla.com^$important
+||bounceexchange.com^$important
 ||branch.io^$important
 ||braun634.com^$important
 ||brontp.yandex.ru^$important
@@ -466,6 +472,7 @@ $$script[wildcard="__CF$cv$params"]
 ||byteoversea.com^$important
 ||cackle.me^$important
 ||census.zorinos.com^$important
+||chatbro.com^$important
 ||clck.yandex.ru^$important
 ||client-cdn*.hola.org^$important
 ||client-event-reporter.twitch.tv^$important
@@ -482,9 +489,12 @@ $$script[wildcard="__CF$cv$params"]
 ||crashlytics.l.google.com^$important
 ||d.ghostery.com^$important
 ||d2ddoduugvun08.cloudfront.net^$important
+||d2gi7ultltnc2u.cloudfront.net^$important
 ||d2v02itv0y9u9t.cloudfront.net^$important
 ||d2wy8f7a9ursnm.cloudfront.net^$important
 ||d3aqoihi2n8ty8.cloudfront.net^$important
+||d3rt1990lpmkn.cloudfront.net^$important
+||d361oi6ppvq2ym.cloudfront.net^$important
 ||dc-int.services.visualstudio.com^$important
 ||dc.services.visualstudio.com^$important
 ||desktop-dna.osp.opera.software^$important
@@ -514,7 +524,9 @@ $$script[wildcard="__CF$cv$params"]
 ||fundingchoicesmessages.google.com^$important
 ||games.yandex.ru^$important
 ||geo.opera.com^$important
+||gew-spclient.spotify.com^$important
 ||ghostery-collector.ghostery.com^$important
+||gmtdmp.com^$important
 ||go.microsoft.com.edgekey.net^$important
 ||go.microsoft.com^$important
 ||google-analytics.com^$important
@@ -559,9 +571,11 @@ $$script[wildcard="__CF$cv$params"]
 ||mail-ads.google.com^$important
 ||mc-portal.mail.ru^$important
 ||mc.yandex.ru^$important
+||media-match.com^$important
 ||mellowads.com^$important
 ||mishabelle.ru^$important
 ||mmstat.com^$important
+||moatads.com^$important
 ||mobile-gtalk.l.google.com^$important
 ||monitor.firefox.com^$important
 ||mrds.mail.ru^$important
@@ -575,6 +589,7 @@ $$script[wildcard="__CF$cv$params"]
 ||offers-api.ghostery.net^$important
 ||ok-bar.love.mail.ru^$important
 ||ok-portal.mail.ru^$important
+||omaze.com^$important
 ||oneclient.sfx.ms^$important
 ||op-mobile.opera.com^$important
 ||opera-api.com^$important
@@ -600,6 +615,7 @@ $$script[wildcard="__CF$cv$params"]
 ||portal-xiva.yandex.net^$important
 ||portal.mail.ru^$important
 ||proxy_auth.trigger.hola.org^$important
+||pubmatic.com^$important
 ||pulse.mail.ru^$important
 ||push.services.mozilla.com^$important
 ||qq.com^$important
@@ -623,6 +639,7 @@ $$script[wildcard="__CF$cv$params"]
 ||sendpulse.com^$important
 ||sentry-cdn.com^$important
 ||sentry.io^$important
+||serving-sys.com^$important
 ||settings-win.data.microsoft.com^$important
 ||share.yandex.net^$important
 ||sharethis.com^$important
@@ -728,6 +745,7 @@ $$script[wildcard="__CF$cv$params"]
 
 ! SCRIPTLET START
 *##+js(remove-attr.js, ping)
+*#%#//scriptlet("remove-attr", "ping")
 google.*##+js(remove-attr.js, ping, div[class] > a[ping])
 google.*#%#//scriptlet("remove-attr", "ping", "div[class] > a[ping]")
 hotlink.cc,libertycity.ru,faucetcrypto.com##+js(nano-setInterval-booster.js)
@@ -776,6 +794,7 @@ zloekino.ru#%#//scriptlet("remove-cookie")
 *##img[src*="advert"]
 *##img[src*="exdynsrv.com"]
 2ch.hk##.logo, #mobile-pashque
+aliexpress.*###j-multi-sidebar-outer, .site-footer, .footer-copywrite
 bing.com###t_termsInfo
 clipwatching.com###container > div > div:style(width:0px!important)
 duckduckgo.com,3g2upl4pq6kufc4m.onion##.tag-home__item, .js-onboarding-ed-slide-4.js-onboarding-ed-slide.onboarding-ed__slide-4.onboarding-ed__slide, .js-onboarding-ed-slide-3.js-onboarding-ed-slide.onboarding-ed__slide-3.onboarding-ed__slide, .js-onboarding-ed-image-container-2.onboarding-ed__image-container, .js-onboarding-ed-slide-2.js-onboarding-ed-slide.onboarding-ed__slide-2.onboarding-ed__slide, .js-onboarding-ed-slide-1.js-onboarding-ed-slide.onboarding-ed__slide-1.onboarding-ed__slide, .js-onboarding-ed.onboarding-ed, .is-showing.js-popout-main.modal--popout--sm.modal--popout--bottom-left.modal--popout.modal, .header__label.showcase.header--aside__item, .js-results-ads, #ads, .sponsored, .highlight_sponsored, .result--ad > .result__body, .js-feedback-btn-wrap, .js-serp-bottom-right.serp__bottom-right, .footer__links
@@ -823,7 +842,6 @@ trialnod.net,trialeset.net##.remodal-is-opened.remodal-wrapper, .remodal-is-open
 trialnod.net,trialeset.net##html:style(overflow-y: scroll !important;)
 twitch.tv##.tw-lg-flex.tw-hide, .tw-z-default.channel-leaderboard, .tw-mg-r-1.tw-justify-content-end.tw-flex.tw-align-items-center, .tw-relative > .tw-relative.tw-overflow-hidden.tw-justify-content-center.tw-interactive.tw-inline-flex.tw-full-width.tw-core-button--primary.tw-core-button.tw-border-top-right-radius-medium.tw-border-top-left-radius-medium.tw-border-bottom-right-radius-medium.tw-border-bottom-left-radius-medium.tw-align-middle.tw-align-items-center, .tw-relative.tw-inline > .tw-relative.tw-overflow-hidden.tw-justify-content-center.tw-interactive.tw-inline-flex.tw-core-button.tw-button-icon--secondary.tw-button-icon.tw-border-top-right-radius-medium.tw-border-top-left-radius-medium.tw-border-bottom-right-radius-medium.tw-border-bottom-left-radius-medium.tw-align-middle.tw-align-items-center, .low-latency-notification, .tw-inline-block.tw-full-width, .recommended-channels, .tw-z-default.pinned-cheer-v2, .tw-relative > .tw-relative.tw-overflow-hidden.tw-justify-content-center.tw-interactive.tw-inline-flex.tw-full-width.tw-core-button--secondary.tw-core-button.tw-border-top-right-radius-medium.tw-border-top-left-radius-medium.tw-border-bottom-right-radius-medium.tw-border-bottom-left-radius-medium.tw-align-middle.tw-align-items-center, .muted-segments-alert, .tw-relative.tw-inline-flex > .tw-relative.tw-overflow-hidden.tw-justify-content-center.tw-interactive.tw-inline-flex.tw-core-button--secondary.tw-core-button.tw-border-top-right-radius-medium.tw-border-top-left-radius-medium.tw-border-bottom-right-radius-medium.tw-border-bottom-left-radius-medium.tw-align-middle.tw-align-items-center, .tw-transition__slide-over-right--enter-done.tw-transition__slide-over-right.tw-transition--enter-done.tw-transition.tw-full-width.tw-full-height.tw-absolute, .tw-c-text-overlay.tw-c-background-accent.tw-border-radius-medium, div.side-nav-section:last-child, div.prime-offers.tw-relative, .tw-interactive[href^="https://twitch.amazon.com/"], a[href*="megafon.ru"], a[href*="mercedes-benz.com"], a[href*="mybestcontent.ru"], a[href*="mydota2.net"], a[href*="noblechairs.com"], a[href*="poker"], a[href*="starladder.com"], a[href*="streamfest.ru"], a[href*="suveniry"], a[href*="upskill.ru"], a[href*="vk.cc"], a[href*="&BannerId="], a[href*="&bonus="], a[href*=".click"], a[href*=".com/ad/"], a[href*=".gg"], a[href*=".net/ad/"], a[href*=".org/ad/"], a[href*=".ru/ad/"], a[href*="/?r="], a[href*="/buy/"], a[href*="/go/"], a[href*="/joinchat/"], a[href*="/promo/"], a[href*="/shop/"], a[href*="?AffiliateUserId="], a[href*="?br="], a[href*="?btag="], a[href*="atributika"], a[href*="bet4.pm"], a[href*="betsdota2.c"], a[href*="bit.ly"], a[href*="boostmmr.ru"], a[href*="campaign"], a[href*="casino"], a[href*="clck.ru"], a[href*="col.vg"], a[href*="cutter.li"], a[href*="cyberbetpromo.net"], a[href*="domruchamp.ru"], a[href*="dota2camp.ru"], a[href*="dota.money"], a[href*="dotapl.us"], a[href*="dxracer-europe.com"], a[href*="fragstore.ru"], a[href*="g2a.com"], a[href*="gamefuel.com"], a[href*="garnitura"], a[href*="gearboost.eu"], a[href*="gg.bet"], a[href*="goo.gl"], a[href*="goodgame.pm"], a[href*="gosu.ai"], a[href*="intel.com"], a[href*="invasion.ru"], a[href*="//is.gd/"], a[href*="rusfond.ru"], a[href*="myway2win.com"], a[href*="webto.ru"], a[href*="logitech.promo"], a[href*="cybertraff.info/"], a[href*="vsemaykishop.ru"], a[href*="//tiny.cc/"], a[href*="opseat.com"], a[href*="//vk.com/altasutashop"], a[href*="http://drpositive.ru/"], .toast-manager__container, .float-animation__children-wrapper, a[href*="//pm6.site"], a[href*="//torobrand.com/"], a[href*="//cutt.ly/"], a[href*="https://vk.com/gnummetv?w=wall-66138380_737072"], a[href*="strms.net/"], a[href*="lenovo.com/"], a[href*="//betsdota2."], a[href*="playnowonline.ru"], a[href*="https://www.twitch.tv/betsdota2.in"]>img, a[href*="omgbonus.com"], a[href*="//t.me/hgbet"], a[href*="dns-shop.ru"], a[href*="cybersport.ru"], a[href*="?utm_source="]>img, a[href*="borseriders.com"], a[href*="//csgo.band/"], a[href*="//dra.to/"], a[href*="hellstore.net/"], a[href*="ggbetsails.com"], a[href*="krasava.bet"], a[href*="gtavrp.ru"], a[href*="csgorun.org/"], img[alt="straydotaPchelka"], a[href*="mycsgoo.net"], a[href*="cybershoke.net"], a[href*="easymoney.games"], a[href*="?ref="], a[href*="ggdrop.wtf"], a[href*="//cs.fail/"], a[href*="bigbetclub.com"], a[href*="616wear.ru"], a[href*="justcase.link"], a[href*="//ukrn.io/"], a[href*="/partner/"], a[href*="skinbaron.com"], a[href*="gamingmalta.org"], a[href*="ggbet.life"], a[href*=".msi.com"], a[href*="//msi.com"], a[href*="//esea.net"], a[href*=".esea.net"], a[href*="forcedrop.top"], a[href*="easydota.cc"], a[href*="sgm-luck.com"], a[href*="dota2expert.com"], a[href*="nordvpn.org"]
 vidoza.net##div.wait_buffer
-aliexpress.*###j-multi-sidebar-outer, .site-footer, .footer-copywrite
 vk.com###stl_left, #stl_side, .apps_feedRightAppsBlock_collaborative_recommend_apps.apps_feedRightAppsBlock.page_block, .apps_feedRightAppsBlock_new_apps.apps_feedRightAppsBlock.page_block, #ads_left, .right_list_header, #group_recom_rows, #group_recom_wrap, .feed_friends_recomm, div[data-ad], div[data-ad-view], [class^="ads_ad_"], #stories_feed_wrap, #profile_friends_recomm, .ads_ads_box, #system_msg, #utils, .apps_feedRightAppsBlock_single_app.apps_feedRightAppsBlock.page_block, .audio_promo, #feed_blog_reminder, a[href*="/app7399325"], #l_watch_home, a[href*="/covid19"], div.more_div, .installApp,#ui_rmenu_coronavirus, #ui_rmenu_stayhome, .wall_marked_as_ads, .item_share, .apps_feedRightAppsBlock__row, .videoplayer_action_button, .ads_ad_box, .ads_ad_box2, [id*="reply_box_donut-"], .ShortVideoFeedBlock.page_block
 vk.com##[class="wall_item"]:has([class*="ads_mark"])
 vk.com#?#.wall_wrap div[id^="post-"][-ext-has='div.post_content > div.post_info > div.wall_text > div.wall_post_cont > div.wall_marked_as_ads']
@@ -870,7 +888,6 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[&?]s(screen)?\=[0-9]{3,4}x[0-9]{3,4}[&?]/$important
 /[&?]s[cw]\=[0-9]{3,4}[&]sh\=[0-9]{3,4}[&]/$important
 /[&?]zoneid\=/$important
-/\.(a[cdefgilmnoqrstuwxz]|arpa|academy|accountants?|act(ive|tor)|adult|aero|agency|airforce|apartments|app|archi|army|africa|associates|asia|attorney|auction|audio|autos|art|b[abdefghijmnorstvuwyz]|biz|bzh|c[acdfghiklmnoruvxsyz]|com?|cat|coop|cym(ru)?|crimea|d[dejkmoz]|dance|dev|e[cegrstu]|eng(lish)?|edu|eus|f[ijkmor]|family|feedback|g[abdefghilmnpqrstuwy]|google|gov|gal|h[kmnrtu]|i[delmnoqrst]|info|int|j[deghikmnoprwyz]|jobs?|l[abcikrstuvy]|london|m[acdeghklmnopqrstuvwxyz]|mil|mobi|microsoft|moe|museum|n[acefgilopruz]|ninja|net|name|om|one|ong|onl(ine)?|org(anic)?|p[aefghklmnrstwy]|pink|part([ys]|ners?)|pizza|place|plu(s|mbing)?|pharmacy|photo(s|graphy)?|physio|pic(ture)?s?|poker|porn|post|press|pro(f|ductions|perties|perty)?|k[yehrw]|qa|qpon|quebec|r[eosuw]|raci(ng|pes)|red|rehab|ren(t|tals)?|rep(ort|air|ublican)|rest|reviews?|rich|rus(sian)?|s[abcdeghiljkmnortuvyz]|site|scot?|soc|t[cdfghjklmnoprtvwz]|tel|tra(de|vel)|u[agmksyz]|v[aceginu]|w[fs]|wales|y[etu]|yandex|yoga|z[armzw]|zone|x(xx|yz))\/ad[sv]?\//$important
 /[-._?&=#/]adfox[-._?&=#/]/$important
 /[-._?&=#/]adru(les|m)[-._?&=#/]/$important
 /[-._?&=#/]akam[-._?&=#/]/$important
@@ -878,6 +895,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]me?tr[ie]?[ck][asx]?[-.0-9_?&=#/]?/$important,domain=~twitch.tv|~fandom.com
 /[-._?&=#/]ping[-.0-9_?&=#/]?/$important,domain=~playhydrax.com|~twitch.tv|~speedtest.net|~hydracdn.network
 /[-._?&=#/]preroll[-._?&=#/]/$important,domain=~ttvnw.net|~mail.ru
+/\.(a[cdefgilmnoqrstuwxz]|arpa|academy|accountants?|act(ive|tor)|adult|aero|agency|airforce|apartments|app|archi|army|africa|associates|asia|attorney|auction|audio|autos|art|b[abdefghijmnorstvuwyz]|biz|bzh|c[acdfghiklmnoruvxsyz]|com?|cat|coop|cym(ru)?|crimea|d[dejkmoz]|dance|dev|e[cegrstu]|eng(lish)?|edu|eus|f[ijkmor]|family|feedback|g[abdefghilmnpqrstuwy]|google|gov|gal|h[kmnrtu]|i[delmnoqrst]|info|int|j[deghikmnoprwyz]|jobs?|l[abcikrstuvy]|london|m[acdeghklmnopqrstuvwxyz]|mil|mobi|microsoft|moe|museum|n[acefgilopruz]|ninja|net|name|om|one|ong|onl(ine)?|org(anic)?|p[aefghklmnrstwy]|pink|part([ys]|ners?)|pizza|place|plu(s|mbing)?|pharmacy|photo(s|graphy)?|physio|pic(ture)?s?|poker|porn|post|press|pro(f|ductions|perties|perty)?|k[yehrw]|qa|qpon|quebec|r[eosuw]|raci(ng|pes)|red|rehab|ren(t|tals)?|rep(ort|air|ublican)|rest|reviews?|rich|rus(sian)?|s[abcdeghiljkmnortuvyz]|site|scot?|soc|t[cdfghjklmnoprtvwz]|tel|tra(de|vel)|u[agmksyz]|v[aceginu]|w[fs]|wales|y[etu]|yandex|yoga|z[armzw]|zone|x(xx|yz))\/ad[sv]?\//$important
 /\/ads?[0-9]{1}\.php\?/$important
 /\?zone[-_]?id\=/$important
 |http*:$beacon,important
@@ -965,6 +983,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 
 ! DOCUMENT START
 /^https?:\/\/(apps?|best|mobile|prize|reward|sweeps).*\.[a-z]{5,15}.*\.(agency|icu|live)\//$document,important
+/^https?:\/\/stream[\D]?bet\.[\w]+/$important,document
 |http*:*/*.gif|$document,important,domain=~github.com|~githubusercontent.com|~imgur.com|~wikimedia.org
 |http*:*/redirect.html$document,important
 ||616wear.ru^$document,important
@@ -982,7 +1001,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||dra.to^$document,important
 ||easydota.cc^$document,important
 ||easymoney.games^$document,important
-/^https?:\/\/stream[\D]?bet\.[\w]+/$important,document
+||epulze.com^$document,important
 ||forcedrop.top^$document,important
 ||gamingmalta.org^$document,important
 ||geni.us^$document,important
@@ -993,11 +1012,10 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||gtavrp.ru^$document,important
 ||hellstore.net^$document,important
 ||holaspark.com^$document,important
-||opdota2.me^$document,important
-||epulze.com^$document,important
 ||justcase.link^$document,important
 ||msftconnecttest.com/redirect$document,important
 ||mycsgoo.net^$document,important
+||opdota2.me^$document,important
 ||sgm-luck.com^$document,important
 ||skinbaron.com^$document,important
 ||t.co^$document,important
@@ -1026,12 +1044,12 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /\/(edmonton|jellyfish)\.webp/$important,script
 /\/js[a-z0-9]+\/[a-z0-9]{0,14}\.js$/$important,script
 /\/t[a-f0-9]{10,13}\.js$/$important,script
-/^https?:\/\/[a-zA-Z.]{15,}\/[\d]+\?[a-z]\=[\d]{5,7}$/$important,script,third-party
 /^https:\/\/.*?\/v2\/0\/[a-zA-Z0-9_-]{30,}$/$important,script,third-party
 /^https?:\/\/([a-z0-9]{3,10}\.)?[a-z0-9]{5,15}\.(click|com|bid|net|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$important,script
 /^https?:\/\/([A-Za-z0-9-.]+\/){5,}[A-Za-z0-9_-]+$/$important,script,third-party
 /^https?:\/\/mail\.yandex\.[\w]+\/[^\s]{160,}/$important,script
 /^https?:\/\/www\.[a-z]{6,16}\.com\/[a-z]{1,4}\.js$/$important,script,third-party
+/^https?:\/\/[a-zA-Z.]{15,}\/[\d]+\?[a-z]\=[\d]{5,7}$/$important,script,third-party
 /^https?:\/\/[A-Za-z0-9.-]{6,16}\.[a-z]+\/\?[a-zA-Z0-9]{30,}$/$important,script,third-party
 /^https?:\/\/[a-z]{6,16}\.[a-z]+\/1clkn\/[0-9]{4,5}$/$important,script,third-party
 /^https?:\/\/[a-z]{6,16}\.[a-z]+\/4(00)?\/[0-9]{7}/$important,script,third-party
@@ -1045,9 +1063,9 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /^https?:\/\/[^\s]+\/(([_a-z-]{3,12})?[-._?&=#/])?sw\.js/$important,script
 /^https?:\/\/[^\s]+\/(([_a-z-]{3,15})?[-._?&=#/]?)?[Ww]orker(.*)?\.js/$important,script,domain=~github.com|~google.com|~lelinhtinh.github.io|~my.dogechain.info|~twitch.tv|~web.telegram.org|~whoer.net|~z5h64q92x9.net|~obfuscator.io
 /^https?:\/\/[^\s]+\/crypt[oa]\.js/$important,script,domain=~web.telegram.org
+/^https?:\/\/[^\s]+\/csw\.js/$important,script
 /^https?:\/\/[^\s]+\/sw([-._?&=#/]([_a-z0-9-.]{1,10})?)?\.js/$important,script
 /^https?:\/\/[^\s]+\/sw[bwg]\.js/$important,script
-/^https?:\/\/[^\s]+\/csw\.js/$important,script
 /^https?:\/\/[^\s]+\/[Ww]orker([-._?&=#/]?([a-z]{5,6})?)?\.js/$important,script,domain=~lelinhtinh.github.io
 |http*:*/beacon.js$important,script
 |http*:*/cdn-cgi/bm/cv/$important,script
@@ -1076,11 +1094,11 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||vk.com/js/api/openapi.js$important,script
 ||yandex.*/portal/$important,script
 ||yandex.*/search/yandcache.js|$important,script
+||yastatic.net/*/widget_ya.js|$important,script
 ||yastatic.net/awaps-ad-sdk-js/1_0/adsdk.min.js$important,script
+||yastatic.net/nearest.js|$important,script
 ||yastatic.net/pcode/adfox/loader.js|$important,script
 ||yastatic.net/share2/share.js|$important,script
-||yastatic.net/nearest.js|$important,script
-||yastatic.net/*/widget_ya.js|$important,script
 ! SCRIPT END
 
 ! XMLHTTPREQUEST START
@@ -1103,16 +1121,17 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||streamalloha.live/*.vtt|$xmlhttprequest
 ||svd-cdn.com/users/get_user?$important,xmlhttprequest
 ||svd-cdn.com/users/payment/get_membership?$important,xmlhttprequest
+||tiktok.com/api/impression/$important,xmlhttprequest
 ||twitter.com/*/jot/client_event.json$important,xmlhttprequest
 ||twitter.com/i/jot|$important,xmlhttprequest
 ||video.google.com/api/stats/$important,xmlhttprequest
 ||yandex.*/bell/api/*/get-ticker|$important,xmlhttprequest
 ||youtube.com/get_endscreen?$important,xmlhttprequest
 ||youtube.com/get_midroll_info?$important,xmlhttprequest
-||tiktok.com/api/impression/$important,xmlhttprequest
 ! XMLHTTPREQUEST END
 
 ! COMBINED START
+/[-._?&=#/](468[_x-]60|240[_x-]400|600[_x-]200|728[_x-]90|300[_x-]250)[-._?&=#/]/$image,subdocument,important
 /[-._?&=#/](event|stat)logs?(ging|ers?)?[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest
 /[-._?&=#/](logs?|img)[-._?&=#/]?(?:failure|info|type|events?|entry|request|statu?s?|view|edpage)[-._?&=#/]?/$image,important,other,script,xmlhttprequest
 /[-._?&=#/](player|client|csi|gen(erate)?|stream|logs?|live)[-._?&=#/]?204[-._?&=#/]?/$image,important,other,xmlhttprequest
@@ -1125,6 +1144,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]pixel[-._?&=#/]/$image,important,script,subdocument,xmlhttprequest
 /[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$other,image,important,script,xmlhttprequest,domain=~fandom.com|~pochta.ru|~aliexpress.com|~aliexpress.ru|~alipay.com
 /[-._?&=#/]vast[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~twitch.tv|~github.com|~gitlab.com
+/\/ads\.html?/$important,subdocument,xmlhttprequest
 /\/ga[-._?&=#/][a-zA-Z]{5,}\.js/$important,other,script,third-party
 /\/pi?xe?l?\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)/$image,important,script,subdocument,xmlhttprequest,domain=~playground.ru
 /\/[a-z]{1,3}\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)\?[a-z]{1,3}\=/$image,important,other,script,subdocument,xmlhttprequest,domain=~3g2upl4pq6kufc4m.onion|~duckduckgo.com|~thepiratebay.org|~aliexpress.ru|~aliexpress.com|~aliyuncs.com|~github.com
@@ -1133,12 +1153,10 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /^https?:\/\/mail\.yandex\.[\w]+\/[^\s]{1200,}$/$image,important,other,xmlhttprequest,script
 /^https?:\/\/yandex\.[\w]+\/images\/(?!(search\?)|(touch/search?))[^\s]{80,}/$important,subdocument,~third-party,xmlhttprequest
 /^https?:\/\/[0-1]{5,}\.com/$important,script,third-party,xmlhttprequest
-||youtube.com/api/stats/$image,important,other,xmlhttprequest
 ||aliyuncs.com/r.png?$image,important,xmlhttprequest
-/[-._?&=#/](468[_x-]60|240[_x-]400|600[_x-]200|728[_x-]90|300[_x-]250)[-._?&=#/]/$image,subdocument,important
-||yastatic.net/daas/atom.js|$xmlhttprequest,script,important
-/\/ads\.html?/$important,subdocument,xmlhttprequest
 ||facebook.com/ajax/bz$important,xmlhttprequest,other
+||yastatic.net/daas/atom.js|$xmlhttprequest,script,important
+||youtube.com/api/stats/$image,important,other,xmlhttprequest
 ! COMBINED END
 
 ! ~~~~~~~ NOT MY SHITTY RULES ~~~~~~~
@@ -1250,7 +1268,7 @@ playvideo.best,lookmovie.ag,streamingworld.*#@#+js(aopr, AaDetector)
 ||queuev4.vk.com^$badfilter
 ||away.vk.com^$badfilter
 ||cdn.jsdelivr.net^$badfilter
-/favicon.ico$image,third-party,domain=~douban.com|~bahn.de|~winfuture.de|~bt.com|~ebay.com.au|~ebay.com|~ebay.co.uk|~go.com|~github.com|~stackexchange.com|~stackoverflow.com|~askubuntu.com|~reddit.com|~4chan.org|~twitter.com|~live.com|~espn.com|~yahoo.com,badfilter
+/favicon.ico$image,third-party,domain=~apple.com|~douban.com|~bahn.de|~winfuture.de|~bt.com|~ebay.com.au|~ebay.com|~ebay.co.uk|~go.com|~github.com|~stackexchange.com|~stackoverflow.com|~askubuntu.com|~reddit.com|~4chan.org|~twitter.com|~live.com|~espn.com|~yahoo.com,badfilter
 adblockmetrics.ru,antiadblock.ru,better-games.ru,clickscloud.net,disk-space.ru,fortnite-pvp.ru,kinoframe.net#@#*
 ||pu.vk.com^$badfilter
 music.yandex.ru,music.yandex.ua,music.yandex.by#@#.subscription-hint.popup
