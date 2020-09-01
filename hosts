@@ -503,6 +503,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 feedads.googleadservices.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebasedurablelinks-ipv4-pa.googleapis.com
+0.0.0.0 mdh-pa.googleapis.com
 0.0.0.0 firebasedurablelinks-ipv6-pa.googleapis.com
 0.0.0.0 firebasedynamiclinks-ip4.googleapis.com
 0.0.0.0 firebasedynamiclinks-ip6.googleapis.com
