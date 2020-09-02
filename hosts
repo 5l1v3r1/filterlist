@@ -1299,6 +1299,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 c.microsoft.com
+0.0.0.0 c1.microsoft.com
 0.0.0.0 c.s-microsoft.com
 0.0.0.0 c.urs.microsoft.com
 0.0.0.0 ca.telemetry.microsoft.com
@@ -1400,11 +1401,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 umwatsonc.events.data.microsoft.com
 0.0.0.0 unitedstates.smartscreen-prod.microsoft.com
 0.0.0.0 urlreputation-ch1p.smartscreen.microsoft.com
+0.0.0.0 config.fp.measure.office.com
+0.0.0.0 measure.office.com
 0.0.0.0 urlreputation-sn3p.smartscreen.microsoft.com
 0.0.0.0 urs.microsoft.com
 0.0.0.0 urs.smartscreen.microsoft.com
 0.0.0.0 us-v10.events.data.microsoft.com
 0.0.0.0 us-v20.events.data.microsoft.com
+0.0.0.0 fp.measure.office.com
 0.0.0.0 us.vortex-win.data.microsoft.com
 0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 v10.vortex-win.data.microsoft.com
