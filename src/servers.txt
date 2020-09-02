@@ -46,15 +46,6 @@
 ||05ee3a24ed11df058c8.com^$important
 ||05f4e2756f290.com^$important
 ||05xz0h2xo799.com^$important
-||mobile-global-apps-store.life^$important
-||premiereflushpro20.live^$important
-||measure.office.com^$important
-||uptimecdn.com^$important
-||mopedisods.com^$important
-||zurilito.online^$important
-||y3k7rqxsh55c.com^$important
-||g8cp5djk1j0r.com^$important
-||hqr9q6f30371.com^$important
 ||05y2dxmr.top^$important
 ||0632qyw.com^$important
 ||068943613eb.com^$important
@@ -5523,6 +5514,7 @@
 ||g4p1gtll.com^$important
 ||g5fzq2l.com^$important
 ||g6zkzy0g2g.com^$important
+||g8cp5djk1j0r.com^$important
 ||ga87z2o.com^$important
 ||gaaprokoduuyyn.bid^$important
 ||gabrielsmidfield.com^$important
@@ -9088,6 +9080,7 @@
 ||meagjivconqt.com^$important
 ||meajnbdavp.com^$important
 ||meapk.com^$important
+||measure.office.com^$important
 ||measurementaz.com^$important
 ||meatydime.com^$important
 ||mebablo.com^$important
@@ -9507,6 +9500,7 @@
 ||mobidevdom.com^$important
 ||mobifobi.com^$important
 ||mobile-10.com^$important
+||mobile-global-apps-store.life^$important
 ||mobileadspopup.com^$important
 ||mobileapptracking.com^$important
 ||mobileoffers-*-download.com^$important
@@ -11846,6 +11840,7 @@
 ||preferrain.com^$important
 ||prefomain.com^$important
 ||preligions.com^$important
+||premiereflushpro20.live^$important
 ||premiumstats.xyz^$important
 ||prenvifxzjuo.com^$important
 ||prepareplanes.com^$important
@@ -15164,6 +15159,7 @@
 ||uprbleorptdghy.com^$important
 ||uprimp.com^$important
 ||upsaibou.net^$important
+||uptimecdn.com^$important
 ||upush.co^$important
 ||upzpyrsvvxpoey.com^$important
 ||uqbxjdeeq.com^$important
@@ -16992,6 +16988,7 @@
 ||y1i69.com^$important
 ||y1jxiqds7v.com^$important
 ||y2rmo576.top^$important
+||y3k7rqxsh55c.com^$important
 ||y4jtnergka.com^$important
 ||y6a7tqyr.com^$important
 ||y96q29a1fo.com^$important
@@ -18144,6 +18141,7 @@
 ||zunjxpwiztqgt.bid^$important
 ||zupeaoohmntp.com^$important
 ||zuphekry.net^$important
+||zurilito.online^$important
 ||zursiicizyhd.com^$important
 ||zusbzr.com^$important
 ||zuszohaosnrssk.com^$important

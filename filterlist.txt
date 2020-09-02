@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-08-31 20:53:55
-! Version: 20200831205355
+! Last modified: 2020-09-02 18:30:15
+! Version: 20200902183015
 ! Expires: 3 hours
-! Number of filters: 18315
+! Number of filters: 18322
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -5560,6 +5560,7 @@
 ||g4p1gtll.com^$important
 ||g5fzq2l.com^$important
 ||g6zkzy0g2g.com^$important
+||g8cp5djk1j0r.com^$important
 ||ga87z2o.com^$important
 ||gaaprokoduuyyn.bid^$important
 ||gabrielsmidfield.com^$important
@@ -9123,6 +9124,7 @@
 ||meagjivconqt.com^$important
 ||meajnbdavp.com^$important
 ||meapk.com^$important
+||measure.office.com^$important
 ||measurementaz.com^$important
 ||meatydime.com^$important
 ||mebablo.com^$important
@@ -9544,6 +9546,7 @@
 ||mobile-10.com^$important
 ||mobileadspopup.com^$important
 ||mobileapptracking.com^$important
+||mobile-global-apps-store.life^$important
 ||mobileoffers-*-download.com^$important
 ||mobiright.com^$important
 ||mobisla.com^$important
@@ -11883,6 +11886,7 @@
 ||preferrain.com^$important
 ||prefomain.com^$important
 ||preligions.com^$important
+||premiereflushpro20.live^$important
 ||premiumstats.xyz^$important
 ||prenvifxzjuo.com^$important
 ||prepareplanes.com^$important
@@ -15201,6 +15205,7 @@
 ||uprbleorptdghy.com^$important
 ||uprimp.com^$important
 ||upsaibou.net^$important
+||uptimecdn.com^$important
 ||upush.co^$important
 ||upzpyrsvvxpoey.com^$important
 ||uqbxjdeeq.com^$important
@@ -17029,6 +17034,7 @@
 ||y1i69.com^$important
 ||y1jxiqds7v.com^$important
 ||y2rmo576.top^$important
+||y3k7rqxsh55c.com^$important
 ||y4jtnergka.com^$important
 ||y6a7tqyr.com^$important
 ||y96q29a1fo.com^$important
@@ -18181,6 +18187,7 @@
 ||zunjxpwiztqgt.bid^$important
 ||zupeaoohmntp.com^$important
 ||zuphekry.net^$important
+||zurilito.online^$important
 ||zursiicizyhd.com^$important
 ||zusbzr.com^$important
 ||zuszohaosnrssk.com^$important
