@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-09-02 18:30:15
-! Version: 20200902183015
+! Last modified: 2020-09-04 05:54:19
+! Version: 20200904055419
 ! Expires: 3 hours
-! Number of filters: 18322
+! Number of filters: 18336
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -792,6 +792,7 @@
 ||6ub9kwj.com^$important
 ||6uwehz1xp4.com^$important
 ||6wxduscd9p.com^$important
+||6yag4bmwyhs4.com^$important
 ||6yfory7f0njw.com^$important
 ||6zw2rcfd.com^$important
 ||6zy9yqe1ew.com^$important
@@ -1660,11 +1661,13 @@
 ||algnnojsdr.com^$important
 ||algrizej.com^$important
 ||alhistoriousg.info^$important
+||ali.pub^$important
 ||aliadvert.ru^$important
 ||alidnquxirv.bid^$important
 ||alikeaddition.com^$important
 ||alikearm.com^$important
 ||alikuvxxwy.com^$important
+||alipromo.com^$important
 ||aliru1.ru^$important
 ||aliticalpassister.info^$important
 ||aljsuubo.com^$important
@@ -2128,6 +2131,7 @@
 ||babblenorah.com^$important
 ||bablace.com^$important
 ||babyboomboomads.com^$important
+||backit.me^$important
 ||baconaces.pro^$important
 ||badgearsregra.site^$important
 ||badgmvhtvryg.bid^$important
@@ -3306,6 +3310,7 @@
 ||cookielaw.org^$important
 ||cookie-script.com^$important
 ||coolcpms.com^$important
+||cooldeal.by^$important
 ||coordinatedcub.com^$important
 ||copicvarianuty.info^$important
 ||copperchickens.com^$important
@@ -4604,6 +4609,7 @@
 ||epi0tzwi.com^$important
 ||eplocjhuxsoj.com^$important
 ||eplsshzbotknz.bid^$important
+||epn.bz^$important
 ||epndtinso.com^$important
 ||epnjahss.com^$important
 ||epnycpszmpvft.com^$important
@@ -4700,6 +4706,7 @@
 ||etoileironton.com^$important
 ||etprpfuw.bid^$important
 ||etpsn.com^$important
+||etrack.bz^$important
 ||etreflased.info^$important
 ||etsmercisely.site^$important
 ||etsqitgro.bid^$important
@@ -6786,6 +6793,7 @@
 ||icjpdubxgab.com^$important
 ||icjurmxhqpdpbt.bid^$important
 ||iclbkrgjdstqt.com^$important
+||iclickcdn.com^$important
 ||icltessfskwle.bid^$important
 ||iclytswtff.com^$important
 ||icpfrrffsenr.com^$important
@@ -9678,6 +9686,7 @@
 ||movie-pass.live^$important
 ||mowfruit.com^$important
 ||mowithlerendu.pro^$important
+||mowyappedbibs.com^$important
 ||moxdmkdzvkgxow.bid^$important
 ||moxvufgh.com^$important
 ||moyeluljrail.com^$important
@@ -10018,6 +10027,7 @@
 ||n13x4nfw8frika.com^$important
 ||n161adserv.com^$important
 ||n1g459ky7y.com^$important
+||n1ora14.online^$important
 ||n2gk4jw.com^$important
 ||n2s.co.kr^$important
 ||n2sq3jfrun.com^$important
@@ -10578,6 +10588,7 @@
 ||nosdbwnd.com^$important
 ||nostalgicknot.com^$important
 ||notchcollectormuffin.com^$important
+||nothingarbourdough.com^$important
 ||notification-centar.com^$important
 ||notification-list.com^$important
 ||notify.support^$important
@@ -13367,6 +13378,8 @@
 ||sbovclzywkbk.bid^$important
 ||sbpcnpysxbs.bid^$important
 ||sbroughhig.info^$important
+||sb-ssl.google.com^$important
+||sb-ssl.l.google.com^$important
 ||sbudbyidtdrgey.com^$important
 ||sbxzvllyahzn.com^$important
 ||sbzngfrmgizpj.bid^$important
@@ -13718,6 +13731,7 @@
 ||smartclip.net^$important
 ||smartphonesbonusoffers.icu^$important
 ||smartpixel.xyz^$important
+||smartredirect.de^$important
 ||smashseek.com^$important
 ||smashsurprise.com^$important
 ||smazvhjn.com^$important
