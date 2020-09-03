@@ -348,7 +348,7 @@ $$script[wildcard="__CF$cv$params"]
 217.69.133.145:443$network
 217.69.139.244:443$network
 217.69.141.142:443$network
-||0.0.0.0^
+0.0.0.0$network
 ||51.79.155.250^
 ||212.122.5.136^
 ! Domain Name System (DNS) END
@@ -730,6 +730,7 @@ $$script[wildcard="__CF$cv$params"]
 ||yastatic.net/*/liza/*-mail-Placeholder-Picture_*.gif|$image,important,domain=mail.yandex.by|mail.yandex.ru|mail.yandex.ua
 ||yastatic.net/*/passport-auth-customs/*.jpg|$image,important
 ||yastatic.net/lego/*.gif|$image,important
+|http*:*/1x1.gif$image,important
 ! IMAGE END
 
 ! POPUP & POPUNDER START
@@ -789,7 +790,7 @@ zloekino.ru#%#//scriptlet("remove-cookie")
 ! REDIRECTION END
 
 ! Cascading Style Sheets (CSS) START
-*##a[href*="/ads."], a[href*="/ads/"], a[href*="/adv."], a[href*="/adv/"], a[href*="/advert."], a[href*="/advert/"],a[href*="/advertise."], a[href*="/advertise/"], a[href*="/advertising."], a[href*="/advertising/"], [class*="adv-slot-"], div[class*="sport-advert_"], div[data-flt-ve="sponsored_search_ads"], div[id*="adcontent"], div[id^="google_ads_iframe_"], div[id^="yandex_rtb"], #WikiaTopAds
+*##a[href*="/ads."], a[href*="/ads/"], a[href*="/adv."], a[href*="/adv/"], a[href*="/advert."], a[href*="/advert/"],a[href*="/advertise."], a[href*="/advertise/"], a[href*="/advertising."], a[href*="/advertising/"], [class*="adv-slot-"], div[class*="sport-advert_"], div[data-flt-ve="sponsored_search_ads"], div[id*="adcontent"], div[id^="google_ads_iframe_"], div[id^="yandex_rtb"], #WikiaTopAds, a[href*="affiliat"][target="_blank"]> img[src*="/vpn."], a[href][target="_blank"][title="NordVPN Special VPN"] > img
 *##a[href*="adriver.ru"], a[href*="doubleclick.net"], a[href*="ads.adfox.ru"], a[href*="googleadservices.com"], a[href*="mradx.net"], a[href*="trafficfactory.biz"], a[href*="trafficjunky.net"], a[href*="weborama.fr"], a[href*="yabs.yandex."], a[href*="zen.yandex."], a[href*="awaps.yandex.net"], a[href*="imasdk.googleapis.com"], a[href*="//bit.ly/"], a[href*="//bitly.com/"], a[href*="w88kub.com"], a[href="http://51.79.155.250/"], a[href*="click2go.me"]
 *##a[href="/1884.html"], a[href="/tc1.php"], a[href="/tc2.php"], [title="uCoz Counter"], #covid-banner, .counters, .grecaptcha-badge, [src="/img/ya.jpg"]
 *##div:has([class*="CookieDialog__DialogLInk-"])
@@ -832,7 +833,7 @@ kinogo.*,torrent-filmi.xyz,kinoframe.net,filmitorrent.xyz,hdfilms.zone,kinomore.
 lk.rt.ru###widget-container
 mail.google.com##.YX.aZ6.akc, .aeO
 mail.ru##.w-x-ph__col_left.w-x-ph__col, .informers, .marusia__wrapper, .marusia__button, .search__top, .i-pull-left.grid__lcol_mailbox.grid__lcol, .i-pull-left.grid__ccol, .i-clearfix.grid__container.grid-down, #search\:example, #suggests, .zeropixel, .zeropixel > script, noscript, #script\:counters, .catalogue.block, .footer, #sports-event-swiper, #horo-swiper, .covid, .swipe-wrap_weather, .social, .pulse-lenta, .news.block, .currency.widget.block, .widget.tv.block, .mailru-visibility-check, .afisha__title, .block__item_app.block__item_list, .block__title.block__item, .counter, span.block[data-show-counter][data-show-height], .adq, .w-go-form__sugg, span.block[style="color:#000000; border-color:#B13F3F; background-color:#ffffff;"], .LocalFooter-footer, .FooterLinks-wrapper, .footer__wrap, .footer
-mail.yandex.*##.mail-Placeholder-Text, .mail-ThreadSidebar-wrap.ns-view-thread-sidebar-wrap
+mail.yandex.*##.mail-Placeholder-Text, .mail-ThreadSidebar-wrap.ns-view-thread-sidebar-wrap, .mail-MailProAnnouncingPromoLeftColumn
 market.yandex.*##div > [class]:has([data-apiary-widget-name="@MarketNode/FooterHistory"])
 market.yandex.*##div > [class]:has([data-apiary-widget-name="@MarketNode/LegalInfo"][data-apiary-widget-id="/content/legalInfo"])
 market.yandex.*##div > [class]:has([data-apiary-widget-name="@MarketNode/ProductRecipes"])
@@ -880,7 +881,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ! XPATH END
 
 ! WEBSOCKET START
-*$important,websocket,domain=hlsplay.com|hindilinks4uto.com|hqq.tv|povvideo.net|powvldeo.cc|powvldeo.co|powvldeo.me|powvldeo.net|waaw.tv|clipwatching.com|hydracdn.network
+*$important,websocket,domain=hlsplay.com|hindilinks4uto.com|hqq.tv|povvideo.net|powvldeo.cc|powvldeo.co|powvldeo.me|powvldeo.net|waaw.tv|clipwatching.com
 *$important,websocket,third-party,domain=~music.yandex.ru|~music.yandex.ua|~music.yandex.by|~discord.com|~speedtest.net
 ! WEBSOCKET END
 
@@ -894,6 +895,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ! Content Security Policy (CSP) END
 
 ! OTHER START
+/[-._?&=#/]api\/ad[sv]?\//$important
 /(ntfc|afu|apu|jsa|apw)\.(hh|php)\?/$important
 /[&?]s(screen)?\=[0-9]{3,4}x[0-9]{3,4}[&?]/$important
 /[&?]s[cw]\=[0-9]{3,4}[&]sh\=[0-9]{3,4}[&]/$important
@@ -1559,3 +1561,8 @@ xvideos.com#@#+js(abort-on-property-write, openpop)
 ||ad.mail.ru/vast/$redirect=empty,badfilter
 multikland.net$@$script[tag-content="RTCPeerConnection"]
 ||digicert.com^$badfilter
+8.8.8.8^$network,app=com.zhiliaoapp.musically|com.zhiliao.musically.livewallpaper|com.ss.android.ugc.aweme,badfilter
+gdriveplayer.*#@#+js(nowoif)
+gdriveplayer.*#@#+js(aopr, glxopen)
+gdriveplayer.*#@#+js(acis, Object.defineProperty, vocabulary)
+||hydracdn.network^$badfilter
