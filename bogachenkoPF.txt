@@ -609,6 +609,13 @@ $$script[wildcard="__CF$cv$params"]
 ||pixel.facebook.com^$important
 ||pixel.fbpigeon.com^$important
 ||pixel.spotify.com^$important
+||brozen.yandex.ru^$important
+||cooldeal.by^$important
+||ali.pub^$important
+||alipromo.com^$important
+||epn.bz^$important
+||backit.me^$important
+||etrack.bz^$important
 ||platform.twitter.com^$important
 ||plus.yandex.*^$important
 ||pluso.ru^$important
@@ -646,6 +653,7 @@ $$script[wildcard="__CF$cv$params"]
 ||share.yandex.net^$important
 ||sharethis.com^$important
 ||shavar.prod.mozaws.net^$important
+||mgid.com^$important
 ||shavar.services.mozilla.com^$important
 ||siftscience.com^$important
 ||sitecheck*.opera.com^$important
