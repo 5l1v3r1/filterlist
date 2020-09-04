@@ -1000,7 +1000,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||blocked.mts.ru^$document,important
 ||browser.yandex.ru^$~document,important
 ||clck.ru^$document,important
-||click.$document,important,domain=~aliexpress.com|~aliexpress.ru
+||click.$document,important,domain=~aliexpress.com|~aliexpress.ru|~rt.ru
 ||cs.fail^$document,important
 ||csgo.band^$document,important
 ||csgorun.org^$document,important
@@ -1159,7 +1159,6 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /\/ads\.html?/$important,subdocument,xmlhttprequest
 /\/ga[-._?&=#/][a-zA-Z]{5,}\.js/$important,other,script,third-party
 /\/pi?xe?l?\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)/$image,important,script,subdocument,xmlhttprequest,domain=~playground.ru
-/\/[a-z]{1,3}\.(?:jp(?:e?g|e|2)|gif|png|tiff?|bmp|ico|hei[fc]|webp|jxr|wdp|dng|cr2|arw|jsp?|x?html?|cgi|php|swf|svg)\?[a-z]{1,3}\=/$image,important,other,script,subdocument,xmlhttprequest
 /^(?!.*((injections|local)\.adguard\.org|(jquery|hcaptcha|g(oogle(apis)?|static)|cloudflare|(bootstrap|jwp|dood)cdn|fontawesome|jwplatform|dropgalaxy)\.com|(recaptcha|zencdn|jsdelivr|iamcdn)\.net|vodplhq\.cdn[\d\w]+\.club|fc\.lc)).*$/$important,script,xmlhttprequest,other,subdocument,popup,popunder,third-party,domain=userscloud.com|adsafelink.net|adsafelink.com|adsrt.live|adz7short.space|clik.pw|fun4earn.xyz|iir.ai|jwearn.com|linkati.win|lopteup.vip|megalink.vip|moaplos.com|newsonthegotoday.com|ocanoke.com|ouo.io|ouo.press|owllink.net|popimed.com|profitlink.info|semawur.com|shorter.fun|spaste.com|stfly.me|tii.ai|todaynewspk.win|wicr.in|dropapk.to|mirrored.to|1fichier.com|rapidgator.net|uploaded.net|0gomovies.website|123moviesplayer.com|2streaming.net|bmoviesfree.io|clipwatching.com|cloud9.to|cloudvideo.tv|dood.watch|gcloud.live|gdriveplayer.io|gdriveplayer.me|gomo.to|gounlimited.to|hydrax.net|jetload.net|mcloud.to|mcloud2.to|mightyupload.com|mixdrop.co|movcloud.net|mp4upload.com|mstream.xyz|novelplanet.me|oload.party|streamapi.xyz|streamhoe.online|streamingworld.club|streamtape.com|streamvid.co|streamvideo.link|u-play.pro|upstream.to|vidcloud9.com|videobin.co|videoko.to|videospider.stream|vidlox.me|vidoza.net|vidsrc.me|vidstreaming.io|viduplayer.com|vivo.sx|voe.sx|vup.to|wstream.video|turbobit.net|mystream.to|oogly.io|anavids.com|streamup.xyz|putload.tv|streamvideo.link|putloaddd.tv|makeeasybtc.website|jo2win.com|bolssc.com|real-sky.com|mixloads.com|dz4win.com|freeshrinker.com|mixdrop.to|racaty.net|mystream.com|mstream.best|mstream.fun|mstream.icu|mstream.press|mstream.rocks|mstream.space|mstream.website|premiumserver.club|filefactory.com|clicknupload.co|uptobox.com|filecrypt.cc|shorthub.co|exy.ai|stfly.me|stfly.io|stfly.press|shrinkme.io|hxload.to|cut.my.id|hydracdn.network|playhydrax.com|playoffsite.xyz|gobrowse.net|dropgalaxy.in|dropgalaxy.com|hubfiles.ws|fc.lc|fcdot.lc|rdircto.link|zlink.xyz|shrinkbtc.cc|pkr.pw|btcdot.xyz|shrinke.me|shortenbuddy.com|claimcrypto.cc|bigb0ss.net|gibit.xyz
 /^(?!.*((injections|local)\.adguard\.org|(userapi|youtube|vk(\-apps)?|g(oogle|static)|ytimg)\.com|(vkuser(video|audio)|vk\-cdn)\.net|mycdn\.me)).*$/$image,important,script,subdocument,third-party,xmlhttprequest,domain=vk.com
 /^https?:\/\/mail\.yandex\.[\w]+\/[^\s]{1200,}$/$image,important,other,xmlhttprequest,script
@@ -1566,3 +1565,8 @@ gdriveplayer.*#@#+js(acis, Object.defineProperty, vocabulary)
 @@||gravatar.com/avatar$image,third-party,badfilter
 ||aliapp.org^$badfilter
 ||fourier.taobao.com^$badfilter
+rt.ru$@$script[wildcard="*googletagmanager*GTM-*"]
+||alitems.com^$badfilter
+||click.aliexpress.com^$badfilter
+||click.aliexpress.com^*&$popup,domain=~aliexpress.com|~dealabs.com,badfilter
+||aliexpress.com^*&aff_platform=$popup,third-party,domain=~alibaba.com,badfilter
