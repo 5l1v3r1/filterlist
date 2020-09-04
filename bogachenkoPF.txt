@@ -101,6 +101,7 @@ $$script[wildcard="__CF$cv$params"]
 @@/^https?:\/\/\[::1]\//
 @@||*-instagram.*.facebook.com^$third-party
 @@||api.adguard.com^
+@@||privateinternetaccess.com^$xmlhttprequest,domain=dnsleak.com
 @@||connectivitycheck.gstatic.com^$important
 @@||facebook.com/plugins/video.php$subdocument
 @@||favicon.yandex.net^$image
@@ -615,8 +616,6 @@ $$script[wildcard="__CF$cv$params"]
 ||pixel.fbpigeon.com^$important
 ||pixel.spotify.com^$important
 ||brozen.yandex.ru^$important
-||cooldeal.by^$important
-||ali.pub^$important
 ||alipromo.com^$important
 ||epn.bz^$important
 ||backit.me^$important
@@ -806,6 +805,11 @@ zloekino.ru#%#//scriptlet("remove-cookie")
 2ch.hk##.logo, #mobile-pashque
 aliexpress.*###j-multi-sidebar-outer, .site-footer, .footer-copywrite
 bing.com###t_termsInfo
+youtube.com###dismissable:has-text(Рекомендации на основе вашей истории поиска)
+youtube.com##ytd-horizontal-card-list-renderer:has-text(Запросы, похожие на)
+aliexpress.*##.product-card.list:has([class="item-ad-tag"])
+aliexpress.*##.list-item:has([class="item-ad-tag"])
+youtube.com##ytd-horizontal-card-list-renderer:has-text(Похожие запросы)
 clipwatching.com###container > div > div:style(width:0px!important)
 duckduckgo.com,3g2upl4pq6kufc4m.onion##.tag-home__item, .js-onboarding-ed-slide-4.js-onboarding-ed-slide.onboarding-ed__slide-4.onboarding-ed__slide, .js-onboarding-ed-slide-3.js-onboarding-ed-slide.onboarding-ed__slide-3.onboarding-ed__slide, .js-onboarding-ed-image-container-2.onboarding-ed__image-container, .js-onboarding-ed-slide-2.js-onboarding-ed-slide.onboarding-ed__slide-2.onboarding-ed__slide, .js-onboarding-ed-slide-1.js-onboarding-ed-slide.onboarding-ed__slide-1.onboarding-ed__slide, .js-onboarding-ed.onboarding-ed, .is-showing.js-popout-main.modal--popout--sm.modal--popout--bottom-left.modal--popout.modal, .header__label.showcase.header--aside__item, .js-results-ads, #ads, .sponsored, .highlight_sponsored, .result--ad > .result__body, .js-feedback-btn-wrap, .js-serp-bottom-right.serp__bottom-right, .footer__links
 english-films.*##.block-content:has-text(Онлайн чат)
@@ -900,7 +904,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]akam[-._?&=#/]/$important
 /[-._?&=#/]beacon[-.0-9_?&=#/]?/$important
 /[-._?&=#/]me?tr[ie]?[ck][asx]?[-.0-9_?&=#/]?/$important,domain=~twitch.tv|~fandom.com|~office.com
-/[-._?&=#/]ping[-.0-9_?&=#/]?/$important,domain=~playhydrax.com|~twitch.tv|~speedtest.net|~hydracdn.network
+/[-._?&=#/]ping[-.0-9_?&=#/]?/$important,domain=~playhydrax.com|~twitch.tv|~speedtest.net|~hydracdn.network|~pingvinus.ru
 /[-._?&=#/]preroll[-._?&=#/]/$important,domain=~ttvnw.net|~mail.ru
 /\.(a[cdefgilmnoqrstuwxz]|arpa|academy|accountants?|act(ive|tor)|adult|aero|agency|airforce|apartments|app|archi|army|africa|associates|asia|attorney|auction|audio|autos|art|b[abdefghijmnorstvuwyz]|biz|bzh|c[acdfghiklmnoruvxsyz]|com?|cat|coop|cym(ru)?|crimea|d[dejkmoz]|dance|dev|e[cegrstu]|eng(lish)?|edu|eus|f[ijkmor]|family|feedback|g[abdefghilmnpqrstuwy]|google|gov|gal|h[kmnrtu]|i[delmnoqrst]|info|int|j[deghikmnoprwyz]|jobs?|l[abcikrstuvy]|london|m[acdeghklmnopqrstuvwxyz]|mil|mobi|microsoft|moe|museum|n[acefgilopruz]|ninja|net|name|om|one|ong|onl(ine)?|org(anic)?|p[aefghklmnrstwy]|pink|part([ys]|ners?)|pizza|place|plu(s|mbing)?|pharmacy|photo(s|graphy)?|physio|pic(ture)?s?|poker|porn|post|press|pro(f|ductions|perties|perty)?|k[yehrw]|qa|qpon|quebec|r[eosuw]|raci(ng|pes)|red|rehab|ren(t|tals)?|rep(ort|air|ublican)|rest|reviews?|rich|rus(sian)?|s[abcdeghiljkmnortuvyz]|site|scot?|soc|t[cdfghjklmnoprtvwz]|tel|tra(de|vel)|u[agmksyz]|v[aceginu]|w[fs]|wales|y[etu]|yandex|yoga|z[armzw]|zone|x(xx|yz))\/ad[sv]?\//$important
 /\/ads?[0-9]{1}\.php\?/$important
@@ -1008,6 +1012,8 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||dota2expert.com^$document,important
 ||dra.to^$document,important
 ||easydota.cc^$document,important
+||ali.pub^$document,important
+||cooldeal.by^$document,important
 ||goodwin-shop.com^$document,important
 ||easymoney.games^$document,important
 ||epulze.com^$document,important
