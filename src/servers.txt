@@ -1617,7 +1617,6 @@
 ||algnnojsdr.com^$important
 ||algrizej.com^$important
 ||alhistoriousg.info^$important
-||ali.pub^$important
 ||aliadvert.ru^$important
 ||alidnquxirv.bid^$important
 ||alikeaddition.com^$important
@@ -1642,6 +1641,9 @@
 ||allowmailbox.com^$important
 ||allstat-pp.ru^$important
 ||allsubscribes.com^$important
+||advrstcdn.com^$important
+||magarimot.com^$important
+||tarnifotum.com^$important
 ||allycollegedstrie.info^$important
 ||almeusciu.site^$important
 ||alnisdrmhs.bid^$important
@@ -3264,7 +3266,6 @@
 ||cookiebot.com^$important
 ||cookielaw.org^$important
 ||coolcpms.com^$important
-||cooldeal.by^$important
 ||coordinatedcub.com^$important
 ||copicvarianuty.info^$important
 ||copperchickens.com^$important
