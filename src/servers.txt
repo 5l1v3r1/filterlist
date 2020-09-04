@@ -1419,6 +1419,7 @@
 ||advmaker.su^$important
 ||advmusic.net^$important
 ||advon.net^$important
+||advrstcdn.com^$important
 ||adwalte.info^$important
 ||adwidgets.ru^$important
 ||adworkmedia.net^$important
@@ -1641,9 +1642,6 @@
 ||allowmailbox.com^$important
 ||allstat-pp.ru^$important
 ||allsubscribes.com^$important
-||advrstcdn.com^$important
-||magarimot.com^$important
-||tarnifotum.com^$important
 ||allycollegedstrie.info^$important
 ||almeusciu.site^$important
 ||alnisdrmhs.bid^$important
@@ -8889,6 +8887,7 @@
 ||mafndqbvdgkm.com^$important
 ||mafvijpjsaz.com^$important
 ||magararepublic.com^$important
+||magarimot.com^$important
 ||magnetisemedia.com^$important
 ||magnificentmeasure.com^$important
 ||magnificentmist.com^$important
@@ -14171,6 +14170,7 @@
 ||taqesyqne.com^$important
 ||taqyljgaqsaz.com^$important
 ||tarawerap.com^$important
+||tarnifotum.com^$important
 ||tartoals.net^$important
 ||tarttendency.com^$important
 ||tarxjwdkx.com^$important

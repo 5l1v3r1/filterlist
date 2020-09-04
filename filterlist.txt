@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-09-04 05:54:19
-! Version: 20200904055419
+! Last modified: 2020-09-05 06:20:00
+! Version: 20200905062000
 ! Expires: 3 hours
-! Number of filters: 18336
+! Number of filters: 18337
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1463,6 +1463,7 @@
 ||advmaker.su^$important
 ||advmusic.net^$important
 ||advon.net^$important
+||advrstcdn.com^$important
 ||adwalte.info^$important
 ||adwidgets.ru^$important
 ||adworkmedia.net^$important
@@ -1661,7 +1662,6 @@
 ||algnnojsdr.com^$important
 ||algrizej.com^$important
 ||alhistoriousg.info^$important
-||ali.pub^$important
 ||aliadvert.ru^$important
 ||alidnquxirv.bid^$important
 ||alikeaddition.com^$important
@@ -3310,7 +3310,6 @@
 ||cookielaw.org^$important
 ||cookie-script.com^$important
 ||coolcpms.com^$important
-||cooldeal.by^$important
 ||coordinatedcub.com^$important
 ||copicvarianuty.info^$important
 ||copperchickens.com^$important
@@ -8932,6 +8931,7 @@
 ||mafndqbvdgkm.com^$important
 ||mafvijpjsaz.com^$important
 ||magararepublic.com^$important
+||magarimot.com^$important
 ||magnetisemedia.com^$important
 ||magnificentmeasure.com^$important
 ||magnificentmist.com^$important
@@ -14216,6 +14216,7 @@
 ||taqesyqne.com^$important
 ||taqyljgaqsaz.com^$important
 ||tarawerap.com^$important
+||tarnifotum.com^$important
 ||tartoals.net^$important
 ||tarttendency.com^$important
 ||tarxjwdkx.com^$important
