@@ -114,6 +114,7 @@ $$script[wildcard="__CF$cv$params"]
 @@||safebrowsing.clients.google.com^$document
 @@||vk.com/video_ext.php$subdocument
 @@||fonts.gstatic.com^
+@@||instagram.*.facebook.com^$third-party
 ! WHITELIST END
 
 ! Domain Name System (DNS) START
@@ -419,6 +420,7 @@ $$script[wildcard="__CF$cv$params"]
 ||ads.linkedin.com^$important
 ||ads.spotify.com^$important
 ||ads.twitter.com^$important
+||news-clck.yandex.ru^$important
 ||ads.viber.com^$important
 ||adsafeprotected.com^$important
 ||adservice.google.*^$important
@@ -449,7 +451,7 @@ $$script[wildcard="__CF$cv$params"]
 ||appbaqend.com^$important
 ||applovin.com^$important
 ||applvn.com^$important
-||appmetrica.yandex.com^$important
+||appmetrica.yandex.*^$important
 ||appsflyer.com^$important
 ||appstatic.opera.com^$important
 ||atdmt.com^$important
@@ -459,10 +461,8 @@ $$script[wildcard="__CF$cv$params"]
 ||b-error.facebook.com^$important
 ||b-pixel.facebook.com^$important
 ||b-www.facebook.com^$important
-||badges.instagram.com^$important
-||beacons-handoff.gcp.gvt*.com^$important
-||beacons.gcp.gvt*.com^$important
-||beacons.gvt*.com^$important
+||beacons-*.gvt*.com^$important
+||beacons*.gvt*.com^$important
 ||bench.utorrent.com^$important
 ||bidmachine.io^$important
 ||bing.com^$important
@@ -1007,7 +1007,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||click.$document,important,domain=~aliexpress.com|~aliexpress.ru|~rt.ru
 ||cs.fail^$document,important
 ||csgo.band^$document,important
-||csgorun.org^$document,important
+||csgorun.org^$document,importants
 ||cybershoke.net^$document,important
 ||dota2expert.com^$document,important
 ||dra.to^$document,important
@@ -1577,3 +1577,4 @@ rt.ru$@$script[wildcard="*googletagmanager*GTM-*"]
 ||click.aliexpress.com^*&$popup,domain=~aliexpress.com|~dealabs.com,badfilter
 ||aliexpress.com^*&aff_platform=$popup,third-party,domain=~alibaba.com,badfilter
 ||viqeo.tv^$badfilter
+meduza.io$@$script[tag-content="GoogleAnalyticsObject"]
