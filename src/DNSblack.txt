@@ -1,7 +1,9 @@
+||1l-view.mail.ru^
 ||2mdn.net^
 ||69i.club^
 ||a-error.facebook.com^
 ||a-www.facebook.com^
+||ad.mail.ru^
 ||adcolony.com^
 ||adeventtracker.spotify.com^
 ||adfox.ru^
@@ -10,6 +12,7 @@
 ||adnow.com^
 ||adriver.ru^
 ||adroll.com^
+||ads*-adnow.com^
 ||ads-bidder-api.twitter.com^
 ||ads-d.viber.com^
 ||ads-fa.spotify.com^
@@ -32,6 +35,7 @@
 ||als-svc.nytimes.com^
 ||amazon-adsystem.com^
 ||an.facebook.com^
+||an.mail.ru^
 ||an.webvisor.*^
 ||an.yandex.*^
 ||analytic.press^
@@ -94,7 +98,6 @@
 ||external-promo-metrics.yandex.net^
 ||fenek.market.yandex.ru^
 ||footprintpredict.com^
-||trace.eset.com^
 ||fs.microsoft.com^
 ||fundingchoicesmessages.google.com^
 ||geo.opera.com^
@@ -127,9 +130,6 @@
 ||lf1.mail.ru^
 ||log.spotify.com^
 ||log.strm.yandex.ru^
-||1l-view.mail.ru^
-||ad.mail.ru^
-||an.mail.ru^
 ||logger.instagram.com^
 ||mail-ads.google.com^
 ||matheranalytics.com^
@@ -142,6 +142,7 @@
 ||mmstat.com^
 ||mng-ads.com^
 ||moatads.com^
+||mradx.net^
 ||my.com^
 ||newlog.overwolf.com^
 ||news-clck.yandex.ru^
@@ -160,11 +161,13 @@
 ||popads.net^
 ||popcash.net^
 ||proxy_auth.trigger.hola.org^
-||top-fwz1.mail.ru^
-||telemetry.mozilla.org^
 ||pubmatic.com^
+||r.mail.ru^
 ||r0.mail.ru^
+||r2.mail.ru^
+||r3.mail.ru^
 ||reef.vk-cdn.net^
+||reklama.mail.ru^
 ||reports.ghostery.net^
 ||rs.mail.ru^
 ||s*-2mdn-net.l.google.com^
@@ -177,7 +180,6 @@
 ||settings-win.data.microsoft.com^
 ||smartadserver.com^
 ||spade.twitch.tv^
-||ads*-adnow.com^
 ||speeddials.opera.com^
 ||startappservice.com^
 ||startup.mobile.yandex.net^
@@ -185,21 +187,17 @@
 ||stats.ghostery.net^
 ||taboola.com^
 ||telemetry.api.swiftkey.com^
+||telemetry.mozilla.org^
 ||telemetry.swiftkey.com^
 ||thumbnails*.opera.com^
 ||tns-counter.ru^
 ||top-fwz1.mail.ru^
 ||top100.ru^
+||trace.eset.com^
 ||tracking.overwolf.com^
 ||video-stats.l.google.com^
 ||videoroll.net^
 ||vk-portal.net^
-||r.mail.ru^
-||r0.mail.ru^
-||r2.mail.ru^
-||r3.mail.ru^
-||reklama.mail.ru^
-||rs.mail.ru^
 ||voodoo-ads.io^
 ||voodoo-tech.io^
 ||voodoo.io^
@@ -211,5 +209,3 @@
 ||www-googletagservices.l.google.com^
 ||yabs.yandex.*^
 ||yadro.ru^
-||bench.utorrent.com^
-||mradx.net^

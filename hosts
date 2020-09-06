@@ -1,17 +1,19 @@
 # Title: bogachenko's DNS Filter
 # Description: Yet another anti-bullshit filter list.
-# Last modified: 2020-09-07 01:00:35
-# Version: 20200907010035
+# Last modified: 2020-09-07 02:02:50
+# Version: 20200907020250
 # Expires: 3 hours
-# Number of filters: 202
+# Number of filters: 213
 # RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/hosts
 # Homepage: https://github.com/bogachenko/filterlist/
 # Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
 
 @@||fonts.gstatic.com^
 @@||local.adguard.org^
+||1l-view.mail.ru^
 ||2mdn.net^
 ||69i.club^
+||ad.mail.ru^
 ||adcolony.com^
 ||adeventtracker.spotify.com^
 ||adfox.ru^
@@ -20,6 +22,7 @@
 ||adnow.com^
 ||adriver.ru^
 ||adroll.com^
+||ads*-adnow.com^
 ||ads.facebook.com^
 ||ads.linkedin.com^
 ||ads.samsung.com^
@@ -43,6 +46,7 @@
 ||als-svc.nytimes.com^
 ||amazon-adsystem.com^
 ||an.facebook.com^
+||an.mail.ru^
 ||an.webvisor.*^
 ||an.yandex.*^
 ||analytic.press^
@@ -150,6 +154,7 @@
 ||mmstat.com^
 ||mng-ads.com^
 ||moatads.com^
+||mradx.net^
 ||my.com^
 ||newlog.overwolf.com^
 ||news-clck.yandex.ru^
@@ -169,8 +174,12 @@
 ||popcash.net^
 ||proxy_auth.trigger.hola.org^
 ||pubmatic.com^
+||r.mail.ru^
 ||r0.mail.ru^
+||r2.mail.ru^
+||r3.mail.ru^
 ||reef.vk-cdn.net^
+||reklama.mail.ru^
 ||reports.ghostery.net^
 ||rs.mail.ru^
 ||s*-2mdn-net.l.google.com^
@@ -190,11 +199,13 @@
 ||stats.ghostery.net^
 ||taboola.com^
 ||telemetry.api.swiftkey.com^
+||telemetry.mozilla.org^
 ||telemetry.swiftkey.com^
 ||thumbnails*.opera.com^
 ||tns-counter.ru^
 ||top100.ru^
 ||top-fwz1.mail.ru^
+||trace.eset.com^
 ||tracking.overwolf.com^
 ||videoroll.net^
 ||video-stats.l.google.com^
@@ -210,4 +221,3 @@
 ||www-googletagservices.l.google.com^
 ||yabs.yandex.*^
 ||yadro.ru^
-||bench.utorrent.com^
