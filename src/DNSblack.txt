@@ -1,0 +1,4 @@
+||adservice.google.com^
+||gstaticadssl.l.google.com^
+||popads.net^
+||adservice.l.google.com^

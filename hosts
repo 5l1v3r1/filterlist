@@ -1,0 +1,12 @@
+! Title: bogachenko's DNS Filter
+! Description: Yet another anti-bullshit filter list.
+! License: MIT.
+
+! White lists
+@@||fonts.gstatic.com^
+
+! Black lists
+||adservice.google.com^
+||gstaticadssl.l.google.com^
+||popads.net^
+||adservice.l.google.com^
