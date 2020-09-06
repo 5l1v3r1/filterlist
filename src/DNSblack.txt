@@ -21,7 +21,7 @@
 ||ads.viber.com^
 ||adsafeprotected.com^
 ||adsdk.yandex.ru^
-||adservice.google.com^
+||adservice.google.*^
 ||adservice.l.google.com^
 ||adsymptotic.com^
 ||adtechus.com^
@@ -94,6 +94,7 @@
 ||external-promo-metrics.yandex.net^
 ||fenek.market.yandex.ru^
 ||footprintpredict.com^
+||trace.eset.com^
 ||fs.microsoft.com^
 ||fundingchoicesmessages.google.com^
 ||geo.opera.com^
@@ -126,6 +127,9 @@
 ||lf1.mail.ru^
 ||log.spotify.com^
 ||log.strm.yandex.ru^
+||1l-view.mail.ru^
+||ad.mail.ru^
+||an.mail.ru^
 ||logger.instagram.com^
 ||mail-ads.google.com^
 ||matheranalytics.com^
@@ -156,6 +160,8 @@
 ||popads.net^
 ||popcash.net^
 ||proxy_auth.trigger.hola.org^
+||top-fwz1.mail.ru^
+||telemetry.mozilla.org^
 ||pubmatic.com^
 ||r0.mail.ru^
 ||reef.vk-cdn.net^
@@ -171,6 +177,7 @@
 ||settings-win.data.microsoft.com^
 ||smartadserver.com^
 ||spade.twitch.tv^
+||ads*-adnow.com^
 ||speeddials.opera.com^
 ||startappservice.com^
 ||startup.mobile.yandex.net^
@@ -187,6 +194,12 @@
 ||video-stats.l.google.com^
 ||videoroll.net^
 ||vk-portal.net^
+||r.mail.ru^
+||r0.mail.ru^
+||r2.mail.ru^
+||r3.mail.ru^
+||reklama.mail.ru^
+||rs.mail.ru^
 ||voodoo-ads.io^
 ||voodoo-tech.io^
 ||voodoo.io^
@@ -198,3 +211,5 @@
 ||www-googletagservices.l.google.com^
 ||yabs.yandex.*^
 ||yadro.ru^
+||bench.utorrent.com^
+||mradx.net^

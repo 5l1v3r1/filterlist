@@ -30,7 +30,7 @@
 ||ads-bidder-api.twitter.com^
 ||ads-d.viber.com^
 ||adsdk.yandex.ru^
-||adservice.google.com^
+||adservice.google.*^
 ||adservice.l.google.com^
 ||ads-fa.spotify.com^
 ||adsymptotic.com^
@@ -210,3 +210,4 @@
 ||www-googletagservices.l.google.com^
 ||yabs.yandex.*^
 ||yadro.ru^
+||bench.utorrent.com^
