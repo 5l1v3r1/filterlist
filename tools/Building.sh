@@ -14,7 +14,7 @@ then
 echo 'Updating the filter lists...'
 git pull
 git status
-git commit -a -m 'Update for filter lists'
+git commit -a -m 'Update files'
 echo 'In order to collect all the filters in one list, we need a temporary folders.'
 if [ ! -d $TEMP ]
 then
