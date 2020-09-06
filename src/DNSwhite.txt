@@ -1,1 +1,2 @@
 @@||fonts.gstatic.com^
+@@||local.adguard.org^
