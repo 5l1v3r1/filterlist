@@ -28,10 +28,13 @@ fi
 python FOP.py $SRC
 cp $SRC/other.txt $TEMP
 cp $SRC/servers.txt $TEMP
+cp $SRC/DNSblack.txt $TEMP
+cp $SRC/DNSwhite.txt $TEMP
+sort --output=$TEMP/hosts $TEMP/DNSblack.txt $TEMP/DNSwhite.txt
 sort --output=$TEMP/filterlist.txt $TEMP/other.txt $TEMP/servers.txt
 echo 'Creating a header for the list...'
 LINES=$(grep -c '' $TEMP/filterlist.txt)
-cat > $TEMP/headers.txt <<EOF
+cat > $TEMP/header1.txt <<EOF
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
 ! Last modified: ${DATE}
@@ -43,7 +46,24 @@ cat > $TEMP/headers.txt <<EOF
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
 
 EOF
-cat $TEMP/headers.txt $TEMP/filterlist.txt > ../filterlist.txt
+cat $TEMP/header1.txt $TEMP/filterlist.txt > ../filterlist.txt
+
+echo 'Creating a header for the DNS list...'
+LINES=$(grep -c '' $TEMP/hosts)
+cat > $TEMP/header2.txt <<EOF
+# Title: bogachenko's DNS Filter
+# Description: Yet another anti-bullshit filter list.
+# Last modified: ${DATE}
+# Version: ${VERSION}
+# Expires: 3 hours
+# Number of filters: ${LINES}
+# RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/hosts
+# Homepage: https://github.com/bogachenko/filterlist/
+# Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
+
+EOF
+cat $TEMP/header2.txt $TEMP/hosts > ../hosts
+
 echo 'Delete temporary files...'
 rm -rf $TEMP
 echo 'Deletion complete!'
@@ -53,7 +73,7 @@ select yn in "Yes" "No"; do
 		Yes )
 		git pull
 		git status
-		git commit -a -m 'Update filterlist.txt'
+		git commit -a -m 'Update files'
 		git push origin master;
 		break
 		;;
