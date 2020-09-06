@@ -1,15 +1,40 @@
-# Title: bogachenko's DNS Filter
-# Description: Yet another anti-bullshit filter list.
-# Last modified: 2020-09-07 00:53:12
-# Version: 20200907005312
-# Expires: 3 hours
-# Number of filters: 5
-# RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/hosts
-# Homepage: https://github.com/bogachenko/filterlist/
-# Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
+! Title: bogachenko's DNS Filter
+! Description: Yet another anti-bullshit filter list.
+! License: MIT.
 
+! White lists
 @@||fonts.gstatic.com^
+
+! Black lists
 ||adservice.google.com^
-||adservice.l.google.com^
 ||gstaticadssl.l.google.com^
 ||popads.net^
+||s*-2mdn-net.l.google.com^
+||adservice.l.google.com^
+||all-cod.com^
+||crashlytics.com^
+||crashlytics.l.google.com^
+||fundingchoicesmessages.google.com^
+||hostingcloud.racing^
+||google-analytics.com^
+||doubleclick.net^
+||googleadapis.l.google.com^
+||googleadservices.*^
+||googleadsserving.cn^
+||googleanalytics.com^
+||googleoptimize.com^
+||googlesyndication.com^
+||googletagmanager.com^
+||googletagservices.com^
+||id.google.*^
+||id.l.google.com^
+||imasdk.googleapis.com^
+||video-stats.l.google.com^
+||videoroll.net^
+||mail-ads.google.com^
+||pagead-googlehosted.l.google.com^
+||pagead*.l.doubleclick.net^
+||www-google-analytics.l.google.com^
+||www-googleadservices.l.google.com^
+||www-googletagmanager.l.google.com^
+||www-googletagservices.l.google.com^
