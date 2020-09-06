@@ -1,12 +1,15 @@
-! Title: bogachenko's DNS Filter
-! Description: Yet another anti-bullshit filter list.
-! License: MIT.
+# Title: bogachenko's DNS Filter
+# Description: Yet another anti-bullshit filter list.
+# Last modified: 2020-09-07 00:53:12
+# Version: 20200907005312
+# Expires: 3 hours
+# Number of filters: 5
+# RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/hosts
+# Homepage: https://github.com/bogachenko/filterlist/
+# Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
 
-! White lists
 @@||fonts.gstatic.com^
-
-! Black lists
 ||adservice.google.com^
+||adservice.l.google.com^
 ||gstaticadssl.l.google.com^
 ||popads.net^
-||adservice.l.google.com^
