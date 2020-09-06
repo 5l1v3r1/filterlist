@@ -1,7 +1,7 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-09-07 02:02:50
-! Version: 20200907020250
+! Last modified: 2020-09-07 02:05:17
+! Version: 20200907020517
 ! Expires: 3 hours
 ! Number of filters: 18337
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
