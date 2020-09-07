@@ -95,6 +95,7 @@
 ||dmtracking2.alibaba.com^
 ||doubleclick.*^
 ||doublemax.net^
+||telemetry.microsoft.com^
 ||ero-advertising.com^
 ||et.nytimes.com^
 ||event.shelljacket.us^
@@ -103,15 +104,15 @@
 ||fenek.market.yandex.ru^
 ||flurry.com^
 ||footprintpredict.com^
-||fs.microsoft.com^
 ||fundingchoicesmessages.google.com^
+||checkappexec.microsoft.com^
 ||geo.opera.com^
 ||gew-spclient.spotify.com^
 ||ghostery-collector.ghostery.com^
 ||gmtdmp.com^
-||go.microsoft.com^
 ||google-analytics.com^
 ||googleadapis.l.google.com^
+||ris.api.iris.microsoft.com^
 ||googleadservices.*^
 ||googleadsserving.cn^
 ||googleanalytics.com^
