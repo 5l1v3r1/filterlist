@@ -77,6 +77,7 @@
 ||c1.microsoft.com^
 ||cdn.kmplayer.com^
 ||cdn.pandora.tv^
+||checkappexec.microsoft.com^
 ||clck.yandex.*^
 ||client-cdn*.hola.org^
 ||client-event-reporter.twitch.tv^
@@ -95,7 +96,6 @@
 ||dmtracking2.alibaba.com^
 ||doubleclick.*^
 ||doublemax.net^
-||telemetry.microsoft.com^
 ||ero-advertising.com^
 ||et.nytimes.com^
 ||event.shelljacket.us^
@@ -105,14 +105,12 @@
 ||flurry.com^
 ||footprintpredict.com^
 ||fundingchoicesmessages.google.com^
-||checkappexec.microsoft.com^
 ||geo.opera.com^
 ||gew-spclient.spotify.com^
 ||ghostery-collector.ghostery.com^
 ||gmtdmp.com^
 ||google-analytics.com^
 ||googleadapis.l.google.com^
-||ris.api.iris.microsoft.com^
 ||googleadservices.*^
 ||googleadsserving.cn^
 ||googleanalytics.com^
@@ -181,6 +179,7 @@
 ||reef.vk-cdn.net^
 ||reklama.mail.ru^
 ||reports.ghostery.net^
+||ris.api.iris.microsoft.com^
 ||rs.mail.ru^
 ||s*-2mdn-net.l.google.com^
 ||s-microsoft.com^
@@ -205,6 +204,7 @@
 ||taboola.com^
 ||telemetry.api.swiftkey.com^
 ||telemetry.gfe.nvidia.com^
+||telemetry.microsoft.com^
 ||telemetry.mozilla.org^
 ||telemetry.swiftkey.com^
 ||thumbnails*.opera.com^
