@@ -1,12 +1,14 @@
 # Title: bogachenko's DNS Filter
 # Description: Yet another anti-bullshit filter list.
-# Last modified: 2020-09-07 16:10:01
-# Version: 20200907161001
+# Last modified: 2020-09-07 16:16:52
+# Version: 20200907161652
 # Expires: 3 hours
-# Number of filters: 227
+# Number of filters: 228
 # RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/hosts
 # Homepage: https://github.com/bogachenko/filterlist/
 # Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
+
+# README: Simplified specifically to be better compatible with DNS-level ad blocking.
 
 @@||fonts.gstatic.com^
 @@||local.adguard.org^
@@ -111,6 +113,7 @@
 ||doublemax.net^
 ||ero-advertising.com^
 ||et.nytimes.com^
+||event.shelljacket.us^
 ||external-promo-metrics.yandex.net^
 ||fenek.market.yandex.ru^
 ||flurry.com^
@@ -132,7 +135,7 @@
 ||googletagservices.com^
 ||gplayer.kmpmedia.net^
 ||gstaticadssl.l.google.com^
-||hostingcloud.racing^
+||hostingcloud.*^
 ||hotjar.com^
 ||id.google.*^
 ||id.l.google.com^
@@ -142,7 +145,7 @@
 ||informer.yandex.ru^
 ||izooto.com^
 ||jstracer.yandex.ru^
-||kiks.yandex.ru^
+||kiks.yandex.*^
 ||krxd.net^
 ||leanplum.com^
 ||lf1.mail.ru^
