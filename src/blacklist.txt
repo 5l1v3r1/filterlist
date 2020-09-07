@@ -28,7 +28,7 @@
 ||adservice.l.google.com^
 ||adsymptotic.com^
 ||adtechus.com^
-||advertising.yandex.ru^
+||advertising.yandex.*^
 ||af.opera.com^
 ||alexametrics.com^
 ||all-cod.com^
@@ -43,11 +43,13 @@
 ||analytics.mobile.webvisor.*^
 ||analytics.mobile.yandex.net^
 ||analytics.spotify.com^
+||analytics.twitter.com^
 ||analyticsnew.overwolf.com^
 ||anolysis.privacy.ghostery.net^
 ||api.ghostery.net^
 ||app-measurement.com^
 ||app.link^
+||appbaqend.com^
 ||applovin.com^
 ||applvn.com^
 ||appmetrica.yandex.*^
@@ -74,6 +76,8 @@
 ||bs.yandex.*^
 ||bugsnag.com^
 ||c1.microsoft.com^
+||cdn.kmplayer.com^
+||cdn.pandora.tv^
 ||clck.yandex.*^
 ||clck.yandex.ru^
 ||client-cdn*.hola.org^
@@ -97,6 +101,7 @@
 ||et.nytimes.com^
 ||external-promo-metrics.yandex.net^
 ||fenek.market.yandex.ru^
+||flurry.com^
 ||footprintpredict.com^
 ||fs.microsoft.com^
 ||fundingchoicesmessages.google.com^
@@ -113,6 +118,7 @@
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||googletagservices.com^
+||gplayer.kmpmedia.net^
 ||gstaticadssl.l.google.com^
 ||hostingcloud.racing^
 ||hotjar.com^
@@ -128,6 +134,7 @@
 ||krxd.net^
 ||leanplum.com^
 ||lf1.mail.ru^
+||log.kmplayer.com^
 ||log.spotify.com^
 ||log.strm.yandex.ru^
 ||logger.instagram.com^
@@ -136,6 +143,7 @@
 ||mc-portal.mail.ru^
 ||mc.webvisor.*^
 ||mc.yandex.*^
+||media-match.com^
 ||mellowads.com^
 ||merchandise.opera-api.com^
 ||meter-svc.nytimes.com^
@@ -158,6 +166,7 @@
 ||pixel.facebook.com^
 ||pixel.fbpigeon.com^
 ||pixel.spotify.com^
+||platform.twitter.com^
 ||popads.net^
 ||popcash.net^
 ||proxy_auth.trigger.hola.org^
@@ -172,9 +181,12 @@
 ||rs.mail.ru^
 ||s*-2mdn-net.l.google.com^
 ||s-microsoft.com^
+||safe-browsing-quorum.privacy.ghostery.net^
+||safe-browsing.ghostery.net^
 ||samsungads.com^
 ||samsungtvads.com^
 ||scorecardresearch.com^
+||scribe.twitter.com^
 ||sentry.io^
 ||serving-sys.com^
 ||settings-win.data.microsoft.com^
@@ -185,8 +197,10 @@
 ||startup.mobile.yandex.net^
 ||static-marketolog.mts.ru^
 ||stats.ghostery.net^
+||syndication.twitter.com^
 ||taboola.com^
 ||telemetry.api.swiftkey.com^
+||telemetry.gfe.nvidia.com^
 ||telemetry.mozilla.org^
 ||telemetry.swiftkey.com^
 ||thumbnails*.opera.com^
