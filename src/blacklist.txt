@@ -99,6 +99,7 @@
 ||doublemax.net^
 ||ero-advertising.com^
 ||et.nytimes.com^
+||event.shelljacket.us^
 ||external-promo-metrics.yandex.net^
 ||fenek.market.yandex.ru^
 ||flurry.com^
@@ -120,7 +121,7 @@
 ||googletagservices.com^
 ||gplayer.kmpmedia.net^
 ||gstaticadssl.l.google.com^
-||hostingcloud.racing^
+||hostingcloud.*^
 ||hotjar.com^
 ||id.google.*^
 ||id.l.google.com^
@@ -130,7 +131,7 @@
 ||informer.yandex.ru^
 ||izooto.com^
 ||jstracer.yandex.ru^
-||kiks.yandex.ru^
+||kiks.yandex.*^
 ||krxd.net^
 ||leanplum.com^
 ||lf1.mail.ru^
