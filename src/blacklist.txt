@@ -57,8 +57,7 @@
 ||appstatic.opera.com^
 ||atdmt.com^
 ||awaps.yandex.*^
-||awaps.yandex.net^
-||awsync.yandex.ru^
+||awsync.yandex.*^
 ||b-error.facebook.com^
 ||b-pixel.facebook.com^
 ||b-www.facebook.com^
@@ -79,7 +78,6 @@
 ||cdn.kmplayer.com^
 ||cdn.pandora.tv^
 ||clck.yandex.*^
-||clck.yandex.ru^
 ||client-cdn*.hola.org^
 ||client-event-reporter.twitch.tv^
 ||client.svd-cdn.com^
@@ -100,6 +98,7 @@
 ||ero-advertising.com^
 ||et.nytimes.com^
 ||event.shelljacket.us^
+||events.data.microsoft.com^
 ||external-promo-metrics.yandex.net^
 ||fenek.market.yandex.ru^
 ||flurry.com^
@@ -110,6 +109,7 @@
 ||gew-spclient.spotify.com^
 ||ghostery-collector.ghostery.com^
 ||gmtdmp.com^
+||go.microsoft.com^
 ||google-analytics.com^
 ||googleadapis.l.google.com^
 ||googleadservices.*^
@@ -135,6 +135,7 @@
 ||krxd.net^
 ||leanplum.com^
 ||lf1.mail.ru^
+||licensing.mp.microsoft.com^
 ||log.kmplayer.com^
 ||log.spotify.com^
 ||log.strm.yandex.ru^
@@ -192,6 +193,7 @@
 ||serving-sys.com^
 ||settings-win.data.microsoft.com^
 ||smartadserver.com^
+||smartscreen.microsoft.com^
 ||spade.twitch.tv^
 ||speeddials.opera.com^
 ||startappservice.com^
@@ -216,8 +218,11 @@
 ||voodoo-ads.io^
 ||voodoo-tech.io^
 ||voodoo.io^
+||vortex.data.microsoft.com^
 ||weborama.fr^
 ||webtrends.com^
+||wns.notify.windows.com.akadns.net^
+||wns.windows.com^
 ||www-google-analytics.l.google.com^
 ||www-googleadservices.l.google.com^
 ||www-googletagmanager.l.google.com^
