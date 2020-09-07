@@ -695,6 +695,7 @@ $$script[wildcard="__CF$cv$params"]
 ||voodoo-ads.io^$important
 ||voodoo-tech.io^$important
 ||voodoo.io^$important
+||awsync.yandex.*^$important
 ||wap.ucweb.com^$important
 ||weborama.fr^$important
 ||webtrends.com^$important
