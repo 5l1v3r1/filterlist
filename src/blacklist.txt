@@ -38,6 +38,7 @@
 ||an.mail.ru^
 ||an.webvisor.*^
 ||an.yandex.*^
+||4dex.io^
 ||analytic.press^
 ||analytics.ghostery.com^
 ||analytics.mobile.webvisor.*^
@@ -126,15 +127,16 @@
 ||id.l.google.com^
 ||imasdk.googleapis.com^
 ||imrworldwide.com^
+||c.msn.com^
 ||in.appcenter.ms^
-||informer.yandex.ru^
+||informer.yandex.*^
 ||izooto.com^
 ||jstracer.yandex.ru^
 ||kiks.yandex.*^
 ||krxd.net^
 ||leanplum.com^
+||analytics.ff.avast.com^
 ||lf1.mail.ru^
-||licensing.mp.microsoft.com^
 ||log.kmplayer.com^
 ||log.spotify.com^
 ||log.strm.yandex.ru^
@@ -142,6 +144,7 @@
 ||mail-ads.google.com^
 ||matheranalytics.com^
 ||mc-portal.mail.ru^
+||digitru.st^
 ||mc.webvisor.*^
 ||mc.yandex.*^
 ||media-match.com^
@@ -182,7 +185,6 @@
 ||ris.api.iris.microsoft.com^
 ||rs.mail.ru^
 ||s*-2mdn-net.l.google.com^
-||s-microsoft.com^
 ||safe-browsing-quorum.privacy.ghostery.net^
 ||safe-browsing.ghostery.net^
 ||samsungads.com^
