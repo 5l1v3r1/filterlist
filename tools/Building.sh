@@ -11,10 +11,6 @@ VERSION=$(date '+%Y%m%d%H%M%S')
 
 if [ -e "$SRC" ]
 then
-echo 'Updating the filter lists...'
-git pull
-git status
-git commit -a -m 'Update files'
 echo 'In order to collect all the filters in one list, we need a temporary folders.'
 if [ ! -d $TEMP ]
 then
@@ -26,11 +22,15 @@ else
 echo 'Directory already exists'  
 fi
 python FOP.py $SRC
+echo 'Updating the filter lists...'
+git pull
+git status
+git commit -a -m 'Update files'
 cp $SRC/other.txt $TEMP
 cp $SRC/servers.txt $TEMP
-cp $SRC/DNSblack.txt $TEMP
-cp $SRC/DNSwhite.txt $TEMP
-sort --output=$TEMP/hosts $TEMP/DNSblack.txt $TEMP/DNSwhite.txt
+cp $SRC/blacklist.txt $TEMP
+cp $SRC/whitelist.txt $TEMP
+sort --output=$TEMP/hosts $TEMP/blacklist.txt $TEMP/whitelist.txt
 sort --output=$TEMP/filterlist.txt $TEMP/other.txt $TEMP/servers.txt
 echo 'Creating a header for the list...'
 LINES=$(grep -c '' $TEMP/filterlist.txt)
@@ -73,7 +73,7 @@ select yn in "Yes" "No"; do
 		Yes )
 		git pull
 		git status
-		git commit -a -m 'Update files'
+		git commit -a -m 'Auto update files'
 		git push origin master;
 		break
 		;;
