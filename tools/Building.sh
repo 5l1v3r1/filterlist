@@ -61,6 +61,8 @@ cat > $TEMP/header2.txt <<EOF
 # Homepage: https://github.com/bogachenko/filterlist/
 # Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
 
+# README: Simplified specifically to be better compatible with DNS-level ad blocking.
+
 EOF
 cat $TEMP/header2.txt $TEMP/hosts > ../hosts
 
