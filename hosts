@@ -1,9 +1,9 @@
 # Title: bogachenko's DNS Filter
 # Description: Yet another anti-bullshit filter list.
-# Last modified: 2020-09-07 22:29:12
-# Version: 20200907222912
+# Last modified: 2020-09-07 23:05:50
+# Version: 20200907230550
 # Expires: 3 hours
-# Number of filters: 233
+# Number of filters: 234
 # RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/hosts
 # Homepage: https://github.com/bogachenko/filterlist/
 # Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -91,6 +91,7 @@
 ||c1.microsoft.com^
 ||cdn.kmplayer.com^
 ||cdn.pandora.tv^
+||checkappexec.microsoft.com^
 ||clck.yandex.*^
 ||client.svd-cdn.com^
 ||client-cdn*.hola.org^
@@ -117,13 +118,11 @@
 ||fenek.market.yandex.ru^
 ||flurry.com^
 ||footprintpredict.com^
-||fs.microsoft.com^
 ||fundingchoicesmessages.google.com^
 ||geo.opera.com^
 ||gew-spclient.spotify.com^
 ||ghostery-collector.ghostery.com^
 ||gmtdmp.com^
-||go.microsoft.com^
 ||googleadapis.l.google.com^
 ||googleadservices.*^
 ||googleadsserving.cn^
@@ -194,6 +193,7 @@
 ||reef.vk-cdn.net^
 ||reklama.mail.ru^
 ||reports.ghostery.net^
+||ris.api.iris.microsoft.com^
 ||rs.mail.ru^
 ||s*-2mdn-net.l.google.com^
 ||safe-browsing.ghostery.net^
@@ -218,6 +218,7 @@
 ||taboola.com^
 ||telemetry.api.swiftkey.com^
 ||telemetry.gfe.nvidia.com^
+||telemetry.microsoft.com^
 ||telemetry.mozilla.org^
 ||telemetry.swiftkey.com^
 ||thumbnails*.opera.com^
