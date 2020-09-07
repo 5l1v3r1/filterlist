@@ -1,9 +1,9 @@
 # Title: bogachenko's DNS Filter
 # Description: Yet another anti-bullshit filter list.
-# Last modified: 2020-09-07 16:16:52
-# Version: 20200907161652
+# Last modified: 2020-09-07 22:29:12
+# Version: 20200907222912
 # Expires: 3 hours
-# Number of filters: 228
+# Number of filters: 233
 # RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/hosts
 # Homepage: https://github.com/bogachenko/filterlist/
 # Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -70,8 +70,7 @@
 ||appstatic.opera.com^
 ||atdmt.com^
 ||awaps.yandex.*^
-||awaps.yandex.net^
-||awsync.yandex.ru^
+||awsync.yandex.*^
 ||a-www.facebook.com^
 ||banners.mobile.yandex.net^
 ||banners-slb.mobile.yandex.net^
@@ -93,7 +92,6 @@
 ||cdn.kmplayer.com^
 ||cdn.pandora.tv^
 ||clck.yandex.*^
-||clck.yandex.ru^
 ||client.svd-cdn.com^
 ||client-cdn*.hola.org^
 ||client-event-reporter.twitch.tv^
@@ -114,6 +112,7 @@
 ||ero-advertising.com^
 ||et.nytimes.com^
 ||event.shelljacket.us^
+||events.data.microsoft.com^
 ||external-promo-metrics.yandex.net^
 ||fenek.market.yandex.ru^
 ||flurry.com^
@@ -124,6 +123,7 @@
 ||gew-spclient.spotify.com^
 ||ghostery-collector.ghostery.com^
 ||gmtdmp.com^
+||go.microsoft.com^
 ||googleadapis.l.google.com^
 ||googleadservices.*^
 ||googleadsserving.cn^
@@ -149,6 +149,7 @@
 ||krxd.net^
 ||leanplum.com^
 ||lf1.mail.ru^
+||licensing.mp.microsoft.com^
 ||log.kmplayer.com^
 ||log.spotify.com^
 ||log.strm.yandex.ru^
@@ -205,6 +206,7 @@
 ||serving-sys.com^
 ||settings-win.data.microsoft.com^
 ||smartadserver.com^
+||smartscreen.microsoft.com^
 ||s-microsoft.com^
 ||spade.twitch.tv^
 ||speeddials.opera.com^
@@ -230,8 +232,11 @@
 ||voodoo.io^
 ||voodoo-ads.io^
 ||voodoo-tech.io^
+||vortex.data.microsoft.com^
 ||weborama.fr^
 ||webtrends.com^
+||wns.notify.windows.com.akadns.net^
+||wns.windows.com^
 ||www-googleadservices.l.google.com^
 ||www-google-analytics.l.google.com^
 ||www-googletagmanager.l.google.com^
