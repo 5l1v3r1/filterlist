@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-09-07 23:05:50
-! Version: 20200907230550
+! Last modified: 2020-09-08 20:05:39
+! Version: 20200908200539
 ! Expires: 3 hours
-! Number of filters: 18337
+! Number of filters: 18339
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -3319,6 +3319,7 @@
 ||cortxphssdvc.com^$important
 ||coshfgpgab.com^$important
 ||cosmosjackson.com^$important
+||costumecollartrustworthy.com^$important
 ||counevan.pro^$important
 ||count.ly^$important
 ||countertrck.com^$important
@@ -3842,6 +3843,7 @@
 ||diginamis.com^$important
 ||digiseller.ru^$important
 ||digitaltarget.ru^$important
+||digitru.st^$important
 ||digwzeutydo.com^$important
 ||digxmr.com^$important
 ||dijutbdzbv.com^$important
