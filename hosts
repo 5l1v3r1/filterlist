@@ -1,9 +1,9 @@
 # Title: bogachenko's DNS Filter
 # Description: Yet another anti-bullshit filter list.
-# Last modified: 2020-09-08 20:05:39
-# Version: 20200908200539
+# Last modified: 2020-09-08 22:35:19
+# Version: 20200908223519
 # Expires: 3 hours
-# Number of filters: 253
+# Number of filters: 268
 # RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/hosts
 # Homepage: https://github.com/bogachenko/filterlist/
 # Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -16,6 +16,7 @@
 ||2mdn.net^
 ||4dex.io^
 ||69i.club^
+||ac3.msn.com^
 ||ad.mail.ru^
 ||adcolony.com^
 ||adeventtracker.spotify.com^
@@ -89,6 +90,7 @@
 ||b-pixel.facebook.com^
 ||branch.io^
 ||braun634.com^
+||browser.pipe.aria.microsoft.com^
 ||bs.yandex.*^
 ||bs-meta.yandex.ru^
 ||bugsnag.com^
@@ -126,9 +128,11 @@
 ||events.data.microsoft.com^
 ||external-promo-metrics.yandex.net^
 ||fenek.market.yandex.ru^
+||flex.msn.com^
 ||flurry.com^
 ||footprintpredict.com^
 ||fundingchoicesmessages.google.com^
+||g.msn.com^
 ||geo.opera.com^
 ||gew-spclient.spotify.com^
 ||ghostery-collector.ghostery.com^
@@ -143,6 +147,9 @@
 ||googletagmanager.com^
 ||googletagservices.com^
 ||gplayer.kmpmedia.net^
+||graph.facebook.com^
+||graph.fbpigeon.com^
+||graph.instagram.com^
 ||gstaticadssl.l.google.com^
 ||histats.com^
 ||hostingcloud.*^
@@ -174,9 +181,12 @@
 ||merchandise.opera-api.com^
 ||metaservices.microsoft.com^
 ||meter-svc.nytimes.com^
+||metron.live.com.nsatc.net^
+||metron.live.com^
 ||mmstat.com^
 ||mng-ads.com^
 ||moatads.com^
+||mobile.pipe.aria.microsoft.com^
 ||mradx.net^
 ||msads.net^
 ||my.com^
@@ -203,6 +213,8 @@
 ||r0.mail.ru^
 ||r2.mail.ru^
 ||r3.mail.ru^
+||rad.live.com^
+||rad.msn.com^
 ||reef.vk-cdn.net^
 ||reklama.mail.ru^
 ||reports.ghostery.net^
@@ -223,6 +235,7 @@
 ||smartscreen.microsoft.com^
 ||spade.twitch.tv^
 ||speeddials.opera.com^
+||spotx.tv^
 ||spynet2.microsoft.akadns.net^
 ||spynet2.microsoft.com^
 ||startappservice.com^
@@ -236,6 +249,7 @@
 ||telemetry.microsoft.com^
 ||telemetry.mozilla.org^
 ||telemetry.swiftkey.com^
+||telemetry.urs.microsoft.com^
 ||thumbnails*.opera.com^
 ||tns-counter.ru^
 ||top100.ru^
@@ -251,6 +265,7 @@
 ||vortex.data.microsoft.com.akadns.net^
 ||vortex.data.microsoft.com^
 ||vortex-win.data.microsoft.com^
+||watson.data.microsoft.com.akadns.net^
 ||watson.live.com^
 ||watson.microsoft.com^
 ||weborama.fr^

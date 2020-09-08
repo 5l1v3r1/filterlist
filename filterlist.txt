@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-09-08 20:05:39
-! Version: 20200908200539
+! Last modified: 2020-09-08 22:35:19
+! Version: 20200908223519
 ! Expires: 3 hours
-! Number of filters: 18339
+! Number of filters: 18341
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -2791,6 +2791,7 @@
 ||bzsbtfiz.com^$important
 ||bzxmgyfae.com^$important
 ||bzyrhqbdldds.com^$important
+||c.live.com^$important
 ||c.microsoft.com^$important
 ||c.paypal.com^$important
 ||c02o3mpych.com^$important
@@ -13862,6 +13863,7 @@
 ||spotsniper.ru^$important
 ||spottednoise.com^$important
 ||spottysense.com^$important
+||spotx.tv^$important
 ||spotxchange.com^$important
 ||sprincipal.com^$important
 ||springaftermath.com^$important
