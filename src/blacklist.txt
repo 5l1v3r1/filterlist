@@ -64,6 +64,7 @@
 ||appstatic.opera.com^
 ||atdmt.com^
 ||awaps.yandex.*^
+||awin1.com^
 ||awsync.yandex.*^
 ||b-error.facebook.com^
 ||b-pixel.facebook.com^

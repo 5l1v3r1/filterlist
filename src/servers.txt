@@ -1989,6 +1989,7 @@
 ||awhootoa.net^$important
 ||awhoufob.com^$important
 ||awhxbiqf.com^$important
+||awin1.com^$important
 ||awjgketgdpzqxo.bid^$important
 ||awjkbnhylulcl.bid^$important
 ||awjkddtq.com^$important
@@ -2655,6 +2656,7 @@
 ||bukpsslm.com^$important
 ||bulbbait.com^$important
 ||bumampaid.club^$important
+||bungalowfollowbestowed.com^$important
 ||bupserge.com^$important
 ||burgerbrush.com^$important
 ||burnbubble.com^$important
@@ -5929,6 +5931,7 @@
 ||grapeshot.co.uk^$important
 ||graph.facebook.com^$important
 ||graph.instagram.com^$important
+||graph.microsoft.com^$important
 ||graunada.com^$important
 ||grayreceipt.com^$important
 ||greasegarden.com^$important
