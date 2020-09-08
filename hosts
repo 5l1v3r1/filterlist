@@ -1,9 +1,9 @@
 # Title: bogachenko's DNS Filter
 # Description: Yet another anti-bullshit filter list.
-# Last modified: 2020-09-09 02:04:29
-# Version: 20200909020429
+# Last modified: 2020-09-09 03:51:13
+# Version: 20200909035113
 # Expires: 3 hours
-# Number of filters: 294
+# Number of filters: 296
 # RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/hosts
 # Homepage: https://github.com/bogachenko/filterlist/
 # Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -11,6 +11,7 @@
 # README: Simplified specifically to be better compatible with DNS-level ad blocking.
 
 @@||fonts.gstatic.com^
+@@||injections.adguard.org^
 @@||local.adguard.org^
 ||1l-view.mail.ru^
 ||2mdn.net^
@@ -77,6 +78,7 @@
 ||appstatic.opera.com^
 ||atdmt.com^
 ||awaps.yandex.*^
+||awin1.com^
 ||awsync.yandex.*^
 ||a-www.facebook.com^
 ||banners.mobile.yandex.net^
