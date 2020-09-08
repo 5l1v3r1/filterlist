@@ -719,10 +719,11 @@ $$script[wildcard="__CF$cv$params"]
 |http*:*/clear.png?$image,important
 |http*:*/cleardot.gif?$image,important
 |http*:*/grstat?$image,important
-|http*:*/hosting.gif$image,important
+|http*:*/hosting.gif?$image,important
 |http*:*/ico_tr.png$image
 |http*:*/rtrg?$image,important
 |http*:*/transparent.gif?ray=$image,important
+|http*:*/trans.gif?$image,important
 ||bing.com/th?id=$image,important
 ||duckduckgo.com/t/$image,important
 ||freebitco.in/images/sirv_backup/*.jpeg$image,important
@@ -1157,6 +1158,7 @@ $websocket,domain=hqq.tv
 /[-._?&=#/]logs?(ging|impressions?|ers?)?[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~github.com|~gitlab.com|~instagram.com|~twitch.tv|~yadi.sk|~dns-shop.ru|~ozon.ru|~aliexpress.com|~aliexpress.ru
 /[-._?&=#/]piwik[-.0-9_?&=#/]/$image,important,script
 /[-._?&=#/]pixel[-._?&=#/]/$image,important,script,subdocument,xmlhttprequest
+/[-._?&=#/][a-zA-Z]{8,}track(ers?|ing)[-.0-9_?&=#/]/$other,image,important,script,xmlhttprequest
 /[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$other,image,important,script,xmlhttprequest,domain=~fandom.com|~pochta.ru|~alipay.com
 /[-._?&=#/]vast[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~twitch.tv|~github.com|~gitlab.com
 /\/ads\.html?/$important,subdocument,xmlhttprequest
@@ -1262,19 +1264,8 @@ twitter.com#@#:xpath(//span[(text()='Promoted' or text()='Gesponsert' or text()=
 ||pw^$third-party,script,xmlhttprequest,domain=~adwiz.pp.ua|~forum.worldofwarships.ru|~hdvbplayer.tk|~live-gol.net|~softpir.com|~sportings.pw|~sportsvideoline3.pw|~tefal.ru|~videosofsport1.pw|~xn--drakulastrem-b7e.com,badfilter
 ||xyz^$third-party,script,subdocument,xmlhttprequest,domain=~anidub.com|~animedia.pro|~assistir-filme.biz|~avtomaty-i-bonusy.com|~chelentano.net|~coomeet.com|~crackstreams.com|~crackstreams.ga|~csgoreports.com|~cvid.kiev.ua|~estream.to|~europixhd.io|~films.hds-stream.com|~funtik.tv|~getvi.tv|~hanime.tv|~hentaiz.org|~herokuapp.com|~infoua.biz|~jokehd.com|~kinobig.me|~kinoguru.be|~kinoguru.me|~kristinita.ru|~lookbase.xyz|~magicfilm.net|~mail.google.com|~map-a-date.cc|~matchat.online|~miranimbus.ru|~my.mail.ru|~nccg.ru|~newdeaf.club|~onmovies.se|~roadhub.ru|~roblox.com|~soccer365.ru|~soonwalk.net|~streetbee.io|~streetbee.ru|~uploadedpremiumlink.net|~vk.com|~vmeste.tv,badfilter
 @@://yandex.ru/|$generichide,badfilter
-adsrt.*#@#+js(aopr, rmVideoPlay)
-videobin.co#@#+js(set, adb, 0)
-videobin.co#@#+js(acis, Math, zfgloaded)
-adsrt.*,tii.ai,iir.ai,streamingworld.*#@#+js(aopw, Fingerprint2)
-adsrt.*,tii.ai,iir.ai,megalink.*#@#+js(aopr, app_vars.force_disable_adblock)
-adsrt.*,gogoanime.*#@#+js(acis, atob, decodeURIComponent)
 *$script,3p,redirect-rule=noopjs,domain=leechall.download|leechall.com,badfilter
-playvideo.best#@#+js(aopr, jwplayer.utils.Timer)
-playvideo.best#@#+js(aopr, __Y)
 ||code.ionicframework.com^$badfilter
-playvideo.best#@#+js(aopw, adcashMacros)
-tii.ai,iir.ai,gogoanime.*#@#+js(acis, Math, zfgloaded)
-playvideo.best,lookmovie.ag,streamingworld.*#@#+js(aopr, AaDetector)
 ||vk.com^$badfilter
 ||login.vk.com^$badfilter
 ||im.vk.com^$badfilter
@@ -1296,14 +1287,6 @@ music.yandex.ru,music.yandex.ua,music.yandex.by#@#body > div[style^="min-height"
 @@||an.yandex.ru/system/context.js$domain=music.yandex.ru|radio.yandex.ru,badfilter
 @@||an.yandex.ru/resource/context_static_r*.js$domain=music.yandex.ru|radio.yandex.ru,badfilter
 *$script,redirect-rule=noopjs,domain=extremereportbot.com,badfilter
-tii.ai,iir.ai,semawur.com#@#+js(aopr, open)
-iir.ai#@#+js(aeld, load, .appendChild)
-gogoanime.*#@#+js(set, String.prototype.charAt, noopFunc)
-gogoanime.*#@#+js(nostif, o(), 1)
-gogoanime.*#@#+js(set, check_adblock, true)
-streamtape.com#@#+js(aopw, _pop)
-streamtape.com#@#+js(nowoif, /^/, 1)
-streamtape.com#@#+js(aeld, contextmenu)
 |http://$script,stylesheet,third-party,xmlhttprequest,domain=mp4upload.com,badfilter
 |https://$script,stylesheet,third-party,xmlhttprequest,domain=mp4upload.com,badfilter
 *$script,redirect-rule=noopjs,domain=mp4upload.com,badfilter
@@ -1314,16 +1297,12 @@ streamtape.com#@#+js(aeld, contextmenu)
 *$stylesheet,third-party,domain=vidlox.me,badfilter
 ||ublock.org^$badfilter
 ||www.ublock.org^$badfilter
-soft4win.com,watchseries.*#@#+js(nosiif, visibility, 1000)
 ||adobedtm.com^$badfilter
 @@||adobedtm.com^*/launch-$script,badfilter
 ||assets.adobedtm.com^$badfilter
 ||adobedtm.com^$third-party,domain=~adobe.com,badfilter
 @@||youtube.com/get_video_info?*embedded$~third-party,other,badfilter
 @@||maxcdn.bootstrapcdn.com/font-awesome^$badfilter
-lookmovie.ag#@#+js(aeld, , _0x)
-lookmovie.ag#@#+js(acis, Object.defineProperty, XMLHttpRequest)
-lookmovie.ag#@#+js(nostif, __ext_loaded)
 _ad4.$badfilter
 |http://$image,media,script,third-party,domain=~feedback.pornhub.com|~feedback.pornhubthbh7ap3u.onion|pornhub.com|pornhubthbh7ap3u.onion|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 |https://$image,media,script,third-party,domain=~feedback.pornhub.com|~feedback.pornhubthbh7ap3u.onion|pornhub.com|pornhubthbh7ap3u.onion|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
@@ -1331,12 +1310,6 @@ _ad4.$badfilter
 @@||phncdn.com/www-static/js/lib/$script,badfilter
 @@||phncdn.com/www-static/$image,badfilter
 |https://$image,xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
-pornhub.*#@#+js(aopw, rAb)
-pornhub.*#@#+js(aeld, DOMContentLoaded, [native code])
-pornhub.*#@#+js(aopw, UAParser)
-pornhub.*#@#+js(set, HTMLElement.prototype.attachShadow, null)
-pornhub.*#@#+js(aopr, smpop)
-pornhub.*#@#+js(aopw, isAdblockOn)
 pornhub.com#@#.sniperModeEngaged
 pornhub.com#@#a[href^="http://ads.trafficjunky.net/"]
 rt.pornhub.*#@#div.container:style(margin-top: 0px !important)
@@ -1352,111 +1325,33 @@ pornhub.com#@#div[id^="age-verification"]
 @@||phncdn.com/swfobject-$script,badfilter
 |https://$third-party,xmlhttprequest,domain=destructoid.com|diffen.com|dreamfilm.se|dumpaday.com|emule-island.co|fastpic.ru|fileone.tv|filmlinks4u.is|firstforwomen.com|firstrowau.eu|flash-x.tv|flashsx.tv|flashx.co|flashx.me|flashx.run|flashx.tv|flashx1.tv|freewarefiles.com|gamenguide.com|genfb.com|gofirstrow.eu|gsmarena.com|hdvid.tv|health-weekly.net|homerun.re|i4u.com|ifirstrow.eu|ifirstrowit.eu|imagefap.com|instanonymous.com|investopedia.com|itechpost.com|izismile.com|jewsnews.co.il|keepvid.com|kiplinger.com|kshowonline.com|lifehacklane.com|lolcounter.com|megaup.net|mobilenapps.com|mobipicker.com|myfeed4u.me|natureworldnews.com|navbug.com|ncscooper.com|newseveryday.com|okceleb.com|omgwhut.com|onvid.fun|onvid.pw|opensubtitles.org|parentherald.com|pilaybill.com|pocketnow.com|pornhub.com|pornhubthbh7ap3u.onion|postimg.org|powvideo.net|pwinsider.com|rinf.com|roadracerunner.com|salefiles.com|scienceworldreport.com|shorte.st|snoopfeed.com|streamgaroo.com|the4thofficial.net|thinkinghumanity.com|tomsitpro.com|toptenz.net|torrentz2.eu|tribune.com.pk|trifind.com|tune.pk|uberhavoc.com|universityherald.com|vcpost.com|vidhd.icu|vidhd.pw|vidmax.com|vidoza.net|vidtodo.com|vidzi.online|vidzi.tv|viewmixed.com|viid.me|viralands.com|vrheads.com|watchseries.li|webfirstrow.eu|whydontyoutrythis.com|wrestlingnews.co|xilfy.com|yourtango.com,badfilter
 ||fbtc-audio.freebitco.in^$badfilter
-vidcloud9.com#@#+js(aopr, isSandboxed)
-vidcloud9.*#@#+js(acis, Math, XMLHttpRequest)
 @@||p.jwpcdn.com/player/v/$script,third-party,badfilter
 *$script,subdocument,xmlhttprequest,stylesheet,third-party,domain=vidcloud9.com,badfilter
 ||s.click.aliexpress.com^$badfilter
 1liveinternet.ru,1tvv-novosti.com,2017-medical.ru,24-rus.info,24reporter.ru,4jiqzr.ru,adregain.ru,ads.bid,advgoods.com,amigo-browser.ru,amigo-free.website,amigodistrib.ru,amigone.ru,animedub.ru,apicloud.ru,arka-gallery.ru,azartpl.com,azartplay.casino,b2b2.su,beamigo.pw,beamigo.ru,best-games.today,best-zdorovye.ru,best-zdrav.ru,beststbuy.ru,bignovosti.ru,blamper-novosti.ru,blamper-portal.ru,blogers-story.ru,blogersnews.com,blogi-novosti.ru,blogiblogi.com,blogisstore.com,blogistar.org,blogistories.com,blogonews.org,blogostar.org,blogstarhit.org,blogstarnews.org,boldblogs.com,bookofluck.net,breakingdigest.com,bro-freelite.ru,brofree-lite.ru,bromigo.pw,browser-lite.ru,browser-lite2018.ru,browser2018-lite.ru,browser2018lite.ru,browserextensions.net,browserlite-free.ru,browserlite2018.ru,browserlitefree.ru,budyte-zdorovy.ru,canal96.live,cardvrmirrorr.ru,centr-compensation.ru,chatreg.ru,chydomir.ru,cinemapub.top,clbvorange.com,clbvpurple.com,content.directadvert.ru,cosmosblogs.com,cosmow0mans.ru,cs-serva.net,csp-oz66pp.ru,curiousblogs.com,d38dub.ru,dastrutor.site,directx.biz,dnevni4ok.com,down-news-games.ru,downloadamigo.com,downloadbrowserlite.net,downloadlitebrowser.com,downloadlitebrowser.net,downloadlitefree.com,downloadlitefree.net,downloadlitefree.org,downloadlitefree.ru,drp.su,dugtor-deer.pw,elementsbrowser.com,endocri.ru,etarg.network,everinform.com,eversmi.com,ex-news.net,ex.24smi.info,ex.infox.sg,exonews.ru,extra-7news.ru,failovik.com,fancyblogz.com,fiieresmi.ru,fin-vecto.ru,fin-vector.ru,fine-blogs.com,flebolab.ru,fokspolit.ru,foto-video-foto.ru,foxpolit.ru,free-bro-lite.ru,free-lite-bro.ru,free-litebrowser.ru,free-torrents.eu.org,freebro-lite.ru,freebrowserlite.ru,freelite-browser.ru,freelitebrowser.com,freelitebrowser.ru,gameorplay.info,gamereleasedate.info,gamesfortuna.com,get-lite-browser.net,get-litebrowser.net,getbonus.info,getbrowser.org,getbrowser.ru,getbrowserlite.net,getdriverpack.ru,getlitebrowser.com,getlitebrowser.net,getlitebrowser.org,getlitebrowser.ru,getvivaldi.info,getvivaldibrowser.com,getvivaldibrowser.net,globalstylis.ru,go-torrent.pro,gobrowserdownload.com,good-pressa.com,govnogames.com,health-official.ru,i-blogos.ru,ibloggers.ru,idealmedia.io,info-blog24.ru,info-peoples.org,infoblogs.pro,infopolitfoks.ru,installpack.net,internet-gazeta.net,kick.media,kindblogs.com,kinowinx.ru,kinozal-zerkalo.appspot.com,krasota-zdorovie.com,krutor.eu.org,landpages.co,laynews.ru,lesnews.ru,liknews.ru,likuysebe.ru,lite-browser.ru,lite-browserfree.ru,lite-free.com,lite-free.net,lite-free.org,lite-free.ru,litebrowser-2018.ru,litebrowser.ru,litebrowser2018.com,litebrowser2018.ru,litebrowserdownload.com,litebrowserdownload.net,litedownload.org,litedownload.ru,litefree.org,litefree.ru,litefreebrowser.ru,litemybrowser.ru,litenewbrowser.ru,livbloogjournal.net,live-blogs.info,live-novostimira.ru,live-rutor.ga,liveblogjournal.biz,liveblogjournal.net,losnews.ru,mainews.ru,malusheva.ru,marketgid.com,marketgid.ru,masterbyte.gdn,mech.net.ru,med-ecina.info,med-infarmationen.ru,med24-mj.ru,med24otvet.ru,mediapress.xyz,medic-portal24.com,medic-statistic.ru,medicalblogs.ru,medicin-novosti-24.com,medicina-narodov.ru,medicine-news.net,medicineteaser.org,medicineteaser.ru,medinfo.today,medinforms.ru,medlifehistory.ru,medlifestory.ru,mednews-online.ru,mega-game.org,mega-pics-money.ru,melbetpyy.host,melbetqmq.host,mellowblogs.com,meycity.ru,minportal.ru,minroszdrav.com,mixerred.ru,mmorpgfree.ru,moi-oftalmolog.com,morozisneg.ru,moutrack.ru,msetup.pro,mvdpmr.ru,my-amigo-mail.info,my-lite-browser.info,my-story.info,my0blog.ru,mybrowserlite.ru,mylifeblog24.ru,mylitebro.com,mylitebro.net,mylitebro.ru,mylitebrowser.com,mylitebrowser.net,mytrk.xyz,mytvblogs24.ru,nalivali.ru,neatblogs.com,new-lite-browser.ru,new-rutor.com.pl,new-rutor.in,new-rutor.net.pl,new-rutor.org.pl,new-trio.com,newallsmi.ru,newbloggs.xyz,newbrowserlite.ru,newlitebrowser.ru,newrutor.eu.org,newrutor.org.pl,news-decent.com,news-top-rated.com,newsbouthealth.com,newsles.ru,newslik.ru,newsma.ru,newsmore.info,newssy.ru,nice-pressa.com,offergate.pro,ognyvo.ru,ognyvoinfo.ru,ok9ydq.ru,olx.ua.partners,omyamigo.pw,onestarblog.ru,online2017.ru,openew.ru,operadistrib.ru,opn-news.ru,orgsales.ru,para-new.com,pc-games-torrent.ru,pekagames.ru,picpick.ru,plsva.ru,pochistit.ru,polit-e-fox.ru,polit-fox.ru,polit-infox.ru,politfoks.ru,politfox.ru,politinfox.ru,politrook.ru,politrosnews.ru,popcornhd.ru,portal-peoples.com,pressa-plus.com,pricessmall.com,pro-zdorovye.ru,pusja.ga,readtoday.ru,readvesti.ru,realgoodies.ru,renderbrandium.com,rendersaveron.com,reshebnik.com,ribnadzo.ru,ros-infonews.ru,rosguards.date,rosinfonews.ru,rospolitfoks.ru,rospolitnews.ru,rossinfonews.ru,rossinfonewsrf.ru,ru-tor.biz,ruinfoblog.com,runews-time.xyz,runewslenta.com,rupolitnews.ru,rustoria-topnews.ru,rustory-news.ru,rutor.biz.pl,rutor.edu.pl,rutor.ml,rutor.net.pl,rutor.su,rutor.tech,rutorgame.org,rutorrent.co,rutors.tk,rutracker.eu,rutracker.eu.org,rutracker.org.pl,rutracker.pp.ua,rutracker.work,saymigren.net,sb-on-line.ru,show.novostionline.net,smi24online.ru,smiru.ru,smivdetails.ru,spishi.vip,starblog.org,stories-news.com.ua,stories-news.ru,sweetbloggs.com,sysenvfiles.net,tft-test.ru,this-my-blog.ru,top-info24.ru,top-newsrustoria.ru,top-rutor.eu,top-zdorovie.ru,top.24smi.info,topallsmi.com,topik-blog.ru,toplenta.com,topnews.novostionline.net,topnews.smi.one,toprated-film.co,topruistory.ru,toprustory.ru,topsmileader.com,topstory-24.ru,torrent-rutor.eu,torrent-rutor.pl,torrent4game.com,torrentino-games.net,torrentino-games.ru,torrentum.ru,tranzitpagetop.ru,tranzitsmi.ru,trueblg.ru,trutor.org.pl,u-load.ru,ubar-pro.ru,ubar-pro2.ru,ubar-pro3.ru,ubar-pro4.ru,ubar.pro,ufiler-pro.ru,ufiler.pro,upro.me,utorrentfilmi.ru,vash-doktor24.ru,vashflebolog.ru,vesti-smi.ru,viniki.ru,vivaldi-browser.com,vivaldi-browser.net,vrutor.eu,vse-dly-vas.ru,vse-pro-zdorovye.ru,websdr.space,wogoods.com,worldinform.ru,wrutor.org.pl,x-yzabc.ru,xbox-torrent.ru,xrutor.eu,xrutor.eu.org,xrutor.ga,zdorov-story.ru,zdorovgoods.com,zdorovo.xyz,zdorovproduct.ru,zdorovtea.ru,zfvklk.ru,zodiac-game.info,zpppstop.ru,zqwjpxow7boc.ru#@#*
 oldseedoff.zannn.top,seedoff.innal.top,seedoff.zannn.top,seedoff2.innal.top,seedoff3.innal.top,seedoff4.innal.top,seedoff5.innal.top,seedoff6.innal.top,seedoff7.innal.top,seedoff8.innal.top#@#*
 1xikk.world,1xool.world,ulike.farm#@#*
-ouo.*##+js(abort-on-property-read.js, HTMLIFrameElement)
 *$script,redirect-rule=noopjs,domain=ouo.io|ouo.press,badfilter
-ouo.press#@#+js(acis, decodeURI, HTMLIFrameElement)
-ouo.press#@#+js(acis, Math, zfgloaded)
-ouo.press#@#+js(aopr, AaDetector)
-ouo.press#@#+js(aopr, jsPopunder)
-ouo.press#@#+js(aopw, _pop)
-ouo.press#@#+js(nowebrtc)
 ||slot1-images.wikia.nocookie.net^$badfilter
 ||dev.fandom.com^$badfilter
 ||speed.nocookie.net^$badfilter
 ||ucoz.ru^$badfilter
 ||intel.com^$badfilter
-s.to#@#+js(aeld, , _0x)
-mixdrop.*#@#+js(set, MDCore.adblock, 0)
-mixdrop.*#@#+js(nowoif)
-mixdrop.*#@#+js(aopr, atob)
-mixdrop.*#@#+js(acis, $, String.fromCharCode)
-s.to#@#+js(acis, Math, zfgloaded)
-jetload.net#@#+js(acis, document.createElement, script)
-jetload.net#@#+js(aopr, AaDetector)
 $script,third-party,domain=jetload.net,badfilter
 ||zencdn.net^$badfilter
 ||img.vup.to^$badfilter
-vup.to#@#+js(aopr, AaDetector)
-vup.to#@#+js(acis, Math, zfgloaded)
 *$xmlhttprequest,domain=vup.to,badfilter
-vidoza.net#@#+js(acis, Math, zfgloaded)
-vidoza.net#@#+js(nowoif)
-upstream.to#@#+js(set, cRAds, null)
-upstream.to#@#+js(aopr, open)
-upstream.to#@#+js(aopr, adcashMacros)
 @@||gstatic.com/images?q=$image,badfilter
 @@||www.google.*/search?$domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk,badfilter
 @@||vk.com/*.php?__query=$document,badfilter
 fox-fan.tv$@$script[tag-content="adBlockDetected"]
-dropapk.*#@#+js(acis, document.createElement, 'script')
-dropapk.*#@#+js(acis, Object.defineProperty, vocabulary)
-dropapk.*#@#+js(aopw, _pop)
-dropapk.*#@#+js(aopr, AaDetector)
-dropapk.*#@#+js(aopw, Fingerprint2)
-dropapk.*#@#+js(aeld, load, 2000)
-vidlox.*#@#+js(acis, Math, zfgloaded)
-vidlox.*#@#+js(aopr, decodeURIComponent)
-vidlox.*#@#+js(set, popns, true)
-vidlox.*#@#+js(set, popjs, true)
 $xmlhttprequest,domain=vidlox.me,badfilter
-1fichier.com#@#+js(acis, decodeURI, getScriptFromCss)
-1fichier.com#@#+js(acis, decodeURI, decodeURIComponent)
 ||img.alibaba.com^$badfilter
 @@/url?*&source=$subdocument,domain=google.ad|google.ae|google.al|google.am|google.as|google.at|google.az|google.ba|google.be|google.bf|google.bg|google.bi|google.bj|google.bs|google.bt|google.by|google.ca|google.cat|google.cd|google.cf|google.cg|google.ch|google.ci|google.cl|google.cm|google.cn|google.co.ao|google.co.bw|google.co.ck|google.co.cr|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.ls|google.co.ma|google.co.mz|google.co.nz|google.co.th|google.co.tz|google.co.ug|google.co.uk|google.co.uz|google.co.ve|google.co.vi|google.co.za|google.co.zm|google.co.zw|google.com|google.com.af|google.com.ag|google.com.ai|google.com.ar|google.com.au|google.com.bd|google.com.bh|google.com.bn|google.com.bo|google.com.br|google.com.bz|google.com.co|google.com.cu|google.com.cy|google.com.do|google.com.ec|google.com.eg|google.com.et|google.com.fj|google.com.gh|google.com.gi|google.com.gt|google.com.hk|google.com.jm|google.com.kh|google.com.kw|google.com.lb|google.com.ly|google.com.mm|google.com.mt|google.com.mx|google.com.my|google.com.na|google.com.nf|google.com.ng|google.com.ni|google.com.np|google.com.om|google.com.pa|google.com.pe|google.com.pg|google.com.ph|google.com.pk|google.com.pr|google.com.py|google.com.qa|google.com.sa|google.com.sb|google.com.sg|google.com.sl|google.com.sv|google.com.tj|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vc|google.com.vn|google.cv|google.cz|google.de|google.dj|google.dk|google.dm|google.dz|google.ee|google.es|google.fi|google.fm|google.fr|google.ga|google.ge|google.gg|google.gl|google.gm|google.gp|google.gr|google.gy|google.hn|google.hr|google.ht|google.hu|google.ie|google.im|google.iq|google.is|google.it|google.je|google.jo|google.kg|google.ki|google.kz|google.la|google.li|google.lk|google.lt|google.lu|google.lv|google.md|google.me|google.mg|google.mk|google.ml|google.mn|google.ms|google.mu|google.mv|google.mw|google.ne|google.nl|google.no|google.nr|google.nu|google.pl|google.pn|google.ps|google.pt|google.ro|google.rs|google.ru|google.rw|google.sc|google.se|google.sh|google.si|google.sk|google.sm|google.sn|google.so|google.sr|google.st|google.td|google.tg|google.tk|google.tl|google.tm|google.tn|google.to|google.tt|google.vg|google.vu|google.ws,badfilter
-mixdrop.*#@#+js(aopw, _pop)
-clicknupload.*#@#+js(aeld, , _0x)
-clicknupload.*#@#+js(aopr, eddOptions)
-clicknupload.*#@#+js(acis, Math, zfgloaded)
-clicknupload.*#@#+js(aopr, AaDetector)
 ||userscloud.com^$csp=script-src 'self' 'unsafe-inline' *.google-analytics.com *.cloudflare.com *.gstatic.com *.google.com *.solvemedia.com *.recaptcha.net,badfilter
-userscloud.com#@#+js(ra, onclick, .btn-icon-stacked)
-userscloud.com#@#+js(aopw, Fingerprint2)
-userscloud.com#@#+js(aopw, open)
-userscloud.com#@#+js(aopr, parcelRequire)
 @@||cdnjs.cloudflare.com^$script,domain=userscloud.com,badfilter
-adsafelink.net#@#+js(set, blurred, false)
-adsafelink.net#@#+js(aopr, app_vars.force_disable_adblock)
-adsafelink.com#@#+js(aopr, app_vars.force_disable_adblock)
-adsafelink.com#@#+js(aopr, AaDetector)
-adsafelink.com#@#+js(acis, Math, zfgloaded)
-turbobit.net#@#+js(popads-dummy)
-turbobit.net#@#+js(aopr, open)
-turbobit.net#@#+js(acis, decodeURI, decodeURIComponent)
-mystream.to#@#+js(aopr, open)
 ||ynuf.alipay.com^$badfilter
 ||alicdn.com^*_220x220.$domain=~alibaba.com|~aliexpress.com,badfilter
-dood.*#@#+js(aeld, contextmenu)
-dood.*#@#+js(set, xPoPAdS, false)
-dood.*#@#+js(aopw, check)
-dood.*#@#+js(acis, Math, zfgloaded)
-dood.*#@#+js(aeld, , _0x)
-dood.*#@#+js(aopw, _pop)
-dood.*#@#+js(aopw, DoodPop)
-dood.*#@#+js(nosiif, _0x)
-oload.*#@#+js(aopr, AaDetector)
-oload.*#@#+js(aopr, _pop)
-oload.*#@#+js(aopr, decodeURI)
-oload.*#@#+js(aopr, open)
-clipwatching.com#@#+js(nowoif)
-clipwatching.com#@#+js(set, globalThis, null)
-clipwatching.com#@#+js(aopr, glxopen)
-clipwatching.com#@#+js(aopr, AaDetector)
-clipwatching.com#@#+js(aopw, adcashMacros)
-clipwatching.com#@#+js(aopr, __Y)
-clipwatching.com#@#+js(aopr, jwplayer.utils.Timer)
-clipwatching.com#@#+js(set, adblock, false)
-clipwatching.com#@#+js(nostif, showpop)
-clipwatching.com#@#+js(aopw, _pop)
-clipwatching.com#@#+js(acis, Object.defineProperty, XMLHttpRequest)
-clipwatching.com#@#+js(acis, Math, zfgloaded)
 ||gstaticadssl.l.google.com^$badfilter
 yandex.ru#@#.adv_pos_popup
 yandex.ru#@#[class*="header"] > .yaplus
@@ -1466,26 +1361,9 @@ yandex.ru#@#[class$="segment__container"] > div > .card:has(:scope > div[class] 
 ||static-mon.yandex.net^$badfilter
 ||yandex.st^$badfilter
 ||builder-assets.unbounce.com^$badfilter
-racaty.net#@#+js(acis, Object.defineProperty, XMLHttpRequest)
-racaty.net#@#+js(aopr, glxopen)
-hclips.com#@#+js(aeld, , window.open)
-hclips.com#@#+js(nosiif, document.readyState)
-hclips.com#@#+js(aopr, btoa)
-hclips.com#@#+js(aopr, ExoLoader)
-hclips.com#@#+js(acis, setTimeout, popunder)
 ||txxx.ahcdn.com^$badfilter
 ||txxx.*^$csp=script-src  'self' 'unsafe-eval' 'unsafe-inline' blob:,badfilter
-txxx.*#@#+js(nostif, t()?n())
-txxx.*#@#+js(aopr, localStorage)
-txxx.*#@#+js(aeld, click, pop.beforeOpen)
-userscloud.com#@#+js(acis, Object.defineProperty, vocabulary)
-userscloud.com#@#+js(acis, Math, zfgloaded)
-clicknupload.co#@#+js(acis, Object.defineProperty, XMLHttpRequest)
-clicknupload.co#@#+js(acis, String.fromCharCode, 'shift')
 ||uptobox.com^$csp=script-src 'self' * 'unsafe-inline' *.gstatic.com *.google.com *.googleapis.com,badfilter
-uptobox.com#@#+js(set, jsUnda, noopFunc)
-uptobox.com#@#+js(acis, Object.defineProperty, vocabulary)
-uptobox.com#@#+js(aopw, Fingerprint2)
 ||geni.us^$badfilter
 ||services.fandom.com^$badfilter
 ||ozon.ru^$badfilter
@@ -1497,41 +1375,19 @@ uptobox.com#@#+js(aopw, Fingerprint2)
 ||pic.aebn.net^$badfilter
 ||checkadblock.ru^$csp=script-src 'self',badfilter
 *$3p,denyallow=googleapis.com|google.com|gstatic.com|recaptcha.net|hcaptcha.com|ajax.cloudflare.com,domain=stfly.me|stfly.io|stfly.press,badfilter
-shrinkme.io#@#+js(aopr, open)
-shrinkme.io#@#+js(aopr, app_vars.force_disable_adblock)
-openplayer.net#@#+js(aopw, adcashMacros)
-openplayer.net#@#+js(acis, document.addEventListener)
-openplayer.net#@#+js(set, globalThis, null)
-openplayer.net#@#+js(aopr, glxopen)
-openplayer.net#@#+js(aopr, AaDetector)
-openplayer.net#@#+js(aopr, __Y)
-openplayer.net#@#+js(aopr, jwplayer.utils.Timer)
-hxload.*#@#+js(acis, atob, decodeURIComponent)
-hxload.*#@#+js(aopr, Date.prototype.toUTCString)
-hxload.*#@#+js(set, iExist, true)
 ||playhydrax.com^$badfilter
 ||iamcdn.net^$badfilter
-dropgalaxy.*#@#+js(set, pplayer, null)
-dropgalaxy.*#@#+js(nostif, _0x)
-dropgalaxy.*#@#+js(acis, $, modalpop)
 @@||dropgalaxy.*^$ghide,badfilter
 @@||googlesyndication.com^$script,xhr,domain=dropgalaxy.com,badfilter
 dropgalaxy.*#@#.adsbygoogle, #modalpop
 *$script,redirect-rule=noopjs,domain=dropgalaxy.com,badfilter
 *$image,redirect-rule=2x2.png,domain=dropgalaxy.com,badfilter
 @@.jpg$image,domain=dropgalaxy.com,badfilter
-dropgalaxy.*#@#+js(nosiif, _0x)
 ||shortpixel.ai^$badfilter
 ||mds.yandex.net^$badfilter
 ||cdn.adf.ly^$badfilter
 ||w.org^$badfilter
 ||fc.lc^$badfilter
-fc.lc#@#+js(aopr, app_vars.force_disable_adblock)
-fc.lc#@#+js(aopr, AaDetector)
-fc.lc#@#+js(nowoif, /^/, 1)
-fcdot.lc#@#+js(nowoif, /^/, 1)
-fcdot.lc#@#+js(aopr, app_vars.force_disable_adblock)
-todaynewspk.win#@#+js(aopr, app_vars.force_disable_adblock)
 /cdn-cgi/apps/body/*$script,~third-party,badfilter
 /cdn-cgi/apps/head/*$script,~third-party,badfilter
 -ad2_$badfilter
@@ -1544,14 +1400,11 @@ todaynewspk.win#@#+js(aopr, app_vars.force_disable_adblock)
 .org/ad-$badfilter
 ||jscrambler.com^$badfilter
 ||javascriptobfuscator.com^$badfilter
-bolssc.com#@#+js(aopr, app_vars.force_disable_adblock)
-bolssc.com#@#+js(acis, Math, XMLHttpRequest)
 ||sso.passport.yandex.ru^$badfilter
 ||adblockanalytics.com^$badfilter
 ||www.adblockanalytics.com^$badfilter
 ||adpushup.com^$badfilter
 ||www.adpushup.com^$badfilter
-xvideos.com#@#+js(abort-on-property-write, openpop)
 @@||github.io^$generichide,badfilter
 @@||yastatic.net/share/share.js$badfilter
 ||vcdn.biz^$badfilter
@@ -1561,9 +1414,6 @@ xvideos.com#@#+js(abort-on-property-write, openpop)
 multikland.net$@$script[tag-content="RTCPeerConnection"]
 ||digicert.com^$badfilter
 8.8.8.8^$network,app=com.zhiliaoapp.musically|com.zhiliao.musically.livewallpaper|com.ss.android.ugc.aweme,badfilter
-gdriveplayer.*#@#+js(nowoif)
-gdriveplayer.*#@#+js(aopr, glxopen)
-gdriveplayer.*#@#+js(acis, Object.defineProperty, vocabulary)
 ||hydracdn.network^$badfilter
 @@||gravatar.com/avatar$image,third-party,badfilter
 ||aliapp.org^$badfilter
