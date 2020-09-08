@@ -77,6 +77,7 @@
 ||bounceexchange.com^
 ||branch.io^
 ||braun634.com^
+||browser.events.data.msn.com^
 ||browser.pipe.aria.microsoft.com^
 ||bs-meta.yandex.ru^
 ||bs.yandex.*^
@@ -113,6 +114,9 @@
 ||event.shelljacket.us^
 ||events.data.microsoft.com^
 ||external-promo-metrics.yandex.net^
+||feedback.microsoft-hohm.com^
+||feedback.search.microsoft.com^
+||feedback.windows.com^
 ||fenek.market.yandex.ru^
 ||flex.msn.com^
 ||flurry.com^
@@ -215,7 +219,9 @@
 ||scribe.twitter.com^
 ||sentry.io^
 ||serving-sys.com^
+||settings-sandbox.data.microsoft.com^
 ||settings-win.data.microsoft.com^
+||settings.data.glbdns2.microsoft.com^
 ||shepherd.sb.avast.com^
 ||smartadserver.com^
 ||smartscreen.microsoft.com^
@@ -224,6 +230,12 @@
 ||spotx.tv^
 ||spynet2.microsoft.akadns.net^
 ||spynet2.microsoft.com^
+||spynetall.microsoft.akadns.net^
+||spynetall.microsoft.com^
+||spynetalt.microsoft.akadns.net^
+||spynetalt.microsoft.com^
+||spyneteurope.microsoft.akadns.net^
+||spyneteurope.microsoft.com^
 ||startappservice.com^
 ||startup.mobile.yandex.net^
 ||static-marketolog.mts.ru^
@@ -231,6 +243,8 @@
 ||syndication.twitter.com^
 ||taboola.com^
 ||telemetry.api.swiftkey.com^
+||telemetry.appex.bing.net^
+||telemetry.appex.search.prod.ms.akadns.net^
 ||telemetry.gfe.nvidia.com^
 ||telemetry.microsoft.com^
 ||telemetry.mozilla.org^
@@ -248,7 +262,9 @@
 ||voodoo-ads.io^
 ||voodoo-tech.io^
 ||voodoo.io^
+||vortex-sandbox.data.microsoft.com^
 ||vortex-win.data.microsoft.com^
+||vortex.data.glbdns2.microsoft.com^
 ||vortex.data.microsoft.com.akadns.net^
 ||vortex.data.microsoft.com^
 ||watson.data.microsoft.com.akadns.net^
