@@ -2745,6 +2745,7 @@
 ||bzsbtfiz.com^$important
 ||bzxmgyfae.com^$important
 ||bzyrhqbdldds.com^$important
+||c.live.com^$important
 ||c.microsoft.com^$important
 ||c.paypal.com^$important
 ||c02o3mpych.com^$important
@@ -13816,6 +13817,7 @@
 ||spotsniper.ru^$important
 ||spottednoise.com^$important
 ||spottysense.com^$important
+||spotx.tv^$important
 ||spotxchange.com^$important
 ||sprincipal.com^$important
 ||springaftermath.com^$important

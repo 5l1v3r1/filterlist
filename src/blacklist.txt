@@ -4,6 +4,7 @@
 ||69i.club^
 ||a-error.facebook.com^
 ||a-www.facebook.com^
+||ac3.msn.com^
 ||ad.mail.ru^
 ||adcolony.com^
 ||adeventtracker.spotify.com^
@@ -76,6 +77,7 @@
 ||bounceexchange.com^
 ||branch.io^
 ||braun634.com^
+||browser.pipe.aria.microsoft.com^
 ||bs-meta.yandex.ru^
 ||bs.yandex.*^
 ||bugsnag.com^
@@ -112,9 +114,11 @@
 ||events.data.microsoft.com^
 ||external-promo-metrics.yandex.net^
 ||fenek.market.yandex.ru^
+||flex.msn.com^
 ||flurry.com^
 ||footprintpredict.com^
 ||fundingchoicesmessages.google.com^
+||g.msn.com^
 ||geo.opera.com^
 ||gew-spclient.spotify.com^
 ||ghostery-collector.ghostery.com^
@@ -129,6 +133,9 @@
 ||googletagmanager.com^
 ||googletagservices.com^
 ||gplayer.kmpmedia.net^
+||graph.facebook.com^
+||graph.fbpigeon.com^
+||graph.instagram.com^
 ||gstaticadssl.l.google.com^
 ||histats.com^
 ||hostingcloud.*^
@@ -160,9 +167,12 @@
 ||merchandise.opera-api.com^
 ||metaservices.microsoft.com^
 ||meter-svc.nytimes.com^
+||metron.live.com.nsatc.net^
+||metron.live.com^
 ||mmstat.com^
 ||mng-ads.com^
 ||moatads.com^
+||mobile.pipe.aria.microsoft.com^
 ||mradx.net^
 ||msads.net^
 ||my.com^
@@ -189,6 +199,8 @@
 ||r0.mail.ru^
 ||r2.mail.ru^
 ||r3.mail.ru^
+||rad.live.com^
+||rad.msn.com^
 ||reef.vk-cdn.net^
 ||reklama.mail.ru^
 ||reports.ghostery.net^
@@ -209,6 +221,7 @@
 ||smartscreen.microsoft.com^
 ||spade.twitch.tv^
 ||speeddials.opera.com^
+||spotx.tv^
 ||spynet2.microsoft.akadns.net^
 ||spynet2.microsoft.com^
 ||startappservice.com^
@@ -222,6 +235,7 @@
 ||telemetry.microsoft.com^
 ||telemetry.mozilla.org^
 ||telemetry.swiftkey.com^
+||telemetry.urs.microsoft.com^
 ||thumbnails*.opera.com^
 ||tns-counter.ru^
 ||top-fwz1.mail.ru^
@@ -237,6 +251,7 @@
 ||vortex-win.data.microsoft.com^
 ||vortex.data.microsoft.com.akadns.net^
 ||vortex.data.microsoft.com^
+||watson.data.microsoft.com.akadns.net^
 ||watson.live.com^
 ||watson.microsoft.com^
 ||weborama.fr^
