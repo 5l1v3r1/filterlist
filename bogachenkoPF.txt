@@ -29,6 +29,10 @@ $$script[src="https://www.googletagservices.com/"]
 @@||127.0.0.1^$important,document
 @@||localhost^$important,document
 @@||[::1]^$important,document
+@@||youtube.com^$content,elemhide
+@@||youtube.com^$stealth
+@@||music.yandex.*^$content,elemhide
+@@/^https?:\/\/(www\.)?git(hub(usercontent)?|lab)\.[^\s]+[-._?&=#/](track(ers?|ing)|vast)[-.0-9_?&=#/]/$important,other,xmlhttprequest
 !#endif
 
 !#if env_firefox
@@ -63,31 +67,6 @@ $$script[wildcard="__CF$cv$params"]
 !#endif
 !#endif
 ! CONDITIONS END
-
-! TEMPORARILY START
-!#if !ext_ublock
-! See bug - https://github.com/AdguardTeam/AdguardForWindows/issues/2650#issuecomment-645438370
-@@||marketplace.visualstudio.com^$app=Code.exe,important
-! See bug - https://github.com/AdguardTeam/AdguardForWindows/issues/2650#issuecomment-672641945
-@@||yastatic.net/yandex-video-player-iframe-api-bundles-stable/$popunder,popup,important
-! See bug - https://github.com/AdguardTeam/AdguardForWindows/issues/2650#issuecomment-645949868
-@@/git(hub(usercontent)?|lab)\.[^\s]+[-._?&=#/](track(ers?|ing)|vast)[-.0-9_?&=#/]/$important,other,xmlhttprequest
-! High CPU load
-@@||youtube.com^$content,elemhide
-@@||youtube.com^$stealth
-@@||music.yandex.*^$content,elemhide
-!#endif
-!#if !ext_ublock
-!#if adguard_app_android
-! See bug - https://github.com/AdguardTeam/AdguardForWindows/issues/2650#issuecomment-672284613
-/[-._?&=#/]preroll[-._?&=#/]/$important,domain=~ttvnw.net|~mail.ru,badfilter
-!#endif
-!#endif
-! TEMPORARILY END
-
-! TEST START
-||rlcdn.com^$important
-! TEST END
 
 ! WHITELIST START
 @@*$generichide,domain=keypro2.ru|dizibox.pw
@@ -693,6 +672,7 @@ $$script[wildcard="__CF$cv$params"]
 ||videoroll.net^$important
 ||vk-portal.net^$important
 ||voodoo-ads.io^$important
+||rlcdn.com^$important
 ||voodoo-tech.io^$important
 ||voodoo.io^$important
 ||awsync.yandex.*^$important
@@ -1143,7 +1123,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ! XMLHTTPREQUEST END
 
 ! WEBSOCKET START
-$websocket,domain=hqq.tv
+*$websocket,domain=hqq.tv
 ! WEBSOCKET END
 
 ! COMBINED START
