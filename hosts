@@ -1,9 +1,9 @@
 # Title: bogachenko's DNS Filter
 # Description: Yet another anti-bullshit filter list.
-# Last modified: 2020-09-08 22:35:19
-# Version: 20200908223519
+# Last modified: 2020-09-08 23:16:14
+# Version: 20200908231614
 # Expires: 3 hours
-# Number of filters: 268
+# Number of filters: 284
 # RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/hosts
 # Homepage: https://github.com/bogachenko/filterlist/
 # Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -90,6 +90,7 @@
 ||b-pixel.facebook.com^
 ||branch.io^
 ||braun634.com^
+||browser.events.data.msn.com^
 ||browser.pipe.aria.microsoft.com^
 ||bs.yandex.*^
 ||bs-meta.yandex.ru^
@@ -127,6 +128,9 @@
 ||event.shelljacket.us^
 ||events.data.microsoft.com^
 ||external-promo-metrics.yandex.net^
+||feedback.microsoft-hohm.com^
+||feedback.search.microsoft.com^
+||feedback.windows.com^
 ||fenek.market.yandex.ru^
 ||flex.msn.com^
 ||flurry.com^
@@ -229,6 +233,8 @@
 ||scribe.twitter.com^
 ||sentry.io^
 ||serving-sys.com^
+||settings.data.glbdns2.microsoft.com^
+||settings-sandbox.data.microsoft.com^
 ||settings-win.data.microsoft.com^
 ||shepherd.sb.avast.com^
 ||smartadserver.com^
@@ -238,6 +244,12 @@
 ||spotx.tv^
 ||spynet2.microsoft.akadns.net^
 ||spynet2.microsoft.com^
+||spynetall.microsoft.akadns.net^
+||spynetall.microsoft.com^
+||spynetalt.microsoft.akadns.net^
+||spynetalt.microsoft.com^
+||spyneteurope.microsoft.akadns.net^
+||spyneteurope.microsoft.com^
 ||startappservice.com^
 ||startup.mobile.yandex.net^
 ||static-marketolog.mts.ru^
@@ -245,6 +257,8 @@
 ||syndication.twitter.com^
 ||taboola.com^
 ||telemetry.api.swiftkey.com^
+||telemetry.appex.bing.net^
+||telemetry.appex.search.prod.ms.akadns.net^
 ||telemetry.gfe.nvidia.com^
 ||telemetry.microsoft.com^
 ||telemetry.mozilla.org^
@@ -262,8 +276,10 @@
 ||voodoo.io^
 ||voodoo-ads.io^
 ||voodoo-tech.io^
+||vortex.data.glbdns2.microsoft.com^
 ||vortex.data.microsoft.com.akadns.net^
 ||vortex.data.microsoft.com^
+||vortex-sandbox.data.microsoft.com^
 ||vortex-win.data.microsoft.com^
 ||watson.data.microsoft.com.akadns.net^
 ||watson.live.com^
