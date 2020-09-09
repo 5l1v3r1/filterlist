@@ -1,9 +1,9 @@
 # Title: bogachenko's DNS Filter
 # Description: Yet another anti-bullshit filter list.
-# Last modified: 2020-09-09 03:51:13
-# Version: 20200909035113
+# Last modified: 2020-09-09 20:09:26
+# Version: 20200909200927
 # Expires: 3 hours
-# Number of filters: 296
+# Number of filters: 333
 # RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/hosts
 # Homepage: https://github.com/bogachenko/filterlist/
 # Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -14,21 +14,33 @@
 @@||injections.adguard.org^
 @@||local.adguard.org^
 ||1l-view.mail.ru^
+||247realmedia.com^
 ||2mdn.net^
+||33across.com^
 ||4dex.io^
 ||69i.club^
 ||ac3.msn.com^
+||ad.lgappstv.com^
 ||ad.mail.ru^
+||ad.smartclip.net^
+||ad.sxp.smartclip.net^
+||adblade.com^
+||adbrite.com^
+||adbureau.net^
+||adchemy.com^
 ||adcolony.com^
 ||adeventtracker.spotify.com^
 ||adfox.ru^
 ||adfox.yandex.ru^
 ||adjust.com^
+||admeld.com^
+||admob.com^
 ||adnow.com^
 ||adnxs.com^
 ||adriver.ru^
 ||adroll.com^
 ||ads*-adnow.com^
+||ads.deviantart.com^
 ||ads.facebook.com^
 ||ads.linkedin.com^
 ||ads.msn.com^
@@ -36,20 +48,25 @@
 ||ads.spotify.com^
 ||ads.twitter.com^
 ||ads.viber.com^
+||ads.yahoo.com^
 ||ads1.msn.com^
 ||ads2.msn.com^
 ||adsafeprotected.com^
 ||ads-bidder-api.twitter.com^
 ||ads-d.viber.com^
 ||adsdk.yandex.ru^
+||adsense.com^
 ||adservice.google.*^
 ||adservice.l.google.com^
 ||ads-fa.spotify.com^
+||adsonar.com^
 ||adsymptotic.com^
 ||adtechus.com^
+||advertising.com^
 ||advertising.yandex.*^
 ||a-error.facebook.com^
 ||af.opera.com^
+||afy11.net^
 ||alexametrics.com^
 ||all-cod.com^
 ||als-svc.nytimes.com^
@@ -76,7 +93,9 @@
 ||appmetrica.yandex.*^
 ||appsflyer.com^
 ||appstatic.opera.com^
+||aquantive.com^
 ||atdmt.com^
+||atwola.com^
 ||awaps.yandex.*^
 ||awin1.com^
 ||awsync.yandex.*^
@@ -105,6 +124,7 @@
 ||c1.microsoft.com^
 ||cdn.kmplayer.com^
 ||cdn.pandora.tv^
+||channelintelligence.com^
 ||checkappexec.microsoft.com^
 ||choice.microsoft.com.nsatc.net^
 ||choice.microsoft.com^
@@ -112,15 +132,19 @@
 ||client.svd-cdn.com^
 ||client-cdn*.hola.org^
 ||client-event-reporter.twitch.tv^
+||cmcore.com^
 ||cmp-cdn.ghostery.com^
 ||collector-hpn.ghostery.net^
 ||countess.twitch.tv^
 ||crashdump.spotify.com^
 ||crashlytics.com^
 ||crashlytics.l.google.com^
+||crowdscience.com^
 ||d.ghostery.com^
 ||dc.services.visualstudio.com^
 ||dc-int.services.visualstudio.com^
+||decdna.net^
+||decideinteractive.com^
 ||detectportal.firefox.*^
 ||detectportal.prod.mozaws.net^
 ||diagnostics.support.microsoft.com^
@@ -129,19 +153,24 @@
 ||doubleclick.*^
 ||doublemax.net^
 ||ero-advertising.com^
+||esomniture.com^
 ||et.nytimes.com^
 ||event.shelljacket.us^
 ||events.data.microsoft.com^
 ||external-promo-metrics.yandex.net^
+||fastclick.net^
 ||feedback.microsoft-hohm.com^
 ||feedback.search.microsoft.com^
 ||feedback.windows.com^
 ||fenek.market.yandex.ru^
+||fimserve.com^
 ||flex.msn.com^
+||flingwebads.com^
 ||flurry.com^
 ||footprint.net^
 ||footprintdns.com^
 ||footprintpredict.com^
+||foxnetworks.com^
 ||fundingchoicesmessages.google.com^
 ||g.msn.com^
 ||geo.opera.com^
@@ -169,9 +198,14 @@
 ||id.google.*^
 ||id.l.google.com^
 ||imasdk.googleapis.com^
+||imiclk.com^
 ||imrworldwide.com^
 ||in.appcenter.ms^
 ||informer.yandex.*^
+||insightexpress.com^
+||insightexpressai.com^
+||intellitxt.com^
+||invitemedia.com^
 ||ip-info.ff.avast.com^
 ||izooto.com^
 ||jstracer.yandex.ru^
@@ -218,11 +252,13 @@
 ||pixel.spotify.com^
 ||pixel-static.spotify.com^
 ||platform.twitter.com^
+||pointroll.com^
 ||popads.net^
 ||popcash.net^
 ||proxy_auth.trigger.hola.org^
 ||pubmatic.com^
 ||qualifytring.com^
+||quantserve.com^
 ||r.mail.ru^
 ||r0.mail.ru^
 ||r2.mail.ru^
@@ -282,6 +318,7 @@
 ||top-fwz1.mail.ru^
 ||trace.eset.com^
 ||tracking.overwolf.com^
+||tribalfusion.com^
 ||videoroll.net^
 ||video-stats.l.google.com^
 ||vk-portal.net^
