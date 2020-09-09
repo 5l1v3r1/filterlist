@@ -33,6 +33,7 @@ $$script[src="https://www.googletagservices.com/"]
 @@||youtube.com^$stealth
 @@||music.yandex.*^$content,elemhide
 @@/^https?:\/\/(www\.)?git(hub(usercontent)?|lab)\.[^\s]+[-._?&=#/](track(ers?|ing)|vast)[-.0-9_?&=#/]/$important,other,xmlhttprequest
+@@/ttvnw.net[^\s]+preroll[-._?&=#/]/$important
 !#endif
 
 !#if env_firefox
@@ -388,6 +389,8 @@ $$script[wildcard="__CF$cv$params"]
 ||sb-ssl.google.com^$important
 ||sb-ssl.l.google.com^$important
 ||startmain.ru^$important
+||blacklivesmatter.com^$important
+||leadback.com^$important
 ||realbig.media^$important
 ||adnow.com^$important
 ||adriver.ru^$important
@@ -1101,6 +1104,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||alloha.tv/index.php?ref=*&domain=$important,xmlhttprequest
 ||google.com^*/viewerimpressions?$important,xmlhttprequest
 ||instagram.com/logging/$important,xmlhttprequest
+||instagram.com/ajax/bz|$important,xmlhttprequest
 ||meduza.io/*/specials/under-the-sun$important,xmlhttprequest
 ||meduza.io/stat/$important,xmlhttprequest
 ||music.yandex.*/handlers/experiment.jsx^$important,xmlhttprequest
@@ -1415,3 +1419,9 @@ gcloud.live#@#+js(set-constant, globalThis, null)
 gcloud.live#@#+js(abort-on-property-read, jwplayer.utils.Timer)
 vidcloud9.com#@#+js(abort-on-property-read, isSandboxed)
 vidcloud9.*#@#+js(abort-current-inline-script, Math, XMLHttpRequest)
+wstream.*#@#+js(no-setTimeout-if, eval)
+wstream.*#@#+js(window.open-defuser, /^/, 1)
+||ul.cdn946.net^$badfilter
+||cdn.vdosupreme.com^$badfilter
+*$script,third-party,domain=wstream.to,badfilter
+||ws.vdosupreme.com^$badfilter
