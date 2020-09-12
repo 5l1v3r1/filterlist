@@ -976,7 +976,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ! DOCUMENT START
 /^https?:\/\/(apps?|best|mobile|prize|reward|sweeps).*\.[a-z]{5,15}.*\.(agency|icu|live)\//$document,important
 /^https?:\/\/stream[\D]?bet\.[\w]+/$important,document
-|http*:*/*.gif|$document,important,domain=~github.com|~githubusercontent.com|~imgur.com|~wikimedia.org
+|http*:*/*.gif|$document,important,domain=~github.com|~githubusercontent.com|~imgur.com|~wikimedia.org|~appmifile.com
 |http*:*/redirect.html$document,important
 ||616wear.ru^$document,important
 ||autonomiq.io/chropath/uninstall/$document,important
@@ -1144,7 +1144,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]action\=js\_stats[-._?&=#/]/$image,important,other,script,xmlhttprequest
 /[-._?&=#/]analy(zer|st|ti(c[as]?)|sis)[-.0-9_?&=#/]?/$image,important,other,script,xmlhttprequest,domain=~analytics.google.com|~github.com|~gitlab.com|~reddragonwebdesign.com|~fandom.com|~vk.com|~ozon.ru
 /[-._?&=#/]bann?ers?[-.0-9_?&=#/]/$image,important,script,subdocument,xmlhttprequest,domain=~dropbox.com|~esetnod32.ru|~f-droid.org|~fandom.com|~hindilinks4uto.com|~hqq.tv|~live.com|~m3u-cdn.live|~mts.ru|~ok.ru|~player.mediavitrina.ru|~rt.ru|~sberbank.ru|~staticmv.mediavitrina.ru|~twitch.tv|~waaw.tv|~aliexpress.com|~aliexpress.ru|~discord.com|~gosuslugi.ru|~ozon.ru|~office.com
-/[-._?&=#/]logs?(ging|impressions?|ers?)?[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~github.com|~gitlab.com|~instagram.com|~twitch.tv|~yadi.sk|~dns-shop.ru|~ozon.ru|~aliexpress.com|~aliexpress.ru
+/[-._?&=#/]logs?(ging|impressions?|ers?)?[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~github.com|~gitlab.com|~instagram.com|~twitch.tv|~yadi.sk|~dns-shop.ru|~ozon.ru|~aliexpress.com|~aliexpress.ru|~mi.com
 /[-._?&=#/]piwik[-.0-9_?&=#/]/$image,important,script
 /[-._?&=#/]pixel[-._?&=#/]/$image,important,script,subdocument,xmlhttprequest
 /[-._?&=#/][a-zA-Z]{8,}track(ers?|ing)[-.0-9_?&=#/]/$other,image,important,script,xmlhttprequest
@@ -1433,3 +1433,4 @@ wstream.*#@#+js(window.open-defuser, /^/, 1)
 feurl.com#@#+js(set, globalThis, null)
 feurl.com#@#+js(aopr, __Y)
 feurl.com#@#+js(aopr, jwplayer.utils.Timer)
+||url8807.global.passport.xiaomi.com^$badfilter
