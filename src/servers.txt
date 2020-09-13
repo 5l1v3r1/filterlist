@@ -2093,6 +2093,7 @@
 ||babblenorah.com^$important
 ||bablace.com^$important
 ||babyboomboomads.com^$important
+||back.marketing^$important
 ||backit.me^$important
 ||baconaces.pro^$important
 ||badgearsregra.site^$important
@@ -2802,6 +2803,7 @@
 ||cadspmz.com^$important
 ||cadulscdfhtcb.bid^$important
 ||cafvzpusl.com^$important
+||caglaikr.net^$important
 ||cah9ooy.bid^$important
 ||cahepysgenpb.com^$important
 ||caithamo.net^$important
@@ -3133,6 +3135,7 @@
 ||clicktale.net^$important
 ||clickterra.net^$important
 ||clicktripz.com^$important
+||clickwedkeys.com^$important
 ||clickwith.*^$important
 ||clineddivoryr.site^$important
 ||clkkcokl.com^$important
@@ -4897,6 +4900,7 @@
 ||fagmomqua.site^$important
 ||fahowtxv.bid^$important
 ||faidoud.com^$important
+||faigroas.net^$important
 ||fairnessels.com^$important
 ||fajonlkb.com^$important
 ||fajsbncwlaws.com^$important
@@ -6981,6 +6985,7 @@
 ||imrworldwide.com^$important
 ||imtdtaloqwcz.com^$important
 ||imzngbreiiiv.com^$important
+||in-page-push.com^$important
 ||in6ej4pbpnih.com^$important
 ||incdjkjbyhlttx.com^$important
 ||incrediblesugar.com^$important
@@ -8382,6 +8387,7 @@
 ||lebkeresxa.ml^$important
 ||lebskmaewbhm.bid^$important
 ||ledinund.com^$important
+||ledmophemp.com^$important
 ||ledvqaldtf.com^$important
 ||lefopost.com^$important
 ||leftliquid.com^$important
@@ -11169,6 +11175,7 @@
 ||opoefqthl.bid^$important
 ||oppcgcqytazs.com^$important
 ||opportancen.info^$important
+||oppressiveinterdependenthumanity.com^$important
 ||oprivi.info^$important
 ||opsoomet.net^$important
 ||optad360.io^$important
@@ -11714,6 +11721,7 @@
 ||plqakqvku.com^$important
 ||plquutxxewil.com^$important
 ||plrjs.com^$important
+||plugin.management^$important
 ||plxtejszb.com^$important
 ||plyfoni.ru^$important
 ||plyftjxmrxrk.com^$important
@@ -14172,6 +14180,7 @@
 ||tailpdulprkp.com^$important
 ||tailtarget.com^$important
 ||take-the-bonus.biz^$important
+||takeslobsgel.com^$important
 ||takidd.site^$important
 ||takshop91.biz^$important
 ||talentedsteel.com^$important
@@ -15625,6 +15634,7 @@
 ||videoplayer2.xyz^$important
 ||videoplayerhub.com^^$important
 ||videoroll.net^$important
+||videosmor.com^$important
 ||vidora.com^$important
 ||vidroll.ru^$important
 ||vidsizee.com^$important
@@ -17032,6 +17042,7 @@
 ||y4jtnergka.com^$important
 ||y6a7tqyr.com^$important
 ||y96q29a1fo.com^$important
+||ya-distrib.ru^$important
 ||ya-googl.ws^$important
 ||ya-toptal-tvoyu-dushu.com^$important
 ||yaaqsdteo.com^$important
