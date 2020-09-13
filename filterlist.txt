@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-09-09 20:09:26
-! Version: 20200909200927
+! Last modified: 2020-09-13 22:45:27
+! Version: 20200913224527
 ! Expires: 3 hours
-! Number of filters: 18362
+! Number of filters: 18373
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -2139,6 +2139,7 @@
 ||babblenorah.com^$important
 ||bablace.com^$important
 ||babyboomboomads.com^$important
+||back.marketing^$important
 ||backit.me^$important
 ||baconaces.pro^$important
 ||badgearsregra.site^$important
@@ -2848,6 +2849,7 @@
 ||cadspmz.com^$important
 ||cadulscdfhtcb.bid^$important
 ||cafvzpusl.com^$important
+||caglaikr.net^$important
 ||cah9ooy.bid^$important
 ||cahepysgenpb.com^$important
 ||caithamo.net^$important
@@ -3179,6 +3181,7 @@
 ||clicktale.net^$important
 ||clickterra.net^$important
 ||clicktripz.com^$important
+||clickwedkeys.com^$important
 ||clickwith.*^$important
 ||clineddivoryr.site^$important
 ||clkkcokl.com^$important
@@ -4943,6 +4946,7 @@
 ||fagmomqua.site^$important
 ||fahowtxv.bid^$important
 ||faidoud.com^$important
+||faigroas.net^$important
 ||fairnessels.com^$important
 ||fajonlkb.com^$important
 ||fajsbncwlaws.com^$important
@@ -7064,6 +7068,7 @@
 ||innocentwax.com^$important
 ||innovid.com^$important
 ||inpagepush.com^$important
+||in-page-push.com^$important
 ||inquisitiveinvention.com^$important
 ||insbrvwfrcgb.com^$important
 ||insdrbot.com^$important
@@ -8428,6 +8433,7 @@
 ||lebkeresxa.ml^$important
 ||lebskmaewbhm.bid^$important
 ||ledinund.com^$important
+||ledmophemp.com^$important
 ||ledvqaldtf.com^$important
 ||lefopost.com^$important
 ||leftliquid.com^$important
@@ -11215,6 +11221,7 @@
 ||opoefqthl.bid^$important
 ||oppcgcqytazs.com^$important
 ||opportancen.info^$important
+||oppressiveinterdependenthumanity.com^$important
 ||oprivi.info^$important
 ||opsoomet.net^$important
 ||optad360.io^$important
@@ -11760,6 +11767,7 @@
 ||plqakqvku.com^$important
 ||plquutxxewil.com^$important
 ||plrjs.com^$important
+||plugin.management^$important
 ||plxtejszb.com^$important
 ||plyfoni.ru^$important
 ||plyftjxmrxrk.com^$important
@@ -14217,6 +14225,7 @@
 ||tailorcave.com^$important
 ||tailpdulprkp.com^$important
 ||tailtarget.com^$important
+||takeslobsgel.com^$important
 ||take-the-bonus.biz^$important
 ||takidd.site^$important
 ||takshop91.biz^$important
@@ -15670,6 +15679,7 @@
 ||videoplayer2.xyz^$important
 ||videoplayerhub.com^^$important
 ||videoroll.net^$important
+||videosmor.com^$important
 ||video-stats.video.google.com^$important
 ||vidora.com^$important
 ||vidroll.ru^$important
@@ -17080,6 +17090,7 @@
 ||y96q29a1fo.com^$important
 ||yaaqsdteo.com^$important
 ||yabs.yandex.*^$important
+||ya-distrib.ru^$important
 ||yadr0.com^$important
 ||yadro.ru^$important
 ||yadyiymarz.com^$important
