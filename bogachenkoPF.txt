@@ -582,6 +582,7 @@ $$script[wildcard="__CF$cv$params"]
 ||ok-bar.love.mail.ru^$important
 ||ok-portal.mail.ru^$important
 ||omaze.com^$important
+||hypercomments.com^$important
 ||oneclient.sfx.ms^$important
 ||op-mobile.opera.com^$important
 ||opera-api.com^$important
@@ -626,7 +627,6 @@ $$script[wildcard="__CF$cv$params"]
 ||rs.mail.ru^$important
 ||globalapi.ad.xiaomi.com^$important
 ||s*-2mdn-net.l.google.com^$important
-||s-microsoft.com^$important
 ||safe-browsing-quorum.privacy.ghostery.net^$important
 ||safe-browsing.ghostery.net^$important
 ||sb.l.google.com^$important
@@ -1099,6 +1099,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||yastatic.net/nearest.js|$important,script
 ||yastatic.net/pcode/adfox/loader.js|$important,script
 ||yastatic.net/share2/share.js|$important,script
+||msecnd.net/scripts/jsll-$important,script
 ! SCRIPT END
 
 ! XMLHTTPREQUEST START
