@@ -494,12 +494,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 emea.doubleclick.com
 0.0.0.0 exnjadgda1.doubleclick.net
 0.0.0.0 exnjadgda2.doubleclick.net
+0.0.0.0 infinitedata-pa.googleapis.com
 0.0.0.0 exnjadgds1.doubleclick.net
 0.0.0.0 exnjmdgda1.doubleclick.net
 0.0.0.0 exnjmdgds1.doubleclick.net
 0.0.0.0 exploresites-pa.googleapis.com
 0.0.0.0 faye.crashlytics.com
 0.0.0.0 feedads.g.doubleclick.net
+0.0.0.0 chromesyncentities-pa.googleapis.com
 0.0.0.0 feedads.googleadservices.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebasedurablelinks-ipv4-pa.googleapis.com
@@ -805,6 +807,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m9.se.2mdn.net
 0.0.0.0 m9.sg.2mdn.net
 0.0.0.0 m9.uk.2mdn.net
+0.0.0.0 contactsui-pa.googleapis.com
 0.0.0.0 m9.ve.2mdn.net
 0.0.0.0 m9.za.2mdn.net
 0.0.0.0 mail-ads.google.com
@@ -1386,7 +1389,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.prodigy.msn.com
 0.0.0.0 c.pt.msn.com
 0.0.0.0 c.ru.msn.com
-0.0.0.0 c.s-microsoft.com
 0.0.0.0 c.se.msn.com
 0.0.0.0 c.sg.msn.com
 0.0.0.0 c.th.msn.com
@@ -5190,3 +5192,54 @@ ff02::3 ip6-allhosts
 0.0.0.0 z.moatads.com
 0.0.0.0 ziffdavis697674298673.moatads.com
 # MOATADS.COM END
+
+# MI ALL START
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 www.api.ad.xiaomi.com
+0.0.0.0 api.admob.xiaomi.com
+0.0.0.0 www.api.admob.xiaomi.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 www.tracking.miui.com
+0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 cdn.ad.xiaomi.com
+0.0.0.0 www.cdn.ad.xiaomi.com
+0.0.0.0 e.ad.xiaomi.com
+0.0.0.0 www.e.ad.xiaomi.com
+0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 www.globalapi.ad.xiaomi.com
+0.0.0.0 new.api.ad.xiaomi.com
+0.0.0.0 www.new.api.ad.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 www.sdkconfig.ad.xiaomi.com
+0.0.0.0 ssp.ad.xiaomi.com
+0.0.0.0 www.ssp.ad.xiaomi.com
+0.0.0.0 test.ad.xiaomi.com
+0.0.0.0 www.test.ad.xiaomi.com
+0.0.0.0 test.e.ad.xiaomi.com
+0.0.0.0 www.test.e.ad.xiaomi.com
+0.0.0.0 test.new.api.ad.xiaomi.com
+0.0.0.0 www.test.new.api.ad.xiaomi.com
+0.0.0.0 zeus.ad.xiaomi.com
+0.0.0.0 www.zeus.ad.xiaomi.com
+0.0.0.0 zeus.ad.intl.xiaomi.com
+0.0.0.0 www.zeus.ad.intl.xiaomi.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 www.api.ad.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 www.sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 adv.sec.intl.miui.com
+0.0.0.0 www.adv.sec.intl.miui.com
+0.0.0.0 tracking.rus.miui.com
+0.0.0.0 www.tracking.rus.miui.com
+0.0.0.0 tracking.gb.miui.com
+0.0.0.0 www.tracking.gb.miui.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 tracking.gb.miui.com
+0.0.0.0 www.tracking.gb.miui.com
+0.0.0.0 tracking.india.miui.com
+0.0.0.0 www.tracking.india.miui.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 www.data.mistat.xiaomi.com
+# MI ALL END
