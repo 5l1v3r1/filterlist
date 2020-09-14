@@ -1,9 +1,9 @@
 # Title: bogachenko's DNS Filter
 # Description: Yet another anti-bullshit filter list.
-# Last modified: 2020-09-13 22:45:27
-# Version: 20200913224527
+# Last modified: 2020-09-15 01:33:32
+# Version: 20200915013332
 # Expires: 3 hours
-# Number of filters: 333
+# Number of filters: 343
 # RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/hosts
 # Homepage: https://github.com/bogachenko/filterlist/
 # Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -20,10 +20,14 @@
 ||4dex.io^
 ||69i.club^
 ||ac3.msn.com^
+||ad.*.xiaomi.com^
 ||ad.lgappstv.com^
 ||ad.mail.ru^
+||ad.mi.com^
 ||ad.smartclip.net^
 ||ad.sxp.smartclip.net^
+||ad.xiaomi.com^
+||ad1.xiaomi.com^
 ||adblade.com^
 ||adbrite.com^
 ||adbureau.net^
@@ -35,6 +39,7 @@
 ||adjust.com^
 ||admeld.com^
 ||admob.com^
+||admob.xiaomi.com^
 ||adnow.com^
 ||adnxs.com^
 ||adriver.ru^
@@ -229,6 +234,7 @@
 ||meter-svc.nytimes.com^
 ||metron.live.com.nsatc.net^
 ||metron.live.com^
+||mistat.*.xiaomi.com^
 ||mmstat.com^
 ||mng-ads.com^
 ||moatads.com^
@@ -238,6 +244,7 @@
 ||my.com^
 ||newlog.overwolf.com^
 ||news-clck.yandex.ru^
+||next-services.apps.microsoft.com^
 ||offers-api.ghostery.net^
 ||omaze.com^
 ||pagead*.l.doubleclick.net^
@@ -300,6 +307,8 @@
 ||srtb.msn.com^
 ||startappservice.com^
 ||startup.mobile.yandex.net^
+||stat.mi.com^
+||stat.xiaomi.com^
 ||static-marketolog.mts.ru^
 ||stats.ghostery.net^
 ||syndication.twitter.com^
@@ -317,6 +326,7 @@
 ||top100.ru^
 ||top-fwz1.mail.ru^
 ||trace.eset.com^
+||tracking.*.miui.com^
 ||tracking.overwolf.com^
 ||tribalfusion.com^
 ||videoroll.net^
