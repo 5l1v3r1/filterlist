@@ -7,10 +7,14 @@
 ||a-error.facebook.com^
 ||a-www.facebook.com^
 ||ac3.msn.com^
+||ad.*.xiaomi.com^
 ||ad.lgappstv.com^
 ||ad.mail.ru^
+||ad.mi.com^
 ||ad.smartclip.net^
 ||ad.sxp.smartclip.net^
+||ad.xiaomi.com^
+||ad1.xiaomi.com^
 ||adblade.com^
 ||adbrite.com^
 ||adbureau.net^
@@ -22,6 +26,7 @@
 ||adjust.com^
 ||admeld.com^
 ||admob.com^
+||admob.xiaomi.com^
 ||adnow.com^
 ||adnxs.com^
 ||adriver.ru^
@@ -214,6 +219,7 @@
 ||meter-svc.nytimes.com^
 ||metron.live.com.nsatc.net^
 ||metron.live.com^
+||mistat.*.xiaomi.com^
 ||mmstat.com^
 ||mng-ads.com^
 ||moatads.com^
@@ -223,6 +229,7 @@
 ||my.com^
 ||newlog.overwolf.com^
 ||news-clck.yandex.ru^
+||next-services.apps.microsoft.com^
 ||offers-api.ghostery.net^
 ||omaze.com^
 ||pagead*.l.doubleclick.net^
@@ -285,6 +292,8 @@
 ||srtb.msn.com^
 ||startappservice.com^
 ||startup.mobile.yandex.net^
+||stat.mi.com^
+||stat.xiaomi.com^
 ||static-marketolog.mts.ru^
 ||stats.ghostery.net^
 ||syndication.twitter.com^
@@ -302,6 +311,7 @@
 ||top-fwz1.mail.ru^
 ||top100.ru^
 ||trace.eset.com^
+||tracking.*.miui.com^
 ||tracking.overwolf.com^
 ||tribalfusion.com^
 ||video-stats.l.google.com^
