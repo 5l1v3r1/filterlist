@@ -1,9 +1,9 @@
 # Title: bogachenko's DNS Filter
 # Description: Yet another anti-bullshit filter list.
-# Last modified: 2020-09-15 01:33:32
-# Version: 20200915013332
+# Last modified: 2020-09-16 05:57:28
+# Version: 20200916055728
 # Expires: 3 hours
-# Number of filters: 343
+# Number of filters: 346
 # RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/hosts
 # Homepage: https://github.com/bogachenko/filterlist/
 # Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -67,6 +67,7 @@
 ||adsonar.com^
 ||adsymptotic.com^
 ||adtechus.com^
+||adv.*.miui.com^
 ||advertising.com^
 ||advertising.yandex.*^
 ||a-error.facebook.com^
@@ -129,6 +130,7 @@
 ||c1.microsoft.com^
 ||cdn.kmplayer.com^
 ||cdn.pandora.tv^
+||census.zorinos.com^
 ||channelintelligence.com^
 ||checkappexec.microsoft.com^
 ||choice.microsoft.com.nsatc.net^
@@ -290,6 +292,7 @@
 ||settings.data.microsoft.com^
 ||settings-sandbox.data.microsoft.com^
 ||settings-win.data.microsoft.com^
+||shavar.services.mozilla.com^
 ||shepherd.sb.avast.com^
 ||smartadserver.com^
 ||smartscreen.microsoft.com^

@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-09-15 01:33:32
-! Version: 20200915013332
+! Last modified: 2020-09-16 05:57:28
+! Version: 20200916055728
 ! Expires: 3 hours
-! Number of filters: 18373
+! Number of filters: 18377
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -2782,6 +2782,7 @@
 ||byqmzodcdhhu.com^$important
 ||byspwzspx.bid^$important
 ||bysziktift.com^$important
+||byteoversea.com^$important
 ||bytetouruniverse.com^$important
 ||byufpbvjpedvpx.com^$important
 ||byuwgtzpawzzd.com^$important
@@ -3963,6 +3964,7 @@
 ||dmojscqlwewu.com^$important
 ||dmrqnwtyttd.com^$important
 ||dmsvdderirwbu.com^$important
+||dmtracking2.alibaba.com^$important
 ||dmvbdfblevxvx.com^$important
 ||dmvegzsxaxn.com^$important
 ||dmvmnafx.com^$important
@@ -4031,6 +4033,7 @@
 ||doubleclickbygoogle.com^$important
 ||doubledeepclick.com^$important
 ||doublelimpup.com^$important
+||doublemax.net^$important
 ||doublepimp.com^$important
 ||doublepimpssl.com^$important
 ||doubleverify.com^$important
@@ -12798,6 +12801,7 @@
 ||readmenewz.com^$important
 ||readymoon.com^$important
 ||readysnails.com^$important
+||realbig.media^$important
 ||realcpms.com^$important
 ||realizerecess.com^$important
 ||realizevacation.com^$important
