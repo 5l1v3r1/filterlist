@@ -2736,6 +2736,7 @@
 ||byqmzodcdhhu.com^$important
 ||byspwzspx.bid^$important
 ||bysziktift.com^$important
+||byteoversea.com^$important
 ||bytetouruniverse.com^$important
 ||byufpbvjpedvpx.com^$important
 ||byuwgtzpawzzd.com^$important
@@ -3919,6 +3920,7 @@
 ||dmojscqlwewu.com^$important
 ||dmrqnwtyttd.com^$important
 ||dmsvdderirwbu.com^$important
+||dmtracking2.alibaba.com^$important
 ||dmvbdfblevxvx.com^$important
 ||dmvegzsxaxn.com^$important
 ||dmvmnafx.com^$important
@@ -3987,6 +3989,7 @@
 ||doubleclickbygoogle.com^$important
 ||doubledeepclick.com^$important
 ||doublelimpup.com^$important
+||doublemax.net^$important
 ||doublepimp.com^$important
 ||doublepimpssl.com^$important
 ||doubleverify.com^$important
@@ -12752,6 +12755,7 @@
 ||readmenewz.com^$important
 ||readymoon.com^$important
 ||readysnails.com^$important
+||realbig.media^$important
 ||realcpms.com^$important
 ||realizerecess.com^$important
 ||realizevacation.com^$important
