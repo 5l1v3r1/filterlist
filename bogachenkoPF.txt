@@ -79,6 +79,8 @@ $$script[wildcard="__CF$cv$params"]
 @@/^https?:\/\/localhost\//
 @@/^https?:\/\/rt\//
 @@/^https?:\/\/\[::1]\//
+@@||pinterest.global.map.fastly.net^$third-party
+@@||pinterest.map.fastly.net^$third-party
 @@||*-instagram.*.facebook.com^$third-party
 @@||api.adguard.com^
 @@||privateinternetaccess.com^$xmlhttprequest,domain=dnsleak.com
@@ -351,7 +353,7 @@ $$script[wildcard="__CF$cv$params"]
 ||livejournal.com^$third-party
 ||mail.ru^$third-party
 ||ok.ru^$third-party
-||pinterest.*^$third-party
+||pinterest.*^$third-party,domain=~pinterest.ru|~pinterest.com
 ||privacy-center.org^$third-party
 ||rambler.ru^$third-party
 ||reddit.com^$third-party
@@ -1145,3 +1147,4 @@ feurl.com#@#+js(set, globalThis, null)
 feurl.com#@#+js(aopr, __Y)
 feurl.com#@#+js(aopr, jwplayer.utils.Timer)
 ||url8807.global.passport.xiaomi.com^$badfilter
+@@||client-event-reporter.twitch.tv^$xmlhttprequest,domain=twitch.tv,badfilter
