@@ -1377,6 +1377,7 @@
 ||adsrv.me^$important
 ||adsrvr.org^$important
 ||adstarsmedia.co.id^$important
+||adsvolum.com^$important
 ||adsvolume.com^$important
 ||adswizz.com^$important
 ||adswrapme.click^$important
@@ -1426,6 +1427,7 @@
 ||advon.net^$important
 ||advrstcdn.com^$important
 ||adwalte.info^$important
+||adward.agency^$important
 ||adwidgets.ru^$important
 ||adworkmedia.net^$important
 ||adworldmedia.com^$important
@@ -1433,6 +1435,7 @@
 ||adxnexus.com^$important
 ||adxpddpc.com^$important
 ||adxscope.com^$important
+||adzfun.me^$important
 ||adziondin.club^$important
 ||ae25079147984d4d.com^$important
 ||aebadu.com^$important
@@ -1626,6 +1629,7 @@
 ||alhistoriousg.info^$important
 ||aliadvert.ru^$important
 ||alidnquxirv.bid^$important
+||alignclamstram.com^$important
 ||alikeaddition.com^$important
 ||alikearm.com^$important
 ||alikuvxxwy.com^$important
@@ -2468,6 +2472,7 @@
 ||bmnccwprdrszpj.bid^$important
 ||bmnr.pw^$important
 ||bmoshyiypks.com^$important
+||bmrdrct.best^$important
 ||bmrdrct.info^$important
 ||bmsmhlpkdvajeo.bid^$important
 ||bmst.pw^$important
@@ -5084,6 +5089,7 @@
 ||fgzxlngohtg.com^$important
 ||fhgh9sd.com^$important
 ||fhgstzgrdhkah.bid^$important
+||fhits.xyz^$important
 ||fhjciatocm.bid^$important
 ||fhluqrhmqs.com^$important
 ||fhlzfxxnqc.com^$important
@@ -5171,6 +5177,7 @@
 ||flare-analytics.com^$important
 ||flash-searchfor-find.icu^$important
 ||flashtalking.com^$important
+||flatlyforensics.com^$important
 ||flavordecision.com^$important
 ||flbecoidmt.com^$important
 ||flcfstbzncsim.com^$important
@@ -9204,6 +9211,7 @@
 ||mel-bet.xyz^$important
 ||melahorgani.com^$important
 ||melfljypjydxta.com^$important
+||mellowads.com^$important
 ||melo.space^$important
 ||melqdjqiekcv.com^$important
 ||memorizeneck.com^$important
@@ -11419,6 +11427,7 @@
 ||pagefair.net^$important
 ||pagiwp.com^$important
 ||pagnookr.net^$important
+||painsko.com^$important
 ||paintifiercute.club^$important
 ||paintplantation.com^$important
 ||pajmxvlsuxyks.bid^$important
@@ -16556,6 +16565,7 @@
 ||wxwxpxtoqmipif.com^$important
 ||wxxfcyoaymug.com^$important
 ||wybfcxze.com^$important
+||wybutary.xyz^$important
 ||wyclddhldiou.com^$important
 ||wydwkpjomckb.com^$important
 ||wyhcocqu.com^$important
@@ -16601,6 +16611,7 @@
 ||x268dl0k.top^$important
 ||x2d2m87csh.com^$important
 ||x3w7lvezss.com^$important
+||x40u1vj75ks9.com^$important
 ||x7xirtzmot.com^$important
 ||x8rxr.top^$important
 ||x9b05t5jsqje.com^$important
@@ -16880,6 +16891,7 @@
 ||xqygrmkga.bid^$important
 ||xqzkpmrgcpsw.com^$important
 ||xr8wv50k1daj.com^$important
+||xray.mail.ru^$important
 ||xrdutkydekqpxu.bid^$important
 ||xrgqermbslvg.com^$important
 ||xrgrymutlq.com^$important
