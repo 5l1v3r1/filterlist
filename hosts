@@ -5172,6 +5172,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 ssp.ad.xiaomi.com
 0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 au.ff.avast.sec.miui.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
@@ -5185,3 +5186,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 test.ad.xiaomi.com
 0.0.0.0 new.api.ad.xiaomi.com
 # MI ALL END
+
+# SHAZAM.COM START
+0.0.0.0 beacon.shazam.com
+# SHAZAM.COM END
