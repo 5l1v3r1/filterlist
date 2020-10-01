@@ -429,3 +429,18 @@ ff02::3 ip6-allhosts
 # SHAZAM.COM START
 0.0.0.0 beacon.shazam.com
 # SHAZAM.COM END
+
+# SHELLJACKET.US START
+0.0.0.0 event.shelljacket.us
+# SHELLJACKET.US END
+
+# MICROSOFT ALL START
+0.0.0.0 ic3.events.data.microsoft.com
+0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 fs.microsoft.com
+0.0.0.0 events.data.microsoft.com
+# MICROSOFT ALL END
+
+# GOOGLE ALL START
+0.0.0.0 pagead.googlesyndication.com
+# GOOGLE ALL END
