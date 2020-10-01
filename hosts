@@ -440,6 +440,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 fs.microsoft.com
 0.0.0.0 events.data.microsoft.com
 0.0.0.0 in.appcenter.ms
+0.0.0.0 auto.au.download.windowsupdate.com.c.footprint.net
+0.0.0.0 go.microsoft.com
 # MICROSOFT ALL END
 
 # GOOGLE ALL START
@@ -454,14 +456,34 @@ ff02::3 ip6-allhosts
 0.0.0.0 alt5-mtalk.google.com
 0.0.0.0 alt6-mtalk.google.com
 0.0.0.0 alt7-mtalk.google.com
+0.0.0.0 beacons-handoff.gcp.gvt1.com
+0.0.0.0 beacons-handoff.gcp.gvt2.com
+0.0.0.0 beacons-handoff.gcp.gvt3.com
+0.0.0.0 beacons-handoff.gcp.gvt4.com
+0.0.0.0 beacons-handoff.gcp.gvt5.com
+0.0.0.0 beacons.gcp.gvt1.com
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 beacons.gcp.gvt3.com
+0.0.0.0 beacons.gcp.gvt4.com
+0.0.0.0 beacons.gcp.gvt5.com
+0.0.0.0 beacons.gvt1.com
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 beacons.gvt3.com
+0.0.0.0 beacons.gvt4.com
+0.0.0.0 beacons.gvt5.com
 0.0.0.0 alt8-mtalk.google.com
 0.0.0.0 alt9-mtalk.google.com
 0.0.0.0 alt10-mtalk.google.com
 0.0.0.0 alt11-mtalk.google.com
 0.0.0.0 alt12-mtalk.google.com
+0.0.0.0 2mdn.net
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 imasdk.googleapis.com
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 footprints-pa.googleapis.com
+0.0.0.0 doubleclick.net
 0.0.0.0 adservice.google.ac
 0.0.0.0 adservice.google.ad
 0.0.0.0 adservice.google.ae
@@ -657,8 +679,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservice.google.tt
 0.0.0.0 adservice.google.vg
 0.0.0.0 adservice.google.vu
+0.0.0.0 api.crashlytics.com
 0.0.0.0 adservice.google.ws
 0.0.0.0 adservice.l.google.com
+0.0.0.0 app-measurement.com
 0.0.0.0 adservices.google.com
 # GOOGLE ALL END
 
@@ -669,4 +693,6 @@ ff02::3 ip6-allhosts
 
 # FACEBOOK ALL START
 0.0.0.0 graph.facebook.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 pixel.facebook.com
 # FACEBOOK ALL END
