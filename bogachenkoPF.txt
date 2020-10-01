@@ -70,7 +70,6 @@ $$script[wildcard="__CF$cv$params"]
 ! CONDITIONS END
 
 ! WHITELIST START
-@@|http*:$important,object,app=org.fdroid.fdroid
 @@*$generichide,domain=keypro2.ru|dizibox.pw
 @@*$stealth,domain=aliexpress.com|aliexpress.ru|mycdn.me
 @@/^https?:\/\/10\.0\.[0-2]\.[0-5]{1,2}\//~third-party
@@ -646,8 +645,6 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /\/ads?[0-9]{1}\.php\?/$important
 /\?zone[-_]?id\=/$important
 |http*:$beacon,important
-|http*:$important,object,domain=~ru-mi.com
-|http*:$important,object-subrequest
 |http*:$important,ping
 |http*:$important,webrtc
 |http*:*/0pixel.php?$important
@@ -1132,3 +1129,4 @@ feurl.com#@#+js(aopr, jwplayer.utils.Timer)
 ||chicdn.net^$badfilter
 ||magiskroot.net^$badfilter
 google.com#@#.cu-container > div[class*="commercial-unit"]
+||liveinternet.ru^$badfilter
