@@ -380,9 +380,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixel.spotify.com
 # SPOTIFY.COM END
 
-# AVAST.COM START
+# AVAST ALL START
 0.0.0.0 analytics.ff.avast.com
-# AVAST.COM END
+0.0.0.0 avast.ru
+0.0.0.0 www.avast.ru
+0.0.0.0 avast.com
+0.0.0.0 www.avast.com
+# AVAST ALL END
 
 # VIDEOROLL.NET START
 0.0.0.0 videoroll.net
@@ -429,6 +433,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 test.ad.xiaomi.com
 0.0.0.0 new.api.ad.xiaomi.com
 0.0.0.0 api.sec.miui.com
+0.0.0.0 mazu.sec.miui.com
 # XIAOMI ALL END
 
 # SHAZAM.COM START
@@ -690,11 +695,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservice.l.google.com
 0.0.0.0 app-measurement.com
 0.0.0.0 adservices.google.com
+0.0.0.0 settings.crashlytics.com
 # GOOGLE ALL END
 
 # MOZILLA ALL START
 0.0.0.0 shavar.services.mozilla.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 detectportal.firefox.com
 # MOZILLA ALL END
 
 # FACEBOOK ALL START
@@ -703,6 +710,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixel.facebook.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 connect.facebook.net
+0.0.0.0 atdmt.com
 # FACEBOOK ALL END
 
 # MTS.RU START
@@ -712,3 +720,35 @@ ff02::3 ip6-allhosts
 # TNS-COUNTER.RU START
 0.0.0.0 www.tns-counter.ru
 # TNS-COUNTER.RU END
+
+# APPSFLYER.COM START
+0.0.0.0 events.appsflyer.com
+0.0.0.0 t.appsflyer.com
+# APPSFLYER.COM END
+
+# BRANCH.IO START
+0.0.0.0 api2.branch.io
+# BRANCH.IO END
+
+# FLURRY.COM START
+0.0.0.0 data.flurry.com
+# FLURRY.COM END
+
+# BIDMACHINE.IO START
+0.0.0.0 api-eu.bidmachine.io
+0.0.0.0 bidmachine.io
+# BIDMACHINE.IO END
+
+# APPBAQEND.COM START
+0.0.0.0 a.appbaqend.com
+0.0.0.0 www.appbaqend.com
+0.0.0.0 appbaqend.com
+# APPBAQEND.COM END
+
+# INMOBI.COM START
+0.0.0.0 in.api.glance.inmobi.com
+# INMOBI.COM END
+
+# QQ.COM START
+0.0.0.0 www.qq.com
+# QQ.COM END

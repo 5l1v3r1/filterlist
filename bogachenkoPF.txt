@@ -447,6 +447,8 @@ $$script[wildcard="__CF$cv$params"]
 ||stophateforprofit.org^$important
 ||thumbnails*.opera.com^$important
 ||uptolike.com^$important
+||applog.zaycev.net^$important
+||rttr2.zaycev.net^$important
 ||us-redir.opera.com^$important
 ||userlocation.googleapis.com^$important
 ||usocial.pro^$important
@@ -900,7 +902,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /[-._?&=#/]piwik[-.0-9_?&=#/]/$image,important,script
 /[-._?&=#/]pixel[-._?&=#/]/$image,important,script,subdocument,xmlhttprequest
 /[-._?&=#/][a-zA-Z]{8,}track(ers?|ing)[-.0-9_?&=#/]/$other,image,important,script,xmlhttprequest
-/[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$other,image,important,script,xmlhttprequest,domain=~fandom.com|~pochta.ru|~alipay.com
+/[-._?&=#/]track(ers?|ing)[-.0-9_?&=#/]/$other,image,important,script,xmlhttprequest,domain=~fandom.com|~pochta.ru|~alipay.com|~yandex.ru|~yandex.ua|~yandex.by
 /[-._?&=#/]vast[-.0-9_?&=#/]/$image,important,other,script,xmlhttprequest,domain=~twitch.tv|~github.com|~gitlab.com
 /\/ads\.html?/$important,subdocument,xmlhttprequest
 /\/ga[-._?&=#/][a-zA-Z]{5,}\.js/$important,other,script,third-party
