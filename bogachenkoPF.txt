@@ -717,10 +717,8 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||trackclick*.
 ||tracking*.
 ||undefined^
-||yandex.*/clck/$important
 ||yandex.*/geohelper/$important
 ||yandex.*/portal/$important
-||yandex.*/suggest/$important
 ||youtube.com/ptracking?$important
 ! OTHER END
 
