@@ -267,6 +267,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 yabs.yandex.by
 0.0.0.0 yabs.yandex.ru
 0.0.0.0 yabs.yandex.ua
+0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 startup.mobile.webvisor.com
+0.0.0.0 rosenberg.appmetrica.yandex.net
+0.0.0.0 report.appmetrica.yandex.net
 # YANDEX ALL END
 
 # MAIL.RU START
@@ -397,7 +401,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.kmplayer.com
 # PANDORA.TV END
 
-# MI ALL START
+# XIAOMI ALL START
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 cdn.ad.xiaomi.com
 0.0.0.0 e.ad.xiaomi.com
@@ -424,7 +428,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 test.ad.xiaomi.com
 0.0.0.0 new.api.ad.xiaomi.com
-# MI ALL END
+0.0.0.0 api.sec.miui.com
+# XIAOMI ALL END
 
 # SHAZAM.COM START
 0.0.0.0 beacon.shazam.com
@@ -471,6 +476,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 beacons.gvt3.com
 0.0.0.0 beacons.gvt4.com
 0.0.0.0 beacons.gvt5.com
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 alt8-mtalk.google.com
 0.0.0.0 alt9-mtalk.google.com
 0.0.0.0 alt10-mtalk.google.com
@@ -695,4 +701,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 graph.facebook.com
 0.0.0.0 ads.facebook.com
 0.0.0.0 pixel.facebook.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 connect.facebook.net
 # FACEBOOK ALL END
+
+# MTS.RU START
+0.0.0.0 static-marketolog.mts.ru
+# MTS.RU END
+
+# TNS-COUNTER.RU START
+0.0.0.0 www.tns-counter.ru
+# TNS-COUNTER.RU END
