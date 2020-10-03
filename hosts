@@ -489,6 +489,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 alt12-mtalk.google.com
 0.0.0.0 2mdn.net
 0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 android-safebrowsing.google.com
+0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 imasdk.googleapis.com
