@@ -35,38 +35,6 @@ $$script[src="https://www.googletagservices.com/"]
 @@/^https?:\/\/(www\.)?git(hub(usercontent)?|lab)\.[^\s]+[-._?&=#/](track(ers?|ing)|vast)[-.0-9_?&=#/]/$important,other,xmlhttprequest
 @@/ttvnw.net[^\s]+preroll[-._?&=#/]/$important
 !#endif
-
-!#if env_firefox
-!#if !ext_ublock
-!#if adguard
-$$script[data-cfasync="false"][src="&zoneid="]
-$$script[data-cfasync="false"][src="/ntfc.php?"]
-$$script[data-cfasync="false"][src="?zoneid="]
-$$script[data-cfasync="false"][tag-content="PopAds%20CGAPIL%20"]
-$$script[data-cfasync="false"][tag-content="Privet darkv"]
-$$script[data-cfasync="false"][wildcard="*Math*String.fromCharCode*"]
-$$script[data-cfasync="false"][wildcard="*['push']*['shift']*decodeURIComponent*"]
-$$script[tag-content="absda"]
-$$script[tag-content="adBlockDetected"]
-$$script[tag-content="adcashMacros"]
-$$script[tag-content="admiral-engaged"]
-$$script[tag-content="anOptions"]
-$$script[tag-content="ExoLoader"]
-$$script[tag-content="GoogleAnalyticsObject"]
-$$script[tag-content="LieDetector"]
-$$script[tag-content="OneSignal"]
-$$script[tag-content="popMagic"]
-$$script[tag-content="RTCPeerConnection"]
-$$script[tag-content="window.Fingerprint2"]
-$$script[tag-content="zfgloaded"]
-$$script[tag-content="zoneNativeSett"]
-$$script[tag-content="_pop.push"]
-$$script[wildcard="*eval*babasbmsgx*"]
-$$script[wildcard="*googletagmanager*GTM-*"]
-$$script[wildcard="__CF$cv$params"]
-!#endif
-!#endif
-!#endif
 ! CONDITIONS END
 
 ! WHITELIST START
@@ -79,24 +47,16 @@ $$script[wildcard="__CF$cv$params"]
 @@/^https?:\/\/localhost\//
 @@/^https?:\/\/rt\//
 @@/^https?:\/\/\[::1]\//
-@@||pinterest.global.map.fastly.net^$third-party
-@@||pinterest.map.fastly.net^$third-party
-@@||*-instagram.*.facebook.com^$third-party
 @@||api.adguard.com^
 @@||privateinternetaccess.com^$xmlhttprequest,domain=dnsleak.com
 @@||connectivitycheck.gstatic.com^$important
-@@||facebook.com/plugins/video.php$subdocument
 @@||favicon.yandex.net^$image
 @@||github.com^$xmlhttprequest,~third-party
 @@||gstatic.com/recaptcha/$script
 @@||injections.adguard.org^
 @@||local.adguard.org^
-@@||mail.ru/video/embed/$subdocument,xmlhttprequest
-@@||ok.ru/videoembed/$subdocument
 @@||safebrowsing.clients.google.com^$document
-@@||vk.com/video_ext.php$subdocument
 @@||fonts.gstatic.com^
-@@||instagram.*.facebook.com^$third-party
 ! WHITELIST END
 
 ! Domain Name System (DNS) START
@@ -339,10 +299,6 @@ $$script[wildcard="__CF$cv$params"]
 
 ! DOMAIN START
 ||gstaticadssl.l.google.com^
-/^https?:\/\/(www\.)?facebook\.com\/(?!plugins\/video\.php)/$important,third-party,domain=~webcache.googleusercontent.com
-/^https?:\/\/(.*\.)?mail\.ru\/(?!video\/embed)/$important,third-party,domain=~account.mail.ru|~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by,domain=~webcache.googleusercontent.com
-/^https?:\/\/ok\.ru\/(?!videoembed)/$important,third-party,domain=~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by
-/^https?:\/\/vk\.com\/(?!video\_ext\.php)/$important,third-party,domain=~webcache.googleusercontent.com|~yandex.ru|~yandex.ua|~yandex.by|~yandexwebcache.net
 ||2o7.net^$third-party
 /^a\.[a-z0-9]{40,}\.com$/$important
 /^https?:\/\/([a-s1-3]{2}|update)\.torrentstream\.(org|info|net)/$important
@@ -737,7 +693,6 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||blocked.mts.ru^$document,important
 ||browser.yandex.ru^$~document,important
 ||clck.ru^$document,important
-||click.$document,important,domain=~aliexpress.com|~aliexpress.ru|~rt.ru
 ||cs.fail^$document,important
 ||csgo.band^$document,important
 ||csgorun.org^$document,importants
@@ -886,10 +841,6 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||youtube.com/get_midroll_info?$important,xmlhttprequest
 ||video.google.com/api/stats/$important,xmlhttprequest
 ! XMLHTTPREQUEST END
-
-! WEBSOCKET START
-*$websocket,domain=hqq.tv
-! WEBSOCKET END
 
 ! COMBINED START
 /[-._?&=#/](468[_x-]60|240[_x-]400|600[_x-]200|728[_x-]90|300[_x-]250|336[_x-]280)[-._?&=#/]/$image,subdocument,important
