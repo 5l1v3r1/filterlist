@@ -1,9 +1,9 @@
 # Title: bogachenko's DNS Filter
 # Description: Yet another anti-bullshit filter list.
-# Last modified: 2020-09-23 10:36:17
-# Version: 20200923103617
+# Last modified: 2020-10-06 17:25:23
+# Version: 20201006172523
 # Expires: 3 hours
-# Number of filters: 346
+# Number of filters: 348
 # RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/hosts
 # Homepage: https://github.com/bogachenko/filterlist/
 # Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -31,6 +31,7 @@
 ||adblade.com^
 ||adbrite.com^
 ||adbureau.net^
+||adcel.co^
 ||adchemy.com^
 ||adcolony.com^
 ||adeventtracker.spotify.com^
@@ -226,6 +227,7 @@
 ||logger.instagram.com^
 ||mail-ads.google.com^
 ||matheranalytics.com^
+||mazu.sec.miui.com^
 ||mc.webvisor.*^
 ||mc.yandex.*^
 ||mc-portal.mail.ru^
