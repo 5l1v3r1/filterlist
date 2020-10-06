@@ -18,6 +18,7 @@
 ||adblade.com^
 ||adbrite.com^
 ||adbureau.net^
+||adcel.co^
 ||adchemy.com^
 ||adcolony.com^
 ||adeventtracker.spotify.com^
@@ -211,6 +212,7 @@
 ||logger.instagram.com^
 ||mail-ads.google.com^
 ||matheranalytics.com^
+||mazu.sec.miui.com^
 ||mc-portal.mail.ru^
 ||mc.webvisor.*^
 ||mc.yandex.*^
