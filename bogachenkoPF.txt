@@ -670,6 +670,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 |http*:*/Yandex.exe?$important
 |http*:*/YandexPackSetup.exe|$important
 |http*:*?type=pageview&$important
+|http*:*/getAds|$important
 ||ad.
 ||ads-sdk.
 ||ads.
