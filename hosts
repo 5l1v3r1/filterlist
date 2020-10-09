@@ -243,6 +243,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 appmetrica.yandex.net
 0.0.0.0 awaps.yandex.net
 0.0.0.0 awaps.yandex.ru
+0.0.0.0 report-1.appmetrica.webvisor.com
 0.0.0.0 awsync.yandex.ru
 0.0.0.0 banners-slb.mobile.yandex.net
 0.0.0.0 banners.mobile.yandex.net
@@ -452,6 +453,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fs.microsoft.com
 0.0.0.0 events.data.microsoft.com
 0.0.0.0 in.appcenter.ms
+0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 auto.au.download.windowsupdate.com.c.footprint.net
 0.0.0.0 go.microsoft.com
 # MICROSOFT ALL END
@@ -465,6 +467,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 alt2-mtalk.google.com
 0.0.0.0 alt3-mtalk.google.com
 0.0.0.0 alt4-mtalk.google.com
+0.0.0.0 www.googletagmanager.com
 0.0.0.0 alt5-mtalk.google.com
 0.0.0.0 alt6-mtalk.google.com
 0.0.0.0 alt7-mtalk.google.com
@@ -933,6 +936,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 events.appsflyer.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 launches.appsflyer.com
+0.0.0.0 appsflyer.com
+0.0.0.0 track.appsflyer.com
+0.0.0.0 app.appsflyer.com
+0.0.0.0 api.appsflyer.com
 # APPSFLYER.COM END
 
 # BRANCH.IO START
