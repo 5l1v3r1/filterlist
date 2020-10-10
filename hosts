@@ -326,6 +326,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 desktop-netinstaller-sub.osp.opera.software
 0.0.0.0 exchange.opera.com
 0.0.0.0 features.opera-api.com
+0.0.0.0 api-a.op-mobile.opera.com
 0.0.0.0 geo.opera.com
 0.0.0.0 get.geo.opera.com
 0.0.0.0 gx-corner.opera.com
@@ -510,6 +511,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 id.google.com
 0.0.0.0 id.google.com.af
 0.0.0.0 id.google.com.ag
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 id.google.com.ai
 0.0.0.0 id.google.com.ar
 0.0.0.0 id.google.com.au

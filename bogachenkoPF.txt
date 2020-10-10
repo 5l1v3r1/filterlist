@@ -357,7 +357,7 @@ $$script[src="https://www.googletagservices.com/"]
 ||graph.fbpigeon.com^$important
 ||graph.instagram.com^$important
 ||gx-corner.opera.com^$important
-||gx-corner.route*.opera.com^$importantx
+||gx-corner.route*.opera.com^$important
 ||id.google.*^$important
 ||id.l.google.com^$important
 ||imasdk.googleapis.com^$important
@@ -764,6 +764,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 /^https?:\/\/[a-z]{6,16}\.[a-z]+\/[0-9]{1}\?[a-z]{1}\=[0-9]{7}$/$important,script
 /^https?:\/\/[a-z]{6,16}\.[a-z]+\/[a-zA-Z0-9]{10,23}\/[0-9]{4,5}$/$important,script,third-party
 /^https?:\/\/[a-z]{6}\..*\/[a-z0-9]{3,30}\/[a-z0-9]{5,}\.php$/$important,script,third-party
+/^https?:\/\/(www\.)?[a-z]{7,15}\.[a-z]+\/[a-z]{1,6}\/[a-zA-Z0-9]{8}\.js$/$third-party,script,important
 /^https?:\/\/[a-z]{10,11}\.com\/[0-9a-f]{5}\.js$/$important,script,third-party
 /^https?:\/\/[^/]+/[a-z0-9]{15,}(\?hope=.*)?$/$important,script
 /^https?:\/\/[^\s]+\/(([_a-z-]{3,12})?[-._?&=#/])?sw\.js/$important,script
@@ -1086,3 +1087,4 @@ google.com#@#.cu-container > div[class*="commercial-unit"]
 ||freebitco.in^$badfilter
 ||captchas.freebitco.in^$badfilter
 ||static6.freebitco.in^$badfilter
+twitch.tv##+js(twitch-ads.js)
