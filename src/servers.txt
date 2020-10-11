@@ -2848,6 +2848,7 @@
 ||carscannon.com^$important
 ||carsxardivaf.com^$important
 ||casalemedia.com^$important
+||cash-ads.com^$important
 ||cashbeet.com^$important
 ||cashbigo.com^$important
 ||casinohacksforyou.com^$important
@@ -4691,6 +4692,7 @@
 ||etoileironton.com^$important
 ||etprpfuw.bid^$important
 ||etpsn.com^$important
+||etqigt.com^$important
 ||etrack.bz^$important
 ||etreflased.info^$important
 ||etsmercisely.site^$important
@@ -5556,6 +5558,7 @@
 ||g3j2wzmon8b.com^$important
 ||g4058683381.com^$important
 ||g4p1gtll.com^$important
+||g52bxi1v1w.com^$important
 ||g5fzq2l.com^$important
 ||g6zkzy0g2g.com^$important
 ||g8cp5djk1j0r.com^$important
@@ -14066,6 +14069,7 @@
 ||superonclick.com^$important
 ||supersalegiveaways.club^$important
 ||supersonicads.com^$important
+||supertopclick.club^$important
 ||supertrackingz.com^$important
 ||supplysummer.com^$important
 ||suqufucjzffhay.bid^$important
