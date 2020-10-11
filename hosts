@@ -164,7 +164,6 @@
 ||esomniture.com^
 ||et.nytimes.com^
 ||event.shelljacket.us^
-||events.data.microsoft.com^
 ||external-promo-metrics.yandex.net^
 ||fastclick.net^
 ||feedback.microsoft-hohm.com^
@@ -290,10 +289,6 @@
 ||scribe.twitter.com^
 ||sentry.io^
 ||serving-sys.com^
-||settings.data.glbdns2.microsoft.com^
-||settings.data.microsoft.com^
-||settings-sandbox.data.microsoft.com^
-||settings-win.data.microsoft.com^
 ||shavar.services.mozilla.com^
 ||shepherd.sb.avast.com^
 ||smartadserver.com^
@@ -340,12 +335,9 @@
 ||voodoo.io^
 ||voodoo-ads.io^
 ||voodoo-tech.io^
-||vortex.data.glbdns2.microsoft.com^
-||vortex.data.microsoft.com.akadns.net^
-||vortex.data.microsoft.com^
-||vortex-sandbox.data.microsoft.com^
-||vortex-win.data.microsoft.com^
-||watson.data.microsoft.com.akadns.net^
+||data.glbdns2.microsoft.com^
+||data.microsoft.com^
+||data.microsoft.com.akadns.net^
 ||watson.live.com^
 ||watson.microsoft.com^
 ||weborama.fr^
