@@ -7,9 +7,9 @@
 # Main rules
 
 0.0.0.0 0.0.0.0
-127.0.0.1 local
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
+0.0.0.0 local
+0.0.0.0 localhost
+0.0.0.0 localhost.localdomain
 255.255.255.255 broadcasthost
 ::1 ip6-localhost
 ::1 ip6-loopback
@@ -449,14 +449,49 @@ ff02::3 ip6-allhosts
 # SHELLJACKET.US END
 
 # MICROSOFT ALL START
-0.0.0.0 ic3.events.data.microsoft.com
-0.0.0.0 browser.pipe.aria.microsoft.com
-0.0.0.0 fs.microsoft.com
-0.0.0.0 events.data.microsoft.com
-0.0.0.0 in.appcenter.ms
-0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 advertising.microsoft.com
+0.0.0.0 analytics.microsoft.com
 0.0.0.0 auto.au.download.windowsupdate.com.c.footprint.net
+0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 c.live.com
+0.0.0.0 c.microsoft.com
+0.0.0.0 c.msn.com
+0.0.0.0 c1.microsoft.com
+0.0.0.0 choice.microsoft.com
+0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
+0.0.0.0 df.telemetry.microsoft.com
+0.0.0.0 events.data.microsoft.com
+0.0.0.0 footprint.net
+0.0.0.0 fs.microsoft.com
 0.0.0.0 go.microsoft.com
+0.0.0.0 ic3.events.data.microsoft.com
+0.0.0.0 in.appcenter.ms
+0.0.0.0 logging.windows.microsoft.com
+0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
+0.0.0.0 rad.microsoft.com
+0.0.0.0 reports.wes.df.telemetry.microsoft.com
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 services.wes.df.telemetry.microsoft.com
+0.0.0.0 settings-sandbox.data.microsoft.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 spynet2.microsoft.com
+0.0.0.0 spynettest.microsoft.com
+0.0.0.0 sqm.df.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 telecommand.telemetry.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
+0.0.0.0 telemetry.microsoft.com
+0.0.0.0 telemetry.urs.microsoft.com
+0.0.0.0 vortex-sandbox.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 watson.microsoft.com
+0.0.0.0 watson.ppe.telemetry.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
+0.0.0.0 wes.df.telemetry.microsoft.com
 # MICROSOFT ALL END
 
 # GOOGLE ALL START
@@ -918,12 +953,46 @@ ff02::3 ip6-allhosts
 # MOZILLA ALL END
 
 # FACEBOOK ALL START
-0.0.0.0 graph.facebook.com
+0.0.0.0 adecn-w.atdmt.com
 0.0.0.0 ads.facebook.com
-0.0.0.0 pixel.facebook.com
-0.0.0.0 graph.instagram.com
-0.0.0.0 connect.facebook.net
+0.0.0.0 aidps.atdmt.com
+0.0.0.0 analytics.atdmt.com
+0.0.0.0 api.atdmt.com
 0.0.0.0 atdmt.com
+0.0.0.0 att.atdmt.com
+0.0.0.0 c.atdmt.com
+0.0.0.0 c1.atdmt.com
+0.0.0.0 cdn.atdmt.com
+0.0.0.0 click.atdmt.com
+0.0.0.0 clk.atdmt.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 cs.atdmt.com
+0.0.0.0 cx.atdmt.com
+0.0.0.0 ec.atdmt.com
+0.0.0.0 flex.atdmt.com
+0.0.0.0 free.atdmt.com
+0.0.0.0 g.atdmt.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 h.atdmt.com
+0.0.0.0 iact.atdmt.com
+0.0.0.0 image.atdmt.com
+0.0.0.0 img.atdmt.com
+0.0.0.0 jact.atdmt.com
+0.0.0.0 lab.atdmt.com
+0.0.0.0 ll.atdmt.com
+0.0.0.0 main.atdmt.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 rmd.atdmt.com
+0.0.0.0 sact.atdmt.com
+0.0.0.0 spd.atdmt.com
+0.0.0.0 spe.atdmt.com
+0.0.0.0 srch.atdmt.com
+0.0.0.0 switch.atdmt.com
+0.0.0.0 t.atdmt.com
+0.0.0.0 vid.atdmt.com
+0.0.0.0 view.atdmt.com
+0.0.0.0 www.atdmt.com
 # FACEBOOK ALL END
 
 # MTS.RU START
@@ -937,6 +1006,8 @@ ff02::3 ip6-allhosts
 # APPSFLYER.COM START
 0.0.0.0 events.appsflyer.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 conversions.appsflyer.com
+0.0.0.0 inapps.appsflyer.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 appsflyer.com
 0.0.0.0 track.appsflyer.com
