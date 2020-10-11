@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-10-10 11:40:05
-! Version: 20201010114005
+! Last modified: 2020-10-11 20:23:53
+! Version: 20201011202353
 ! Expires: 3 hours
-! Number of filters: 18398
+! Number of filters: 18402
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -2894,6 +2894,7 @@
 ||carscannon.com^$important
 ||carsxardivaf.com^$important
 ||casalemedia.com^$important
+||cash-ads.com^$important
 ||cashbeet.com^$important
 ||cashbigo.com^$important
 ||casinohacksforyou.com^$important
@@ -4737,6 +4738,7 @@
 ||etoileironton.com^$important
 ||etprpfuw.bid^$important
 ||etpsn.com^$important
+||etqigt.com^$important
 ||etrack.bz^$important
 ||etreflased.info^$important
 ||etsmercisely.site^$important
@@ -5602,6 +5604,7 @@
 ||g3j2wzmon8b.com^$important
 ||g4058683381.com^$important
 ||g4p1gtll.com^$important
+||g52bxi1v1w.com^$important
 ||g5fzq2l.com^$important
 ||g6zkzy0g2g.com^$important
 ||g8cp5djk1j0r.com^$important
@@ -14112,6 +14115,7 @@
 ||superonclick.com^$important
 ||supersalegiveaways.club^$important
 ||supersonicads.com^$important
+||supertopclick.club^$important
 ||supertrackingz.com^$important
 ||supplysummer.com^$important
 ||suqufucjzffhay.bid^$important
