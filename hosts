@@ -1,9 +1,9 @@
 # Title: bogachenko's DNS Filter
 # Description: Yet another anti-bullshit filter list.
-# Last modified: 2020-10-14 19:22:27
-# Version: 20201014192227
+# Last modified: 2020-10-14 19:27:05
+# Version: 20201014192705
 # Expires: 3 hours
-# Number of filters: 343
+# Number of filters: 344
 # RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/hosts
 # Homepage: https://github.com/bogachenko/filterlist/
 # Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -149,6 +149,7 @@
 ||crashlytics.l.google.com^
 ||crowdscience.com^
 ||d.ghostery.com^
+||data.glbdns2.microsoft.com^
 ||data.microsoft.com.akadns.net^
 ||data.microsoft.com^
 ||dc.services.visualstudio.com^
@@ -248,6 +249,7 @@
 ||mobile.pipe.aria.microsoft.com^
 ||mradx.net^
 ||msads.net^
+||msitadfs.glbdns2.microsoft.com^
 ||my.com^
 ||newlog.overwolf.com^
 ||news-clck.yandex.ru^
@@ -293,7 +295,6 @@
 ||scribe.twitter.com^
 ||sentry.io^
 ||serving-sys.com^
-||settings.data.glbdns2.microsoft.com^
 ||shavar.services.mozilla.com^
 ||shepherd.sb.avast.com^
 ||smartadserver.com^
@@ -322,6 +323,7 @@
 ||telemetry.appex.bing.net^
 ||telemetry.appex.search.prod.ms.akadns.net^
 ||telemetry.gfe.nvidia.com^
+||telemetry.microsoft.com.nsatc.net^
 ||telemetry.microsoft.com^
 ||telemetry.mozilla.org^
 ||telemetry.swiftkey.com^
@@ -340,7 +342,6 @@
 ||voodoo.io^
 ||voodoo-ads.io^
 ||voodoo-tech.io^
-||vortex.data.glbdns2.microsoft.com^
 ||watson.live.com^
 ||watson.microsoft.com^
 ||weborama.fr^
