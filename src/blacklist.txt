@@ -134,8 +134,11 @@
 ||crashlytics.l.google.com^
 ||crowdscience.com^
 ||d.ghostery.com^
+||data.microsoft.com.akadns.net^
+||data.microsoft.com^
 ||dc-int.services.visualstudio.com^
 ||dc.services.visualstudio.com^
+||dds.microsoft.com^
 ||decdna.net^
 ||decideinteractive.com^
 ||detectportal.firefox.*^
@@ -149,7 +152,6 @@
 ||esomniture.com^
 ||et.nytimes.com^
 ||event.shelljacket.us^
-||events.data.microsoft.com^
 ||external-promo-metrics.yandex.net^
 ||fastclick.net^
 ||feedback.microsoft-hohm.com^
@@ -165,6 +167,7 @@
 ||footprintpredict.com^
 ||foxnetworks.com^
 ||fundingchoicesmessages.google.com^
+||g.live.com^
 ||g.msn.com^
 ||geo.opera.com^
 ||gew-spclient.spotify.com^
@@ -275,10 +278,7 @@
 ||scribe.twitter.com^
 ||sentry.io^
 ||serving-sys.com^
-||settings-sandbox.data.microsoft.com^
-||settings-win.data.microsoft.com^
 ||settings.data.glbdns2.microsoft.com^
-||settings.data.microsoft.com^
 ||shavar.services.mozilla.com^
 ||shepherd.sb.avast.com^
 ||smartadserver.com^
@@ -325,12 +325,7 @@
 ||voodoo-ads.io^
 ||voodoo-tech.io^
 ||voodoo.io^
-||vortex-sandbox.data.microsoft.com^
-||vortex-win.data.microsoft.com^
 ||vortex.data.glbdns2.microsoft.com^
-||vortex.data.microsoft.com.akadns.net^
-||vortex.data.microsoft.com^
-||watson.data.microsoft.com.akadns.net^
 ||watson.live.com^
 ||watson.microsoft.com^
 ||weborama.fr^
