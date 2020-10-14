@@ -134,6 +134,7 @@
 ||crashlytics.l.google.com^
 ||crowdscience.com^
 ||d.ghostery.com^
+||data.glbdns2.microsoft.com^
 ||data.microsoft.com.akadns.net^
 ||data.microsoft.com^
 ||dc-int.services.visualstudio.com^
@@ -233,6 +234,7 @@
 ||mobile.pipe.aria.microsoft.com^
 ||mradx.net^
 ||msads.net^
+||msitadfs.glbdns2.microsoft.com^
 ||my.com^
 ||newlog.overwolf.com^
 ||news-clck.yandex.ru^
@@ -278,7 +280,6 @@
 ||scribe.twitter.com^
 ||sentry.io^
 ||serving-sys.com^
-||settings.data.glbdns2.microsoft.com^
 ||shavar.services.mozilla.com^
 ||shepherd.sb.avast.com^
 ||smartadserver.com^
@@ -307,6 +308,7 @@
 ||telemetry.appex.bing.net^
 ||telemetry.appex.search.prod.ms.akadns.net^
 ||telemetry.gfe.nvidia.com^
+||telemetry.microsoft.com.nsatc.net^
 ||telemetry.microsoft.com^
 ||telemetry.mozilla.org^
 ||telemetry.swiftkey.com^
@@ -325,7 +327,6 @@
 ||voodoo-ads.io^
 ||voodoo-tech.io^
 ||voodoo.io^
-||vortex.data.glbdns2.microsoft.com^
 ||watson.live.com^
 ||watson.microsoft.com^
 ||weborama.fr^
