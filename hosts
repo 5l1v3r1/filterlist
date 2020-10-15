@@ -1069,9 +1069,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 adjust.net.in
 0.0.0.0 app.adjust.world
 0.0.0.0 adjust.world
+0.0.0.0 adjust.io
+0.0.0.0 app.adjust.io
 # ADJUST ALL END
 
 # SCORECARDRESEARCH.COM START
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 scorecardresearch.com
+0.0.0.0 b.scorecardresearch.com
 # SCORECARDRESEARCH.COM END
+
+# ONESIGNAL.COM START
+0.0.0.0 onesignal.com
+0.0.0.0 cdn.onesignal.com
+# ONESIGNAL.COM END
