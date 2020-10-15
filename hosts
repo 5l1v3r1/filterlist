@@ -1062,7 +1062,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 rtb.adcel.co
 # ADCEL.CO END
 
-# ADJUST.COM START
+# ADJUST ALL START
 0.0.0.0 app.adjust.com
 0.0.0.0 adjust.com
-# ADJUST.COM END
+0.0.0.0 app.adjust.net.in
+0.0.0.0 adjust.net.in
+0.0.0.0 app.adjust.world
+0.0.0.0 adjust.world
+# ADJUST ALL END
+
+# SCORECARDRESEARCH.COM START
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 scorecardresearch.com
+# SCORECARDRESEARCH.COM END
