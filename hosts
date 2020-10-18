@@ -1,9 +1,9 @@
 # Title: bogachenko's DNS Filter
 # Description: Yet another anti-bullshit filter list.
-# Last modified: 2020-10-14 19:27:05
-# Version: 20201014192705
+# Last modified: 2020-10-19 01:46:50
+# Version: 20201019014650
 # Expires: 3 hours
-# Number of filters: 344
+# Number of filters: 346
 # RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/hosts
 # Homepage: https://github.com/bogachenko/filterlist/
 # Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -37,6 +37,7 @@
 ||adeventtracker.spotify.com^
 ||adfox.ru^
 ||adfox.yandex.ru^
+||adjust.*^
 ||adjust.com^
 ||admeld.com^
 ||admob.com^
@@ -114,6 +115,7 @@
 ||beacons-*.gvt*.com^
 ||bench.utorrent.com^
 ||b-error.facebook.com^
+||bestcpmnetwork.com^
 ||bidmachine.io^
 ||bizographics.com^
 ||bounceexchange.com^

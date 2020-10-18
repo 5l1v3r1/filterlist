@@ -1,9 +1,9 @@
 ! Title: bogachenko's Filter List
 ! Description: Yet another anti-bullshit filter list.
-! Last modified: 2020-10-14 19:27:05
-! Version: 20201014192705
+! Last modified: 2020-10-19 01:46:50
+! Version: 20201019014650
 ! Expires: 3 hours
-! Number of filters: 18402
+! Number of filters: 18405
 ! RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
 ! Homepage: https://github.com/bogachenko/filterlist/
 ! Licence: https://raw.githubusercontent.com/bogachenko/filterlist/master/LICENSE.md
@@ -1466,6 +1466,7 @@
 ||ad-vice.biz^$important
 ||advideo.ru^$important
 ||advinci.co^$important
+||advinci.life^$important
 ||advmaiotg.com^$important
 ||advmaker.su^$important
 ||advmusic.net^$important
@@ -1695,6 +1696,7 @@
 ||allmyverygreatlife.com^$important
 ||allnvbtrtpku.com^$important
 ||allowmailbox.com^$important
+||allroll.biz^$important
 ||allstat-pp.ru^$important
 ||allsubscribes.com^$important
 ||allycollegedstrie.info^$important
@@ -2311,6 +2313,7 @@
 ||best2019-games-web1.com^$important
 ||bestboundary.com^$important
 ||bestcoinsignals.com^$important
+||bestcpmnetwork.com^$important
 ||bestdoctorstore.com^$important
 ||bestfreesite2contents.info^$important
 ||bestgadgetoffers.icu^$important
