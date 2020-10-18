@@ -24,6 +24,7 @@
 ||adeventtracker.spotify.com^
 ||adfox.ru^
 ||adfox.yandex.ru^
+||adjust.*^
 ||adjust.com^
 ||admeld.com^
 ||admob.com^
@@ -101,6 +102,7 @@
 ||beacons*.gvt*.com^
 ||beacons-*.gvt*.com^
 ||bench.utorrent.com^
+||bestcpmnetwork.com^
 ||bidmachine.io^
 ||bizographics.com^
 ||bounceexchange.com^

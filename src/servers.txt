@@ -1422,6 +1422,7 @@
 ||advg.agency^$important
 ||advideo.ru^$important
 ||advinci.co^$important
+||advinci.life^$important
 ||advmaiotg.com^$important
 ||advmaker.su^$important
 ||advmusic.net^$important
@@ -1651,6 +1652,7 @@
 ||allmyverygreatlife.com^$important
 ||allnvbtrtpku.com^$important
 ||allowmailbox.com^$important
+||allroll.biz^$important
 ||allstat-pp.ru^$important
 ||allsubscribes.com^$important
 ||allycollegedstrie.info^$important
@@ -2265,6 +2267,7 @@
 ||best2019games.com^$important
 ||bestboundary.com^$important
 ||bestcoinsignals.com^$important
+||bestcpmnetwork.com^$important
 ||bestdoctorstore.com^$important
 ||bestfreesite2contents.info^$important
 ||bestgadgetoffers.icu^$important
