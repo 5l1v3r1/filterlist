@@ -429,6 +429,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 ad.mi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 api.collect.data.intl.miui.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 tracking.rus.miui.com
 0.0.0.0 ad.xiaomi.com
@@ -916,11 +917,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservice.google.pt
 0.0.0.0 adservice.google.ro
 0.0.0.0 adservice.google.rs
+0.0.0.0 googletagservices.com
 0.0.0.0 adservice.google.ru
 0.0.0.0 adservice.google.rw
 0.0.0.0 adservice.google.sc
 0.0.0.0 adservice.google.se
 0.0.0.0 adservice.google.sh
+0.0.0.0 static.doubleclick.net
 0.0.0.0 adservice.google.si
 0.0.0.0 adservice.google.sk
 0.0.0.0 adservice.google.sm
