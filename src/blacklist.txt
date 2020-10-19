@@ -25,7 +25,6 @@
 ||adfox.ru^
 ||adfox.yandex.ru^
 ||adjust.*^
-||adjust.com^
 ||admeld.com^
 ||admob.com^
 ||admob.xiaomi.com^
@@ -129,6 +128,7 @@
 ||client.svd-cdn.com^
 ||cmcore.com^
 ||cmp-cdn.ghostery.com^
+||collect.*.miui.com^
 ||collector-hpn.ghostery.net^
 ||countess.twitch.tv^
 ||crashdump.spotify.com^

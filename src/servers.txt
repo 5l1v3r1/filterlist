@@ -1369,6 +1369,7 @@
 ||adservme.com^$important
 ||adshost.site^$important
 ||adskeeper.co.uk^$important
+||adskeeper.com^$important
 ||adslop.com^$important
 ||adsnw.net^$important
 ||adsonar.com^$important
@@ -8533,6 +8534,7 @@
 ||liveadvert.com^$important
 ||livelumber.com^$important
 ||livelyoffers.club^$important
+||liveperson.net^$important
 ||livestatsnet.services^$important
 ||livetex.ru^$important
 ||livxcgmpvz.bid^$important
@@ -10179,6 +10181,7 @@
 ||ndqvlall.com^$important
 ||ndqwtlseuqjbc.com^$important
 ||ndricshoweverau.info^$important
+||ndroip.com^$important
 ||ndsinternanhono.info^$important
 ||ndtlcaudedxz.com^$important
 ||ndxidnvvyvwx.com^$important
@@ -12064,6 +12067,7 @@
 ||purch.com^$important
 ||puserving.com^$important
 ||push-ad.com^$important
+||push-free.com^$important
 ||push-me-down.com^$important
 ||push-note.com^$important
 ||push-notifs.com^$important
@@ -13016,6 +13020,7 @@
 ||rkkneuzkd.bid^$important
 ||rkktwxuqu.bid^$important
 ||rklluqchluxg.com^$important
+||rkomf.com^$important
 ||rkueifizvmwbi.com^$important
 ||rkwpgdnlwgg.bid^$important
 ||rlaiomvkwz.com^$important
