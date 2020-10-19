@@ -1,7 +1,7 @@
 # Title: bogachenko's DNS Filter
 # Description: Yet another anti-bullshit filter list.
-# Last modified: 2020-10-19 01:46:50
-# Version: 20201019014650
+# Last modified: 2020-10-19 23:22:09
+# Version: 20201019232209
 # Expires: 3 hours
 # Number of filters: 346
 # RAW: https://raw.githubusercontent.com/bogachenko/filterlist/master/hosts
@@ -38,7 +38,6 @@
 ||adfox.ru^
 ||adfox.yandex.ru^
 ||adjust.*^
-||adjust.com^
 ||admeld.com^
 ||admob.com^
 ||admob.xiaomi.com^
@@ -144,6 +143,7 @@
 ||client-event-reporter.twitch.tv^
 ||cmcore.com^
 ||cmp-cdn.ghostery.com^
+||collect.*.miui.com^
 ||collector-hpn.ghostery.net^
 ||countess.twitch.tv^
 ||crashdump.spotify.com^
