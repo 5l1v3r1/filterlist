@@ -615,7 +615,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 |http*:*/generate_204$important
 |http*:*/ljcounter/$important
 |http*:*/ljcounter?$important
-|http*:*/log/$important
+|http*:*/log/$important,domain=~aliexpress.com
 |http*:*/log?$important
 |http*:*/pagead/$important
 |http*:*/redirect?feed=$important
@@ -702,6 +702,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 ||krasava.bet^$document,important
 ||cooldeal.by^$document,important
 ||goodwin-shop.com^$document,important
+/^https?:\/\/[_A-Za-z.-]+\/\?z$/$important,document
 ||easymoney.games^$document,important
 ||epulze.com^$document,important
 ||parimatch.com^$important
@@ -795,7 +796,7 @@ youtube.com##:xpath(//div[@class='ytp-button ytp-paid-content-overlay-text'])
 |http*:*/vinos.js$important,script
 |http*:*/wl-http.js$important,script
 |http*:*/wl.js$important,script
-/\/wp\-content\/plugins\/add\-to\-any\//$script,important
+/\.[a-z]+\/\?pu\=/$script,third-party,important
 ||amazonaws.com/ki.js/$important,script
 ||cdn.jsdelivr.net/npm/yandex-metrica-watch/$important,script
 ||gstatic.com/firebasejs/*/firebase-analytics.js|$important,script
